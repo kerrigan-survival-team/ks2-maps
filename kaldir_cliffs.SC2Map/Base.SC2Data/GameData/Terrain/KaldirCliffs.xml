@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CTerrain id="TerrainType">
+        <EditorCategories value="Climate:Ice"/>
+        <Lighting value="IceWorld"/>
+        <LoadingScreen value="Assets\Textures\UI_HotS_Loading_PlanetViewKaldir.dds"/>
+        <TextureProp value="iceworld"/>
+        <Ambience value="Ambience_IceWorld"/>
+        <ReverbAmbient value="BetaVerb"/>
+        <BlendTextures value="IceWorldEx2_1"/>
+        <BlendTextures value="IceWorldEx2_2"/>
+        <BlendTextures value="IceWorldEx2_3"/>
+        <BlendTextures value="IceWorldEx2_4"/>
+        <BlendTextures value="IceWorldEx2_5"/>
+        <BlendTextures value="IceWorldEx2_6"/>
+        <BlendTextures value="IceWorldEx2_7"/>
+        <BlendTextures value="IceWorldEx2_8"/>
+        <HardTiles value="MarSaraTile"/>
+        <CliffSets value="IceWorldCliff0"/>
+        <CliffSets value="IceWorldCliff1"/>
+        <FogEnabled value="1"/>
+        <FogColor value="255,121,214,244"/>
+        <FogDensity value="0.100000"/>
+        <FogFalloff value="0.200000"/>
+        <FogStartingHeight value="-2.000000"/>
+        <CreepEdgeNormalMap value="Assets\Textures\creepedgenormal_ex2.dds"/>
+    </CTerrain>
+</Catalog>

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlacedObjects Version="27">
+    <ObjectDoodad Id="879844701" Variation="1" Position="105,132,4.0144" Rotation="1.9692" Scale="1.0585,1.0585,1.0585" Type="CrystalLarge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1275545687" Variation="1" Position="125,108,4.0144" Rotation="4.2155" Scale="0.9045,0.9045,0.9045" Type="CrystalLarge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="536056289" Position="112,127,6.0144" Rotation="2.7304" Scale="1.0524,1.0524,1.0524" Type="CrystalLarge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="580306417" Variation="1" Position="149,124,4.0378" Rotation="2.524" Scale="1.0463,1.0463,1.0463" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1612354019" Position="125,148,4.0378" Rotation="5.8295" Scale="1.0905,1.0905,1.0905" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="553293623" Variation="3" Position="73,99,2.0141" Rotation="4.2011" Scale="1.0332,1.0332,1.0332" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1829559814" Variation="1" Position="146,131,4.0144" Rotation="2.5881" Scale="0.9868,0.9868,0.9868" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="15627434" Variation="1" Position="71,99,2.0141" Rotation="0.77" Scale="0.9167,0.9167,0.9167" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1149545693" Variation="1" Position="129,149,2.0146" Rotation="5.591" Scale="1.0021,1.0021,1.0021" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1702310738" Position="156,69,2.0141" Rotation="5.292" Scale="0.955,0.955,0.955" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2007159155" Variation="3" Position="130,108,4.0378" Rotation="2.641" Scale="1.062,1.062,1.062" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1527676795" Variation="1" Position="152,189,2.0141" Rotation="0.5527" Scale="0.996,0.996,0.996" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1531870010" Variation="3" Position="153,187,2.0141" Rotation="4.3505" Scale="1.058,1.058,1.058" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1033961961" Position="107,124,4.038" Rotation="1.716" Scale="0.9584,0.9584,0.9584" Type="CrystalLarge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1257224879" Variation="1" Position="98,76,2.0141" Rotation="1.46" Scale="1.0744,1.0744,1.0744" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="595202452" Position="75,154,2.0141" Rotation="5.2036" Scale="1.0905,1.0905,1.0905" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1416686497" Variation="1" Position="120,189,2.0141" Rotation="3.2368" Scale="0.9946,0.9946,0.9946" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1557618051" Position="134,75,2.0141" Rotation="2.0432" Scale="0.9064,0.9064,0.9064" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1957169364" Position="109,125,4.0144" Rotation="6.2407" Scale="0.9765,0.9765,0.9765" Type="CrystalLarge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1629239454" Position="126,110,4.0063" Rotation="4.9123" Scale="0.923,0.923,0.923" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="328571300" Variation="1" Position="179,183,2.0141" Rotation="0.4694" Scale="1.0395,1.0395,1.0395" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="378996115" Variation="3" Position="182,183,2.0141" Rotation="5.303" Scale="1.0502,1.0502,1.0502" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="216933581" Variation="1" Position="100,76,2.0141" Rotation="1.0505" Scale="1.0136,1.0136,1.0136" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1590168152" Variation="2" Position="149,189,2.0141" Rotation="5.327" Scale="0.954,0.954,0.954" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1931038454" Variation="2" Position="130,113,6.0373" Rotation="3.0227" Scale="1.0573,1.0573,1.0573" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="502333207" Variation="1" Position="103,75,2.0141" Rotation="3.2788" Scale="0.9924,0.9924,0.9924" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2030930482" Position="153,69,2.0141" Rotation="5.4421" Scale="1.0612,1.0612,1.0612" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1924601197" Position="183,124,2.0141" Rotation="2.7536" Scale="0.99,0.99,0.99" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2007783236" Position="71,88,2.0141" Rotation="1.9985" Scale="1.0051,1.0051,1.0051" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1159785989" Position="132,76,2.0141" Rotation="4.5244" Scale="0.9665,0.9665,0.9665" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1321246284" Variation="1" Position="108,130,4.0187" Rotation="3.9892" Scale="1.0922,1.0922,1.0922" Type="CrystalLarge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1001751671" Variation="2" Position="143,129,6.0146" Rotation="2.1706" Scale="0.978,0.978,0.978" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="749847580" Variation="3" Position="183,160,2.0141" Rotation="5.6235" Scale="0.9353,0.9353,0.9353" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="731319149" Variation="1" Position="104,128,2.0322" Rotation="3.309" Scale="1.0034,1.0034,1.0034" Type="CrystalLarge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1966085176" Variation="2" Position="71,85,2.0141" Rotation="5.7617" Scale="1.0041,1.0041,1.0041" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1876322566" Variation="2" Position="128,104,2.0146" Rotation="4.3183" Scale="1.0295,1.0295,1.0295" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2075802418" Variation="1" Position="105,75,2.0141" Rotation="0.7307" Scale="0.9401,0.9401,0.9401" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1274490765" Variation="1" Position="75,157,2.0141" Rotation="2.5263" Scale="0.9887,0.9887,0.9887" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1003133502" Position="183,158,2.0141" Rotation="0.6533" Scale="1.0007,1.0007,1.0007" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="798674345" Position="102,128,2.0144" Rotation="5.1823" Scale="0.984,0.984,0.984" Type="CrystalLarge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2086798025" Variation="1" Position="133,110,4.0146" Rotation="4.4226" Scale="1.0803,1.0803,1.0803" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="892873490" Variation="1" Position="147,124,4.0144" Rotation="5.7773" Scale="0.9128,0.9128,0.9128" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="42837867" Variation="1" Position="183,128,2.0141" Rotation="3.8742" Scale="1.084,1.084,1.084" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="928800775" Variation="2" Position="183,163,2.0141" Rotation="1.7822" Scale="1.099,1.099,1.099" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="717153416" Position="128,151,2.0146" Rotation="2.0278" Scale="0.9868,0.9868,0.9868" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="186889007" Variation="1" Position="150,128,2.019" Rotation="4.4504" Scale="0.975,0.975,0.975" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1708899655" Variation="1" Position="110,132,4.0144" Rotation="5.5163" Scale="0.9404,0.9404,0.9404" Type="CrystalLarge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="913189727" Variation="2" Position="129,106,2.0214" Rotation="5.044" Scale="1.0761,1.0761,1.0761" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1398041399" Variation="3" Position="132,107,4.0146" Rotation="5.0393" Scale="1.003,1.003,1.003" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="855799235" Position="192.5498,2.17,-5.0224" Scale="0.5495,5,1" Type="DecalSpace" TintColor="0,94,219 4.000000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1321438443" Variation="2" Position="179,181,2.0141" Rotation="2.7" Scale="0.912,0.912,0.912" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="322897470" Variation="3" Position="75,159,2.0141" Rotation="2.9211" Scale="0.928,0.928,0.928" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="252149725" Variation="2" Position="129,144,6.0375" Rotation="3.5693" Scale="0.9995,0.9995,0.9995" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1118064887" Variation="2" Position="95,188,2.0141" Rotation="1.5786" Scale="0.95,0.95,0.95" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="591117277" Position="118,75,2.0141" Rotation="0.0046" Scale="1.0322,1.0322,1.0322" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="597014002" Variation="2" Position="83,179,2.0141" Rotation="3.1965" Scale="1.0207,1.0207,1.0207" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="838065124" Variation="1" Position="158,69,2.0141" Rotation="2.936" Scale="1.039,1.039,1.039" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="148147657" Position="71,83,2.0141" Rotation="5.2956" Scale="1.043,1.043,1.043" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="49355694" Variation="3" Position="183,126,2.0141" Rotation="4.8994" Scale="1.061,1.061,1.061" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1582677133" Position="179.64,2,-5.931" Scale="0.5495,5,1" Type="DecalSpace" TintColor="0,94,219 4.000000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="85243014" Variation="2" Position="145,128,6.0375" Rotation="1.487" Scale="0.9455,0.9455,0.9455" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1244912926" Variation="2" Position="183,97,2.0141" Rotation="4.7221" Scale="0.9843,0.9843,0.9843" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1265970527" Position="110,123,4.0146" Rotation="4.8955" Scale="0.944,0.944,0.944" Type="CrystalLarge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2040223765" Position="132,146,4.0144" Rotation="2.8371" Scale="1.0688,1.0688,1.0688" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1058543741" Variation="3" Position="75,148,2.0141" Rotation="0.8962" Scale="1.0612,1.0612,1.0612" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1121239622" Variation="1" Position="85,179,2.0141" Rotation="1.4536" Scale="1.0996,1.0996,1.0996" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="197221504" Variation="1" Position="151,69,2.0141" Rotation="0.76" Scale="1.029,1.029,1.029" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="862992464" Position="75,151,2.0141" Rotation="4.4155" Scale="0.9636,0.9636,0.9636" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="473371404" Variation="3" Position="97,189,2.0141" Rotation="1.2116" Scale="1.0031,1.0031,1.0031" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1310427402" Position="73,83,2.0141" Rotation="1.416" Scale="0.9248,0.9248,0.9248" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1339212419" Variation="1" Position="104,126,2.0187" Rotation="3.9631" Scale="0.9645,0.9645,0.9645" Type="CrystalLarge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="720021959" Position="127,112,6.0144" Rotation="1.8186" Scale="1.0693,1.0693,1.0693" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1654608411" Position="131,152,2.0144" Rotation="3.5292" Scale="1.0407,1.0407,1.0407" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2130334309" Variation="2" Position="183,156,2.0141" Rotation="4.303" Scale="1.058,1.058,1.058" Type="CrystalHuge" TintColor="128,0,255">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectPoint Id="2142687418" Position="145,110,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Defender" Color="0,0,0,0"/>
+    <ObjectPoint Id="756511362" Position="109.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Ghosts)" Color="0,0,0,0"/>
+    <ObjectPoint Id="231894419" Position="147.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Supports)" Color="0,0,0,0"/>
+    <ObjectPoint Id="643511402" Position="128,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Builders)" Color="0,0,0,0"/>
+    <ObjectPoint Id="1248696952" Position="110,110,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Hunter" Color="0,0,0,0"/>
+    <ObjectPoint Id="314" Position="127.9748,127.9382,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
+    <ObjectCamera Id="816" Position="126.7687,12.3073,0" Rotation="3.14" Scale="1,1,1" Name="Camera 007" Color="0,0,0,0" CameraTarget="126.7687,12.3073">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="27.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="33.9997"/>
+        <CameraValue Index="Pitch" Value="56"/>
+        <CameraValue Index="Yaw" Value="179.9025"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="312" Position="32.9306,29.6455,0" Rotation="1.5104" Scale="1,1,1" Name="Camera 005" Color="0,0,0,0" CameraTarget="32.9306,29.6455">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="19.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="37.3996"/>
+        <CameraValue Index="Pitch" Value="26.5698"/>
+        <CameraValue Index="Yaw" Value="86.5451"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="310" Position="25.8454,124.3073,0" Rotation="2.841" Scale="1,1,1" Name="Camera 004" Color="0,0,0,0" CameraTarget="25.8454,124.3073">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="33.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="34"/>
+        <CameraValue Index="Pitch" Value="35"/>
+        <CameraValue Index="Yaw" Value="162.781"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="131" Position="241.9611,243.5917,0" Rotation="5.0771" Scale="1,1,1" Name="Camera 003" Color="0,0,0,0" CameraTarget="241.9611,243.5917">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="24.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="30"/>
+        <CameraValue Index="Pitch" Value="32"/>
+        <CameraValue Index="Yaw" Value="290.8991"/>
+        <CameraValue Index="HeightOffset" Value="9"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0097"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="315" Position="125.5065,44.863,0" Scale="1,1,1" Name="Camera 006" Color="0,0,0,0" CameraTarget="125.5065,44.863">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="27.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="37.3996"/>
+        <CameraValue Index="Pitch" Value="37.5698"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="337" Position="16.0097,242.9401,0" Rotation="3.1572" Scale="1,1,1" Name="Camera 002" Color="0,0,0,0" CameraTarget="16.0097,242.9401">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="24.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="11.9162"/>
+        <CameraValue Index="Pitch" Value="16.49"/>
+        <CameraValue Index="Yaw" Value="180.8957"/>
+        <CameraValue Index="HeightOffset" Value="0.4926"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="137" Position="11.1281,245.8256,0" Rotation="3.14" Scale="1,1,1" Name="Camera 001" Color="0,0,0,0" CameraTarget="11.1281,245.8256">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="12.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="19.1916"/>
+        <CameraValue Index="Pitch" Value="15"/>
+        <CameraValue Index="Yaw" Value="179.9025"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectUnit Id="1812151240" Position="180,232,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad4"/>
+    <ObjectUnit Id="1022807930" Position="100,242,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad2"/>
+    <ObjectUnit Id="1838221411" Position="24,98,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad"/>
+    <ObjectUnit Id="851800603" Position="92,24,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad"/>
+    <ObjectUnit Id="1085424110" Position="238,146,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad4"/>
+    <ObjectUnit Id="1715119568" Position="48,166,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad2"/>
+    <ObjectUnit Id="1482926060" Position="160,37,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad3"/>
+    <ObjectUnit Id="942305919" Position="232,92,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad3"/>
+</PlacedObjects>

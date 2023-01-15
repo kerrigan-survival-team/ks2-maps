@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CLight id="AugustFountainsLighting" parent="default">
+        <ToDInfoArray index="0" Id="Cybros" AmbientColor="0.329412,0.364706,0.364706" Colorize="1">
+            <Param index="HDRExposure" value="1.300000"/>
+            <Param index="HDRDiffuseMultiplier" value="1.250000"/>
+            <Param index="HDRWhitePoint" value="1.850000"/>
+            <Param index="TerrainSpecularExp" value="11.210000"/>
+            <Param index="TerrainHDRSpecular" value="2.500000"/>
+            <Param index="CreepSpecularExp" value="30.000000"/>
+            <Param index="CreepHDRSpecMultiplier" value="3.000000"/>
+            <Param index="ColorizationHue" value="0.001000"/>
+            <Param index="ColorizationSaturation" value="-0.004000"/>
+            <Param index="ColorizationBlend" value="0.250000"/>
+            <DirectionalLight index="Key">
+                <Color value="0.839216,0.882353,0.921569"/>
+                <ColorMultiplier value="1.200000"/>
+                <SpecularColor value="0.784314,0.784314,0.784314"/>
+                <SpecColorMultiplier value="1.000000"/>
+                <Direction value="0.448527,-0.196890,-0.871813"/>
+            </DirectionalLight>
+            <DirectionalLight index="Fill" Color="0.176471,0.215686,0.254902" ColorMultiplier="2.000000" Direction="-0.499113,-0.618999,0.606405"/>
+            <DirectionalLight index="Back" Color="0.196078,0.235294,0.274510" ColorMultiplier="2.000000" Direction="-0.709236,0.246704,0.660395"/>
+        </ToDInfoArray>
+        <EditorCategories value="LightGroup:Tilesets"/>
+    </CLight>
+    <CActorDoodad id="AiurFountainsProtossRampLine">
+        <Aliases value="_EditorHelper"/>
+        <On index="0" Terms="ActorCreation" Send="Create SoundEmitter Doodad_DecalProtoss"/>
+        <Model value="AiurFountainProtossRampLines"/>
+        <EditorFlags index="NoAutoRotate" value="1"/>
+        <RandomScaleRange value="1.000000,1.000000"/>
+        <DoodadFlags index="DefaultToModelAABBBounds" value="0"/>
+    </CActorDoodad>
+    <CActorUnit id="AugustFountainsSpacerRock" parent="DestructibleUnitStandard" unitName="AiurFountainsSpacerRock">
+        <Model value="AiurRockDebris4x4"/>
+        <BuildModel value="AiurRockDebris4x4"/>
+        <DeathArray index="Normal" ModelLink="AiurRockDebris4x4" VoiceLink="AiurRockDebris4x4DeathVoice"/>
+        <PlacementModel value="AiurRockDebris4x4"/>
+        <BarWidth value="200"/>
+        <GroupIcon>
+            <Image value="Assets\Textures\Wireframe-General-Destructiblerocks-4x4.dds"/>
+        </GroupIcon>
+        <HighlightTooltip value="Unit/Name/DestructibleRock4x4HighlightTooltip"/>
+        <LifeArmorIcon value="Assets\Textures\btn-upgrade-terran-buildingarmor.dds"/>
+        <UnitFlags index="ShowBlobShadow" value="0"/>
+        <Wireframe>
+            <Image value="Assets\Textures\Wireframe-General-Destructiblerocks-4x4.dds"/>
+        </Wireframe>
+    </CActorUnit>
+    <CActorUnit id="AugustFountainsRock" parent="DestructibleUnitStandard" unitName="AugustFountainsRock">
+        <Model value="AiurRockDebris4x4"/>
+        <BuildModel value="AiurRockDebris4x4"/>
+        <DeathArray index="Normal" ModelLink="AiurRockDebris4x4" VoiceLink="AiurRockDebris4x4DeathVoice"/>
+        <PlacementModel value="AiurRockDebris4x4"/>
+        <BarWidth value="200"/>
+        <GroupIcon>
+            <Image value="Assets\Textures\Wireframe-General-Destructiblerocks-4x4.dds"/>
+        </GroupIcon>
+        <HighlightTooltip value="Unit/Name/DestructibleRock4x4HighlightTooltip"/>
+        <LifeArmorIcon value="Assets\Textures\btn-upgrade-terran-buildingarmor.dds"/>
+        <UnitFlags index="ShowBlobShadow" value="0"/>
+        <Wireframe>
+            <Image value="Assets\Textures\Wireframe-General-Destructiblerocks-4x4.dds"/>
+        </Wireframe>
+    </CActorUnit>
+    <CWater id="AiurFountainsWater">
+        <State index="0">
+            <Name value="[Default]"/>
+            <Height value="0.050000"/>
+            <Color value="0.098039,0.349020,0.498039,0.300000"/>
+            <ColorFallOff value="0.100000"/>
+            <Specularity value="100.000000"/>
+            <SpecularScaler value="2.450000"/>
+            <UvRate value="-0.000000,-0.001000,0.000000,0.000000"/>
+            <ReflectionDistortion value="0.012000"/>
+            <RefractionDistortion value="0.020000"/>
+            <MinReflection value="0.300000"/>
+            <ReflectivityPower value="8.000000"/>
+        </State>
+        <BeachShoreline value="BelShirBeachShoreline"/>
+        <CliffShoreline value="BelShirCliffShoreline"/>
+    </CWater>
+    <CTerrain id="AugustFountainsTerrainType">
+        <EditorCategories value="Climate:SpacePlatform"/>
+        <Lighting value="AugustFountainsLighting"/>
+        <LoadingScreen value="Assets\Textures\loading-aiur.dds"/>
+        <Ambience value="Ambience_Aiur"/>
+        <ReverbAmbient value="BetaVerb"/>
+        <BlendTextures value="AiurCity1"/>
+        <BlendTextures value="AiurCity2"/>
+        <BlendTextures value="Korhal6"/>
+        <BlendTextures value="Starship2"/>
+        <BlendTextures value="Cybros2"/>
+        <BlendTextures value="AiurCity6"/>
+        <BlendTextures value="AiurCity7"/>
+        <BlendTextures value="AiurCity8"/>
+        <HardTiles value="MarSaraTile"/>
+        <CliffSets value="AiurTempleCliff0"/>
+        <CliffSets value="AiurTempleCliff1"/>
+        <CliffSets value="AiurCityCliff0"/>
+        <FogEnabled value="1"/>
+        <FogColor value="255,45,68,86"/>
+        <FogDensity value="0.060000"/>
+        <FogFalloff value="0.200000"/>
+        <FogStartingHeight value="-0.900000"/>
+        <HeightMapEnabled value="1"/>
+    </CTerrain>
+    <CModel id="AiurFountainProtossRampLines" parent="Doodad">
+        <Flags index="VariationFallback" value="0"/>
+        <TextureDeclares Prefix="DecalProtoss00_">
+            <Adaptions TriggerOnSubstring="_Diffuse" Slot="main"/>
+        </TextureDeclares>
+        <TextureDeclares Prefix="DecalProtoss01_">
+            <Adaptions TriggerOnSubstring="_Diffuse" Slot="generic01"/>
+        </TextureDeclares>
+        <TextureDeclares Prefix="DecalProtoss02_">
+            <Adaptions TriggerOnSubstring="_Diffuse" Slot="generic02"/>
+        </TextureDeclares>
+        <TextureDeclares Prefix="DecalProtoss03_">
+            <Adaptions TriggerOnSubstring="_Diffuse" Slot="generic03"/>
+        </TextureDeclares>
+        <TextureDeclares Prefix="DecalProtoss04_">
+            <Adaptions TriggerOnSubstring="_Diffuse" Slot="generic04"/>
+        </TextureDeclares>
+        <TextureDeclares Prefix="DecalProtoss05_">
+            <Adaptions TriggerOnSubstring="_Diffuse" Slot="generic05"/>
+        </TextureDeclares>
+        <VariationCount value="6"/>
+        <Model value="Assets\Doodads\DecalProtoss\DecalProtoss.m3"/>
+    </CModel>
+    <CUnit id="AiurFountainsSpacerRock">
+        <Description value="Button/Tooltip/DestructibleRock4x4"/>
+        <DeathRevealRadius value="3"/>
+        <ReviveType value="DestructibleRock4x4"/>
+        <FlagArray index="Turnable" value="0"/>
+        <FlagArray index="CreateVisible" value="1"/>
+        <FlagArray index="Untooltipable" value="0"/>
+        <FlagArray index="UseLineOfSight" value="1"/>
+        <FlagArray index="Destructible" value="1"/>
+        <FlagArray index="NoPortraitTalk" value="1"/>
+        <FlagArray index="ArmorDisabledWhileConstructing" value="1"/>
+        <FogVisibility value="Snapshot"/>
+        <EditorFlags index="NeutralDefault" value="1"/>
+        <PlaneArray index="Ground" value="1"/>
+        <PushPriority value="20"/>
+        <Collide index="Burrow" value="1"/>
+        <Collide index="Ground" value="1"/>
+        <Collide index="Structure" value="1"/>
+        <Collide index="RoachBurrow" value="1"/>
+        <Collide index="TinyCritter" value="1"/>
+        <Collide index="ForceField" value="1"/>
+        <Collide index="Small" value="1"/>
+        <Collide index="Air4" value="1"/>
+        <Attributes index="Armored" value="1"/>
+        <Attributes index="Structure" value="1"/>
+        <LifeStart value="10000"/>
+        <LifeMax value="10000"/>
+        <LifeArmor value="5"/>
+        <LifeArmorName value="Unit/LifeArmorName/HardenedMaterial"/>
+        <Height value="0.5"/>
+        <RepairTime value="3000"/>
+        <SeparationRadius value="5"/>
+        <InnerRadius value="2"/>
+        <Footprint value="TerrainFootprint4x4BlockCreep2"/>
+        <MinimapRadius value="1"/>
+        <EditorCategories value="ObjectType:Destructible,ObjectFamily:Melee"/>
+        <TacticalAI value="DestructibleRock4x4"/>
+        <LeaderAlias value="DestructibleRock4x4"/>
+        <HotkeyAlias value="DestructibleRock4x4"/>
+        <SelectAlias value="DestructibleRock4x4"/>
+        <SubgroupAlias value="DestructibleRock4x4"/>
+        <AIEvaluateAlias value="DestructibleRock4x4"/>
+        <ReviveInfoBase>
+            <Charge Link="DestructibleRock4x4/Revive"/>
+            <Cooldown Link="DestructibleRock4x4/Revive"/>
+        </ReviveInfoBase>
+    </CUnit>
+    <CUnit id="AugustFountainsRock" parent="DestructibleRock4x4">
+        <Name value="Unit/Name/AugustFountainsRock"/>
+        <FlagArray index="Turnable" value="0"/>
+        <PushPriority value="20"/>
+        <Collide index="TinyCritter" value="1"/>
+        <Collide index="Air4" value="1"/>
+        <LifeStart value="50000"/>
+        <LifeMax value="50000"/>
+        <LifeArmor value="5"/>
+        <Height value="0.5"/>
+        <RepairTime value="3000"/>
+        <SeparationRadius value="5"/>
+        <InnerRadius value="2"/>
+        <Footprint value="TerrainFootprint4x4BlockCreep2"/>
+        <MinimapRadius value="1"/>
+    </CUnit>
+</Catalog>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CLight id="ClassicLighting" parent="default">
+        <ToDInfoArray index="0" Id="Cybros" AmbientColor="0.329412,0.364706,0.364706" Colorize="1">
+            <Param index="HDRExposure" value="1.300000"/>
+            <Param index="HDRDiffuseMultiplier" value="1.250000"/>
+            <Param index="HDRWhitePoint" value="1.850000"/>
+            <Param index="TerrainSpecularExp" value="11.210000"/>
+            <Param index="TerrainHDRSpecular" value="2.500000"/>
+            <Param index="CreepSpecularExp" value="30.000000"/>
+            <Param index="CreepHDRSpecMultiplier" value="3.000000"/>
+            <Param index="ColorizationHue" value="0.001000"/>
+            <Param index="ColorizationSaturation" value="-0.004000"/>
+            <Param index="ColorizationBlend" value="0.250000"/>
+            <DirectionalLight index="Key">
+                <Color value="0.839216,0.882353,0.921569"/>
+                <ColorMultiplier value="1.200000"/>
+                <SpecularColor value="0.784314,0.784314,0.784314"/>
+                <SpecColorMultiplier value="1.000000"/>
+                <Direction value="0.448527,-0.196890,-0.871813"/>
+            </DirectionalLight>
+            <DirectionalLight index="Fill" Color="0.176471,0.215686,0.254902" ColorMultiplier="2.000000" Direction="-0.499113,-0.618999,0.606405"/>
+            <DirectionalLight index="Back" Color="0.196078,0.235294,0.274510" ColorMultiplier="2.000000" Direction="-0.709236,0.246704,0.660395"/>
+        </ToDInfoArray>
+        <EditorCategories value="LightGroup:Tilesets"/>
+    </CLight>
+    <CTerrain id="ClassicTerrainType">
+        <EditorCategories value="Climate:SpacePlatform"/>
+        <Lighting value="ClassicLighting"/>
+        <LoadingScreen value="Assets\Textures\UI_HotS_Loading_MissionSelect_ZKaldir03.dds"/>
+        <Ambience value="Ambience_Starship"/>
+        <ReverbAmbient value="BetaVerb"/>
+        <HideLowestLevel value="1"/>
+        <MinimapBackgroundColor value="255,0,0,32"/>
+        <BlendTextures value="DominionLab3"/>
+        <BlendTextures value="HybridLabInner8"/>
+        <BlendTextures value="HybridLabInner6"/>
+        <BlendTextures value="Cybros4"/>
+        <BlendTextures value="Cybros5"/>
+        <BlendTextures value="Cybros6"/>
+        <BlendTextures value="Cybros7"/>
+        <BlendTextures value="BlackOpsLabA5"/>
+        <HardTiles value="MarSaraTile"/>
+        <CliffSets value="CybrossCliff0"/>
+        <FogEnabled value="1"/>
+        <FogColor value="255,121,214,244"/>
+        <FogDensity value="0.100000"/>
+        <FogFalloff value="0.200000"/>
+        <FogStartingHeight value="-20.000000"/>
+    </CTerrain>
+</Catalog>

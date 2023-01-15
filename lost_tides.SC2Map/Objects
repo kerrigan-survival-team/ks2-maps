@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlacedObjects Version="27">
+    <ObjectDoodad Id="1149023291" Variation="8" Position="114.5,66.5,4.0136" Rotation="0.474" Scale="1,1,1" Type="ColonistSupplyCrate">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1476216794" Variation="1" Position="41.5,219,4.0092" Scale="1,1,1" Type="CompoundSewers_FloodLight">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1971785266" Variation="2" Position="140.5,244.5,4.0134" Rotation="0.6718" Scale="2.9526,2.9526,2.9526" Type="Dumpster">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1029152719" Variation="3" Position="188,40,6.0092" Rotation="1.866" Scale="1,1,1" Type="Korhal_SpacePort_Cone">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1646779238" Position="153.5,60.5,5.996" Rotation="4.59" Scale="0.9235,0.9235,0.9235" Type="PortZionTires">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1464907682" Variation="12" Position="46,51.5,2.0134" Rotation="3.1413" Scale="1,1,1" Type="CompoundSewer_Pipes">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="641671131" Position="113,125,4.0134" Rotation="1.5847" Scale="1,1,1" Type="ProtossEnergyLineOrange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1670331086" Position="84,94,4.0305" Scale="1,1,1" Type="Shakuras_Banner_Torn">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1107259819" Position="130.5,147,4.0134" Rotation="1.585" Scale="1,1,1" Type="ProtossEnergyLineOrange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="742938011" Variation="1" Position="253.5,118.5,4.0134" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="36980038" Variation="2" Position="15,86.5,6.0773" Scale="1,1,1" Type="CompoundSewers_FenceTall">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="246692360" Position="123.5,109,4.0092" Rotation="1.585" Scale="1,1,1" Type="ProtossEnergyLineOrange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1230173758" Variation="1" Position="56.5,171,4.0136" Scale="1,1,1" Type="CompoundSewers_FloodLight">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1557659706" Position="120,125,4.0134" Rotation="1.585" Scale="1,1,1" Type="ProtossEnergyLineOrange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1540547669" Variation="1" Position="227.5,118.5,4.0095" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2133532953" Variation="1" Position="244.5,118.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1057082852" Position="127,109,4.0134" Rotation="1.5852" Scale="1,1,1" Type="ProtossEnergyLineOrange">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="841712713" Variation="1" Position="42.5,1.5,2.0136" Rotation="4.7121" Scale="1,1,1" Type="CompoundSewers_FenceTall">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1875745090" Variation="1" Position="234.5,144.5,4.0136" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1814280973" Variation="1" Position="108.5,223.5,4.0134" Scale="1,1,1" Type="CompoundSewers_FloodLight">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="55648205" Position="127,147,4.0134" Rotation="1.585" Scale="1,1,1" Type="ProtossEnergyLineOrange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1262217070" Variation="1" Position="90.5,30.5,4.0251" Scale="1,1,1" Type="CompoundSewers_FloodLight">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="391553852" Variation="1" Position="249.5,118.5,4.0136" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="863413256" Variation="3" Position="77.5,49.5,4.0134" Rotation="1.5754" Scale="1,1,1" Type="Korhal_SpacePort_Container">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="55217098" Position="199.5,233.5,6.0134" Scale="1,1,1" Type="BullhornLights">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="714177634" Variation="2" Position="47,1.5,2.0136" Rotation="4.7121" Scale="1,1,1" Type="CompoundSewers_FenceTall">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1989923021" Variation="1" Position="250.5,118.5,4.0136" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="505920641" Variation="1" Position="41.5,91,2.0136" Scale="1,1,1" Type="Elsecaro_Dock_Hut">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="977925539" Variation="1" Position="252.5,144.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="415633004" Variation="1" Position="244.5,144.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="328550243" Variation="2" Position="93,237,4.0136" Scale="1,1,1" Type="WaterTank">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1044251863" Position="206.5,56.5,3.9943" Scale="1,1,1" Type="CompoundSewers_FloodLight">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2142486374" Variation="2" Position="65.5,65.5,5.9897" Scale="1,1,1" Type="Searchlight">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="668094657" Position="134,109,4.0295" Rotation="1.585" Scale="1,1,1" Type="ProtossEnergyLineOrange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="661514215" Position="225.5,136.5,4.0046" Scale="1,1,1" Type="CompoundSewers_FloodLight">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1885809235" Variation="3" Position="15,90,6.1225" Scale="1,1,1" Type="CompoundSewers_FenceTall">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="19809024" Variation="2" Position="114.5,62.5,4.0056" Rotation="2.3666" Scale="1,1,1" Type="ColonistSupplyCrate">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1878415999" Position="134,147,4.0187" Rotation="1.585" Scale="1,1,1" Type="ProtossEnergyLineOrange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1592440165" Variation="7" Position="130,33,4.0053" Scale="1,1,1" Type="Elsecaro_StoreFront">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="527364773" Position="165.5,20.5,3.9946" Scale="1,1,1" Type="CompoundSewers_FloodLight">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2116549419" Variation="1" Position="235.5,144.5,4.0136" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1666997522" Variation="7" Position="152,33,4.0134" Scale="1,1,1" Type="Elsecaro_StoreFront">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="33220703" Variation="1" Position="18,103,6.099" Rotation="4.7121" Scale="1,1,1" Type="CompoundSewers_FenceTall">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="467958261" Variation="1" Position="18.5,175.5,4.0134" Rotation="6.2797" Scale="1,1,1" Type="SpacePlatformBillboard">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="436875314" Variation="1" Position="247.5,118.5,4.0136" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1296442116" Position="15,94,6.1225" Scale="1,1,1" Type="CompoundSewers_FenceTall">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1918924029" Position="123.5,147,4.0134" Rotation="1.585" Scale="1,1,1" Type="ProtossEnergyLineOrange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="20369534" Variation="1" Position="233.5,144.5,4.0095" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="642513079" Position="144,125,4.0295" Rotation="1.5847" Scale="0.996,0.7172,1" Type="ProtossEnergyLineOrange">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="609974061" Variation="1" Position="231.5,118.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="229867331" Variation="1" Position="235.5,118.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1699218525" Variation="1" Position="227.5,144.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2124092491" Position="246,14.5,4.0134" Rotation="3.1413" Scale="1,1,1" Type="PortCity_StreetAlarms">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="284901178" Variation="1" Position="159,118.5,2.0134" Scale="1,1,1" Type="Elsecaro_Jet_Ski">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="713251090" Variation="1" Position="249.5,144.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="715138873" Position="116.5,125,4.0134" Rotation="1.585" Scale="1,1,1" Type="ProtossEnergyLineOrange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="579487351" Variation="7" Position="148,33,4.0053" Scale="1,1,1" Type="Elsecaro_StoreFront">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="881244251" Variation="1" Position="232.5,144.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1534000329" Variation="1" Position="226.5,144.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1269662988" Variation="2" Position="51,1.5,2.0136" Rotation="4.7121" Scale="1,1,1" Type="CompoundSewers_FenceTall">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="936360019" Position="209,168,2.0051" Rotation="3.8427" Scale="1.0195,1.0195,1.0195" Type="FireMedium">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1980711105" Variation="7" Position="126,33,4.0053" Scale="1,1,1" Type="Elsecaro_StoreFront">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2015002987" Variation="1" Position="228.5,118.5,4.0136" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1926041341" Variation="3" Position="157.5,82.5,2.0136" Rotation="4.7043" Scale="1,1,1" Type="Elsecaro_Large_Rock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="282445674" Variation="12" Position="64.5,86,2.0134" Rotation="4.7121" Scale="1,1,1" Type="CompoundSewer_Pipes">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="94376964" Variation="1" Position="247.5,144.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1750663629" Position="130.5,125,4.0134" Rotation="1.585" Scale="1,1,1" Type="ProtossEnergyLineOrange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="199939280" Variation="7" Position="62.5,171,6.0708" Scale="1,1,1" Type="CompoundMansion_Banister">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1002222623" Variation="1" Position="230.5,144.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="946969470" Position="65.5,153.5,4.0134" Rotation="3.797" Scale="1.164,1.164,1.164" Type="TTosh01FlameGeyser">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2036657675" Position="84,190,4.009" Scale="1,1,1" Type="CompoundSewers_FloodLight">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="214463965" Variation="1" Position="225.5,118.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1947036206" Variation="2" Position="89,237,4.0136" Scale="1,1,1" Type="WaterTank">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1072469359" Variation="1" Position="224.5,118.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="906837928" Variation="1" Position="233.5,118.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1568082647" Variation="1" Position="248.5,144.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2068033635" Position="123.5,125,4.0134" Rotation="1.585" Scale="1,1,1" Type="ProtossEnergyLineOrange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1872775654" Position="209.5,163,2.014" Rotation="4.885" Scale="1.0454,1.0454,1.0454" Type="FireMedium">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1483632541" Variation="1" Position="121.5,48.5,4.0056" Scale="1,1,1" Type="CompoundSewers_FloodLight">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2033701654" Position="127,125,4.0134" Rotation="1.585" Scale="1,1,1" Type="ProtossEnergyLineOrange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1763953346" Variation="1" Position="230.5,118.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2017764398" Position="134,125,4.0134" Rotation="1.585" Scale="1,1,1" Type="ProtossEnergyLineOrange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="318973850" Variation="1" Position="232.5,118.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1945492533" Position="130.5,109,4.0134" Rotation="1.585" Scale="1,1,1" Type="ProtossEnergyLineOrange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1087841918" Variation="1" Position="252.5,118.5,4.0136" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="250451083" Position="141,125,4.0134" Rotation="1.585" Scale="1,1,1" Type="ProtossEnergyLineOrange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1075762551" Variation="1" Position="228.5,144.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2021348806" Variation="3" Position="195.5,83,4.0056" Rotation="5.6022" Scale="1,1,1" Type="Elsecaro_Civilian_Car_Red">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2057627658" Variation="12" Position="73.5,86,2.0134" Rotation="1.5705" Scale="1,1,1" Type="CompoundSewer_Pipes">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1005634992" Variation="1" Position="159,142.5,2.0134" Scale="1,1,1" Type="Elsecaro_Catamaran">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="686897634" Variation="12" Position="46,36,2.0051" Scale="1,1,1" Type="CompoundSewer_Pipes">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="581587615" Variation="1" Position="226.5,118.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1340590454" Position="204,168.5,2.0051" Rotation="4.151" Scale="1.1464,1.1464,1.1464" Type="FireMedium">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="756447501" Variation="1" Position="253.5,144.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1582921979" Position="236.5,194.5,6.0134" Scale="0.25,0.25,0.25" Type="SpacePlatform_MissileTurretPassive">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="350842543" Position="153,244.5,4.0136" Rotation="4.6042" Scale="0.939,0.939,0.939" Type="FlySwarm">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="638039845" Variation="4" Position="128,189,4.0136" Rotation="1.1394" Scale="1,1,1" Type="SpacePlatformReactor">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="479542028" Variation="12" Position="207.5,246.5,2.0446" Scale="1,1,1" Type="CompoundSewer_Pipes">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1312951962" Variation="2" Position="206,168,2.0053" Scale="1,1,1" Type="PortCity_CargoBoatDestroyed">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="381094390" Variation="1" Position="213.5,229.5,4.0078" Scale="1,1,1" Type="CompoundSewers_FloodLight">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1936464591" Variation="7" Position="140,33,4.0053" Scale="1,1,1" Type="Elsecaro_StoreFront">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2091971199" Variation="1" Position="159,116.5,2.0134" Scale="1,1,1" Type="Elsecaro_Jet_Ski">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1177742008" Position="131,12,4.0104" Scale="1,1,1" Type="CompoundSewers_FloodLight">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1181072905" Position="145.5,33,4.0053" Scale="1,1,1" Type="Korhal_SpacePort_LuggageTruck">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2098617931" Variation="1" Position="229.5,144.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1082565646" Variation="1" Position="231.5,144.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2134053052" Variation="4" Position="232.5,80.5,4.0136" Rotation="0.6784" Scale="1,1,1" Type="CivilianCars">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="758430572" Variation="1" Position="245.5,118.5,4.0095" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="243028643" Variation="3" Position="186.5,83,4.0053" Rotation="0.5322" Scale="1,1,1" Type="Elsecaro_Civilian_Car_Red">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="488474976" Position="25,113.5,4.0053" Scale="1,1,1" Type="CompoundSewers_FloodLight">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1052862548" Variation="1" Position="251.5,118.5,4.0136" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="407092758" Position="9.5,248,4.0292" Scale="1,1,1" Type="PortCity_StreetAlarms">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="820268920" Variation="7" Position="114.5,64.5,4.0097" Rotation="0.1452" Scale="1,1,1" Type="ColonistSupplyCrate">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1077505246" Variation="7" Position="115.5,64.5,4.0097" Rotation="4.0551" Scale="1,1,1" Type="ColonistSupplyCrate">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1466137112" Variation="7" Position="156,33,4.0341" Scale="1,1,1" Type="Elsecaro_StoreFront">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="461656557" Variation="3" Position="114.5,68.5,4.014" Rotation="2.714" Scale="1,1,1" Type="ColonistSupplyCrate">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="709233876" Variation="1" Position="86.5,116,2.0344" Rotation="0.0522" Scale="1,1,1" Type="CompoundSewers_Ladder">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1306116987" Position="184.5,200.5,4.0266" Scale="1,1,1" Type="CompoundSewers_FloodLight">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1960301571" Variation="7" Position="144,33,4.0053" Scale="1,1,1" Type="Elsecaro_StoreFront">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="905635615" Variation="1" Position="159,114.5,2.0134" Scale="1,1,1" Type="Elsecaro_Jet_Ski">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1540703158" Position="137.5,125,4.0134" Rotation="1.585" Scale="1,1,1" Type="ProtossEnergyLineOrange">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1278034885" Variation="1" Position="229.5,118.5,4.0095" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="783270827" Variation="2" Position="91,237,4.0136" Scale="1,1,1" Type="WaterTank">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1487857052" Variation="1" Position="246.5,118.5,4.0136" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="229599043" Variation="1" Position="246.5,144.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="872011916" Variation="1" Position="245.5,144.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="819079042" Variation="6" Position="61,171,6.0822" Scale="1,1,1" Type="CompoundMansion_Banister">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="688452485" Variation="1" Position="251.5,144.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="943881048" Variation="1" Position="234.5,118.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1323910035" Variation="1" Position="250.5,144.5,4.0053" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1829743889" Variation="1" Position="248.5,118.5,4.0136" Scale="1,1,1" Type="KorhalCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectPoint Id="63931309" Position="176.5,217.5,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
+    <ObjectPoint Id="807850820" Position="100,100,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
+    <ObjectPoint Id="842007685" Position="141,74,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
+    <ObjectPoint Id="868624693" Position="107.5,206.5,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
+    <ObjectPoint Id="314" Position="127.9748,127.9382,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
+    <ObjectCamera Id="816" Position="126.7687,12.3073,0" Rotation="3.14" Scale="1,1,1" Name="Camera 007" Color="0,0,0,0" CameraTarget="126.7687,12.3073">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="27.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="33.9997"/>
+        <CameraValue Index="Pitch" Value="56"/>
+        <CameraValue Index="Yaw" Value="179.9025"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="312" Position="32.9306,29.6455,0" Rotation="1.5104" Scale="1,1,1" Name="Camera 005" Color="0,0,0,0" CameraTarget="32.9306,29.6455">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="19.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="37.3996"/>
+        <CameraValue Index="Pitch" Value="26.5698"/>
+        <CameraValue Index="Yaw" Value="86.5451"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="310" Position="25.8454,124.3073,0" Rotation="2.841" Scale="1,1,1" Name="Camera 004" Color="0,0,0,0" CameraTarget="25.8454,124.3073">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="33.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="34"/>
+        <CameraValue Index="Pitch" Value="35"/>
+        <CameraValue Index="Yaw" Value="162.781"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="131" Position="241.9611,243.5917,0" Rotation="5.0771" Scale="1,1,1" Name="Camera 003" Color="0,0,0,0" CameraTarget="241.9611,243.5917">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="24.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="30"/>
+        <CameraValue Index="Pitch" Value="32"/>
+        <CameraValue Index="Yaw" Value="290.8991"/>
+        <CameraValue Index="HeightOffset" Value="9"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0097"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="315" Position="125.5065,44.863,0" Scale="1,1,1" Name="Camera 006" Color="0,0,0,0" CameraTarget="125.5065,44.863">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="27.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="37.3996"/>
+        <CameraValue Index="Pitch" Value="37.5698"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="337" Position="16.0097,242.9401,0" Rotation="3.1572" Scale="1,1,1" Name="Camera 002" Color="0,0,0,0" CameraTarget="16.0097,242.9401">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="24.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="11.9162"/>
+        <CameraValue Index="Pitch" Value="16.49"/>
+        <CameraValue Index="Yaw" Value="180.8957"/>
+        <CameraValue Index="HeightOffset" Value="0.4926"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="137" Position="11.1281,245.8256,0" Rotation="3.14" Scale="1,1,1" Name="Camera 001" Color="0,0,0,0" CameraTarget="11.1281,245.8256">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="12.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="19.1916"/>
+        <CameraValue Index="Pitch" Value="15"/>
+        <CameraValue Index="Yaw" Value="179.9025"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectUnit Id="573151168" Position="65,195,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="12736822" Position="192,131,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="393123160" Position="187,57,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="1846298272" Position="147,213,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+</PlacedObjects>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlacedObjects Version="27">
+    <ObjectDoodad Id="855799235" Position="192.5498,2.17,-3.4501" Scale="0.5495,5,1" Type="DecalSpace" TintColor="0,94,219 4.000000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1605207875" Position="154.2897,2.39,-9.964" Scale="0.5495,5,1" Type="DecalSpace" TintColor="0,94,219 4.000000">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+    </ObjectDoodad>
+    <ObjectPoint Id="756511362" Position="109.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Ghosts)" Color="0,0,0,0"/>
+    <ObjectPoint Id="2142687418" Position="145,110,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Defender" Color="0,0,0,0"/>
+    <ObjectPoint Id="231894419" Position="147.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Supports)" Color="0,0,0,0"/>
+    <ObjectPoint Id="643511402" Position="128,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Builders)" Color="0,0,0,0"/>
+    <ObjectPoint Id="1248696952" Position="110,110,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Hunter" Color="0,0,0,0"/>
+    <ObjectPoint Id="314" Position="127.9748,127.9382,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
+    <ObjectCamera Id="816" Position="126.7687,12.3073,0" Rotation="3.14" Scale="1,1,1" Name="Camera 007" Color="0,0,0,0" CameraTarget="126.7687,12.3073">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="27.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="33.9997"/>
+        <CameraValue Index="Pitch" Value="56"/>
+        <CameraValue Index="Yaw" Value="179.9025"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="312" Position="32.9306,29.6455,0" Rotation="1.5104" Scale="1,1,1" Name="Camera 005" Color="0,0,0,0" CameraTarget="32.9306,29.6455">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="19.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="37.3996"/>
+        <CameraValue Index="Pitch" Value="26.5698"/>
+        <CameraValue Index="Yaw" Value="86.5451"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="310" Position="25.8454,124.3073,0" Rotation="2.841" Scale="1,1,1" Name="Camera 004" Color="0,0,0,0" CameraTarget="25.8454,124.3073">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="33.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="34"/>
+        <CameraValue Index="Pitch" Value="35"/>
+        <CameraValue Index="Yaw" Value="162.781"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="131" Position="241.9611,243.5917,0" Rotation="5.0771" Scale="1,1,1" Name="Camera 003" Color="0,0,0,0" CameraTarget="241.9611,243.5917">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="24.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="30"/>
+        <CameraValue Index="Pitch" Value="32"/>
+        <CameraValue Index="Yaw" Value="290.8991"/>
+        <CameraValue Index="HeightOffset" Value="9"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0097"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="315" Position="125.5065,44.863,0" Scale="1,1,1" Name="Camera 006" Color="0,0,0,0" CameraTarget="125.5065,44.863">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="27.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="37.3996"/>
+        <CameraValue Index="Pitch" Value="37.5698"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="337" Position="16.0097,242.9401,0" Rotation="3.1572" Scale="1,1,1" Name="Camera 002" Color="0,0,0,0" CameraTarget="16.0097,242.9401">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="24.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="11.9162"/>
+        <CameraValue Index="Pitch" Value="16.49"/>
+        <CameraValue Index="Yaw" Value="180.8957"/>
+        <CameraValue Index="HeightOffset" Value="0.4926"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="137" Position="11.1281,245.8256,0" Rotation="3.14" Scale="1,1,1" Name="Camera 001" Color="0,0,0,0" CameraTarget="11.1281,245.8256">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="12.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="19.1916"/>
+        <CameraValue Index="Pitch" Value="15"/>
+        <CameraValue Index="Yaw" Value="179.9025"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectUnit Id="2099069869" Position="79.248,111.2082,0" Rotation="5.94" Scale="1,1,1" UnitType="EngineerWraith" Player="1"/>
+    <ObjectUnit Id="1008275418" Position="108,113,0" Scale="1,1,1" UnitType="StukovSpawningPool" Player="1"/>
+    <ObjectUnit Id="1043887244" Position="77,94,0" Rotation="5.4975" Scale="1,1,1" UnitType="EngineerFactory" Player="1"/>
+    <ObjectUnit Id="1977585218" Position="73.8928,111.7885,0" Rotation="5.8205" Scale="1,1,1" UnitType="EngineerSCV" Player="1"/>
+    <ObjectUnit Id="1424252879" Position="109,115,0" Rotation="0.5234" Scale="1,1,1" UnitType="StukovAberrationCavern" Player="1"/>
+    <ObjectUnit Id="363107925" Position="111,115,0" Rotation="5.8117" Scale="1,1,1" UnitType="StukovInfestedDen" Player="1"/>
+    <ObjectUnit Id="911970899" Position="77.457,107.9501,0" Rotation="1.1748" Scale="1,1,1" UnitType="EngineerOdin" Player="1"/>
+    <ObjectUnit Id="1359042727" Position="75.3796,111.7885,0" Rotation="0.208" Scale="1,1,1" UnitType="EngineerWidowMine" Player="1"/>
+    <ObjectUnit Id="1497078288" Position="107,115,0" Rotation="5.9338" Scale="1,1,1" UnitType="StukovInfestedPit" Player="1"/>
+    <ObjectUnit Id="1852728091" Position="101.5,91.5,0" Rotation="5.7595" Scale="1,1,1" UnitType="ZagaraEvolutionChamber" Player="1"/>
+    <ObjectUnit Id="1267209180" Position="234.5,234.5,0" Scale="1,1,1" UnitType="EnergyGenerator" Player="1"/>
+    <ObjectUnit Id="2110056695" Position="77.9965,113.4514,0" Rotation="3.5895" Scale="1,1,1" UnitType="EngineerWidowMine" Player="1"/>
+    <ObjectUnit Id="376772195" Position="80.8852,108.8515,0" Rotation="0.0026" Scale="1,1,1" UnitType="WidowMine" Player="1"/>
+    <ObjectUnit Id="472640345" Position="239,201.5,0" Rotation="1.9345" Scale="1,1,1" UnitType="DehakaDehaka" Player="2"/>
+    <ObjectUnit Id="2111785414" Position="81.3142,110.2221,0" Rotation="5.9821" Scale="1,1,1" UnitType="WidowMine" Player="1"/>
+    <ObjectUnit Id="1598528386" Position="78.591,114.4765,0" Rotation="0.8903" Scale="1,1,1" UnitType="EngineerScienceVessel" Player="1"/>
+    <ObjectUnit Id="1119863430" Position="224.5,202,0" Rotation="1.7814" Scale="1,1,1" UnitType="Kerrigan" Player="2"/>
+    <ObjectUnit Id="1906626475" Position="84,84.5,0" Rotation="1.7812" Scale="1,1,1" UnitType="Kerrigan" Player="2"/>
+    <ObjectUnit Id="599380943" Position="73.7224,114.267,0" Rotation="3.5131" Scale="1,1,1" UnitType="EngineerEngineer" Player="1"/>
+    <ObjectUnit Id="950403403" Position="75.7717,114.8496,0" Rotation="4.7927" Scale="1,1,1" UnitType="EngineerDiamondback" Player="1"/>
+    <ObjectUnit Id="746044894" Position="87.9667,100.6784,0" Rotation="1.397" Scale="1,1,1" UnitType="ProphetProphet" Player="1"/>
+    <ObjectUnit Id="1858335509" Position="74.8894,109.6208,0" Scale="1,1,1" UnitType="EngineerWidowMineBurrowed" Player="1"/>
+    <ObjectUnit Id="2008845309" Position="111.0798,107.16,0" Rotation="6.013" Scale="1,1,1" UnitType="ZaGara" Player="1"/>
+    <ObjectUnit Id="186828158" Position="234.5,229,0" Scale="1,1,1" UnitType="BeybladeTier3" Player="1"/>
+    <ObjectUnit Id="1992095033" Position="93.75,90.2797,0" Rotation="3.5307" Scale="1,1,1" UnitType="NiadraNiadra" Player="1"/>
+    <ObjectUnit Id="1330910570" Position="238,237,0" Scale="1,1,1" UnitType="Dispenser" Player="1"/>
+    <ObjectUnit Id="1119895971" Position="237.5,229,0" Scale="1,1,1" UnitType="BeybladeTier2" Player="1"/>
+    <ObjectUnit Id="1360459223" Position="112.5,97.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="ScientistFlashlight" Player="1"/>
+    <ObjectUnit Id="1518176578" Position="243,229.5,0" Scale="1,1,1" UnitType="Beyblade" Player="1"/>
+    <ObjectUnit Id="1537319862" Position="97.216,89.279,0" Rotation="0.1655" Scale="1,1,1" UnitType="DehakaDehaka" Player="1"/>
+    <ObjectUnit Id="1466676829" Position="77.049,110.484,0" Scale="1,1,1" UnitType="EngineerWidowMineBurrowed" Player="1"/>
+    <ObjectUnit Id="539567801" Position="234.5,240.5,0" Scale="1,1,1" UnitType="BattleStation" Player="1"/>
+    <ObjectUnit Id="1922189709" Position="97.5678,93.824,0" Rotation="0.0788" Scale="1,1,1" UnitType="ZaGara" Player="1"/>
+    <ObjectUnit Id="12018849" Position="228.5,237,0" Rotation="2.8864" Scale="1,1,1" UnitType="Energizer" Player="1"/>
+</PlacedObjects>

@@ -1,0 +1,1421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Regions>
+    <region id="1">
+        <name value="Ramp1"/>
+        <shape type="rect">
+            <quad value="20.6215,52.3671,24.6215,56.367"/>
+        </shape>
+    </region>
+    <region id="2">
+        <name value="Ramp2"/>
+        <shape type="rect">
+            <quad value="21.1198,42.1103,25.1198,46.11"/>
+        </shape>
+    </region>
+    <region id="3">
+        <name value="Ramp3"/>
+        <shape type="rect">
+            <quad value="12.84,84.0246,16.84,88.0244"/>
+        </shape>
+    </region>
+    <region id="4">
+        <name value="Ramp4"/>
+        <shape type="rect">
+            <quad value="42.1025,91.1208,46.1025,95.1206"/>
+        </shape>
+    </region>
+    <region id="5">
+        <name value="Ramp5"/>
+        <shape type="rect">
+            <quad value="25.1323,42.1237,29.132,46.1235"/>
+        </shape>
+    </region>
+    <region id="6">
+        <name value="Ramp6"/>
+        <shape type="rect">
+            <quad value="162.887,12.0888,167.0607,16.5065"/>
+        </shape>
+    </region>
+    <region id="7">
+        <name value="Ramp7"/>
+        <shape type="rect">
+            <quad value="74.9401,79.9223,78.9401,83.922"/>
+        </shape>
+    </region>
+    <region id="8">
+        <name value="Ramp8"/>
+        <shape type="rect">
+            <quad value="70.0341,93.0903,74.0341,97.09"/>
+        </shape>
+    </region>
+    <region id="9">
+        <name value="Ramp9"/>
+        <shape type="rect">
+            <quad value="20.8947,151.8447,25.0686,156.2624"/>
+        </shape>
+    </region>
+    <region id="10">
+        <name value="Ramp10"/>
+        <shape type="rect">
+            <quad value="30.816,24.1103,34.9897,28.528"/>
+        </shape>
+    </region>
+    <region id="11">
+        <name value="Ramp11"/>
+        <shape type="rect">
+            <quad value="34.8906,145.955,39.0644,150.3728"/>
+        </shape>
+    </region>
+    <region id="12">
+        <name value="Ramp12"/>
+        <shape type="rect">
+            <quad value="28.9558,170.0766,32.9558,174.0764"/>
+        </shape>
+    </region>
+    <region id="13">
+        <name value="Ramp13"/>
+        <shape type="rect">
+            <quad value="217.8327,219.0507,221.8327,223.0505"/>
+        </shape>
+    </region>
+    <region id="14">
+        <name value="Ramp14"/>
+        <shape type="rect">
+            <quad value="39.7678,154.9985,43.9416,159.4162"/>
+        </shape>
+    </region>
+    <region id="15">
+        <name value="Ramp15"/>
+        <shape type="rect">
+            <quad value="14.0126,198.8002,18.1865,203.218"/>
+        </shape>
+    </region>
+    <region id="16">
+        <name value="Ramp16"/>
+        <shape type="rect">
+            <quad value="33.955,246.9833,37.955,250.9831"/>
+        </shape>
+    </region>
+    <region id="17">
+        <name value="Ramp17"/>
+        <shape type="rect">
+            <quad value="104.089,193.013,108.089,197.0126"/>
+        </shape>
+    </region>
+    <region id="18">
+        <name value="Ramp18"/>
+        <shape type="rect">
+            <quad value="35.9882,223.0075,39.9882,227.0073"/>
+        </shape>
+    </region>
+    <region id="19">
+        <name value="Ramp19"/>
+        <shape type="rect">
+            <quad value="30.023,203.0085,34.023,207.0085"/>
+        </shape>
+    </region>
+    <region id="20">
+        <name value="Ramp20"/>
+        <shape type="rect">
+            <quad value="115.8693,235.1215,119.8693,239.1213"/>
+        </shape>
+    </region>
+    <region id="21">
+        <name value="Ramp21"/>
+        <shape type="rect">
+            <quad value="88.9897,210.0927,93.1635,214.5104"/>
+        </shape>
+    </region>
+    <region id="22">
+        <name value="Ramp22"/>
+        <shape type="rect">
+            <quad value="143.794,234.6972,147.9677,239.115"/>
+        </shape>
+    </region>
+    <region id="23">
+        <name value="Ramp23"/>
+        <shape type="rect">
+            <quad value="94.028,229.0117,98.028,233.0114"/>
+        </shape>
+    </region>
+    <region id="24">
+        <name value="Ramp24"/>
+        <shape type="rect">
+            <quad value="115.9265,219.1843,119.9265,223.184"/>
+        </shape>
+    </region>
+    <region id="25">
+        <name value="Ramp25"/>
+        <shape type="rect">
+            <quad value="106.9516,206.1276,110.9516,210.1274"/>
+        </shape>
+    </region>
+    <region id="26">
+        <name value="Ramp26"/>
+        <shape type="rect">
+            <quad value="150.9677,208.0151,154.9677,212.015"/>
+        </shape>
+    </region>
+    <region id="27">
+        <name value="Ramp27"/>
+        <shape type="rect">
+            <quad value="133.975,202.975,137.975,206.975"/>
+        </shape>
+    </region>
+    <region id="28">
+        <name value="Ramp28"/>
+        <shape type="rect">
+            <quad value="138.0603,234.9572,142.0603,238.9572"/>
+        </shape>
+    </region>
+    <region id="29">
+        <name value="Ramp29"/>
+        <shape type="rect">
+            <quad value="180.0688,223.1025,184.0688,227.1022"/>
+        </shape>
+    </region>
+    <region id="30">
+        <name value="Ramp30"/>
+        <shape type="rect">
+            <quad value="237.084,232.0498,241.084,236.0495"/>
+        </shape>
+    </region>
+    <region id="31">
+        <name value="Ramp31"/>
+        <shape type="rect">
+            <quad value="196.8264,213.5822,201.0002,218"/>
+        </shape>
+    </region>
+    <region id="32">
+        <name value="Ramp32"/>
+        <shape type="rect">
+            <quad value="159.8105,121.203,163.8105,125.2026"/>
+        </shape>
+    </region>
+    <region id="33">
+        <name value="Ramp33"/>
+        <shape type="rect">
+            <quad value="201.0126,238.09,205.0126,242.0898"/>
+        </shape>
+    </region>
+    <region id="34">
+        <name value="Ramp34"/>
+        <shape type="rect">
+            <quad value="171.8574,198.7458,176.0312,203.1635"/>
+        </shape>
+    </region>
+    <region id="35">
+        <name value="Ramp35"/>
+        <shape type="rect">
+            <quad value="211.0827,206.2204,215.0827,210.2202"/>
+        </shape>
+    </region>
+    <region id="36">
+        <name value="Ramp36"/>
+        <shape type="rect">
+            <quad value="63.9187,247.1083,67.9187,251.1081"/>
+        </shape>
+    </region>
+    <region id="37">
+        <name value="Ramp37"/>
+        <shape type="rect">
+            <quad value="50.163,72.9853,54.163,76.985"/>
+        </shape>
+    </region>
+    <region id="38">
+        <name value="Ramp38"/>
+        <shape type="rect">
+            <quad value="181.979,92.6765,186.1528,97.0942"/>
+        </shape>
+    </region>
+    <region id="39">
+        <name value="Ramp39"/>
+        <shape type="rect">
+            <quad value="168.842,82.0366,172.842,86.0363"/>
+        </shape>
+    </region>
+    <region id="40">
+        <name value="Ramp40"/>
+        <shape type="rect">
+            <quad value="188.882,118.0742,192.8818,122.0742"/>
+        </shape>
+    </region>
+    <region id="41">
+        <name value="Ramp41"/>
+        <shape type="rect">
+            <quad value="247.1113,195.9335,251.1113,199.9333"/>
+        </shape>
+    </region>
+    <region id="42">
+        <name value="Ramp42"/>
+        <shape type="rect">
+            <quad value="204.851,174.0068,208.851,178.0065"/>
+        </shape>
+    </region>
+    <region id="43">
+        <name value="Ramp43"/>
+        <shape type="rect">
+            <quad value="220.0881,191.2341,224.0881,195.234"/>
+        </shape>
+    </region>
+    <region id="44">
+        <name value="Ramp44"/>
+        <shape type="rect">
+            <quad value="189.9118,162.9301,193.9118,166.93"/>
+        </shape>
+    </region>
+    <region id="45">
+        <name value="Ramp45"/>
+        <shape type="rect">
+            <quad value="247.1362,168.0292,251.1362,172.029"/>
+        </shape>
+    </region>
+    <region id="46">
+        <name value="Ramp46"/>
+        <shape type="rect">
+            <quad value="230.9084,112.0402,234.9084,116.04"/>
+        </shape>
+    </region>
+    <region id="47">
+        <name value="Ramp47"/>
+        <shape type="rect">
+            <quad value="216.0427,37.1564,220.0427,41.1562"/>
+        </shape>
+    </region>
+    <region id="48">
+        <name value="Ramp48"/>
+        <shape type="rect">
+            <quad value="197.913,102.7912,202.087,107.209"/>
+        </shape>
+    </region>
+    <region id="49">
+        <name value="Ramp49"/>
+        <shape type="rect">
+            <quad value="144.9921,9.9094,148.9921,13.9091"/>
+        </shape>
+    </region>
+    <region id="50">
+        <name value="Ramp50"/>
+        <shape type="rect">
+            <quad value="191.001,138.0017,195.001,142.0014"/>
+        </shape>
+    </region>
+    <region id="51">
+        <name value="Ramp51"/>
+        <shape type="rect">
+            <quad value="241.0585,67.994,245.0585,71.9936"/>
+        </shape>
+    </region>
+    <region id="52">
+        <name value="Ramp52"/>
+        <shape type="rect">
+            <quad value="196.832,57.5895,201.0058,62.0073"/>
+        </shape>
+    </region>
+    <region id="53">
+        <name value="Ramp53"/>
+        <shape type="rect">
+            <quad value="14.708,237.5466,18.8818,241.9643"/>
+        </shape>
+    </region>
+    <region id="54">
+        <name value="Ramp54"/>
+        <shape type="rect">
+            <quad value="233.1884,23.6545,237.3623,28.0722"/>
+        </shape>
+    </region>
+    <region id="55">
+        <name value="Ramp55"/>
+        <shape type="rect">
+            <quad value="244.897,19.5803,248.897,23.58"/>
+        </shape>
+    </region>
+    <region id="56">
+        <name value="Ramp56"/>
+        <shape type="rect">
+            <quad value="202.7954,33.5976,206.9692,38.0153"/>
+        </shape>
+    </region>
+    <region id="57">
+        <name value="Ramp57"/>
+        <shape type="rect">
+            <quad value="165.9973,26.978,169.9973,30.9777"/>
+        </shape>
+    </region>
+    <region id="58">
+        <name value="Ramp58"/>
+        <shape type="rect">
+            <quad value="172.8955,69.5754,177.0693,73.9931"/>
+        </shape>
+    </region>
+    <region id="59">
+        <name value="Ramp59"/>
+        <shape type="rect">
+            <quad value="197.9584,46.8691,201.9584,50.869"/>
+        </shape>
+    </region>
+    <region id="60">
+        <name value="Ramp60"/>
+        <shape type="rect">
+            <quad value="181.0842,52.0742,185.0842,56.074"/>
+        </shape>
+    </region>
+    <region id="61">
+        <name value="Ramp61"/>
+        <shape type="rect">
+            <quad value="136.946,70.0783,140.946,74.0781"/>
+        </shape>
+    </region>
+    <region id="62">
+        <name value="Ramp62"/>
+        <shape type="rect">
+            <quad value="146.9118,64.045,151.0856,68.4626"/>
+        </shape>
+    </region>
+    <region id="63">
+        <name value="Ramp63"/>
+        <shape type="rect">
+            <quad value="130.9096,48.1008,134.9096,52.1005"/>
+        </shape>
+    </region>
+    <region id="64">
+        <name value="Ramp64"/>
+        <shape type="rect">
+            <quad value="154.9365,36.0842,158.9365,40.084"/>
+        </shape>
+    </region>
+    <region id="65">
+        <name value="Ramp65"/>
+        <shape type="rect">
+            <quad value="133.899,18.8806,138.0727,23.2983"/>
+        </shape>
+    </region>
+    <region id="66">
+        <name value="Ramp66"/>
+        <shape type="rect">
+            <quad value="121.071,10.1064,125.071,14.1062"/>
+        </shape>
+    </region>
+    <region id="67">
+        <name value="Ramp67"/>
+        <shape type="rect">
+            <quad value="99.8364,42.8271,104.0102,47.2448"/>
+        </shape>
+    </region>
+    <region id="68">
+        <name value="Ramp68"/>
+        <shape type="rect">
+            <quad value="241.0637,46.008,245.2375,50.4257"/>
+        </shape>
+    </region>
+    <region id="69">
+        <name value="Ramp69"/>
+        <shape type="rect">
+            <quad value="50.0556,56.556,54.2294,60.9736"/>
+        </shape>
+    </region>
+    <region id="70">
+        <name value="Ramp70"/>
+        <shape type="rect">
+            <quad value="113.051,64.0451,117.051,68.0451"/>
+        </shape>
+    </region>
+    <region id="71">
+        <name value="Ramp71"/>
+        <shape type="rect">
+            <quad value="55.0007,132.002,59.0007,136.0017"/>
+        </shape>
+    </region>
+    <region id="72">
+        <name value="Ramp72"/>
+        <shape type="rect">
+            <quad value="121.2597,180.057,125.2597,184.0566"/>
+        </shape>
+    </region>
+    <region id="73">
+        <name value="Ramp73"/>
+        <shape type="rect">
+            <quad value="55.9997,174.8784,60.1735,179.2961"/>
+        </shape>
+    </region>
+    <region id="74">
+        <name value="Ramp74"/>
+        <shape type="rect">
+            <quad value="65.7658,146.8427,69.9396,151.2604"/>
+        </shape>
+    </region>
+    <region id="75">
+        <name value="Ramp75"/>
+        <shape type="rect">
+            <quad value="82.9252,166.057,87.099,170.4746"/>
+        </shape>
+    </region>
+    <region id="76">
+        <name value="Ramp76"/>
+        <shape type="rect">
+            <quad value="75.932,199.2985,79.932,203.2983"/>
+        </shape>
+    </region>
+    <region id="77">
+        <name value="Ramp77"/>
+        <shape type="rect">
+            <quad value="10.3332,153.1701,14.3332,157.17"/>
+        </shape>
+    </region>
+    <region id="78">
+        <name value="Ramp78"/>
+        <shape type="rect">
+            <quad value="34.0566,67.0375,38.0566,71.0373"/>
+        </shape>
+    </region>
+    <region id="79">
+        <name value="Ramp79"/>
+        <shape type="rect">
+            <quad value="57.9804,56.8337,61.9804,60.8334"/>
+        </shape>
+    </region>
+    <region id="80">
+        <name value="Ramp80"/>
+        <shape type="rect">
+            <quad value="98.0541,25.0944,102.0541,29.0942"/>
+        </shape>
+    </region>
+    <region id="81">
+        <name value="Ramp81"/>
+        <shape type="rect">
+            <quad value="121.1367,94.0817,125.1367,98.0815"/>
+        </shape>
+    </region>
+    <region id="82">
+        <name value="Ramp82"/>
+        <shape type="rect">
+            <quad value="16.5544,52.2536,20.5544,56.2534"/>
+        </shape>
+    </region>
+    <region id="83">
+        <name value="Ramp83"/>
+        <shape type="rect">
+            <quad value="130.8315,94.2326,134.8315,98.2324"/>
+        </shape>
+    </region>
+    <region id="84">
+        <name value="Ramp84"/>
+        <shape type="rect">
+            <quad value="39.8361,55.1682,43.8361,59.168"/>
+        </shape>
+    </region>
+    <region id="85">
+        <name value="Ramp85"/>
+        <shape type="rect">
+            <quad value="92.0922,121.2316,96.0922,125.2314"/>
+        </shape>
+    </region>
+    <region id="86">
+        <name value="Ramp86"/>
+        <shape type="rect">
+            <quad value="110.0947,234.94,114.0947,238.9396"/>
+        </shape>
+    </region>
+    <region id="87">
+        <name value="Ramp87"/>
+        <shape type="rect">
+            <quad value="10.3916,167.9025,14.3916,171.9023"/>
+        </shape>
+    </region>
+    <region id="88">
+        <name value="Ramp88"/>
+        <shape type="rect">
+            <quad value="56.844,108.0756,61.0178,112.4934"/>
+        </shape>
+    </region>
+    <region id="89">
+        <name value="Ramp89"/>
+        <shape type="rect">
+            <quad value="88.1582,221.1416,92.1582,225.1413"/>
+        </shape>
+    </region>
+    <region id="90">
+        <name value="Ramp90"/>
+        <shape type="rect">
+            <quad value="139.2133,243.9223,143.2133,247.922"/>
+        </shape>
+    </region>
+    <region id="91">
+        <name value="Ramp91"/>
+        <shape type="rect">
+            <quad value="151.141,180.0317,155.141,184.0314"/>
+        </shape>
+    </region>
+    <region id="92">
+        <name value="Ramp92"/>
+        <shape type="rect">
+            <quad value="159.8564,130.9946,163.8564,134.9943"/>
+        </shape>
+    </region>
+    <region id="93">
+        <name value="Ramp93"/>
+        <shape type="rect">
+            <quad value="142.0388,189.0488,146.0388,193.0488"/>
+        </shape>
+    </region>
+    <region id="94">
+        <name value="Ramp94"/>
+        <shape type="rect">
+            <quad value="92.1125,131.0283,96.1125,135.028"/>
+        </shape>
+    </region>
+    <region id="95">
+        <name value="Ramp95"/>
+        <shape type="rect">
+            <quad value="20.9545,14.0988,24.9545,18.0986"/>
+        </shape>
+    </region>
+    <region id="96">
+        <name value="Ramp96"/>
+        <shape type="rect">
+            <quad value="6.9506,109.9125,10.9506,113.9123"/>
+        </shape>
+    </region>
+    <region id="97">
+        <name value="Ramp97"/>
+        <shape type="rect">
+            <quad value="29.115,103.9582,33.115,107.958"/>
+        </shape>
+    </region>
+    <region id="98">
+        <name value="Ramp98"/>
+        <shape type="rect">
+            <quad value="10.8496,178.0593,14.8496,182.059"/>
+        </shape>
+    </region>
+    <region id="99">
+        <name value="Ramp99"/>
+        <shape type="rect">
+            <quad value="66.085,127.1176,70.085,131.1174"/>
+        </shape>
+    </region>
+    <region id="100">
+        <name value="Ramp100"/>
+        <shape type="rect">
+            <quad value="81.9184,65.042,85.9184,69.0417"/>
+        </shape>
+    </region>
+    <region id="101">
+        <name value="Ramp101"/>
+        <shape type="rect">
+            <quad value="103.0895,69.917,107.0895,73.9167"/>
+        </shape>
+    </region>
+    <region id="102">
+        <name value="Ramp102"/>
+        <shape type="rect">
+            <quad value="120.983,157.9497,124.983,161.9494"/>
+        </shape>
+    </region>
+    <region id="103">
+        <name value="Ramp103"/>
+        <shape type="rect">
+            <quad value="185.1416,194.027,189.1416,198.0268"/>
+        </shape>
+    </region>
+    <region id="104">
+        <name value="Ramp104"/>
+        <shape type="rect">
+            <quad value="66.0341,217.0993,70.0341,221.099"/>
+        </shape>
+    </region>
+    <region id="105">
+        <name value="Ramp105"/>
+        <shape type="rect">
+            <quad value="46.057,204.8698,50.057,208.8696"/>
+        </shape>
+    </region>
+    <region id="106">
+        <name value="Ramp106"/>
+        <shape type="rect">
+            <quad value="84,41.0002,88,45"/>
+        </shape>
+    </region>
+    <region id="107">
+        <name value="Ramp107"/>
+        <shape type="rect">
+            <quad value="152.1384,46.9277,156.1384,50.9274"/>
+        </shape>
+    </region>
+    <region id="108">
+        <name value="Ramp108"/>
+        <shape type="rect">
+            <quad value="211.9782,23.1557,215.9782,27.1555"/>
+        </shape>
+    </region>
+    <region id="109">
+        <name value="Ramp109"/>
+        <shape type="rect">
+            <quad value="221.9333,48.9621,225.9333,52.962"/>
+        </shape>
+    </region>
+    <region id="110">
+        <name value="Ramp110"/>
+        <shape type="rect">
+            <quad value="223.0854,16.064,227.0854,20.0637"/>
+        </shape>
+    </region>
+    <region id="111">
+        <name value="Ramp111"/>
+        <shape type="rect">
+            <quad value="230.0017,66.9548,234.0017,70.9545"/>
+        </shape>
+    </region>
+    <region id="112">
+        <name value="Ramp112"/>
+        <shape type="rect">
+            <quad value="221.1452,77.9526,225.1452,81.9523"/>
+        </shape>
+    </region>
+    <region id="113">
+        <name value="Ramp113"/>
+        <shape type="rect">
+            <quad value="212.8823,104.017,216.8823,108.0168"/>
+        </shape>
+    </region>
+    <region id="114">
+        <name value="Ramp114"/>
+        <shape type="rect">
+            <quad value="210.0014,129.0512,214.0014,133.051"/>
+        </shape>
+    </region>
+    <region id="115">
+        <name value="Ramp115"/>
+        <shape type="rect">
+            <quad value="167.0695,184.0014,171.0695,188.0012"/>
+        </shape>
+    </region>
+    <region id="116">
+        <name value="Ramp116"/>
+        <shape type="rect">
+            <quad value="88.0478,247.109,92.0478,251.1086"/>
+        </shape>
+    </region>
+    <region id="117">
+        <name value="Ramp117"/>
+        <shape type="rect">
+            <quad value="207.9638,151.112,211.9638,155.1118"/>
+        </shape>
+    </region>
+    <region id="118">
+        <name value="Ramp118"/>
+        <shape type="rect">
+            <quad value="206.9243,84.0546,210.9243,88.0544"/>
+        </shape>
+    </region>
+    <region id="119">
+        <name value="Ramp119"/>
+        <shape type="rect">
+            <quad value="50.7761,194.0676,54.7761,198.0673"/>
+        </shape>
+    </region>
+    <region id="120">
+        <name value="Ramp120"/>
+        <shape type="rect">
+            <quad value="177.9465,11.15,181.9465,15.1496"/>
+        </shape>
+    </region>
+    <region id="121">
+        <name value="Ramp121"/>
+        <shape type="rect">
+            <quad value="36.9282,178.2568,40.9282,182.2565"/>
+        </shape>
+    </region>
+    <region id="122">
+        <name value="Ramp122"/>
+        <shape type="rect">
+            <quad value="185.0744,63.9821,189.0744,67.982"/>
+        </shape>
+    </region>
+    <region id="123">
+        <name value="Ramp123"/>
+        <shape type="rect">
+            <quad value="3.1391,18.5397,7.1391,22.5395"/>
+        </shape>
+    </region>
+    <region id="124">
+        <name value="Ramp124"/>
+        <shape type="rect">
+            <quad value="15.8908,224.9658,19.8908,228.9655"/>
+        </shape>
+    </region>
+    <region id="125">
+        <name value="Ramp125"/>
+        <shape type="rect">
+            <quad value="50.0437,28.9594,54.0437,32.9592"/>
+        </shape>
+    </region>
+    <region id="126">
+        <name value="Ramp126"/>
+        <shape type="rect">
+            <quad value="180.1428,39.13,184.1428,43.1296"/>
+        </shape>
+    </region>
+    <region id="127">
+        <name value="Ramp127"/>
+        <shape type="rect">
+            <quad value="29.8044,84.991,33.8044,88.9907"/>
+        </shape>
+    </region>
+    <region id="128">
+        <name value="Ramp128"/>
+        <shape type="rect">
+            <quad value="29.977,8.8957,33.977,12.8955"/>
+        </shape>
+    </region>
+    <region id="129">
+        <name value="Ramp129"/>
+        <shape type="rect">
+            <quad value="40.1745,13.087,44.1745,17.0866"/>
+        </shape>
+    </region>
+    <region id="130">
+        <name value="Ramp130"/>
+        <shape type="rect">
+            <quad value="83.9162,15.1125,87.9162,19.1123"/>
+        </shape>
+    </region>
+    <region id="131">
+        <name value="Ramp131"/>
+        <shape type="rect">
+            <quad value="79.0954,182.0546,83.0954,186.0544"/>
+        </shape>
+    </region>
+    <region id="132">
+        <name value="Ramp132"/>
+        <shape type="rect">
+            <quad value="56.9072,17.9045,61.081,22.3222"/>
+        </shape>
+    </region>
+    <region id="133">
+        <name value="Ramp133"/>
+        <shape type="rect">
+            <quad value="31.0456,126.005,35.0456,130.0046"/>
+        </shape>
+    </region>
+    <region id="134">
+        <name value="Ramp134"/>
+        <shape type="rect">
+            <quad value="202.0366,12.857,206.0366,16.8566"/>
+        </shape>
+    </region>
+    <region id="135">
+        <name value="Ramp135"/>
+        <shape type="rect">
+            <quad value="67.07,234.1513,71.07,237.38"/>
+        </shape>
+    </region>
+    <region id="136">
+        <name value="Ramp136"/>
+        <shape type="rect">
+            <quad value="130.9616,158.4606,134.9616,162.4604"/>
+        </shape>
+    </region>
+    <region id="137">
+        <name value="Ramp137"/>
+        <shape type="rect">
+            <quad value="26.0185,243.1354,30.0185,247.1352"/>
+        </shape>
+    </region>
+    <region id="138">
+        <name value="Ramp138"/>
+        <shape type="rect">
+            <quad value="61.1853,18.1035,65.1853,22.1032"/>
+        </shape>
+    </region>
+    <region id="139">
+        <name value="Ramp139"/>
+        <shape type="rect">
+            <quad value="108.008,247.1896,112.008,251.1896"/>
+        </shape>
+    </region>
+    <region id="140">
+        <name value="Ramp140"/>
+        <shape type="rect">
+            <quad value="167.0356,228.0834,171.0356,232.0832"/>
+        </shape>
+    </region>
+    <region id="141">
+        <name value="Ramp141"/>
+        <shape type="rect">
+            <quad value="162.8376,239.9897,166.8376,243.9895"/>
+        </shape>
+    </region>
+    <region id="142">
+        <name value="Ramp142"/>
+        <shape type="rect">
+            <quad value="222.1071,247.089,226.1071,251.0888"/>
+        </shape>
+    </region>
+    <region id="143">
+        <name value="Ramp143"/>
+        <shape type="rect">
+            <quad value="233.9738,247.1967,237.9738,251.1965"/>
+        </shape>
+    </region>
+    <region id="144">
+        <name value="Ramp144"/>
+        <shape type="rect">
+            <quad value="244.1472,219.114,248.1472,223.1137"/>
+        </shape>
+    </region>
+    <region id="145">
+        <name value="Ramp145"/>
+        <shape type="rect">
+            <quad value="247.045,122.0776,251.045,126.0773"/>
+        </shape>
+    </region>
+    <region id="146">
+        <name value="Ramp146"/>
+        <shape type="rect">
+            <quad value="240.9897,206.0231,244.9897,210.023"/>
+        </shape>
+    </region>
+    <region id="147">
+        <name value="Ramp147"/>
+        <shape type="rect">
+            <quad value="235.0717,142.0493,239.0717,146.049"/>
+        </shape>
+    </region>
+    <region id="148">
+        <name value="Ramp148"/>
+        <shape type="rect">
+            <quad value="241.1113,86.0183,245.1113,90.018"/>
+        </shape>
+    </region>
+    <region id="149">
+        <name value="Ramp149"/>
+        <shape type="rect">
+            <quad value="22.923,131.9968,26.923,135.9965"/>
+        </shape>
+    </region>
+    <region id="150">
+        <name value="Ramp150"/>
+        <shape type="rect">
+            <quad value="11.8942,18.6777,15.8942,22.6777"/>
+        </shape>
+    </region>
+    <region id="151">
+        <name value="Ramp151"/>
+        <shape type="rect">
+            <quad value="45.136,238.0036,49.136,242.0034"/>
+        </shape>
+    </region>
+    <region id="152">
+        <name value="Ramp152"/>
+        <shape type="rect">
+            <quad value="129.984,35.0053,133.984,39.0051"/>
+        </shape>
+    </region>
+    <region id="153">
+        <name value="MapBoundary"/>
+        <color value="255,128,128,255"/>
+        <shape type="rect">
+            <negative/>
+            <quad value="3.8801,3.56,253.8801,253.56"/>
+        </shape>
+        <shape type="rect">
+            <quad value="3.3801,3.06,254.3801,254.06"/>
+        </shape>
+    </region>
+    <region id="154">
+        <name value="MapBoundary1"/>
+        <shape type="rect">
+            <negative/>
+            <quad value="2.3376,2.0051,253.3376,253.0051"/>
+        </shape>
+        <shape type="rect">
+            <quad value="1.8376,1.5051,253.8376,253.5051"/>
+        </shape>
+    </region>
+    <region id="155">
+        <name value="MapBoundary2"/>
+        <shape type="rect">
+            <quad value="0.0002,0,256,256"/>
+        </shape>
+        <shape type="rect">
+            <negative/>
+            <quad value="2,2,254,254"/>
+        </shape>
+    </region>
+    <region id="156">
+        <name value="Ramp153"/>
+        <shape type="rect">
+            <quad value="30.9587,109.904,34.9587,113.9038"/>
+        </shape>
+    </region>
+    <region id="157">
+        <name value="Ramp154"/>
+        <shape type="rect">
+            <quad value="42.0327,123.0686,46.0327,127.0683"/>
+        </shape>
+    </region>
+    <region id="158">
+        <name value="Ramp155"/>
+        <shape type="rect">
+            <quad value="7.519,18.6364,11.519,22.6364"/>
+        </shape>
+    </region>
+    <region id="159">
+        <name value="Ramp156"/>
+        <shape type="rect">
+            <quad value="78.0742,12.895,82.0742,16.8947"/>
+        </shape>
+    </region>
+    <region id="160">
+        <name value="Ramp157"/>
+        <shape type="rect">
+            <quad value="63.0637,234.156,67.0637,237.3845"/>
+        </shape>
+    </region>
+    <region id="161">
+        <name value="Ramp158"/>
+        <shape type="rect">
+            <quad value="74.6665,242.7897,78.6665,246.0183"/>
+        </shape>
+    </region>
+    <region id="162">
+        <name value="Ramp159"/>
+        <shape type="rect">
+            <quad value="24.7551,52.3496,28.7551,56.3493"/>
+        </shape>
+    </region>
+    <region id="163">
+        <name value="Ramp160"/>
+        <shape type="rect">
+            <quad value="29.0954,42.0856,33.0954,46.0854"/>
+        </shape>
+    </region>
+    <region id="164">
+        <name value="Ramp0"/>
+        <shape type="rect">
+            <quad value="226.9033,112.091,230.9033,116.0908"/>
+        </shape>
+    </region>
+    <region id="165">
+        <name value="Tutorial Economy (Vertical) 01"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="137.3623,54.531,141.362,66.531"/>
+        </shape>
+    </region>
+    <region id="166">
+        <name value="Tutorial Economy (Vertical) 02"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="204.955,147.7717,208.9548,159.7717"/>
+        </shape>
+    </region>
+    <region id="167">
+        <name value="Tutorial Economy (Vertical) 03"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="78.0168,67.1271,82.0166,79.1271"/>
+        </shape>
+    </region>
+    <region id="168">
+        <name value="Tutorial Outpost (Unit) 01"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="210.3591,13.5815"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="169">
+        <name value="Tutorial Outpost (Unit) 02"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="162.5004,70.001"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="170">
+        <name value="Tutorial Outpost (Unit) 03"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="48.4584,93.128"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="171">
+        <name value="Tutorial Outpost (Unit) 04"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="62.559,199.0861"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="172">
+        <name value="Tutorial Patrol"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="183.479,20.0881,186.7233,38.9755"/>
+        </shape>
+    </region>
+    <region id="173">
+        <name value="Tutorial Escape Scenario"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="169.9147,46.9,180.1032,53.1503"/>
+        </shape>
+    </region>
+    <region id="174">
+        <name value="Tutorial Economy (Horizontal) 01"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="96.8405,243.2595,108.8405,247.2592"/>
+        </shape>
+    </region>
+    <region id="175">
+        <name value="Tutorial Outpost (Unit) 06"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="240.7622,130.6528"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="176">
+        <name value="Tutorial Outpost (Unit) 07"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="226.4523,195.6281"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="177">
+        <name value="Tutorial Outpost (Unit) 08"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="60.0288,17.6267"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="178">
+        <name value="Tutorial Outpost (Unit) 09"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="38.6423,47.2883"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="179">
+        <name value="Tutorial Outpost (Unit) 10"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="181.6796,170.986"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="180">
+        <name value="Tutorial Outpost (Corner) 01"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="48.9824,230.901,49.9824,231.9006"/>
+        </shape>
+    </region>
+    <region id="181">
+        <name value="Tutorial Outpost (Corner) 02"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="51.4545,221.7067,52.4545,222.7065"/>
+        </shape>
+    </region>
+    <region id="182">
+        <name value="Tutorial Outpost (Corner) 03"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="20.3198,208.6628,21.3198,209.6625"/>
+        </shape>
+    </region>
+    <region id="183">
+        <name value="Tutorial Outpost (Corner) 04"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="91.2526,181.418,92.2526,182.4177"/>
+        </shape>
+    </region>
+    <region id="184">
+        <name value="Tutorial Outpost (Corner) 05"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="159.0046,43.0197,160.0046,44.0195"/>
+        </shape>
+    </region>
+    <region id="185">
+        <name value="Tutorial Outpost (Corner) 06"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="143.3002,27.672,144.3002,28.6718"/>
+        </shape>
+    </region>
+    <region id="186">
+        <name value="Tutorial Outpost (Corner) 07"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="170.172,72.497,171.172,73.4968"/>
+        </shape>
+    </region>
+    <region id="187">
+        <name value="Tutorial Outpost (Corner) 08"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="218.194,114.5334,219.194,115.5332"/>
+        </shape>
+    </region>
+    <region id="188">
+        <name value="Tutorial Outpost (Corner) 09"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="237.7197,147.0803,238.7197,148.08"/>
+        </shape>
+    </region>
+    <region id="189">
+        <name value="Tutorial Outpost (Corner) 10"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="244.6748,224.2827,245.6748,225.2824"/>
+        </shape>
+    </region>
+    <region id="190">
+        <name value="Tutorial Outpost (Corner) 11"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="220.0283,159.9692,221.0283,160.969"/>
+        </shape>
+    </region>
+    <region id="191">
+        <name value="Tutorial Outpost (Corner) 13"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="217.1047,218.068,218.1047,219.0678"/>
+        </shape>
+    </region>
+    <region id="192">
+        <name value="Tutorial Outpost (Corner) 14"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="133.85,221.5278,134.85,222.5275"/>
+        </shape>
+    </region>
+    <region id="193">
+        <name value="Tutorial Economy (Vertical) 05"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="162.7932,24.213,166.793,36.213"/>
+        </shape>
+    </region>
+    <region id="194">
+        <name value="Tutorial Economy (Vertical) 06"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="53.4584,34.12,57.4582,46.12"/>
+        </shape>
+    </region>
+    <region id="195">
+        <name value="Tutorial Economy (Vertical) 07"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="38.7316,112.094,42.7314,124.094"/>
+        </shape>
+    </region>
+    <region id="196">
+        <name value="Tutorial Economy (Vertical) 08"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="49.3498,201.7324,53.3496,213.7324"/>
+        </shape>
+    </region>
+    <region id="197">
+        <name value="Tutorial Economy (Vertical) 10"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="166.7468,188.2863,170.7465,200.2863"/>
+        </shape>
+    </region>
+    <region id="198">
+        <name value="Tutorial Economy (Vertical) 11"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="213.1767,212.3806,217.1765,224.3806"/>
+        </shape>
+    </region>
+    <region id="199">
+        <name value="Tutorial Economy (Vertical) 13"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="179.2495,92.2846,183.2492,104.2846"/>
+        </shape>
+    </region>
+    <region id="200">
+        <name value="Tutorial Economy (Vertical) 15"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="120.1145,53.8874,124.1142,65.8874"/>
+        </shape>
+    </region>
+    <region id="201">
+        <name value="Tutorial Economy (Horizontal) 06"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="68.4863,51.0646,80.4863,55.0644"/>
+        </shape>
+    </region>
+    <region id="202">
+        <name value="Tutorial Economy (Horizontal) 07"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="28.045,75.058,40.045,79.0578"/>
+        </shape>
+    </region>
+    <region id="203">
+        <name value="Tutorial Economy (Vertical) 16"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="81.0468,24.9328,85.0466,36.9328"/>
+        </shape>
+    </region>
+    <region id="204">
+        <name value="Tutorial Outpost (Unit) 11"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="61.8745,176.169"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="205">
+        <name value="Tutorial Outpost (Unit) 12"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="57.731,112.9001"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="206">
+        <name value="Tutorial Outpost (Unit) 13"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="215.45,77.278"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="207">
+        <name value="Tutorial Outpost (Unit) 14"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="188.6997,68.5815"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="208">
+        <name value="Tutorial Outpost (Unit) 15"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="185.0368,227.4675"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="209">
+        <name value="Tutorial Outpost (Corner) 15"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="57.9272,56.9721,58.9272,57.972"/>
+        </shape>
+    </region>
+    <region id="210">
+        <name value="Tutorial Outpost (Corner) 16"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="81,47.0002,82,48"/>
+        </shape>
+    </region>
+    <region id="211">
+        <name value="Tutorial Outpost (Corner) 17"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="101.0231,47.0412,102.0231,48.041"/>
+        </shape>
+    </region>
+    <region id="212">
+        <name value="Tutorial Outpost (Corner) 18"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="10.0063,58.0151,11.0063,59.015"/>
+        </shape>
+    </region>
+    <region id="213">
+        <name value="Tutorial Outpost (Corner) 19"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="25.5,13.5002,26.5,14.5"/>
+        </shape>
+    </region>
+    <region id="214">
+        <name value="Tutorial Outpost (Corner) 20"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="237.052,17.5915,238.052,18.5913"/>
+        </shape>
+    </region>
+    <region id="215">
+        <name value="Tutorial Outpost (Corner) 21"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="244.6872,232.9584,245.6872,233.9582"/>
+        </shape>
+    </region>
+    <region id="216">
+        <name value="Tutorial Outpost (Unit) 16"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="203.1474,56.7934"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="217">
+        <name value="Tutorial Outpost (Unit) 17"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="13.19,151.1906"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="218">
+        <name value="Tutorial Outpost (Unit) 19"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="215.0178,138.9116"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="219">
+        <name value="Tutorial Outpost (Unit) 20"/>
+        <color value="255,255,255,128"/>
+        <shape type="circle">
+            <center value="169.582,87.151"/>
+            <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="220">
+        <name value="Tutorial Initial Eco (1)"/>
+        <shape type="rect">
+            <quad value="201.31,76.444,205.1157,84.3652"/>
+        </shape>
+    </region>
+    <region id="221">
+        <name value="Tutorial Initial Eco (2)"/>
+        <shape type="rect">
+            <quad value="225.2653,161.6647,229.071,169.586"/>
+        </shape>
+    </region>
+    <region id="222">
+        <name value="Tutorial Initial Eco (3)"/>
+        <shape type="rect">
+            <quad value="12.884,223.6958,16.6896,231.617"/>
+        </shape>
+    </region>
+</Regions>
