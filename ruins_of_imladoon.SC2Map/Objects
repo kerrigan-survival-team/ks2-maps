@@ -3,37 +3,37 @@
     <ObjectDoodad Id="584199238" Variation="6" Position="134.5,223,1.9987" Rotation="0.9194" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="26444846" Variation="6" Position="141,221,1.9987" Rotation="5.2675" Scale="1,1,1" Type="Shakuras_TallGrass">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1881526356" Variation="3" Position="120,248,1.999" Rotation="3.658" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1868509608" Position="127.5,222.5,1.999" Rotation="0.2607" Scale="1,1,1" Type="Shakuras_TallGrass">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1038293543" Variation="5" Position="131,250,1.9987" Rotation="5.9113" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="26444846" Variation="6" Position="141,221,1.9987" Rotation="5.2675" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="502449572" Variation="2" Position="129,248,1.9987" Rotation="6.0468" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="493141654" Variation="5" Position="110.5,221,1.9987" Rotation="2.4306" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="1038293543" Variation="5" Position="131,250,1.9987" Rotation="5.9113" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1433587425" Variation="3" Position="122.5,222,1.999" Rotation="1.8901" Scale="1,1,1" Type="Shakuras_TallGrass">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1888140050" Variation="2" Position="199,5,1.9992" Rotation="5.1843" Scale="1.0456,1.0456,1.0456" Type="Slayn_TallGrass">
+    <ObjectDoodad Id="1868509608" Position="127.5,222.5,1.999" Rotation="0.2607" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1452244004" Variation="1" Position="223,150,8.0214" Rotation="2.356" Scale="0.5,0.5,0.5" Type="Shakuras_Platform">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2093038676" Variation="6" Position="131,222,1.9987" Rotation="4.5351" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="1888140050" Variation="2" Position="199,5,1.9992" Rotation="5.1843" Scale="1.0456,1.0456,1.0456" Type="Slayn_TallGrass">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1433587425" Variation="3" Position="122.5,222,1.999" Rotation="1.8901" Scale="1,1,1" Type="Shakuras_TallGrass">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="493141654" Variation="5" Position="110.5,221,1.9987" Rotation="2.4306" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="85362296" Variation="5" Position="119.5,250,1.999" Rotation="6.0634" Scale="1,1,1" Type="Shakuras_TallGrass">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2093038676" Variation="6" Position="131,222,1.9987" Rotation="4.5351" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="298725146" Variation="3" Position="199,9,1.9992" Rotation="0.0671" Scale="0.9658,0.9658,0.9658" Type="Slayn_TallGrass">
@@ -51,22 +51,22 @@
     <ObjectDoodad Id="1297114261" Variation="1" Position="33,90,4.0224" Rotation="2.356" Scale="0.5,0.5,0.5" Type="Shakuras_Platform">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="348633632" Variation="3" Position="142.5,222.5,1.9987" Rotation="1.0454" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="529180429" Variation="3" Position="126.5,224.5,1.9987" Rotation="3.0886" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1929432181" Variation="4" Position="123.5,223.5,1.9987" Rotation="2.75" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="529180429" Variation="3" Position="126.5,224.5,1.9987" Rotation="3.0886" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="348633632" Variation="3" Position="142.5,222.5,1.9987" Rotation="1.0454" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="830924550" Variation="5" Position="127,226,1.9987" Rotation="3.2761" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="97903122" Variation="1" Position="128,227.5,1.9987" Rotation="5.3591" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="1438418746" Variation="1" Position="126.5,248,1.9987" Rotation="0.1271" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1438418746" Variation="1" Position="126.5,248,1.9987" Rotation="0.1271" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="97903122" Variation="1" Position="128,227.5,1.9987" Rotation="5.3591" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1440441377" Variation="1" Position="116,4,11.999" Rotation="1.5705" Scale="1,1,1" Type="Aiur_City_Archway_Large_Abandoned">
@@ -76,22 +76,22 @@
     <ObjectDoodad Id="685600927" Variation="7" Position="121.5,248,1.999" Rotation="3.9472" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="229047174" Variation="3" Position="139.5,222,1.9987" Rotation="3.166" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="1358784411" Position="128.5,125.5,7.999" Scale="1,1,1" Type="TarsonisArrow">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1165402350" Position="124.5,125.5,7.999" Rotation="3.1413" Scale="1,1,1" Type="TarsonisArrow">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1358784411" Position="128.5,125.5,7.999" Scale="1,1,1" Type="TarsonisArrow">
+    <ObjectDoodad Id="229047174" Variation="3" Position="139.5,222,1.9987" Rotation="3.166" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="692117450" Position="131,223.5,1.9987" Rotation="4.295" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1957042473" Variation="7" Position="129,242,1.9987" Rotation="0.8295" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="1077702365" Position="122.5,125.5,7.999" Rotation="3.1413" Scale="1,1,1" Type="TarsonisArrow">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1077702365" Position="122.5,125.5,7.999" Rotation="3.1413" Scale="1,1,1" Type="TarsonisArrow">
+    <ObjectDoodad Id="1957042473" Variation="7" Position="129,242,1.9987" Rotation="0.8295" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1546580345" Variation="2" Position="127.5,234.5,1.9987" Rotation="1.852" Scale="1,1,1" Type="Shakuras_TallGrass">
@@ -100,29 +100,29 @@
     <ObjectDoodad Id="1873858963" Variation="2" Position="115.5,223,1.9987" Rotation="3.4426" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1638139995" Variation="5" Position="127,227.5,1.9987" Rotation="2.4787" Scale="1,1,1" Type="Shakuras_TallGrass">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1900028476" Position="125.5,125.5,7.999" Rotation="3.1413" Scale="1,1,1" Type="TarsonisArrow">
+    <ObjectDoodad Id="1350497705" Variation="3" Position="121,225.5,1.9997" Scale="1,1,1" Type="Shakuras_Temple_Pillar_Small">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="585306723" Position="121,226,1.9997" Scale="0.8498,0.8498,0.8498" Type="PathingandSightBlocker2x2Doodad">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1350497705" Variation="3" Position="121,225.5,1.9997" Scale="1,1,1" Type="Shakuras_Temple_Pillar_Small">
+    <ObjectDoodad Id="1900028476" Position="125.5,125.5,7.999" Rotation="3.1413" Scale="1,1,1" Type="TarsonisArrow">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="945368751" Variation="1" Position="36.5,128,5.999" Rotation="1.5705" Scale="2.5998,2.5998,2.5998" Type="Aiur_City_Archway_Large_Abandoned">
+    <ObjectDoodad Id="1638139995" Variation="5" Position="127,227.5,1.9987" Rotation="2.4787" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="977630584" Variation="5" Position="117,221,1.999" Rotation="0.156" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="606362585" Variation="1" Position="140.5,4,11.999" Rotation="1.5705" Scale="1,1,1" Type="Aiur_City_Archway_Large_Abandoned">
-        <Flag Index="HeightOffset" Value="1"/>
+    <ObjectDoodad Id="945368751" Variation="1" Position="36.5,128,5.999" Rotation="1.5705" Scale="2.5998,2.5998,2.5998" Type="Aiur_City_Archway_Large_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="526373354" Position="112.5,223.5,1.999" Rotation="5.6015" Scale="1,1,1" Type="Shakuras_TallGrass">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="606362585" Variation="1" Position="140.5,4,11.999" Rotation="1.5705" Scale="1,1,1" Type="Aiur_City_Archway_Large_Abandoned">
+        <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="976815142" Variation="3" Position="134,242.5,2" Scale="1,1,1" Type="Shakuras_Temple_Pillar_Small">
@@ -146,19 +146,19 @@
     <ObjectDoodad Id="107419655" Variation="4" Position="127,221,1.999" Rotation="4.4638" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1428188617" Variation="3" Position="117,223,1.9987" Rotation="2.6357" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="1720976844" Variation="3" Position="135,225.5,1.9997" Scale="1,1,1" Type="Shakuras_Temple_Pillar_Small">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1720976844" Variation="3" Position="135,225.5,1.9997" Scale="1,1,1" Type="Shakuras_Temple_Pillar_Small">
+    <ObjectDoodad Id="1428188617" Variation="3" Position="117,223,1.9987" Rotation="2.6357" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="17719548" Variation="6" Position="129,227,1.9987" Rotation="2.4426" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="721247911" Variation="1" Position="26.5,128.5,7.999" Rotation="1.5705" Scale="2.5998,2.5998,2.5998" Type="Aiur_City_Archway_Large_Abandoned">
+    <ObjectDoodad Id="1210413956" Variation="1" Position="33,166,4.0224" Rotation="2.356" Scale="0.5,0.5,0.5" Type="Shakuras_Platform">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1210413956" Variation="1" Position="33,166,4.0224" Rotation="2.356" Scale="0.5,0.5,0.5" Type="Shakuras_Platform">
+    <ObjectDoodad Id="721247911" Variation="1" Position="26.5,128.5,7.999" Rotation="1.5705" Scale="2.5998,2.5998,2.5998" Type="Aiur_City_Archway_Large_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1491096195" Variation="4" Position="126.5,222.5,1.999" Rotation="3.272" Scale="1,1,1" Type="Shakuras_TallGrass">
@@ -170,31 +170,31 @@
     <ObjectDoodad Id="554163696" Variation="5" Position="201,13,1.9992" Rotation="5.2563" Scale="0.9592,0.9592,0.9592" Type="Slayn_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="114733443" Variation="6" Position="129,232,1.9987" Rotation="2.1267" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="1444269713" Variation="1" Position="33,150,8.0214" Rotation="2.356" Scale="0.5,0.5,0.5" Type="Shakuras_Platform">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2122793042" Variation="1" Position="223,158,6.022" Rotation="2.356" Scale="0.5,0.5,0.5" Type="Shakuras_Platform">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1444269713" Variation="1" Position="33,150,8.0214" Rotation="2.356" Scale="0.5,0.5,0.5" Type="Shakuras_Platform">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="838232575" Variation="5" Position="129,223,1.9987" Rotation="4.0932" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="114733443" Variation="6" Position="129,232,1.9987" Rotation="2.1267" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="58837661" Variation="5" Position="127,246,1.9987" Rotation="1.1787" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="23583161" Variation="3" Position="127.5,224.5,1.9987" Rotation="5.092" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="838232575" Variation="5" Position="129,223,1.9987" Rotation="4.0932" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1263053329" Variation="3" Position="119,247.5,1.999" Rotation="2.2363" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="784481015" Variation="1" Position="17,128,9.499" Rotation="1.5705" Scale="2.5998,2.5998,2.5998" Type="Aiur_City_Archway_Large_Abandoned">
+    <ObjectDoodad Id="23583161" Variation="3" Position="127.5,224.5,1.9987" Rotation="5.092" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1282151370" Position="127.5,125.5,7.999" Rotation="3.1413" Scale="1,1,1" Type="TarsonisArrow">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="784481015" Variation="1" Position="17,128,9.499" Rotation="1.5705" Scale="2.5998,2.5998,2.5998" Type="Aiur_City_Archway_Large_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="576381845" Variation="3" Position="137.5,223.5,1.999" Rotation="0.2841" Scale="1,1,1" Type="Shakuras_TallGrass">
@@ -219,22 +219,22 @@
     <ObjectDoodad Id="2051666321" Position="201,11,1.9992" Rotation="5.7983" Scale="1.0244,1.0244,1.0244" Type="Slayn_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="114661888" Position="128,20,11.999" Rotation="1.5705" Scale="1,1,1" Type="Aiur_LightBridgeBase_Destroyed">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="768962550" Position="128,238,1.9987" Rotation="1.1486" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="2116680026" Variation="1" Position="223,98,6.022" Rotation="2.356" Scale="0.5,0.5,0.5" Type="Shakuras_Platform">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="726974873" Variation="5" Position="137,250,1.999" Rotation="1.102" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2116680026" Variation="1" Position="223,98,6.022" Rotation="2.356" Scale="0.5,0.5,0.5" Type="Shakuras_Platform">
+    <ObjectDoodad Id="768962550" Position="128,238,1.9987" Rotation="1.1486" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1686135975" Variation="2" Position="127.5,233.5,1.9987" Rotation="5.7622" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="114661888" Position="128,20,11.999" Rotation="1.5705" Scale="1,1,1" Type="Aiur_LightBridgeBase_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1484084399" Variation="5" Position="127,250,1.9987" Rotation="2.382" Scale="1,1,1" Type="Shakuras_TallGrass">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1686135975" Variation="2" Position="127.5,233.5,1.9987" Rotation="5.7622" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1837699078" Variation="1" Position="137,4,11.999" Rotation="1.5705" Scale="1,1,1" Type="Aiur_City_Archway_Large_Abandoned">
@@ -259,19 +259,19 @@
     <ObjectDoodad Id="1476076804" Variation="4" Position="201,5,1.9992" Rotation="0.4833" Scale="1.0024,1.0024,1.0024" Type="Slayn_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="685030563" Variation="5" Position="127,231.5,1.9987" Rotation="5.3896" Scale="1,1,1" Type="Shakuras_TallGrass">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1970401659" Variation="7" Position="127,240,1.9987" Rotation="2.3532" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="126420334" Variation="3" Position="139.5,223.5,1.999" Rotation="1.1032" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="685030563" Variation="5" Position="127,231.5,1.9987" Rotation="5.3896" Scale="1,1,1" Type="Shakuras_TallGrass">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="789719221" Position="126.5,125.5,7.999" Rotation="3.1413" Scale="1,1,1" Type="TarsonisArrow">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1803159471" Position="121.5,125.5,7.999" Rotation="3.1413" Scale="1,1,1" Type="TarsonisArrow">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="789719221" Position="126.5,125.5,7.999" Rotation="3.1413" Scale="1,1,1" Type="TarsonisArrow">
+    <ObjectDoodad Id="126420334" Variation="3" Position="139.5,223.5,1.999" Rotation="1.1032" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="701387456" Variation="6" Position="119,223,1.9987" Rotation="0.3791" Scale="1,1,1" Type="Shakuras_TallGrass">
@@ -298,10 +298,10 @@
     <ObjectDoodad Id="1007747637" Position="199,7,1.9992" Rotation="4.8757" Scale="0.9621,0.9621,0.9621" Type="Slayn_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1863013696" Variation="1" Position="199,13,1.9992" Rotation="5.218" Scale="1.0346,1.0346,1.0346" Type="Slayn_TallGrass">
+    <ObjectDoodad Id="649074221" Position="123.5,125.5,7.999" Rotation="3.1413" Scale="1,1,1" Type="TarsonisArrow">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="649074221" Position="123.5,125.5,7.999" Rotation="3.1413" Scale="1,1,1" Type="TarsonisArrow">
+    <ObjectDoodad Id="1863013696" Variation="1" Position="199,13,1.9992" Rotation="5.218" Scale="1.0346,1.0346,1.0346" Type="Slayn_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1018360321" Variation="5" Position="129,234,1.9987" Rotation="3.7856" Scale="1,1,1" Type="Shakuras_TallGrass">
@@ -331,10 +331,10 @@
     <ObjectDoodad Id="1065818618" Position="129.5,125.5,7.999" Scale="1,1,1" Type="TarsonisArrow">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="537797116" Variation="5" Position="129,221,1.9987" Rotation="0.5964" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="876718421" Variation="1" Position="33,106,8.0214" Rotation="2.356" Scale="0.5,0.5,0.5" Type="Shakuras_Platform">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="876718421" Variation="1" Position="33,106,8.0214" Rotation="2.356" Scale="0.5,0.5,0.5" Type="Shakuras_Platform">
+    <ObjectDoodad Id="537797116" Variation="5" Position="129,221,1.9987" Rotation="0.5964" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="750042622" Variation="3" Position="113.5,220.5,1.999" Rotation="3.8171" Scale="1,1,1" Type="Shakuras_TallGrass">
@@ -352,10 +352,10 @@
     <ObjectDoodad Id="821244244" Position="123,218,2" Scale="0.8498,0.8498,0.8498" Type="PathingandSightBlocker2x2Doodad">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2063292486" Variation="3" Position="136,222.5,1.9987" Rotation="0.9313" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="217291837" Variation="3" Position="126.5,238.5,1.9987" Rotation="2.8833" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="217291837" Variation="3" Position="126.5,238.5,1.9987" Rotation="2.8833" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="2063292486" Variation="3" Position="136,222.5,1.9987" Rotation="0.9313" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="375277715" Variation="6" Position="129,230,1.9987" Rotation="3.0812" Scale="1,1,1" Type="Shakuras_TallGrass">
@@ -364,10 +364,10 @@
     <ObjectDoodad Id="308796497" Variation="1" Position="129,240,1.9987" Rotation="3.7873" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1908947421" Variation="3" Position="127,237.5,1.9987" Rotation="3.674" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="916195564" Variation="1" Position="223,106,8.0214" Rotation="2.356" Scale="0.5,0.5,0.5" Type="Shakuras_Platform">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="916195564" Variation="1" Position="223,106,8.0214" Rotation="2.356" Scale="0.5,0.5,0.5" Type="Shakuras_Platform">
+    <ObjectDoodad Id="1908947421" Variation="3" Position="127,237.5,1.9987" Rotation="3.674" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="728176394" Variation="2" Position="127.5,248,1.9987" Rotation="0.0178" Scale="1,1,1" Type="Shakuras_TallGrass">
@@ -418,19 +418,19 @@
     <ObjectDoodad Id="584859143" Position="130.5,125.5,7.999" Scale="1,1,1" Type="TarsonisArrow">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1322788718" Variation="3" Position="142,223.5,1.999" Rotation="1.3786" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="1453653080" Variation="5" Position="133,250,1.9987" Rotation="1.0895" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1475734889" Variation="6" Position="115,221,1.999" Rotation="1.2585" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1453653080" Variation="5" Position="133,250,1.9987" Rotation="1.0895" Scale="1,1,1" Type="Shakuras_TallGrass">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1946706275" Variation="7" Position="145,221,1.9987" Rotation="2.0422" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="1322788718" Variation="3" Position="142,223.5,1.999" Rotation="1.3786" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="887457748" Variation="1" Position="127.5,249,1.9987" Rotation="3.4335" Scale="1,1,1" Type="Shakuras_TallGrass">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1946706275" Variation="7" Position="145,221,1.9987" Rotation="2.0422" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="635747566" Variation="2" Position="129.5,246,1.9987" Rotation="5.912" Scale="1,1,1" Type="Shakuras_TallGrass">
@@ -442,10 +442,10 @@
     <ObjectDoodad Id="1243727129" Variation="7" Position="143,221.5,1.9987" Rotation="2.8371" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="600919416" Variation="3" Position="143.5,223.5,1.999" Rotation="1.336" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="1383700333" Variation="2" Position="133,222,1.9987" Rotation="2.0744" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1383700333" Variation="2" Position="133,222,1.9987" Rotation="2.0744" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="600919416" Variation="3" Position="143.5,223.5,1.999" Rotation="1.336" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1332658494" Position="134.5,125.5,7.999" Scale="1,1,1" Type="TarsonisArrow">
@@ -454,19 +454,19 @@
     <ObjectDoodad Id="375816590" Variation="1" Position="123.5,247.5,1.999" Rotation="4.3073" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1293098880" Variation="5" Position="135,221,1.9987" Rotation="0.2766" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="883590166" Position="135.5,125.5,7.999" Scale="1,1,1" Type="TarsonisArrow">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1529724220" Variation="5" Position="129,250,1.9987" Rotation="4.259" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="883590166" Position="135.5,125.5,7.999" Scale="1,1,1" Type="TarsonisArrow">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="524329409" Variation="1" Position="124.5,223,1.9987" Rotation="3.9787" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="1293098880" Variation="5" Position="135,221,1.9987" Rotation="0.2766" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="872049532" Variation="3" Position="201,9,1.9992" Rotation="2.3666" Scale="1.0354,1.0354,1.0354" Type="Slayn_TallGrass">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="524329409" Variation="1" Position="124.5,223,1.9987" Rotation="3.9787" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1836427224" Variation="4" Position="133,223,1.9987" Rotation="2.918" Scale="1,1,1" Type="Shakuras_TallGrass">
@@ -478,19 +478,19 @@
     <ObjectDoodad Id="1701052021" Variation="6" Position="145,223,1.9987" Rotation="1.1247" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1265656867" Variation="4" Position="132.5,221,1.9987" Rotation="0.6748" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="152269786" Variation="3" Position="122,242.5,2" Scale="1,1,1" Type="Shakuras_Temple_Pillar_Small">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="640495041" Variation="2" Position="128,223.5,1.9987" Rotation="5.0546" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="152269786" Variation="3" Position="122,242.5,2" Scale="1,1,1" Type="Shakuras_Temple_Pillar_Small">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1328968684" Variation="6" Position="131,248,1.9987" Rotation="6.2233" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="1265656867" Variation="4" Position="132.5,221,1.9987" Rotation="0.6748" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1679407818" Position="133,218,2" Scale="0.8498,0.8498,0.8498" Type="PathingandSightBlocker2x2Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1328968684" Variation="6" Position="131,248,1.9987" Rotation="6.2233" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="881822042" Variation="3" Position="132,223.5,1.9987" Rotation="2.213" Scale="1,1,1" Type="Shakuras_TallGrass">
@@ -499,49 +499,49 @@
     <ObjectDoodad Id="187616568" Variation="3" Position="123.5,222.5,1.999" Rotation="4.9704" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="648528750" Variation="4" Position="118.5,221,1.999" Rotation="4.1037" Scale="1,1,1" Type="Shakuras_TallGrass">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1855357953" Variation="1" Position="122.5,247.5,1.999" Rotation="2.6345" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="555238154" Variation="2" Position="201,7,1.9992" Rotation="5.2082" Scale="0.9692,0.9692,0.9692" Type="Slayn_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="623727305" Variation="5" Position="135,248,1.999" Rotation="4.9562" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="555238154" Variation="2" Position="201,7,1.9992" Rotation="5.2082" Scale="0.9692,0.9692,0.9692" Type="Slayn_TallGrass">
+    <ObjectDoodad Id="1855357953" Variation="1" Position="122.5,247.5,1.999" Rotation="2.6345" Scale="1,1,1" Type="Shakuras_TallGrass">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="648528750" Variation="4" Position="118.5,221,1.999" Rotation="4.1037" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1812188750" Variation="7" Position="133,248,1.9987" Rotation="5.8374" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1843987304" Variation="3" Position="140.5,223.5,1.999" Rotation="2.9858" Scale="1,1,1" Type="Shakuras_TallGrass">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="637833790" Variation="2" Position="126.5,223.5,1.9987" Rotation="3.8881" Scale="1,1,1" Type="Shakuras_TallGrass">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="720683561" Position="128.5,239,1.9987" Rotation="0.6171" Scale="1,1,1" Type="Shakuras_TallGrass">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="693554497" Variation="6" Position="125,250,1.9987" Rotation="5.095" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="2130103693" Variation="1" Position="33,158,6.022" Rotation="2.356" Scale="0.5,0.5,0.5" Type="Shakuras_Platform">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1229854855" Position="135,226,1.9997" Scale="0.8498,0.8498,0.8498" Type="PathingandSightBlocker2x2Doodad">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2130103693" Variation="1" Position="33,158,6.022" Rotation="2.356" Scale="0.5,0.5,0.5" Type="Shakuras_Platform">
+    <ObjectDoodad Id="693554497" Variation="6" Position="125,250,1.9987" Rotation="5.095" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="246594668" Variation="7" Position="121,223,1.9987" Rotation="5.3564" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="720683561" Position="128.5,239,1.9987" Rotation="0.6171" Scale="1,1,1" Type="Shakuras_TallGrass">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="637833790" Variation="2" Position="126.5,223.5,1.9987" Rotation="3.8881" Scale="1,1,1" Type="Shakuras_TallGrass">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1843987304" Variation="3" Position="140.5,223.5,1.999" Rotation="2.9858" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1090829383" Variation="1" Position="223,166,4.0224" Rotation="2.356" Scale="0.5,0.5,0.5" Type="Shakuras_Platform">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="212369909" Variation="1" Position="139.5,220.5,1.9987" Rotation="1.541" Scale="1,1,1" Type="Shakuras_TallGrass">
+    <ObjectDoodad Id="246594668" Variation="7" Position="121,223,1.9987" Rotation="5.3564" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1532095039" Variation="4" Position="137,222,1.9987" Rotation="3.1718" Scale="1,1,1" Type="Shakuras_TallGrass">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="212369909" Variation="1" Position="139.5,220.5,1.9987" Rotation="1.541" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="745490204" Variation="7" Position="129,244,1.9987" Rotation="5.6853" Scale="1,1,1" Type="Shakuras_TallGrass">
@@ -559,20 +559,15 @@
     <ObjectDoodad Id="2077300881" Variation="7" Position="127,229.5,1.9987" Rotation="3.2797" Scale="1,1,1" Type="Shakuras_TallGrass">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectPoint Id="656320778" Position="108,106,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Hunter" Color="0,0,0,0"/>
     <ObjectPoint Id="844982520" Position="184,128,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
-    <ObjectPoint Id="693196413" Position="95.5,92,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Ghosts)" Color="0,0,0,0"/>
-    <ObjectPoint Id="985031759" Position="162,92,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Supports)" Color="0,0,0,0"/>
     <ObjectPoint Id="795627846" Position="128,81,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
-    <ObjectPoint Id="1505405091" Position="72,128,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
     <ObjectPoint Id="366005776" Position="128,128,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
+    <ObjectPoint Id="1505405091" Position="72,128,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
     <ObjectPoint Id="914337220" Position="128,176,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
-    <ObjectPoint Id="77336450" Position="126,88.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Builders)" Color="0,0,0,0"/>
-    <ObjectPoint Id="316198160" Position="149,105.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Defender" Color="0,0,0,0"/>
     <ObjectUnit Id="1452255554" Position="57,89,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="1364555532" Position="118,20,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonTerrainWarpInPad@CommonTerrainObjectsWarpInPad@WarpInPad"/>
     <ObjectUnit Id="763337209" Position="150,70,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="1561022998" Position="203,35,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="831119561" Position="77.5,85.5,0" Rotation="0.4362" Scale="1,1,1" UnitType="SCV" Player="1"/>
     <ObjectUnit Id="1762608430" Position="27,14,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="1878354124" Position="239,59,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="1634726578" Position="229,204,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
@@ -580,19 +575,16 @@
     <ObjectUnit Id="229466691" Position="233,53,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="366703021" Position="57,167,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="1597704933" Position="223,210,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="308368349" Position="19,119,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad"/>
     <ObjectUnit Id="741106565" Position="227,11,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="729930967" Position="187,205,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="663589464" Position="203,23,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
+    <ObjectUnit Id="729930967" Position="187,205,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="829270089" Position="203,47,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="1577759621" Position="19,137,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad2"/>
     <ObjectUnit Id="2067324318" Position="245,53,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="667173833" Position="199,89,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="1803474962" Position="239,23,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
+    <ObjectUnit Id="667173833" Position="199,89,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="1670406339" Position="233,29,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="1751143413" Position="239,47,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="1337130552" Position="118,20,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad"/>
-    <ObjectUnit Id="305909593" Position="77,85.5,0" Rotation="4.3754" Scale="1,1,1" UnitType="Medivac" Player="1"/>
     <ObjectUnit Id="614831485" Position="69,205,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="1408471815" Position="215,11,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="1306683217" Position="227,47,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
@@ -600,26 +592,26 @@
     <ObjectUnit Id="1774523367" Position="251,47,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="625093200" Position="22,212,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="1851655850" Position="106,70,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="850594139" Position="237,119,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad4"/>
     <ObjectUnit Id="1098693935" Position="203,11,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
+    <ObjectUnit Id="850594139" Position="237,119,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad4"/>
     <ObjectUnit Id="47002343" Position="221,41,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="508539881" Position="221,17,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="832846771" Position="23,235,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="1496976263" Position="80,86.5,0" Rotation="5.0002" Scale="1,1,1" UnitType="Marine" Player="1"/>
-    <ObjectUnit Id="598408033" Position="237,137,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad3"/>
-    <ObjectUnit Id="839408127" Position="135,236,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad3"/>
+    <ObjectUnit Id="508539881" Position="221,17,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
+    <ObjectUnit Id="371445438" Position="19,119,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonTerrainWarpInPad@CommonTerrainObjectsWarpInPad@WarpInPad"/>
     <ObjectUnit Id="1401542763" Position="245,29,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
+    <ObjectUnit Id="839408127" Position="135,236,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad3"/>
+    <ObjectUnit Id="598408033" Position="237,137,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad3"/>
     <ObjectUnit Id="1304009153" Position="203,59,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="312077593" Position="138,20,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad4"/>
     <ObjectUnit Id="2017230794" Position="227,59,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="1126600080" Position="239,35,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="1192605688" Position="199,167,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="1037259265" Position="43,241,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="844573348" Position="227,23,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="751947593" Position="251,35,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
+    <ObjectUnit Id="844573348" Position="227,23,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="261386699" Position="221,5,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="1657573840" Position="227,35,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="275784886" Position="235,210,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
+    <ObjectUnit Id="1657573840" Position="227,35,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="754024178" Position="215,23,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="2142477401" Position="54,207,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="1635897160" Position="28,206,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
