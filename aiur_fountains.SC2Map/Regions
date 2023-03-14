@@ -249,7 +249,7 @@
     <region id="47">
         <name value="Ramp46"/>
         <shape type="rect">
-            <quad value="215.9304,41.0432,219.9304,45.043"/>
+            <quad value="216,43.0002,220,47"/>
         </shape>
     </region>
     <region id="48">
@@ -1255,12 +1255,6 @@
         <name value="Ramp101"/>
         <shape type="rect">
             <quad value="200.0014,155.001,204.0014,159.0007"/>
-        </shape>
-    </region>
-    <region id="193">
-        <name value="Ramp102"/>
-        <shape type="rect">
-            <quad value="210.0007,51.0007,214.0007,55.0004"/>
         </shape>
     </region>
     <region id="194">
