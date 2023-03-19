@@ -3,19 +3,16 @@
     <ObjectDoodad Id="547889053" Position="54.5,94.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="784650453" Position="172.5,73.5,2.0156" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1782124461" Position="94.5,17.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="718309347" Position="201.5,34.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2077415079" Position="131,214,2.0144" Rotation="1.5705" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
+    <ObjectDoodad Id="1133158080" Position="196,49,2.0141" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1133158080" Position="196,49,2.0141" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
+    <ObjectDoodad Id="2077415079" Position="131,214,2.0144" Rotation="1.5705" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="958455213" Position="62.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
@@ -27,10 +24,10 @@
     <ObjectDoodad Id="1177118598" Variation="2" Position="211,148,2.014" Rotation="5.8098" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="147038978" Position="201.5,160,2.015" Rotation="3.1413" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
+    <ObjectDoodad Id="925459184" Position="65.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="925459184" Position="65.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="147038978" Position="201.5,160,2.015" Rotation="3.1413" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="878539258" Position="216.5,174.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
@@ -45,25 +42,22 @@
     <ObjectDoodad Id="1978933181" Position="165.5,39.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1848315813" Position="225.5,192.5,2.0156" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1961433533" Position="59.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="554672880" Position="73.5,73.5,2.2644" Rotation="3.9267" Scale="1,1.5,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1961433533" Position="59.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1603635823" Position="216.5,175.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1897430006" Position="39.5,165.5,1.9282" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1603635823" Position="216.5,175.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="399822004" Position="161.5,241.5,2.0068" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="71189169" Position="143,150,4.0144" Rotation="1.5705" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="399822004" Position="161.5,241.5,2.0068" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1533155195" Position="161.5,247.5,2.0068" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
@@ -78,10 +72,10 @@
     <ObjectDoodad Id="80996858" Position="200,157,2.0144" Rotation="6.281" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2135026217" Position="94.5,12.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="413215079" Position="91.5,39.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="413215079" Position="91.5,39.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="2135026217" Position="94.5,12.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1438768719" Position="31.5,201.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
@@ -108,13 +102,10 @@
     <ObjectDoodad Id="1232334580" Position="191.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="904763227" Position="65.5,163.5,2.015" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="343645420" Position="138.5,198.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1710215262" Position="172.5,76.5,2.0156" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="904763227" Position="65.5,163.5,2.015" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="773916922" Position="89.5,216.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
@@ -123,10 +114,10 @@
     <ObjectDoodad Id="1391563841" Position="210,69,2.0144" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="417397985" Position="64.5,163.5,2.0146" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1362795247" Position="68.5,74,2.4116" Rotation="3.1413" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1362795247" Position="68.5,74,2.4116" Rotation="3.1413" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
+    <ObjectDoodad Id="417397985" Position="64.5,163.5,2.0146" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1660856387" Position="94.5,13.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
@@ -135,10 +126,10 @@
     <ObjectDoodad Id="1204029218" Position="216.5,173.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="66844397" Position="117.5,191.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1613628461" Position="54.5,225.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1613628461" Position="54.5,225.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="66844397" Position="117.5,191.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="664437830" Variation="2" Position="189.5,246,2.0151" Rotation="4.7116" Scale="1,1,1" Type="Aiur_GroundConsole">
@@ -156,10 +147,10 @@
     <ObjectDoodad Id="2137584282" Position="117.5,54.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="538914644" Position="246.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="96414338" Position="117.5,192.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="96414338" Position="117.5,192.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="538914644" Position="246.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="341811313" Position="138.5,190.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
@@ -168,19 +159,19 @@
     <ObjectDoodad Id="1362939322" Position="138.5,55.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1828534246" Position="138.5,3.5,2.0205" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1418296913" Position="216.5,170.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="848988869" Position="94.5,9.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1418296913" Position="216.5,170.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="24791721" Position="199.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1828534246" Position="138.5,3.5,2.0205" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1030062501" Variation="2" Position="244.5,189.5,2.015" Scale="1,1,1" Type="Aiur_GroundConsole">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="24791721" Position="199.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1905328986" Variation="2" Position="195.5,9,2.0144" Rotation="4.7116" Scale="1,1,1" Type="Aiur_GroundConsole">
@@ -201,10 +192,10 @@
     <ObjectDoodad Id="1610680267" Position="94.5,63.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="30241986" Position="138.5,199.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="2096047573" Position="54.5,218.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2096047573" Position="54.5,218.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="30241986" Position="138.5,199.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1014979761" Position="54.5,219.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
@@ -213,19 +204,19 @@
     <ObjectDoodad Id="1346429712" Position="94.5,239.5,2.016" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1831676880" Position="138.5,193.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1187342645" Position="94.5,244.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1187342645" Position="94.5,244.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1831676880" Position="138.5,193.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1046901078" Position="57.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="345551153" Position="157,200,2.0144" Rotation="1.5705" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
+    <ObjectDoodad Id="473073062" Position="201.5,32.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="473073062" Position="201.5,32.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="345551153" Position="157,200,2.0144" Rotation="1.5705" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="652928715" Position="245.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
@@ -243,10 +234,10 @@
     <ObjectDoodad Id="2003477216" Position="161.5,8.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1567466672" Position="161.5,197.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="875365001" Position="94.5,15.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="875365001" Position="94.5,15.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1567466672" Position="161.5,197.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="612812142" Position="138.5,191.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
@@ -262,16 +253,16 @@
     <ObjectDoodad Id="658237460" Position="212,144,2.014" Rotation="3.851" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="996345052" Position="216.5,84.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1940731366" Position="88.5,216.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1047738977" Position="200.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="996345052" Position="216.5,84.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="343131204" Position="65.5,94.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1047738977" Position="200.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="156609282" Position="35.5,201.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
@@ -280,46 +271,43 @@
     <ObjectDoodad Id="887067903" Position="161.5,12.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="723801729" Position="172.5,70.5,2.0156" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1295854418" Position="157,56,2.0144" Rotation="4.7121" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1982564813" Position="35.5,63.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1614578771" Position="157,66,2.0144" Rotation="1.5705" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
+    <ObjectDoodad Id="490579233" Variation="2" Position="60.5,244,2.0144" Rotation="1.5703" Scale="1,1,1" Type="Aiur_GroundConsole">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="490579233" Variation="2" Position="60.5,244,2.0144" Rotation="1.5703" Scale="1,1,1" Type="Aiur_GroundConsole">
+    <ObjectDoodad Id="1614578771" Position="157,66,2.0144" Rotation="1.5705" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="348373743" Position="54.5,222.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="587734828" Variation="1" Position="74.5,149.5,2.0151" Rotation="1.5705" Scale="0.75,0.75,0.75" Type="Aiur_City_Structures">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="810846493" Position="191.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1267077138" Position="216.5,82.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="768341687" Position="58.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1267077138" Position="216.5,82.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="810846493" Position="191.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1137559434" Position="58.5,94.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="587734828" Variation="1" Position="74.5,149.5,2.0151" Rotation="1.5705" Scale="0.75,0.75,0.75" Type="Aiur_City_Structures">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="586741769" Position="94.5,197.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2051952308" Position="117.5,66.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1137559434" Position="58.5,94.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="428423730" Position="199.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2051952308" Position="117.5,66.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1440425454" Position="104,113,4.0144" Rotation="3.141" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
@@ -358,10 +346,10 @@
     <ObjectDoodad Id="1965192273" Variation="1" Position="157.5,74.5,2.016" Rotation="3.9267" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="995310008" Position="160,137.5,2.0383" Rotation="1.569" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
+    <ObjectDoodad Id="167322658" Position="191.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="167322658" Position="191.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="995310008" Position="160,137.5,2.0383" Rotation="1.569" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="200601206" Position="138.5,29.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
@@ -370,10 +358,10 @@
     <ObjectDoodad Id="1456186334" Position="117.5,199.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1855870333" Position="160,119.5,2.0146" Rotation="1.5705" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
+    <ObjectDoodad Id="1493706792" Position="194.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1493706792" Position="194.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1855870333" Position="160,119.5,2.0146" Rotation="1.5705" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="287436673" Position="86.5,216.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
@@ -391,46 +379,43 @@
     <ObjectDoodad Id="1488806061" Position="161.5,238.5,2.011" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1766976388" Position="172.5,78.5,2.0163" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1865236125" Position="38.5,61,2.0383" Rotation="5.4975" Scale="1,1,1" Type="PortCity_GroundLights">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1490907780" Position="161.5,14.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1613510807" Position="219.5,192.5,2.0156" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="700563944" Position="138.5,196.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="700563944" Position="138.5,196.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1613510807" Position="219.5,192.5,2.0156" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1868230949" Position="136.5,96,2.0146" Rotation="6.283" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="141771364" Position="117.5,67.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1506690812" Position="117.5,200.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="658653095" Position="117.5,56.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1506690812" Position="117.5,200.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1509648851" Position="94.5,200.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="858367885" Position="94.5,60.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="141771364" Position="117.5,67.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1553652641" Position="138.5,10.5,2.0156" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="994186779" Position="231.5,117.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="858367885" Position="94.5,60.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1509648851" Position="94.5,200.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="321669840" Position="216.5,80.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="994186779" Position="231.5,117.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1391562062" Position="82.5,216.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
@@ -439,52 +424,52 @@
     <ObjectDoodad Id="1293155505" Variation="2" Position="189.5,243,2.015" Rotation="4.7116" Scale="1,1,1" Type="Aiur_GroundConsole">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1918438427" Position="138.5,31.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="757832190" Position="210,187,2.0144" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="335649250" Variation="1" Position="181.5,106.5,2.0151" Rotation="4.7121" Scale="0.75,0.75,0.75" Type="Aiur_City_Structures">
+    <ObjectDoodad Id="1918438427" Position="138.5,31.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="552327483" Position="64.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1674595509" Variation="1" Position="150,74,2.0166" Scale="0.75,0.75,0.75" Type="Aiur_City_Structures">
+    <ObjectDoodad Id="335649250" Variation="1" Position="181.5,106.5,2.0151" Rotation="4.7121" Scale="0.75,0.75,0.75" Type="Aiur_City_Structures">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1267443657" Position="125,214,2.0144" Rotation="1.5705" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="863938461" Position="64.5,94.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="726927402" Position="209.5,110.5,2.014" Rotation="5.3842" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="128,0,64">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1669426125" Position="193.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1357212655" Position="193.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1674595509" Variation="1" Position="150,74,2.0166" Scale="0.75,0.75,0.75" Type="Aiur_City_Structures">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1384854465" Position="161.5,189.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1684758447" Position="192.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1357212655" Position="193.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1923784890" Position="241.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1669426125" Position="193.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="726927402" Position="209.5,110.5,2.014" Rotation="5.3842" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="128,0,64">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="863938461" Position="64.5,94.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1684758447" Position="192.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1070733388" Position="167.5,39.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="663505539" Position="77,112,2.0144" Rotation="1.5705" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
+    <ObjectDoodad Id="1923784890" Position="241.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2019103619" Position="117.5,197.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="663505539" Position="77,112,2.0144" Rotation="1.5705" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1265646868" Position="173.5,216.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
@@ -514,19 +499,19 @@
     <ObjectDoodad Id="738695475" Position="39.5,168.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="469156781" Position="222.5,192.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="2111087239" Variation="1" Position="74.5,157.5,2.0151" Rotation="0.9597" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1697661552" Variation="1" Position="235,238.5,2.014" Rotation="2.3916" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2111087239" Variation="1" Position="74.5,157.5,2.0151" Rotation="0.9597" Scale="1,1,1" Type="Aiur_City_Light">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="850725484" Position="241.5,161.5,2.0166" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="469156781" Position="222.5,192.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="435375626" Position="138.5,8.5,2.016" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="850725484" Position="241.5,161.5,2.0166" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="512271856" Position="216.5,81.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
@@ -535,22 +520,22 @@
     <ObjectDoodad Id="1568269992" Position="212,112,2.014" Rotation="5.5734" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1657255786" Position="187.5,74,2.0385" Rotation="3.1413" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1020593230" Position="42,131,2.0144" Rotation="3.1413" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="872771765" Position="208.5,147,2.014" Rotation="3.8505" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
+    <ObjectDoodad Id="1657255786" Position="187.5,74,2.0385" Rotation="3.1413" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1254968883" Position="169.5,39.5,2.016" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="57260538" Position="39.5,83.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="224107045" Position="193.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="57260538" Position="39.5,83.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1254968883" Position="169.5,39.5,2.016" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="872771765" Position="208.5,147,2.014" Rotation="3.8505" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="123321663" Variation="1" Position="210,105,2.014" Rotation="0.7492" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,128,64">
@@ -562,25 +547,22 @@
     <ObjectDoodad Id="1663983224" Position="192.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="87427286" Position="172.5,71.5,2.0156" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1792963272" Position="39.5,174.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1571832840" Position="62.5,163.5,2.014" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1188590242" Position="175.5,216.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="1571832840" Position="62.5,163.5,2.014" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="337361714" Position="94.5,195.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1703836732" Position="198.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="913323635" Position="94.5,57.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="913323635" Position="94.5,57.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1703836732" Position="198.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="977305219" Position="77,166,2.0144" Rotation="4.7121" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
@@ -610,25 +592,22 @@
     <ObjectDoodad Id="696302234" Position="209.5,145.5,2.014" Rotation="4.0402" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="128,0,64">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1306444583" Position="59.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1451213077" Position="171.5,39.5,2.016" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1451213077" Position="171.5,39.5,2.016" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1306444583" Position="59.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2048828947" Position="60,210,2.0195" Rotation="4.7121" Scale="1,1,1" Type="PortCity_GroundLights">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1958081900" Position="167.5,216.5,2.016" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="201136003" Position="94.5,241.5,2.016" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="911537630" Position="138.5,30.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="201136003" Position="94.5,241.5,2.016" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1960371314" Position="172.5,72.5,2.0156" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1958081900" Position="167.5,216.5,2.016" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="474496454" Position="33.5,201.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
@@ -643,10 +622,10 @@
     <ObjectDoodad Id="1345885661" Variation="1" Position="205,128.5,2.0151" Rotation="4.7121" Scale="2.5,2.5,2.5" Type="Aiur_City_Archway_Large">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="287302110" Position="61.5,94.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1403195606" Position="201.5,31.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1403195606" Position="201.5,31.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="287302110" Position="61.5,94.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1653171540" Position="117.5,196.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
@@ -665,10 +644,10 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1001384747" Position="54.5,96,2.0163" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
+    <ObjectDoodad Id="521666950" Variation="2" Position="60.5,245.5,2.0144" Rotation="1.5703" Scale="1,1,1" Type="Aiur_GroundConsole">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="521666950" Variation="2" Position="60.5,245.5,2.0144" Rotation="1.5703" Scale="1,1,1" Type="Aiur_GroundConsole">
+    <ObjectDoodad Id="1001384747" Position="54.5,96,2.0163" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="106974839" Position="117.5,229.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
@@ -681,28 +660,28 @@
     <ObjectDoodad Id="1062143552" Position="83.5,216.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="666169843" Position="94.5,243.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1606112352" Position="192.5,225.5,2.0156" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="469766326" Position="173.5,39.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1606112352" Position="192.5,225.5,2.0156" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="620321801" Position="245.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="666169843" Position="94.5,243.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="806860680" Position="161.5,190.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="620321801" Position="245.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="1821345321" Position="161.5,242.5,2.0068" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1550744171" Position="39.5,167.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="5014352" Position="96,118.5,2.0383" Rotation="4.7121" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="5014352" Position="96,118.5,2.0383" Rotation="4.7121" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
+    <ObjectDoodad Id="1550744171" Position="39.5,167.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="839000621" Position="170.5,39.5,2.016" Scale="1,1,1" Type="UlnarCurtain">
@@ -717,10 +696,10 @@
     <ObjectDoodad Id="670160156" Variation="2" Position="195.5,10.5,2.0153" Rotation="4.7116" Scale="1,1,1" Type="Aiur_GroundConsole">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="710807396" Position="222.5,54.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="633879637" Position="138.5,188.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="633879637" Position="138.5,188.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="710807396" Position="222.5,54.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1507721759" Position="138.5,11.5,2.0156" Rotation="4.712" Scale="1,1,1" Type="UlnarCurtain">
@@ -733,70 +712,70 @@
     <ObjectDoodad Id="1243823811" Position="240.5,161.5,2.0168" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="448295374" Position="200.5,96,2.0163" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
+    <ObjectDoodad Id="2003241772" Position="208.5,109,2.014" Rotation="5.574" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2003241772" Position="208.5,109,2.014" Rotation="5.574" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
+    <ObjectDoodad Id="448295374" Position="200.5,96,2.0163" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1445243346" Position="198.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1438389046" Position="138.5,65.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1914309984" Position="87.5,216.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="106105421" Position="60.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1438389046" Position="138.5,65.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1161626500" Position="94.5,196.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="914915706" Position="65.368,169.6604,2.014" Rotation="4.7121" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
+    <ObjectDoodad Id="106105421" Position="60.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1279248360" Variation="1" Position="51,128.5,2.0151" Rotation="4.7121" Scale="2.5,2.5,2.5" Type="Aiur_City_Archway_Large">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="914915706" Position="65.368,169.6604,2.014" Rotation="4.7121" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="2080847780" Variation="2" Position="10.5,195.5,2.0144" Scale="1,1,1" Type="Aiur_GroundConsole">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1479501311" Position="36.5,63.5,2.0156" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="934880227" Position="216.5,88.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="369021911" Variation="1" Position="19.7924,16.8542,2.014" Rotation="5.5332" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1038482878" Position="117.5,63.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="934880227" Position="216.5,88.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1479501311" Position="36.5,63.5,2.0156" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="350739541" Position="168.5,216.5,2.016" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1889727715" Position="46,187,2.0144" Rotation="3.1413" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
+    <ObjectDoodad Id="1038482878" Position="117.5,63.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1711591560" Position="170.5,216.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="487784863" Variation="2" Position="195.5,13.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="Aiur_GroundConsole">
+    <ObjectDoodad Id="1889727715" Position="46,187,2.0144" Rotation="3.1413" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="799760515" Position="85.5,39.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="487784863" Variation="2" Position="195.5,13.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="Aiur_GroundConsole">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="1787242268" Position="138.5,24.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1633396773" Position="66.5,163.5,2.0144" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="394795039" Position="94.5,66.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="394795039" Position="94.5,66.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1633396773" Position="66.5,163.5,2.0144" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1828879311" Position="144,179,2.0144" Rotation="3.1413" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
@@ -811,10 +790,10 @@
     <ObjectDoodad Id="944024985" Position="117.5,55.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1102385110" Position="138.5,60.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="870521657" Position="210,102.5,2.014" Rotation="2.4326" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="870521657" Position="210,102.5,2.014" Rotation="2.4326" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
+    <ObjectDoodad Id="1102385110" Position="138.5,60.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1908283267" Position="174.5,39.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
@@ -823,25 +802,25 @@
     <ObjectDoodad Id="1263706551" Position="117.5,230.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1690352536" Position="138.5,197.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="209314312" Position="230.5,117.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="209314312" Position="230.5,117.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1690352536" Position="138.5,197.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1261521739" Position="239.5,161.5,2.017" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1888136727" Position="201.5,30.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1778882867" Position="31.5,138.5,2.0156" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1056256024" Variation="1" Position="235,17.5,2.014" Rotation="0.7497" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
+    <ObjectDoodad Id="1888136727" Position="201.5,30.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1792080162" Position="138.5,200.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1056256024" Variation="1" Position="235,17.5,2.014" Rotation="0.7497" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2078792137" Position="201.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
@@ -857,37 +836,37 @@
     <ObjectDoodad Id="1955295154" Variation="2" Position="12,195.5,2.0144" Scale="1,1,1" Type="Aiur_GroundConsole">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="90499930" Position="197.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1448199560" Position="246.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="537580044" Position="174.5,216.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="777185243" Position="94.5,237.5,2.0158" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="90499930" Position="197.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2093204153" Position="216.5,168.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="698032607" Position="200.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="777185243" Position="94.5,237.5,2.0158" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="543555183" Position="161.5,245.5,2.0068" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="537580044" Position="174.5,216.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1239724417" Position="192.5,220.5,2.0158" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="543555183" Position="161.5,245.5,2.0068" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="698032607" Position="200.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="1732383763" Position="161.5,13.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1591924809" Position="193.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1490473563" Position="136.5,160,2.0146" Rotation="3.1413" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1490473563" Position="136.5,160,2.0146" Rotation="3.1413" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
+    <ObjectDoodad Id="1591924809" Position="193.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1916250108" Position="52,174,1.9802" Rotation="3.1413" Scale="0.75,0.75,0.75" Type="CompoundMansion_Fountain">
@@ -896,10 +875,10 @@
     <ObjectDoodad Id="538430782" Position="223.5,54.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="352705906" Position="61,38.5,4.0068" Rotation="5.4975" Scale="1,1,1" Type="PortCity_GroundLights">
+    <ObjectDoodad Id="248519178" Position="160,136.5,2.0385" Rotation="1.5705" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="248519178" Position="160,136.5,2.0385" Rotation="1.5705" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
+    <ObjectDoodad Id="352705906" Position="61,38.5,4.0068" Rotation="5.4975" Scale="1,1,1" Type="PortCity_GroundLights">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="119475750" Position="61.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
@@ -917,11 +896,11 @@
     <ObjectDoodad Id="1254831266" Position="161.5,246.5,2.0068" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2063630623" Position="32.5,63.5,2.0153" Rotation="4.7116" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightOffset" Value="1"/>
+    <ObjectDoodad Id="342047477" Position="224.5,54.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="342047477" Position="224.5,54.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="2063630623" Position="32.5,63.5,2.0153" Rotation="4.7116" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1058172074" Position="138.5,54.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
@@ -936,37 +915,34 @@
     <ObjectDoodad Id="743326565" Position="39.5,84.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1087193150" Position="200.5,160,2.015" Rotation="3.1413" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
+    <ObjectDoodad Id="896708468" Position="188.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="896708468" Position="188.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1087193150" Position="200.5,160,2.015" Rotation="3.1413" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="212557718" Position="196.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1540730307" Position="138.5,61.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="618067362" Position="39.5,169.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1976107986" Variation="3" Position="152.5,150.5,4.015" Rotation="5.4975" Scale="1,1,1" Type="Aiur_Pyramid_Tower_Medium_Abandoned">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1937574839" Position="94.5,65.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1540730307" Position="138.5,61.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2009999162" Position="85.5,216.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="859474363" Position="39.5,170.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1937574839" Position="94.5,65.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1524717417" Position="172.5,69.5,2.016" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1976107986" Variation="3" Position="152.5,150.5,4.015" Rotation="5.4975" Scale="1,1,1" Type="Aiur_Pyramid_Tower_Medium_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="745373365" Position="195.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="859474363" Position="39.5,170.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="515875750" Position="161.5,198.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
@@ -978,19 +954,19 @@
     <ObjectDoodad Id="575763879" Variation="2" Position="189.5,244.5,2.0151" Rotation="4.7116" Scale="1,1,1" Type="Aiur_GroundConsole">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1144570581" Position="161.5,200.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1096836657" Position="213.5,99.5,2.014" Rotation="5.573" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1096836657" Position="213.5,99.5,2.014" Rotation="5.573" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
+    <ObjectDoodad Id="1144570581" Position="161.5,200.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1308175154" Variation="1" Position="106,74,2.0166" Scale="0.75,0.75,0.75" Type="Aiur_City_Structures">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1566410663" Variation="1" Position="138.5,195.5,2.0151" Rotation="4.7121" Scale="2.5,2.5,2.5" Type="Aiur_City_Archway_Large">
+    <ObjectDoodad Id="378877498" Position="94.5,240.5,2.016" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="378877498" Position="94.5,240.5,2.016" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1566410663" Variation="1" Position="138.5,195.5,2.0151" Rotation="4.7121" Scale="2.5,2.5,2.5" Type="Aiur_City_Archway_Large">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="20066088" Variation="2" Position="9,195.5,2.0144" Scale="1,1,1" Type="Aiur_GroundConsole">
@@ -999,28 +975,25 @@
     <ObjectDoodad Id="1648172644" Position="65.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1550367407" Position="161.5,196.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1247261577" Position="87.5,39.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1237524647" Position="138.5,189.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1247261577" Position="87.5,39.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1550367407" Position="161.5,196.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1550997240" Position="37.5,63.5,2.0156" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1019106336" Variation="1" Position="98.5,181.5,2.016" Rotation="0.7851" Scale="1,1,1" Type="Aiur_City_Light">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="2120747386" Position="117.5,225.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1531575191" Position="128,61.5,2.0144" Scale="1,1,1" Type="CompoundMansion_Fountain">
+    <ObjectDoodad Id="1019106336" Variation="1" Position="98.5,181.5,2.016" Rotation="0.7851" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="438941043" Position="172.5,68.5,2.016" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1531575191" Position="128,61.5,2.0144" Scale="1,1,1" Type="CompoundMansion_Fountain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="85271906" Variation="1" Position="117.5,62,2.0151" Rotation="4.7121" Scale="2.5,2.5,2.5" Type="Aiur_City_Archway_Large">
@@ -1029,19 +1002,19 @@
     <ObjectDoodad Id="920361298" Position="138.5,63.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="443061039" Position="138.5,64.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="777701274" Position="36.5,201.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="777701274" Position="36.5,201.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="443061039" Position="138.5,64.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="495043430" Position="39.5,175.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1748721674" Position="88.5,39.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1101736619" Position="161.5,11.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1101736619" Position="161.5,11.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1748721674" Position="88.5,39.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="757693408" Position="55.5,160,2.015" Rotation="3.1413" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
@@ -1068,16 +1041,16 @@
     <ObjectDoodad Id="1927879612" Position="138.5,59.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="68241304" Position="195,128,2.0144" Scale="1,1,1" Type="CompoundMansion_Fountain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="142040780" Variation="2" Position="195.5,12,2.0153" Rotation="4.7116" Scale="1,1,1" Type="Aiur_GroundConsole">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1800255947" Variation="3" Position="103.5,105.5,4.015" Rotation="2.356" Scale="1,1,1" Type="Aiur_Pyramid_Tower_Medium_Abandoned">
+    <ObjectDoodad Id="68241304" Position="195,128,2.0144" Scale="1,1,1" Type="CompoundMansion_Fountain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="955292320" Position="161.5,192.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1800255947" Variation="3" Position="103.5,105.5,4.015" Rotation="2.356" Scale="1,1,1" Type="Aiur_Pyramid_Tower_Medium_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="234160690" Position="182,187.5,2.4072" Rotation="4.7121" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
@@ -1095,19 +1068,19 @@
     <ObjectDoodad Id="1698567042" Position="77,90,2.0144" Rotation="1.5705" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1508689921" Position="94.5,54.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="2016696739" Position="197.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2102258270" Position="112,77,2.0144" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
+    <ObjectDoodad Id="1508689921" Position="94.5,54.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1117066821" Position="54.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1815333109" Position="117.5,193.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1117066821" Position="54.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="2102258270" Position="112,77,2.0144" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="279990643" Variation="2" Position="246,189.5,2.015" Scale="1,1,1" Type="Aiur_GroundConsole">
@@ -1116,10 +1089,10 @@
     <ObjectDoodad Id="280388555" Position="69,46,2.0144" Rotation="4.7121" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="691533618" Position="138.5,57.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="374308493" Position="60.5,94.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="374308493" Position="60.5,94.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="691533618" Position="138.5,57.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1728477580" Variation="2" Position="60.5,247,2.0144" Rotation="1.5703" Scale="1,1,1" Type="Aiur_GroundConsole">
@@ -1129,9 +1102,6 @@
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1417718781" Position="161.5,188.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1387355889" Position="30.5,63.5,4.0158" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="46685347" Position="94.5,189.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
@@ -1164,22 +1134,22 @@
     <ObjectDoodad Id="816016261" Position="172.5,39.5,2.016" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="241035606" Variation="1" Position="117.5,195.5,2.0151" Rotation="4.7121" Scale="2.5,2.5,2.5" Type="Aiur_City_Archway_Large">
+    <ObjectDoodad Id="2018759266" Position="68.5,163.5,2.039" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="662596318" Position="152,143,4.0144" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2018759266" Position="68.5,163.5,2.039" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="241035606" Variation="1" Position="117.5,195.5,2.0151" Rotation="4.7121" Scale="2.5,2.5,2.5" Type="Aiur_City_Archway_Large">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2077958618" Position="39.5,166.5,1.9863" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="364481390" Position="96,136.5,2.0385" Rotation="4.7121" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
+    <ObjectDoodad Id="2052556027" Position="160,118.5,2.0144" Rotation="1.5717" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2052556027" Position="160,118.5,2.0144" Rotation="1.5717" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
+    <ObjectDoodad Id="364481390" Position="96,136.5,2.0385" Rotation="4.7121" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1010343344" Position="99,200,2.0144" Rotation="1.569" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
@@ -1191,25 +1161,25 @@
     <ObjectDoodad Id="518596232" Position="37.5,201.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="494693118" Position="204,82,2.0144" Scale="0.75,0.75,0.75" Type="CompoundMansion_Fountain">
+    <ObjectDoodad Id="257117890" Position="117.5,189.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="257117890" Position="117.5,189.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="494693118" Position="204,82,2.0144" Scale="0.75,0.75,0.75" Type="CompoundMansion_Fountain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="480111643" Position="247.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1824319536" Position="137.5,96,2.0144" Rotation="6.281" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="266837893" Variation="1" Position="74.5,98.5,2.0151" Rotation="2.1816" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1278304186" Position="138.5,26.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1824319536" Position="137.5,96,2.0144" Rotation="6.281" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="247287736" Position="55.5,94.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1278304186" Position="138.5,26.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2140800607" Position="209.5,136,2.2424" Scale="1,1,1" Type="SpaceVentWall">
@@ -1218,10 +1188,10 @@
     <ObjectDoodad Id="402255814" Position="66.5,94.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="750366998" Position="174,52,2.0153" Scale="0.75,0.75,0.75" Type="CompoundMansion_Fountain">
+    <ObjectDoodad Id="412445989" Position="137.5,160,2.0144" Rotation="3.1423" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="412445989" Position="137.5,160,2.0144" Rotation="3.1423" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
+    <ObjectDoodad Id="750366998" Position="174,52,2.0153" Scale="0.75,0.75,0.75" Type="CompoundMansion_Fountain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1832547489" Position="117.5,58.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
@@ -1236,10 +1206,10 @@
     <ObjectDoodad Id="578453885" Position="138.5,28.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="823366080" Position="192.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1029131996" Position="62.5,94.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1029131996" Position="62.5,94.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="823366080" Position="192.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1049345326" Position="63.5,94.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
@@ -1263,49 +1233,49 @@
     <ObjectDoodad Id="553334926" Position="199.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="397213905" Position="196.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1966656472" Position="39.5,164.5,1.8955" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1966656472" Position="39.5,164.5,1.8955" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="397213905" Position="196.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="471358310" Position="94.5,59.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="636197164" Position="217.5,195,2.0383" Rotation="2.356" Scale="1,1,1" Type="PortCity_GroundLights">
+    <ObjectDoodad Id="1903747680" Position="117.5,61.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1903747680" Position="117.5,61.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="636197164" Position="217.5,195,2.0383" Rotation="2.356" Scale="1,1,1" Type="PortCity_GroundLights">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1124437597" Position="117.5,60.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1744248299" Position="179,90,2.0144" Rotation="1.5705" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
+    <ObjectDoodad Id="842115510" Variation="1" Position="106,182,2.0283" Rotation="3.1413" Scale="0.75,0.75,0.75" Type="Aiur_City_Structures">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="842115510" Variation="1" Position="106,182,2.0283" Rotation="3.1413" Scale="0.75,0.75,0.75" Type="Aiur_City_Structures">
+    <ObjectDoodad Id="1744248299" Position="179,90,2.0144" Rotation="1.5705" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1981968813" Position="214,125,2.0144" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1189035484" Position="39.5,172.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="2052245691" Position="94.5,58.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2052245691" Position="94.5,58.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1189035484" Position="39.5,172.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1107498642" Position="138.5,66.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1431881811" Position="209.5,120,2.0771" Rotation="3.1413" Scale="1,1,1" Type="SpaceVentWall">
+    <ObjectDoodad Id="1906035286" Position="26.5,138.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="834104382" Position="198.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1906035286" Position="26.5,138.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1431881811" Position="209.5,120,2.0771" Rotation="3.1413" Scale="1,1,1" Type="SpaceVentWall">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2076735454" Position="119.5,96,2.0146" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
@@ -1317,16 +1287,16 @@
     <ObjectDoodad Id="1506297352" Position="82.5,39.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1746219076" Variation="2" Position="121,214.5,2.0383" Rotation="2.4863" Scale="1,1,1" Type="Aiur_City_Archway_Large_Abandoned">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1492537786" Position="128,194.5,2.0144" Rotation="3.1413" Scale="1,1,1" Type="CompoundMansion_Fountain">
+    <ObjectDoodad Id="1978349893" Position="227.5,117.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1780847904" Position="220.5,54.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1978349893" Position="227.5,117.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1492537786" Position="128,194.5,2.0144" Rotation="3.1413" Scale="1,1,1" Type="CompoundMansion_Fountain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1746219076" Variation="2" Position="121,214.5,2.0383" Rotation="2.4863" Scale="1,1,1" Type="Aiur_City_Archway_Large_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1436895282" Position="94.5,191.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
@@ -1335,43 +1305,40 @@
     <ObjectDoodad Id="1666238897" Position="28.5,138.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2035914515" Variation="1" Position="238,238.5,2.014" Rotation="2.3916" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
+    <ObjectDoodad Id="1089942261" Position="94.5,242.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1089942261" Position="94.5,242.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="2035914515" Variation="1" Position="238,238.5,2.014" Rotation="2.3916" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1435147090" Position="220.5,192.5,2.0153" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="950002113" Position="82,52,2.0144" Scale="0.75,0.75,0.75" Type="CompoundMansion_Fountain">
+    <ObjectDoodad Id="957502055" Position="200.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="957502055" Position="200.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="950002113" Position="82,52,2.0144" Scale="0.75,0.75,0.75" Type="CompoundMansion_Fountain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="179562164" Position="94.5,64.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1117011820" Position="34.5,63.5,2.015" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="683089362" Variation="2" Position="139,160,2.0151" Rotation="1.5705" Scale="1,1,1" Type="Aiur_Statue_Arched">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2004781103" Position="189.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1711034949" Position="179,112,2.0144" Rotation="1.5705" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
+    <ObjectDoodad Id="1117011820" Position="34.5,63.5,2.015" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="282428010" Position="94.5,194.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1790361581" Position="113,150,4.0144" Rotation="1.5705" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
+    <ObjectDoodad Id="1711034949" Position="179,112,2.0144" Rotation="1.5705" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="315521414" Position="172.5,79.5,2.0163" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="2004781103" Position="189.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1790361581" Position="113,150,4.0144" Rotation="1.5705" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1708570027" Position="55.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
@@ -1386,16 +1353,10 @@
     <ObjectDoodad Id="1041490085" Position="161.5,15.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1538627786" Position="192.5,222.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="261471511" Position="117.5,64.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="221354029" Position="143,106,4.0144" Rotation="4.7114" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="2054042465" Position="192.5,219.5,2.0158" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1538627786" Position="192.5,222.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1651905920" Position="23.5,254,-6.6203" Scale="0.5495,5,1" Type="DecalSpace" TintColor="236,112,0 4.000000">
@@ -1404,13 +1365,19 @@
         <Flag Index="ForcePlacement" Value="1"/>
         <Flag Index="NoDoodadFootprint" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="2054042465" Position="192.5,219.5,2.0158" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="221354029" Position="143,106,4.0144" Rotation="4.7114" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="458618603" Variation="1" Position="238.5,236,2.014" Rotation="2.3916" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1393390096" Position="238.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="915356628" Position="39.5,90.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="915356628" Position="39.5,90.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1393390096" Position="238.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="34232435" Position="247.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
@@ -1449,10 +1416,10 @@
     <ObjectDoodad Id="794692924" Variation="2" Position="52.5,232.5,2.0144" Rotation="3.1413" Scale="1,1,1" Type="PortCity_StreetAlarms">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1095026624" Position="201.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1982525334" Position="62.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1982525334" Position="62.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1095026624" Position="201.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="9217056" Position="86.5,39.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
@@ -1485,28 +1452,28 @@
     <ObjectDoodad Id="222491229" Position="94.5,8.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1330091100" Position="161.5,193.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1687861449" Position="94.5,16.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1687861449" Position="94.5,16.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1330091100" Position="161.5,193.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1946659483" Position="138.5,25.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1282649238" Position="56,99,2.0144" Rotation="3.141" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="343397963" Variation="1" Position="210,155,2.014" Rotation="0.418" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,0">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1970974734" Position="161.5,194.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1282649238" Position="56,99,2.0144" Rotation="3.141" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="800829766" Position="161.5,243.5,2.0068" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="449949960" Position="104,143,4.0144" Rotation="3.1413" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="800829766" Position="161.5,243.5,2.0068" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1970974734" Position="161.5,194.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1816709893" Position="94.5,67.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
@@ -1563,19 +1530,19 @@
     <ObjectDoodad Id="2049205629" Position="182.5,182.5,2.2644" Rotation="0.7851" Scale="1,1.5,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="181796962" Position="39.5,88.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1861242099" Position="39.5,87.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="500422120" Position="66.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="181796962" Position="39.5,88.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1144102833" Position="45,166,2.014" Rotation="4.712" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1934501391" Position="55.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1144102833" Position="45,166,2.014" Rotation="4.712" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
+    <ObjectDoodad Id="500422120" Position="66.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="84130214" Position="164.5,39.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
@@ -1584,13 +1551,13 @@
     <ObjectDoodad Id="801009861" Position="94.5,10.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1063510843" Variation="3" Position="152.5,105.5,4.015" Rotation="3.9267" Scale="1,1,1" Type="Aiur_Pyramid_Tower_Medium_Abandoned">
+    <ObjectDoodad Id="776532888" Position="196.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1902209325" Variation="1" Position="138.5,62,2.0151" Rotation="4.7121" Scale="2.5,2.5,2.5" Type="Aiur_City_Archway_Large">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="776532888" Position="196.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1063510843" Variation="3" Position="152.5,105.5,4.015" Rotation="3.9267" Scale="1,1,1" Type="Aiur_Pyramid_Tower_Medium_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2019975882" Position="117.5,190.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
@@ -1608,25 +1575,25 @@
     <ObjectDoodad Id="1085193634" Variation="1" Position="181.5,157.5,2.0151" Rotation="5.3232" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="198960925" Position="224.5,192.5,2.0156" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1702146126" Position="117.5,201.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1702146126" Position="117.5,201.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="198960925" Position="224.5,192.5,2.0156" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="573399997" Position="187.5,182,2.407" Scale="1,1,1" Type="Aiur_City_GapFiller_Abandoned">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="145359851" Variation="1" Position="150,182,2.0283" Rotation="3.1413" Scale="0.75,0.75,0.75" Type="Aiur_City_Structures">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="75926242" Position="94.5,199.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1987298398" Position="219.5,54.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2012611926" Position="117.5,194.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1987298398" Position="219.5,54.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="75926242" Position="94.5,199.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="145359851" Variation="1" Position="150,182,2.0283" Rotation="3.1413" Scale="0.75,0.75,0.75" Type="Aiur_City_Structures">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="643431213" Position="161.5,199.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
@@ -1653,11 +1620,11 @@
     <ObjectDoodad Id="1878212665" Position="161.5,240.5,2.0068" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1016553913" Position="138.5,5.5,2.016" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1442875344" Position="73,188,2.264" Rotation="1.5705" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1016553913" Position="138.5,5.5,2.016" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1645808655" Position="195.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
@@ -1672,16 +1639,16 @@
     <ObjectDoodad Id="736196484" Position="27.5,138.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1481683628" Position="56,157,2.0144" Rotation="3.1413" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="30547671" Position="89.5,39.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="427351978" Position="138.5,4.5,2.016" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1481683628" Position="56,157,2.0144" Rotation="3.1413" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1552041646" Variation="2" Position="11.5,66.5,2.015" Rotation="3.141" Scale="1,1,1" Type="Aiur_GroundConsole">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="427351978" Position="138.5,4.5,2.016" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1094825698" Position="216.5,91.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
@@ -1690,22 +1657,22 @@
     <ObjectDoodad Id="484930704" Variation="1" Position="22.7924,16.8542,2.014" Rotation="5.5332" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1449910937" Position="194.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="782994808" Position="32.5,138.5,2.0498" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="983901707" Position="32.5,201.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="782994808" Position="32.5,138.5,2.0498" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1449910937" Position="194.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1163519077" Variation="1" Position="238,17.5,2.014" Rotation="0.7497" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
+    <ObjectDoodad Id="863045647" Variation="2" Position="13,66.5,2.015" Rotation="3.141" Scale="1,1,1" Type="Aiur_GroundConsole">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="696074190" Position="39.5,82.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="863045647" Variation="2" Position="13,66.5,2.015" Rotation="3.141" Scale="1,1,1" Type="Aiur_GroundConsole">
+    <ObjectDoodad Id="1163519077" Variation="1" Position="238,17.5,2.014" Rotation="0.7497" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2013865070" Variation="1" Position="181.5,149.5,2.0151" Rotation="4.7121" Scale="0.75,0.75,0.75" Type="Aiur_City_Structures">
@@ -1720,25 +1687,25 @@
     <ObjectDoodad Id="1816473470" Variation="1" Position="238.5,20,2.014" Rotation="0.7497" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,128">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1845451176" Position="57.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="320216202" Position="63.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2086319293" Variation="2" Position="57,28,4.015" Scale="1,1,1" Type="PortCity_StreetAlarms">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="320216202" Position="63.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1845451176" Position="57.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2084716887" Position="117.5,62.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1018646702" Position="117.5,231.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1459276535" Position="216.5,169.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1919883633" Position="57.5,94.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1459276535" Position="216.5,169.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1018646702" Position="117.5,231.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="404851794" Position="225.5,54.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
@@ -1765,13 +1732,13 @@
     <ObjectDoodad Id="807636996" Position="61.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="381061796" Position="179,144,2.0144" Rotation="4.7114" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
+    <ObjectDoodad Id="1220392894" Position="56.5,94.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1028159925" Position="190.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1220392894" Position="56.5,94.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="381061796" Position="179,144,2.0144" Rotation="4.7114" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="551486332" Position="192.5,218.5,2.0158" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
@@ -1804,16 +1771,16 @@
     <ObjectDoodad Id="1072575339" Position="54.5,220.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="634657508" Position="194.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1635983787" Variation="2" Position="66.7583,9.3386,2.0151" Rotation="1.5705" Scale="1,1,1" Type="Aiur_GroundConsole">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1432970568" Position="138.5,62.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="634657508" Position="194.5,161.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1085815464" Position="224.5,117.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1432970568" Position="138.5,62.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2108650747" Position="229.5,117.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
@@ -1837,10 +1804,10 @@
     <ObjectDoodad Id="40205720" Position="94.5,14.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1575332579" Position="39.5,173.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="169978833" Position="99,190,2.0144" Rotation="4.7121" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="169978833" Position="99,190,2.0144" Rotation="4.7121" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
+    <ObjectDoodad Id="1575332579" Position="39.5,173.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="247168955" Position="46,196,2.0275" Rotation="3.1413" Scale="1,1,1" Type="PortCity_GroundLights">
@@ -1855,13 +1822,10 @@
     <ObjectDoodad Id="1222083415" Variation="2" Position="211,108,2.014" Rotation="3.6147" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="801732256" Position="172.5,77.5,2.0156" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1454121657" Position="84.5,216.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="376268688" Position="54.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1454121657" Position="84.5,216.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1059702971" Position="188.5,138.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
@@ -1876,10 +1840,10 @@
     <ObjectDoodad Id="1558551035" Position="54.5,224.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="342717772" Position="175.5,39.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="240476176" Position="94.5,201.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="240476176" Position="94.5,201.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="342717772" Position="175.5,39.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1205822318" Position="112,179,2.0144" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
@@ -1888,13 +1852,13 @@
     <ObjectDoodad Id="1525556213" Variation="2" Position="66.7583,7.8386,2.0151" Rotation="1.5703" Scale="1,1,1" Type="Aiur_GroundConsole">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="801064094" Position="189.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1175761267" Position="66.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1981294613" Position="94.5,56.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1175761267" Position="66.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="801064094" Position="189.5,117.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="183509320" Position="169.5,216.5,2.016" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
@@ -1903,19 +1867,16 @@
     <ObjectDoodad Id="1445070000" Variation="2" Position="243,189.5,2.015" Scale="1,1,1" Type="Aiur_GroundConsole">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="118711901" Position="198.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1250377592" Position="172.5,74.5,2.0156" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="457292800" Position="238.5,161.5,2.0166" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1990478585" Position="201.5,35.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="118711901" Position="198.5,94.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2105704209" Position="192.5,221.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1990478585" Position="201.5,35.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="565268703" Position="144,77,2.0144" Rotation="3.141" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
@@ -1927,34 +1888,31 @@
     <ObjectDoodad Id="845161080" Position="172.5,216.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="82582702" Position="161.5,9.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1201417469" Position="61,128,2.0144" Scale="1,1,1" Type="CompoundMansion_Fountain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1201417469" Position="61,128,2.0144" Scale="1,1,1" Type="CompoundMansion_Fountain">
+    <ObjectDoodad Id="82582702" Position="161.5,9.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1018885418" Variation="1" Position="210,101,2.014" Rotation="2.7233" Scale="0.5,0.5,0.5" Type="Aiur_Tree_Large" TintColor="255,0,0">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1975206412" Position="94.5,188.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="365278974" Position="31.5,63.5,2.0156" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="365278974" Position="31.5,63.5,2.0156" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1975206412" Position="94.5,188.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="131914157" Position="166.5,216.5,2.016" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2037101830" Position="172.5,75.5,2.0156" Scale="1,1,1" Type="UlnarCurtain">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1472442560" Position="216.5,90.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1868486378" Position="179,166,2.0144" Rotation="4.7121" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
+    <ObjectDoodad Id="486130660" Position="161.5,191.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="486130660" Position="161.5,191.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1868486378" Position="179,166,2.0144" Rotation="4.7121" Scale="1,1,1" Type="AiurFountainsProtossRampLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1600453028" Position="166.5,39.5,2.0151" Scale="1,1,1" Type="UlnarCurtain">
@@ -1978,10 +1936,10 @@
     <ObjectDoodad Id="2035864452" Variation="2" Position="189.5,241.5,2.015" Rotation="4.7121" Scale="1,1,1" Type="Aiur_GroundConsole">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="961578741" Position="117.5,198.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="1012016277" Position="34.5,201.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1012016277" Position="34.5,201.5,2.0151" Rotation="4.7121" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="961578741" Position="117.5,198.5,2.0151" Rotation="1.5705" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1137847925" Position="46.5,120,2.2346" Rotation="3.1413" Scale="1,1,1" Type="SpaceVentWall">
@@ -1996,19 +1954,19 @@
     <ObjectDoodad Id="1640286804" Position="81.5,216.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="66681021" Variation="2" Position="117,160,2.0151" Rotation="4.7121" Scale="1,1,1" Type="Aiur_Statue_Arched">
+    <ObjectDoodad Id="93350349" Position="94.5,192.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="93350349" Position="94.5,192.5,2.0151" Rotation="3.1413" Scale="1,1,1" Type="UlnarCurtain">
+    <ObjectDoodad Id="66681021" Variation="2" Position="117,160,2.0151" Rotation="4.7121" Scale="1,1,1" Type="Aiur_Statue_Arched">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1833712477" Position="204,174,2.0144" Rotation="3.1413" Scale="0.75,0.75,0.75" Type="CompoundMansion_Fountain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectPoint Id="2142687418" Position="145,110,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Defender" Color="0,0,0,0"/>
     <ObjectPoint Id="756511362" Position="109.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Ghosts)" Color="0,0,0,0"/>
-    <ObjectPoint Id="231894419" Position="147.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Supports)" Color="0,0,0,0"/>
+    <ObjectPoint Id="2142687418" Position="145,110,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Defender" Color="0,0,0,0"/>
     <ObjectPoint Id="643511402" Position="128,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Builders)" Color="0,0,0,0"/>
+    <ObjectPoint Id="231894419" Position="147.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Supports)" Color="0,0,0,0"/>
     <ObjectPoint Id="1248696952" Position="110,110,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Hunter" Color="0,0,0,0"/>
     <ObjectPoint Id="314" Position="127.9748,127.9382,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
     <ObjectCamera Id="816" Position="126.7687,12.3073,0" Rotation="3.14" Scale="1,1,1" Name="Camera 007" Color="0,0,0,0" CameraTarget="126.7687,12.3073">
@@ -2131,8 +2089,8 @@
         <CameraValue Index="BokehFStop" Value="0.0187"/>
         <CameraValue Index="BokehMaxCoC" Value="1"/>
     </ObjectCamera>
-    <ObjectUnit Id="1117789361" Position="235,77,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad3"/>
     <ObjectUnit Id="365786121" Position="56,56,0" Scale="1,1,1" UnitType="AiurFountainsSpacerRock"/>
+    <ObjectUnit Id="1117789361" Position="235,77,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad3"/>
     <ObjectUnit Id="1436797236" Position="46,46,0" Scale="1,1,1" UnitType="AiurFountainsSpacerRock"/>
     <ObjectUnit Id="168078013" Position="240,116,0" Scale="1,1,1" UnitType="AiurFountainsSpacerRock"/>
     <ObjectUnit Id="879386913" Position="21,179,0" Scale="1,1,1" UnitType="WarpInPad"/>
