@@ -7,13 +7,11 @@
     </CEffectEnumArea>
     <CEffectApplyBehavior id="LostTidesSludgeDebuff">
         <ValidatorArray index="0" value="LostTidesIsNotZerg"/>
-        <ValidatorArray value="LostTidesUnitPosition"/>
         <EditorCategories value=""/>
         <Behavior value="LostTidesSludgeBuff"/>
     </CEffectApplyBehavior>
     <CEffectApplyBehavior id="LostTidesSludgeDebuffZerg">
         <ValidatorArray index="0" value="LostTidesIsZerg"/>
-        <ValidatorArray value="LostTidesUnitPosition"/>
         <EditorCategories value=""/>
         <Behavior value="LostTidesSludgeBuffZerg"/>
     </CEffectApplyBehavior>
