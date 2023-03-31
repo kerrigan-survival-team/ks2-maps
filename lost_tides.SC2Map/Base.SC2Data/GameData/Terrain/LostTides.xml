@@ -81,13 +81,13 @@
             <Height value="0.000000"/>
             <Color value="0.121569,0.211765,0.000000,0.000000"/>
             <ColorFallOff value="0.100000"/>
-            <Specularity value="100.000000"/>
-            <SpecularScaler value="2.450000"/>
+            <Specularity value="0.000000"/>
+            <SpecularScaler value="0.000000"/>
             <UvRate value="-0.000000,-0.001000,0.000000,0.000000"/>
-            <ReflectionDistortion value="0.012000"/>
-            <RefractionDistortion value="0.020000"/>
-            <MinReflection value="0.300000"/>
-            <ReflectivityPower value="8.000000"/>
+            <ReflectionDistortion value="0.000000"/>
+            <RefractionDistortion value="0.000000"/>
+            <MinReflection value="0.000000"/>
+            <ReflectivityPower value="0.000000"/>
         </State>
         <State>
             <Name value="Alternate Setting"/>
