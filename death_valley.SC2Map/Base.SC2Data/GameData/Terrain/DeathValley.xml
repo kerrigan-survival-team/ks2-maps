@@ -34,6 +34,81 @@
     <CValidatorUnitType id="CommonObjectsWarpInPad@Target">
         <Value value="CommonObjectsWarpInPad"/>
     </CValidatorUnitType>
+    <CActorUnit id="DeathValleyInvisibleVent2" parent="GenericUnitStandardNoAutoSoundLinks" unitName="DeathValleyVent2">
+        <FogVisibility value="Visible"/>
+        <On index="0" Send="Create SoundEmitter DeathValleyVentA_Ambience"/>
+        <Model value="Invisible"/>
+        <DeathArray index="Normal" SoundLink="InvisibleTargetDummyDeath" VoiceLink="InvisibleTargetDummyDeathVoice"/>
+        <EditorModel value="Sphere"/>
+        <WalkAnimMoveSpeed value="0"/>
+        <HighlightTooltip value="Unit/Name/DeathValleyInvisibleVent2"/>
+        <MinimapIcon value="Assets\Textures\ui_minimap_icon_diamond.dds"/>
+        <MinimapIconScale value="0.500000"/>
+        <MinimapIconTintColor value="255,255,255,0"/>
+        <StatusBarFlags index="Shields" value="0"/>
+        <StatusBarFlags index="Life" value="0"/>
+        <StatusBarFlags index="Energy" value="0"/>
+        <StatusBarFlags index="Cargo" value="0"/>
+        <StatusBarFlags index="Progress" value="0"/>
+        <StatusBarFlags index="Duration" value="0"/>
+        <UnitFlags index="ShowBlobShadow" value="0"/>
+    </CActorUnit>
+    <CActorUnit id="DeathValleyInvisibleVent3" parent="GenericUnitStandardNoAutoSoundLinks" unitName="DeathValleyVent3">
+        <FogVisibility value="Visible"/>
+        <On index="0" Send="Create SoundEmitter DeathValleyVentA_Ambience"/>
+        <Model value="Invisible"/>
+        <DeathArray index="Normal" SoundLink="InvisibleTargetDummyDeath" VoiceLink="InvisibleTargetDummyDeathVoice"/>
+        <EditorModel value="Sphere"/>
+        <WalkAnimMoveSpeed value="0"/>
+        <HighlightTooltip value="Unit/Name/DeathValleyInvisibleVent3"/>
+        <MinimapIcon value="Assets\Textures\ui_minimap_icon_diamond.dds"/>
+        <MinimapIconScale value="0.500000"/>
+        <MinimapIconTintColor value="255,255,0,0"/>
+        <StatusBarFlags index="Shields" value="0"/>
+        <StatusBarFlags index="Life" value="0"/>
+        <StatusBarFlags index="Energy" value="0"/>
+        <StatusBarFlags index="Cargo" value="0"/>
+        <StatusBarFlags index="Progress" value="0"/>
+        <StatusBarFlags index="Duration" value="0"/>
+        <UnitFlags index="ShowBlobShadow" value="0"/>
+    </CActorUnit>
+    <CActorUnit id="DeathValleyInvisibleVent4" parent="GenericUnitStandardNoAutoSoundLinks" unitName="DeathValleyVent4">
+        <FogVisibility value="Visible"/>
+        <On index="0" Send="Create SoundEmitter DeathValleyVentA_Ambience"/>
+        <Model value="Invisible"/>
+        <DeathArray index="Normal" SoundLink="InvisibleTargetDummyDeath" VoiceLink="InvisibleTargetDummyDeathVoice"/>
+        <EditorModel value="Sphere"/>
+        <WalkAnimMoveSpeed value="0"/>
+        <HighlightTooltip value="Unit/Name/DeathValleyInvisibleVent4"/>
+        <MinimapIcon value="Assets\Textures\ui_minimap_icon_diamond.dds"/>
+        <MinimapIconScale value="0.500000"/>
+        <MinimapIconTintColor value="255,0,255,64"/>
+        <StatusBarFlags index="Shields" value="0"/>
+        <StatusBarFlags index="Life" value="0"/>
+        <StatusBarFlags index="Energy" value="0"/>
+        <StatusBarFlags index="Cargo" value="0"/>
+        <StatusBarFlags index="Progress" value="0"/>
+        <StatusBarFlags index="Duration" value="0"/>
+        <UnitFlags index="ShowBlobShadow" value="0"/>
+    </CActorUnit>
+    <CActorUnit id="DeathValleyInvisibleVent" parent="GenericUnitStandardNoAutoSoundLinks" unitName="DeathValleyVent1">
+        <FogVisibility value="Visible"/>
+        <Model value="Invisible"/>
+        <DeathArray index="Normal" SoundLink="InvisibleTargetDummyDeath" VoiceLink="InvisibleTargetDummyDeathVoice"/>
+        <EditorModel value="Sphere"/>
+        <WalkAnimMoveSpeed value="0"/>
+        <HighlightTooltip value="Unit/Name/DeathValleyInvisibleVent"/>
+        <MinimapIcon value="Assets\Textures\ui_minimap_icon_diamond.dds"/>
+        <MinimapIconScale value="0.500000"/>
+        <MinimapIconTintColor value="255,128,0,255"/>
+        <StatusBarFlags index="Shields" value="0"/>
+        <StatusBarFlags index="Life" value="0"/>
+        <StatusBarFlags index="Energy" value="0"/>
+        <StatusBarFlags index="Cargo" value="0"/>
+        <StatusBarFlags index="Progress" value="0"/>
+        <StatusBarFlags index="Duration" value="0"/>
+        <UnitFlags index="ShowBlobShadow" value="0"/>
+    </CActorUnit>
     <CTerrain id="DeathValleyTerrainType">
         <EditorCategories value="Climate:Volcanic"/>
         <Lighting value="Char2"/>
@@ -82,6 +157,22 @@
             <CreepTranslucentPassTint value="1.000000,0.850000,0.750000"/>
         </CreepSettingsArray>
     </CTerrain>
+    <CUnit id="DeathValleyVent1">
+        <Race value="Zerg"/>
+        <FogVisibility value="Visible"/>
+    </CUnit>
+    <CUnit id="DeathValleyVent2">
+        <Race value="Zerg"/>
+        <FogVisibility value="Visible"/>
+    </CUnit>
+    <CUnit id="DeathValleyVent3">
+        <Race value="Zerg"/>
+        <FogVisibility value="Visible"/>
+    </CUnit>
+    <CUnit id="DeathValleyVent4">
+        <Race value="Zerg"/>
+        <FogVisibility value="Visible"/>
+    </CUnit>
     <CBehaviorBuff id="DeathValleyRecentlyVented">
         <InfoFlags index="Hidden" value="1"/>
         <EditorCategories value="AbilityorEffectType:Units"/>
