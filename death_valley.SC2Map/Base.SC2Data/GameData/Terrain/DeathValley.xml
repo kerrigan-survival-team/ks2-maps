@@ -82,4 +82,9 @@
             <CreepTranslucentPassTint value="1.000000,0.850000,0.750000"/>
         </CreepSettingsArray>
     </CTerrain>
+    <CBehaviorBuff id="DeathValleyRecentlyVEnted">
+        <InfoFlags index="Hidden" value="1"/>
+        <EditorCategories value="AbilityorEffectType:Units"/>
+        <Duration value="5"/>
+    </CBehaviorBuff>
 </Catalog>
