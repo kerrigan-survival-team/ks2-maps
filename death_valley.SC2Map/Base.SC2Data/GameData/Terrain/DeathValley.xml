@@ -173,6 +173,11 @@
         <Race value="Zerg"/>
         <FogVisibility value="Visible"/>
     </CUnit>
+    <CBehaviorBuff id="DeathValleyRecentlyVentedOuter">
+        <InfoIcon value="Assets\Textures\wireframe-protoss-starshipventdoor.dds"/>
+        <EditorCategories value="AbilityorEffectType:Units"/>
+        <Duration value="5"/>
+    </CBehaviorBuff>
     <CBehaviorBuff id="DeathValleyRecentlyVented">
         <EditorCategories value="AbilityorEffectType:Units"/>
         <Duration value="60"/>
