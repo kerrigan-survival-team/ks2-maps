@@ -174,8 +174,8 @@
         <FogVisibility value="Visible"/>
     </CUnit>
     <CBehaviorBuff id="DeathValleyRecentlyVented">
-        <InfoFlags index="Hidden" value="1"/>
         <EditorCategories value="AbilityorEffectType:Units"/>
-        <Duration value="5"/>
+        <Duration value="60"/>
+        <InfoIcon value="Assets\Textures\wireframe-protoss-starshipventdoor.dds"/>
     </CBehaviorBuff>
 </Catalog>
