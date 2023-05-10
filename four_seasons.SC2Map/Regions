@@ -357,7 +357,7 @@
     <region id="60">
         <name value="Ramp59"/>
         <shape type="rect">
-            <quad value="49.1196,238.299,53.1196,242.2988"/>
+            <quad value="49.0251,239.9636,53.0251,243.9633"/>
         </shape>
     </region>
     <region id="61">
@@ -1367,6 +1367,18 @@
         <name value="Tutorial Initial Eco (3)"/>
         <shape type="rect">
             <quad value="25.0747,131.956,28.8803,139.8771"/>
+        </shape>
+    </region>
+    <region id="217">
+        <name value="Ramp157"/>
+        <shape type="rect">
+            <quad value="246.0314,80.9084,250.0314,84.9082"/>
+        </shape>
+    </region>
+    <region id="218">
+        <name value="Ramp158"/>
+        <shape type="rect">
+            <quad value="118.1293,187.2641,122.1293,191.264"/>
         </shape>
     </region>
 </Regions>
