@@ -89,6 +89,7 @@
         <CliffShoreline value="CharAcidCliffShoreline"/>
         <FramesPerSec value="0.000000"/>
         <CausticsFPS value="0.000000"/>
+        <IsLava value="1"/>
     </CWater>
     <CTerrain id="TidalFalllsTextureSet">
         <EditorCategories value="Climate:InteriorInstallation"/>
