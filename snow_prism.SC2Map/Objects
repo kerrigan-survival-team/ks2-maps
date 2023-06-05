@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlacedObjects Version="27">
+    <ObjectDoodad Id="739595376" Position="164.287,160.1562,7.9973" Rotation="1.57" Scale="1,2.5,1" Type="ProtossEnergyLine">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1870769528" Position="155.7751,160.1606,7.9973" Rotation="1.57" Scale="1,2.5,1" Type="ProtossEnergyLine">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectPoint Id="1556280491" Position="198.02,131.9106,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
+    <ObjectPoint Id="996884917" Position="143.9484,128.0122,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
+    <ObjectPoint Id="900776839" Position="141.93,240.1892,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
+    <ObjectPoint Id="366005776" Position="160,160,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
+    <ObjectPoint Id="196451203" Position="196.06,208.0146,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
+    <ObjectUnit Id="487636223" Position="176,154,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad2" Player="1"/>
+    <ObjectUnit Id="1083288142" Position="70,70,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonObjectsWarpInPad2" Player="1"/>
+</PlacedObjects>
