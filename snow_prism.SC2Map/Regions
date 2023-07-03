@@ -1796,4 +1796,34 @@
             <quad value="5.9604,120.9377,9.9604,124.9375"/>
         </shape>
     </region>
+    <region id="274">
+        <name value="Ramp176"/>
+        <shape type="rect">
+            <quad value="159.9953,87.0507,163.9953,91.0505"/>
+        </shape>
+    </region>
+    <region id="275">
+        <name value="Ramp177"/>
+        <shape type="rect">
+            <quad value="159.9941,63.0468,163.9941,67.0466"/>
+        </shape>
+    </region>
+    <region id="276">
+        <name value="Ramp178"/>
+        <shape type="rect">
+            <quad value="165.9797,82.9724,169.9797,86.9721"/>
+        </shape>
+    </region>
+    <region id="277">
+        <name value="Ramp179"/>
+        <shape type="rect">
+            <quad value="50.0544,74.9243,54.0544,78.924"/>
+        </shape>
+    </region>
+    <region id="278">
+        <name value="Ramp180"/>
+        <shape type="rect">
+            <quad value="31.004,29.9875,35.004,33.9873"/>
+        </shape>
+    </region>
 </Regions>
