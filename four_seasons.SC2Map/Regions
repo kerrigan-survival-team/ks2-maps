@@ -1381,4 +1381,16 @@
             <quad value="207.9733,80.8576,211.9733,84.8574"/>
         </shape>
     </region>
+    <region id="219">
+        <name value="Ramp160"/>
+        <shape type="rect">
+            <quad value="140.9462,62.0236,144.9462,66.0234"/>
+        </shape>
+    </region>
+    <region id="220">
+        <name value="Ramp161"/>
+        <shape type="rect">
+            <quad value="100.0031,219.0505,104.0031,223.0502"/>
+        </shape>
+    </region>
 </Regions>
