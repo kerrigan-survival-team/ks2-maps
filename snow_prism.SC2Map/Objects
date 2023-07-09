@@ -13,8 +13,8 @@
     <ObjectPoint Id="1556280491" Position="144.009,111.9924,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
     <ObjectPoint Id="996884917" Position="135.0473,146.985,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
     <ObjectPoint Id="900776839" Position="216.8503,192.456,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
-    <ObjectPoint Id="366005776" Position="160,160,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
     <ObjectPoint Id="196451203" Position="175.0124,211.1196,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
+    <ObjectPoint Id="366005776" Position="160,160,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
     <ObjectUnit Id="1603092654" Position="176,154,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonObjectsWarpInPad"/>
     <ObjectUnit Id="444086198" Position="70,70,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonObjectsWarpInPad"/>
 </PlacedObjects>
