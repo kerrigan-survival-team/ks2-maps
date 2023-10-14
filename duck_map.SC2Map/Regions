@@ -51,7 +51,7 @@
     <region id="10">
         <name value="Ramp10"/>
         <shape type="rect">
-            <quad value="28.8366,23.9978,33.0104,28.4155"/>
+            <quad value="26.8823,25.677,31.0561,30.0947"/>
         </shape>
     </region>
     <region id="12">
@@ -111,7 +111,7 @@
     <region id="22">
         <name value="Ramp22"/>
         <shape type="rect">
-            <quad value="143.7961,234.2868,147.97,238.7045"/>
+            <quad value="143.7824,234.6386,147.9562,239.0563"/>
         </shape>
     </region>
     <region id="23">
@@ -519,7 +519,7 @@
     <region id="95">
         <name value="Ramp95"/>
         <shape type="rect">
-            <quad value="15.0268,14.029,19.0268,18.0288"/>
+            <quad value="16.0361,12.8332,20.0361,16.833"/>
         </shape>
     </region>
     <region id="96">
@@ -681,7 +681,7 @@
     <region id="123">
         <name value="Ramp123"/>
         <shape type="rect">
-            <quad value="24.8757,24.1293,28.8757,28.1291"/>
+            <quad value="22.875,26.0058,26.875,30.0056"/>
         </shape>
     </region>
     <region id="124">
@@ -1209,7 +1209,7 @@
         <name value="Tutorial Economy (Horizontal) 07"/>
         <color value="255,255,255,128"/>
         <shape type="rect">
-            <quad value="28.045,75.058,40.045,79.0578"/>
+            <quad value="52.2531,91.07,64.2531,95.0698"/>
         </shape>
     </region>
     <region id="203">
