@@ -147,7 +147,7 @@
     <ObjectUnit Id="911970899" Position="77.457,107.9501,0" Rotation="1.1748" Scale="1,1,1" UnitType="EngineerOdin" Player="1"/>
     <ObjectUnit Id="1359042727" Position="75.3796,111.7885,0" Rotation="0.208" Scale="1,1,1" UnitType="EngineerWidowMine" Player="1"/>
     <ObjectUnit Id="1497078288" Position="107,115,0" Rotation="5.9338" Scale="1,1,1" UnitType="StukovInfestedPit" Player="1"/>
-    <ObjectUnit Id="1852728091" Position="101.5,91.5,0" Rotation="5.7595" Scale="1,1,1" UnitType="ZagaraEvolutionChamber" Player="1"/>
+    <ObjectUnit Id="1852728091" Position="101.5,91.5,0" Scale="1,1,1" UnitType="ZagaraEvolutionChamber" Player="1"/>
     <ObjectUnit Id="1267209180" Position="234.5,234.5,0" Scale="1,1,1" UnitType="EnergyGenerator" Player="1"/>
     <ObjectUnit Id="2110056695" Position="77.9965,113.4514,0" Rotation="3.5895" Scale="1,1,1" UnitType="EngineerWidowMine" Player="1"/>
     <ObjectUnit Id="376772195" Position="80.8852,108.8515,0" Rotation="0.0026" Scale="1,1,1" UnitType="WidowMine" Player="1"/>
