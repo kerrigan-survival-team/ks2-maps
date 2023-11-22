@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PlacedObjects Version="27">
+    <ObjectPoint Id="562554067" Position="165,113.5,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
+    <ObjectPoint Id="1150838230" Position="160,160,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
+    <ObjectPoint Id="1619629666" Position="96,96,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
+    <ObjectPoint Id="348312107" Position="128,128,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
+    <ObjectPoint Id="1700692043" Position="94,156.5,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
     <ObjectUnit Id="500985609" Position="189,49,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
     <ObjectUnit Id="1722040204" Position="84,181,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
     <ObjectUnit Id="898785972" Position="191,191,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
