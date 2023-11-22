@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlacedObjects Version="27">
+    <ObjectPoint Id="2142687418" Position="145,110,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Defender" Color="0,0,0,0"/>
+    <ObjectPoint Id="756511362" Position="109.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Ghosts)" Color="0,0,0,0"/>
+    <ObjectPoint Id="231894419" Position="147.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Supports)" Color="0,0,0,0"/>
+    <ObjectPoint Id="643511402" Position="128,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Builders)" Color="0,0,0,0"/>
+    <ObjectPoint Id="1248696952" Position="110,110,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Hunter" Color="0,0,0,0"/>
+    <ObjectPoint Id="314" Position="127.9748,127.9382,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
+    <ObjectCamera Id="816" Position="126.7687,12.3073,0" Rotation="3.14" Scale="1,1,1" Name="Camera 007" Color="0,0,0,0" CameraTarget="126.7687,12.3073">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="27.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="33.9997"/>
+        <CameraValue Index="Pitch" Value="56"/>
+        <CameraValue Index="Yaw" Value="179.9025"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="312" Position="32.9306,29.6455,0" Rotation="1.5104" Scale="1,1,1" Name="Camera 005" Color="0,0,0,0" CameraTarget="32.9306,29.6455">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="19.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="37.3996"/>
+        <CameraValue Index="Pitch" Value="26.5698"/>
+        <CameraValue Index="Yaw" Value="86.5451"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="310" Position="25.8454,124.3073,0" Rotation="2.841" Scale="1,1,1" Name="Camera 004" Color="0,0,0,0" CameraTarget="25.8454,124.3073">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="33.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="34"/>
+        <CameraValue Index="Pitch" Value="35"/>
+        <CameraValue Index="Yaw" Value="162.781"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="131" Position="241.9611,243.5917,0" Rotation="5.0771" Scale="1,1,1" Name="Camera 003" Color="0,0,0,0" CameraTarget="241.9611,243.5917">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="24.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="30"/>
+        <CameraValue Index="Pitch" Value="32"/>
+        <CameraValue Index="Yaw" Value="290.8991"/>
+        <CameraValue Index="HeightOffset" Value="9"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0097"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="315" Position="125.5065,44.863,0" Scale="1,1,1" Name="Camera 006" Color="0,0,0,0" CameraTarget="125.5065,44.863">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="27.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="37.3996"/>
+        <CameraValue Index="Pitch" Value="37.5698"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="337" Position="16.0097,242.9401,0" Rotation="3.1572" Scale="1,1,1" Name="Camera 002" Color="0,0,0,0" CameraTarget="16.0097,242.9401">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="24.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="11.9162"/>
+        <CameraValue Index="Pitch" Value="16.49"/>
+        <CameraValue Index="Yaw" Value="180.8957"/>
+        <CameraValue Index="HeightOffset" Value="0.4926"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="137" Position="11.1281,245.8256,0" Rotation="3.14" Scale="1,1,1" Name="Camera 001" Color="0,0,0,0" CameraTarget="11.1281,245.8256">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="12.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="19.1916"/>
+        <CameraValue Index="Pitch" Value="15"/>
+        <CameraValue Index="Yaw" Value="179.9025"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectUnit Id="681920402" Position="65,193,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
+    <ObjectUnit Id="169886849" Position="238,48,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
+    <ObjectUnit Id="948363773" Position="200,29,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
+    <ObjectUnit Id="201339150" Position="189,97,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
+    <ObjectUnit Id="103519936" Position="19,210,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
+    <ObjectUnit Id="1820040977" Position="194,218,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
+    <ObjectUnit Id="1627414151" Position="240,119,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
+    <ObjectUnit Id="111017656" Position="69,142,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
+    <ObjectUnit Id="1333260609" Position="75,224,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
+    <ObjectUnit Id="44633888" Position="188,164,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
+    <ObjectUnit Id="1571981602" Position="114,38,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
+    <ObjectUnit Id="10857642" Position="154,72,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
+    <ObjectUnit Id="237523155" Position="122,212,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
+    <ObjectUnit Id="1950939877" Position="134,166,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
+    <ObjectUnit Id="593659748" Position="28,42,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
+    <ObjectUnit Id="1563295519" Position="86,86,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
+    <ObjectUnit Id="1390299256" Position="112,60,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
+</PlacedObjects>

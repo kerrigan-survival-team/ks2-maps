@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlacedObjects Version="27">
+    <ObjectDoodad Id="445764064" Position="153.3425,154.0466,5.6567" Rotation="5.501" Scale="1,1,1" Type="PortCity_CargoBoat" Pitch="6.265" Roll="0.0102">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1502716791" Position="50.5,53,1.995" Rotation="1.1906" Scale="1,1,1" Type="PortCity_CargoBoatDestroyed" Pitch="0.1762" Roll="6.1506">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectPoint Id="2142687418" Position="145,110,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Defender" Color="0,0,0,0"/>
+    <ObjectPoint Id="756511362" Position="109.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Ghosts)" Color="0,0,0,0"/>
+    <ObjectPoint Id="1513950538" Position="154,155,0" Scale="1,1,1" Type="Normal" Name="+30% movespeed in water" Color="0,0,0,0"/>
+    <ObjectPoint Id="231894419" Position="147.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Supports)" Color="0,0,0,0"/>
+    <ObjectPoint Id="643511402" Position="128,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Builders)" Color="0,0,0,0"/>
+    <ObjectPoint Id="1248696952" Position="110,110,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Hunter" Color="0,0,0,0"/>
+    <ObjectPoint Id="314" Position="240.97,240.94,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
+    <ObjectPoint Id="1016739991" Position="44.5,45.5,0" Scale="1,1,1" Type="Normal" Name="Can these rocks be unbreakable??" Color="0,0,0,0"/>
+    <ObjectCamera Id="816" Position="126.7687,12.3073,0" Rotation="3.14" Scale="1,1,1" Name="Camera 007" Color="0,0,0,0" CameraTarget="126.7687,12.3073">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="27.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="33.9997"/>
+        <CameraValue Index="Pitch" Value="56"/>
+        <CameraValue Index="Yaw" Value="179.9025"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="312" Position="32.9306,29.6455,0" Rotation="1.5104" Scale="1,1,1" Name="Camera 005" Color="0,0,0,0" CameraTarget="32.9306,29.6455">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="19.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="37.3996"/>
+        <CameraValue Index="Pitch" Value="26.5698"/>
+        <CameraValue Index="Yaw" Value="86.5451"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="310" Position="25.8454,124.3073,0" Rotation="2.841" Scale="1,1,1" Name="Camera 004" Color="0,0,0,0" CameraTarget="25.8454,124.3073">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="33.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="34"/>
+        <CameraValue Index="Pitch" Value="35"/>
+        <CameraValue Index="Yaw" Value="162.781"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="131" Position="241.9611,243.5917,0" Rotation="5.0771" Scale="1,1,1" Name="Camera 003" Color="0,0,0,0" CameraTarget="241.9611,243.5917">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="24.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="30"/>
+        <CameraValue Index="Pitch" Value="32"/>
+        <CameraValue Index="Yaw" Value="290.8991"/>
+        <CameraValue Index="HeightOffset" Value="9"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0097"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="315" Position="125.5065,44.863,0" Scale="1,1,1" Name="Camera 006" Color="0,0,0,0" CameraTarget="125.5065,44.863">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="27.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="37.3996"/>
+        <CameraValue Index="Pitch" Value="37.5698"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="337" Position="16.0097,242.9401,0" Rotation="3.1572" Scale="1,1,1" Name="Camera 002" Color="0,0,0,0" CameraTarget="16.0097,242.9401">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="24.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="11.9162"/>
+        <CameraValue Index="Pitch" Value="16.49"/>
+        <CameraValue Index="Yaw" Value="180.8957"/>
+        <CameraValue Index="HeightOffset" Value="0.4926"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectCamera Id="137" Position="11.1281,245.8256,0" Rotation="3.14" Scale="1,1,1" Name="Camera 001" Color="0,0,0,0" CameraTarget="11.1281,245.8256">
+        <Flag Index="CameraHidden" Value="1"/>
+        <CameraValue Index="FieldOfView" Value="12.7995"/>
+        <CameraValue Index="NearClip" Value="0.0998"/>
+        <CameraValue Index="FarClip" Value="40000"/>
+        <CameraValue Index="ShadowClip" Value="300"/>
+        <CameraValue Index="Distance" Value="19.1916"/>
+        <CameraValue Index="Pitch" Value="15"/>
+        <CameraValue Index="Yaw" Value="179.9025"/>
+        <CameraValue Index="FocalDepth" Value="8"/>
+        <CameraValue Index="FalloffStart" Value="0.0002"/>
+        <CameraValue Index="FalloffEnd" Value="8"/>
+        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
+        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
+        <CameraValue Index="BokehFStop" Value="0.0187"/>
+        <CameraValue Index="BokehMaxCoC" Value="1"/>
+    </ObjectCamera>
+    <ObjectUnit Id="1272670902" Position="53.5,44.5,0" Rotation="5.6354" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="413344897" Position="46.5,51.5,0" Rotation="4.5673" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="435395535" Position="46.5,50.5,0" Rotation="0.2016" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="213461809" Position="49.5,47.5,0" Rotation="1.2697" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="767477771" Position="44.5,51.5,0" Rotation="3.0185" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="886134497" Position="51.5,47.5,0" Rotation="1.5637" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="2058259509" Position="45.5,52.5,0" Rotation="5.6196" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="256438288" Position="48.5,48.5,0" Rotation="5.2233" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="145115739" Position="50.5,45.5,0" Rotation="4.3" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris"/>
+    <ObjectUnit Id="1464003973" Position="46.5,50.5,0" Rotation="0.3962" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris"/>
+    <ObjectUnit Id="1539617050" Position="52.5,43.5,0" Rotation="4.5605" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+    <ObjectUnit Id="461998229" Position="44.5,53.5,0" Rotation="0.496" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectUnit>
+</PlacedObjects>
