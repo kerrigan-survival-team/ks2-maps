@@ -101,8 +101,8 @@
     <ObjectPoint Id="1378639359" Position="158.5,163.5,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
     <ObjectPoint Id="1509738341" Position="87.5,113,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
     <ObjectPoint Id="1439851683" Position="128,128,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
-    <ObjectUnit Id="700967605" Position="75,71,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
-    <ObjectUnit Id="35050541" Position="185,171,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
-    <ObjectUnit Id="1984168004" Position="89,205,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
-    <ObjectUnit Id="733569860" Position="143,33,0" Rotation="5.4975" Scale="1,1,1" UnitType="XelNagaTower"/>
+    <ObjectUnit Id="700967605" Position="75,71,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="35050541" Position="185,171,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="1984168004" Position="89,205,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="733569860" Position="143,33,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
 </PlacedObjects>
