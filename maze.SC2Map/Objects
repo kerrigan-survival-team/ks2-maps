@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PlacedObjects Version="27">
-    <ObjectPoint Id="627694407" Position="152,128,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
-    <ObjectPoint Id="2142687418" Position="145,110,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Defender" Color="0,0,0,0"/>
+    <ObjectPoint Id="627694407" Position="156,125,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
     <ObjectPoint Id="756511362" Position="109.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Ghosts)" Color="0,0,0,0"/>
-    <ObjectPoint Id="682344651" Position="128,152,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
-    <ObjectPoint Id="231894419" Position="147.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Supports)" Color="0,0,0,0"/>
+    <ObjectPoint Id="2142687418" Position="145,110,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Defender" Color="0,0,0,0"/>
+    <ObjectPoint Id="682344651" Position="123,149,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
     <ObjectPoint Id="643511402" Position="128,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Builders)" Color="0,0,0,0"/>
-    <ObjectPoint Id="2107884383" Position="104,128,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
-    <ObjectPoint Id="1255309704" Position="128,104.5,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
+    <ObjectPoint Id="231894419" Position="147.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Supports)" Color="0,0,0,0"/>
+    <ObjectPoint Id="2107884383" Position="93,122,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
+    <ObjectPoint Id="1255309704" Position="123.5,102.5,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
     <ObjectPoint Id="1248696952" Position="110,110,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Hunter" Color="0,0,0,0"/>
     <ObjectPoint Id="314" Position="127.9748,127.9382,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
     <ObjectCamera Id="816" Position="126.7687,12.3073,0" Rotation="3.14" Scale="1,1,1" Name="Camera 007" Color="0,0,0,0" CameraTarget="126.7687,12.3073">
@@ -131,19 +131,19 @@
         <CameraValue Index="BokehMaxCoC" Value="1"/>
     </ObjectCamera>
     <ObjectUnit Id="681920402" Position="65,184,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="169886849" Position="243,47,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="948363773" Position="198,31,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="169886849" Position="243,47,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="201339150" Position="189,98,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="103519936" Position="25,227,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="1820040977" Position="219,211,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="1712621956" Position="151,22,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="1627414151" Position="223,127,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="1785389248" Position="40,104,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="111017656" Position="70,142,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="1333260609" Position="80,229,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="1785389248" Position="40,104,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="44633888" Position="189,165,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="1571981602" Position="88,42,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="1333260609" Position="80,229,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="10857642" Position="145,63,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="1571981602" Position="88,42,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="237523155" Position="134,207,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="745604118" Position="11,171,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="1950939877" Position="132,173,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
