@@ -1251,13 +1251,13 @@
     <region id="271">
         <name value="Ramp215"/>
         <shape type="rect">
-            <quad value="137.501,81.5017,141.501,85.5014"/>
+            <quad value="137.5002,82.001,141.5002,86.0007"/>
         </shape>
     </region>
     <region id="272">
         <name value="Ramp216"/>
         <shape type="rect">
-            <quad value="137.5007,85.5007,141.5007,89.5004"/>
+            <quad value="137.5017,86.0017,141.5017,90.0014"/>
         </shape>
     </region>
     <region id="273">
