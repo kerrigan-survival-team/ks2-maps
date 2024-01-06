@@ -5,11 +5,7 @@
     <ObjectPoint Id="1619629666" Position="96,96,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
     <ObjectPoint Id="348312107" Position="128,128,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
     <ObjectPoint Id="1700692043" Position="94,156.5,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
-    <ObjectUnit Id="500985609" Position="189,49,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="1722040204" Position="84,181,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="898785972" Position="191,191,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="1691415009" Position="80,80,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-        <ObjectCamera Id="816" Position="126.7687,12.3073,0" Rotation="3.14" Scale="1,1,1" Name="Camera 007" Color="0,0,0,0" CameraTarget="126.7687,12.3073">
+    <ObjectCamera Id="816" Position="126.7687,12.3073,0" Rotation="3.14" Scale="1,1,1" Name="Camera 007" Color="0,0,0,0" CameraTarget="126.7687,12.3073">
         <Flag Index="CameraHidden" Value="1"/>
         <CameraValue Index="FieldOfView" Value="27.7995"/>
         <CameraValue Index="NearClip" Value="0.0998"/>
@@ -129,4 +125,8 @@
         <CameraValue Index="BokehFStop" Value="0.0187"/>
         <CameraValue Index="BokehMaxCoC" Value="1"/>
     </ObjectCamera>
+    <ObjectUnit Id="500985609" Position="172.948,60.7578,0" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="1722040204" Position="81.5732,176.1193,0" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="898785972" Position="156.43,186.4821,0" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="1691415009" Position="64.423,72.0124,0" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
 </PlacedObjects>
