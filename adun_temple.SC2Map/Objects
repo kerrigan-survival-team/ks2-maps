@@ -209,12 +209,16 @@
         <CameraValue Index="BokehFStop" Value="0.0187"/>
         <CameraValue Index="BokehMaxCoC" Value="1"/>
     </ObjectCamera>
-    <ObjectUnit Id="1960284983" Position="205,204,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad3"/>
+    <ObjectUnit Id="706878853" Position="17.5,9,0" Rotation="2.5996" Scale="1,1,1" UnitType="NightingaleNightingale" Player="1"/>
+    <ObjectUnit Id="452892334" Position="204.5,208,0" Rotation="1.3085" Scale="1,1,1" UnitType="SgtHammerArcliteTank" Player="1"/>
     <ObjectUnit Id="1665150697" Position="55,79,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad2"/>
-    <ObjectUnit Id="2000198769" Position="55,182,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad2"/>
+    <ObjectUnit Id="173446756" Position="204.5,210.5,0" Rotation="2.9841" Scale="1,1,1" UnitType="EngineerOdin" Player="1"/>
     <ObjectUnit Id="700967605" Position="75,71,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="55261963" Position="211,44,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad3"/>
     <ObjectUnit Id="35050541" Position="185,171,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="1960284983" Position="205,204,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad3"/>
+    <ObjectUnit Id="2000198769" Position="55,182,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad2"/>
+    <ObjectUnit Id="55261963" Position="211,44,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad3"/>
+    <ObjectUnit Id="788327107" Position="16,8,0" Rotation="2.356" Scale="1,1,1" UnitType="NightingaleTribunal" Player="1"/>
     <ObjectUnit Id="733569860" Position="143,33,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="1984168004" Position="89,205,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
 </PlacedObjects>
