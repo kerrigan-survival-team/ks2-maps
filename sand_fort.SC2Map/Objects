@@ -9,16 +9,16 @@
     <ObjectDoodad Id="1435043341" Variation="1" Position="5.5,168,6.0136" Scale="1,1,1" Type="JarbanMinor_MiningBot_Broken">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="557956983" Variation="5" Position="238.2507,241.1357,8.014" Rotation="1.5751" Scale="1,1,1" Type="Korhal_Platform_Pipes">
+    <ObjectDoodad Id="1509791476" Variation="2" Position="6,122,6.014" Scale="1,1,1" Type="DefendersCity_Buildings_IndustrialDestroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
-        <Flag Index="ForcePlacement" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="579761195" Variation="6" Position="19.5,252.5,6.0136" Rotation="3.892" Scale="1,1,1" Type="DefendersCity_Buildings_IndustrialDestroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1509791476" Variation="2" Position="6,122,6.014" Scale="1,1,1" Type="DefendersCity_Buildings_IndustrialDestroyed">
+    <ObjectDoodad Id="557956983" Variation="5" Position="238.2507,241.1357,8.014" Rotation="1.5751" Scale="1,1,1" Type="Korhal_Platform_Pipes">
         <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="231078084" Variation="2" Position="210.1965,16.8347,2.0141" Rotation="4.3786" Scale="1,1,1" Type="DestroyedPlatformChunks">
         <Flag Index="HeightAbsolute" Value="1"/>
@@ -39,15 +39,15 @@
     <ObjectDoodad Id="1049329364" Variation="8" Position="67.5,171,4.0136" Scale="1,1,1" Type="DefendersCity_Buildings_IndustrialDestroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2043460026" Variation="4" Position="157.5,209.5,6.0136" Rotation="1.5705" Scale="1,1,1" Type="Korhal_Platform_Pipes">
+    <ObjectDoodad Id="956018081" Variation="16" Position="245.0961,248.1875,8.014" Rotation="1.5532" Scale="1,1,1" Type="DefendersCity_Buildings_Pipes_Tanks_Industrial">
         <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1079721279" Variation="1" Position="122.5,218.5,8.014" Scale="1,1,1" Type="SpacePlatformCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="956018081" Variation="16" Position="245.0961,248.1875,8.014" Rotation="1.5532" Scale="1,1,1" Type="DefendersCity_Buildings_Pipes_Tanks_Industrial">
+    <ObjectDoodad Id="2043460026" Variation="4" Position="157.5,209.5,6.0136" Rotation="1.5705" Scale="1,1,1" Type="Korhal_Platform_Pipes">
         <Flag Index="HeightAbsolute" Value="1"/>
-        <Flag Index="ForcePlacement" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1088985543" Variation="3" Position="170,231,8.014" Rotation="1.9978" Scale="1,1,1" Type="Korhal_Platform_Post">
         <Flag Index="HeightAbsolute" Value="1"/>
@@ -61,10 +61,14 @@
     <ObjectDoodad Id="734073049" Variation="1" Position="150.5,115.5,2.014" Rotation="0.7678" Scale="1,1,1" Type="SpacePlatformWallDebrisLarge">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="301884626" Variation="1" Position="247.3261,248.3625,8.014" Scale="1,1,1" Type="DefendersCity_Buildings_Pipes_Tanks_Industrial">
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="1264706300" Variation="6" Position="135,219,8.014" Rotation="1.5632" Scale="1,1,1" Type="Korhal_Platform_Pipes">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="301884626" Variation="1" Position="247.3261,248.3625,8.014" Scale="1,1,1" Type="DefendersCity_Buildings_Pipes_Tanks_Industrial">
+    <ObjectDoodad Id="271214461" Variation="6" Position="209.5,215,8.014" Rotation="1.5705" Scale="1,1,1" Type="Korhal_Platform_Pipes">
         <Flag Index="HeightAbsolute" Value="1"/>
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectDoodad>
@@ -72,20 +76,16 @@
         <Flag Index="HeightAbsolute" Value="1"/>
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="271214461" Variation="6" Position="209.5,215,8.014" Rotation="1.5705" Scale="1,1,1" Type="Korhal_Platform_Pipes">
-        <Flag Index="HeightAbsolute" Value="1"/>
-        <Flag Index="ForcePlacement" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="222663830" Variation="5" Position="130.5,195.5,8.0136" Scale="1,1,1" Type="DefendersCity_IndustrialCrane">
+    <ObjectDoodad Id="222663830" Variation="5" Position="130.2175,196.8395,8.0136" Scale="1,1,1" Type="DefendersCity_IndustrialCrane">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="597698147" Variation="6" Position="102.5,96,4.0136" Rotation="6.2568" Scale="1,1,1" Type="DefendersCity_Buildings_IndustrialDestroyed">
+    <ObjectDoodad Id="597698147" Variation="6" Position="102.525,95.772,4.0136" Rotation="6.2568" Scale="1,1,1" Type="DefendersCity_Buildings_IndustrialDestroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1460239598" Position="252,242,8.014" Scale="1,1,1" Type="DefendersCity_Buildings_Pipes_Tanks_Industrial">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="829331064" Variation="2" Position="207.5,228.5,6.014" Scale="1,1,1" Type="SpacePlatformCurtain">
+    <ObjectDoodad Id="829331064" Variation="2" Position="207.5,228.5,8.4523" Scale="1,1,1" Type="SpacePlatformCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2102623222" Variation="6" Position="162.0056,103.4116,4.0134" Rotation="4.7033" Scale="1,1,1" Type="DefendersCity_Buildings_IndustrialDestroyed">
@@ -113,11 +113,11 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="947489085" Variation="1" Position="91,22.5,6.014" Rotation="4.7121" Scale="1,1,1" Type="DefendersCity_Buildings_IndustrialDestroyed">
-        <Flag Index="HeightOffset" Value="1"/>
+    <ObjectDoodad Id="1907537159" Variation="4" Position="252,246.5,8.014" Scale="1,1,1" Type="DefendersCity_Buildings_Pipes_Tanks_Industrial">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1907537159" Variation="4" Position="252,246.5,8.014" Scale="1,1,1" Type="DefendersCity_Buildings_Pipes_Tanks_Industrial">
+    <ObjectDoodad Id="947489085" Variation="1" Position="91,22.5,6.014" Rotation="4.7121" Scale="1,1,1" Type="DefendersCity_Buildings_IndustrialDestroyed">
+        <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1166913239" Variation="11" Position="251,247.5,8.014" Scale="1,1,1" Type="DefendersCity_Buildings_Pipes_Tanks_Industrial">
@@ -126,18 +126,18 @@
     <ObjectDoodad Id="754945442" Position="252,251.5,8.014" Scale="1,1,1" Type="DefendersCity_Buildings_Pipes_Tanks_Industrial">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="771318981" Variation="3" Position="130.4575,191.0695,8.0136" Scale="1,1,1" Type="PortCity_IndustrialCraneDestroyed">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="1241308724" Position="245.1562,250.9536,8.014" Scale="1,1,1" Type="DefendersCity_Buildings_Pipes_Tanks_Industrial">
         <Flag Index="HeightAbsolute" Value="1"/>
         <Flag Index="ForcePlacement" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="771318981" Variation="3" Position="130.5,190,8.0136" Scale="1,1,1" Type="PortCity_IndustrialCraneDestroyed">
-        <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1665425988" Variation="1" Position="224.452,220.1738,6.014" Rotation="0.6633" Scale="1,1,1" Type="SpacePlatformVents" Pitch="0.0268" Roll="6.186">
         <Flag Index="HeightAbsolute" Value="1"/>
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="136713178" Variation="6" Position="235.6943,215.0036,8.014" Rotation="1.5705" Scale="1,1,1" Type="Korhal_Platform_Pipes">
+    <ObjectDoodad Id="136713178" Variation="6" Position="235.6943,215.0036,8.0141" Rotation="1.5705" Scale="1,1,1" Type="Korhal_Platform_Pipes">
         <Flag Index="HeightAbsolute" Value="1"/>
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectDoodad>
@@ -163,11 +163,11 @@
     <ObjectDoodad Id="1394845082" Variation="2" Position="227.5,210.5,6.014" Scale="1,1,1" Type="SpacePlatformCurtain">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1210522976" Variation="5" Position="193.2194,249.7534,8.014" Rotation="6.2751" Scale="1,1,1" Type="Korhal_Platform_Pipes">
+    <ObjectDoodad Id="1392079953" Variation="15" Position="248.6943,250.9746,8.014" Scale="1,1,1" Type="DefendersCity_Buildings_Pipes_Tanks_Industrial">
         <Flag Index="HeightAbsolute" Value="1"/>
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1392079953" Variation="15" Position="248.6943,250.9746,8.014" Scale="1,1,1" Type="DefendersCity_Buildings_Pipes_Tanks_Industrial">
+    <ObjectDoodad Id="1210522976" Variation="5" Position="193.2194,249.7534,8.014" Rotation="6.2751" Scale="1,1,1" Type="Korhal_Platform_Pipes">
         <Flag Index="HeightAbsolute" Value="1"/>
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectDoodad>
@@ -175,20 +175,20 @@
         <Flag Index="HeightAbsolute" Value="1"/>
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1810174442" Variation="7" Position="222.5,242,8.014" Rotation="6.2763" Scale="1,1,1" Type="Korhal_Platform_Pipes">
+    <ObjectDoodad Id="1810174442" Variation="7" Position="195.1782,224.3015,8.0141" Rotation="6.2763" Scale="1,1,1" Type="Korhal_Platform_Pipes">
         <Flag Index="HeightAbsolute" Value="1"/>
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectDoodad>
-    <ObjectPoint Id="231894419" Position="147.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Supports)" Color="0,0,0,0"/>
     <ObjectPoint Id="2125090917" Position="164,152,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
+    <ObjectPoint Id="231894419" Position="147.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Supports)" Color="0,0,0,0"/>
     <ObjectPoint Id="2112851999" Position="85,149.5,0" Scale="1,1,1" Type="Normal" Name="TP 1 A" Color="0,0,0,0"/>
     <ObjectPoint Id="2125233095" Position="128,96,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
     <ObjectPoint Id="1248696952" Position="110,110,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Hunter" Color="0,0,0,0"/>
-    <ObjectPoint Id="2084141880" Position="203,42,0" Scale="1,1,1" Type="Normal" Name="TP 3 A" Color="0,0,0,0"/>
     <ObjectPoint Id="314" Position="127.9748,127.9382,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
+    <ObjectPoint Id="2084141880" Position="203,42,0" Scale="1,1,1" Type="Normal" Name="TP 3 A" Color="0,0,0,0"/>
     <ObjectPoint Id="691359307" Position="103,230,0" Scale="1,1,1" Type="Normal" Name="TP 1 B" Color="0,0,0,0"/>
-    <ObjectPoint Id="756511362" Position="109.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Ghosts)" Color="0,0,0,0"/>
     <ObjectPoint Id="1940693874" Position="166,117,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
+    <ObjectPoint Id="756511362" Position="109.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Ghosts)" Color="0,0,0,0"/>
     <ObjectPoint Id="1448055175" Position="249,15.5,0" Scale="1,1,1" Type="Normal" Name="TP 3 B" Color="0,0,0,0"/>
     <ObjectPoint Id="643511402" Position="128,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Builders)" Color="0,0,0,0"/>
     <ObjectPoint Id="901749831" Position="138.5,174.5,0" Scale="1,1,1" Type="Normal" Name="TP 2 A" Color="0,0,0,0"/>
