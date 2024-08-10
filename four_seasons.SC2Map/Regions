@@ -1423,4 +1423,10 @@
             <quad value="230.0012,119.0014,234.0012,123.0012"/>
         </shape>
     </region>
+    <region id="109">
+        <name value="Ramp168"/>
+        <shape type="rect">
+            <quad value="236.0004,99.0007,240.0004,103.0004"/>
+        </shape>
+    </region>
 </Regions>

@@ -6,28 +6,28 @@
     <ObjectDoodad Id="1905543945" Position="193.6962,101.6013,2.0156" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2039487751" Variation="6" Position="180.4777,199.771,2.0146" Rotation="0.7211" Scale="1.1164,1.1164,1.1164" Type="BelShirFlowers">
+    <ObjectDoodad Id="345661734" Position="108.5334,6.814,2.0153" Rotation="4.47" Scale="1.1682,1.1682,1.1682" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="345661734" Position="108.5334,6.814,2.0153" Rotation="4.47" Scale="1.1682,1.1682,1.1682" Type="DustLeaves">
+    <ObjectDoodad Id="2039487751" Variation="6" Position="180.4777,199.771,2.0146" Rotation="0.7211" Scale="1.1164,1.1164,1.1164" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="501602696" Variation="7" Position="184.4787,197.79,2.0146" Rotation="5.872" Scale="0.8247,0.8247,0.8247" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="783017036" Variation="6" Position="62.5,191.5,2.0146" Rotation="5.771" Scale="1.0983,1.0983,1.0983" Type="BelShirTree">
+    <ObjectDoodad Id="980575385" Variation="7" Position="24.6413,31.3078,4.015" Rotation="3.4592" Scale="0.9064,0.9064,0.9064" Type="Brambles">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="980575385" Variation="7" Position="24.6413,31.3078,4.015" Rotation="3.4592" Scale="0.9064,0.9064,0.9064" Type="Brambles">
+    <ObjectDoodad Id="783017036" Variation="6" Position="62.5,191.5,2.0146" Rotation="5.771" Scale="1.0983,1.0983,1.0983" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="739570141" Variation="3" Position="122.3852,5.7634,2.015" Rotation="0.4953" Scale="0.9711,0.9711,0.9711" Type="BelShirCanopyTrees" TintColor="182,83,10">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1439285298" Variation="6" Position="4.5,210.5,2.0146" Rotation="0.172" Scale="0.8762,0.8762,0.8762" Type="BelShirTree">
+    <ObjectDoodad Id="1944839998" Variation="2" Position="236.639,75.3317,2.015" Rotation="4.8376" Scale="1,1,1" Type="IceShearedRocksUpright">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1944839998" Variation="2" Position="236.639,75.3317,2.015" Rotation="4.8376" Scale="1,1,1" Type="IceShearedRocksUpright">
+    <ObjectDoodad Id="1439285298" Variation="6" Position="4.5,210.5,2.0146" Rotation="0.172" Scale="0.8762,0.8762,0.8762" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1083775289" Variation="10" Position="7.5,4.5,2.0144" Rotation="0.7053" Scale="0.8527,0.8527,0.8527" Type="PlantsJungle">
@@ -43,16 +43,16 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1907994806" Variation="1" Position="184.9721,195.1826,2.0146" Rotation="2.0957" Scale="0.9321,0.9321,0.9321" Type="BelShirFlowers">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1899200273" Position="152.2431,41.2712,2.0151" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1713888040" Variation="6" Position="246.3933,107.0034,2.0153" Rotation="4.2082" Scale="1.0693,1.0693,1.0693" Type="SnowTrees">
+    <ObjectDoodad Id="1907994806" Variation="1" Position="184.9721,195.1826,2.0146" Rotation="2.0957" Scale="0.9321,0.9321,0.9321" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="879881428" Position="56.3017,77.3737,6.0151" Rotation="5.5334" Scale="0.9965,0.9965,0.9965" Type="DustLeaves">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1713888040" Variation="6" Position="246.3933,107.0034,2.0153" Rotation="4.2082" Scale="1.0693,1.0693,1.0693" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1756794600" Position="16.9848,94.0944,6.0151" Rotation="1.6281" Scale="1.1713,1.1713,1.1713" Type="DustLeaves">
@@ -70,17 +70,17 @@
     <ObjectDoodad Id="1389965944" Variation="4" Position="173.6037,57.3024,4.0151" Rotation="2.7343" Scale="0.8093,0.8093,0.8093" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="190010239" Position="4.5,131.5,1.9963" Rotation="5.9606" Scale="0.8586,0.8586,0.8586" Type="AiurTree">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="775561041" Variation="2" Position="51.7543,68.723,8.0134" Rotation="3.6162" Scale="0.8413,0.8413,0.8413" Type="BelShirCanopyTrees" TintColor="149,38,6">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1442671539" Position="180.5783,191.8286,2.0146" Rotation="0.5002" Scale="0.8017,0.8017,0.8017" Type="BelShirFlowers">
+    <ObjectDoodad Id="190010239" Position="4.5,131.5,1.9963" Rotation="5.9606" Scale="0.8586,0.8586,0.8586" Type="AiurTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="56031951" Position="229.281,46.5134,2.0151" Rotation="5.6811" Scale="1.0485,1.0485,1.0485" Type="SnowTrees">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1442671539" Position="180.5783,191.8286,2.0146" Rotation="0.5002" Scale="0.8017,0.8017,0.8017" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1646974694" Variation="3" Position="103.0927,37.0756,4.015" Rotation="0.4948" Scale="0.9711,0.9711,0.9711" Type="BelShirCanopyTrees" TintColor="182,83,10">
@@ -94,10 +94,10 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1868191680" Variation="7" Position="4.5,248.5,2.0146" Rotation="1.5803" Scale="1.1823,1.1823,1.1823" Type="BelShirTree">
+    <ObjectDoodad Id="50687413" Position="231.2521,10.8793,2.0151" Rotation="5.756" Scale="0.9704,0.9704,0.9704" Type="SnowBlizzard">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="50687413" Position="231.2521,10.8793,2.0151" Rotation="5.756" Scale="0.9704,0.9704,0.9704" Type="SnowBlizzard">
+    <ObjectDoodad Id="1868191680" Variation="7" Position="4.5,248.5,2.0146" Rotation="1.5803" Scale="1.1823,1.1823,1.1823" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="762405943" Position="5.5,5.5,2.118" Rotation="3.8222" Scale="1,1,1" Type="Moopy">
@@ -110,25 +110,25 @@
     <ObjectDoodad Id="785721128" Variation="1" Position="22.5,212.5,2.015" Rotation="0.1545" Scale="0.9211,0.9211,0.9211" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1382512755" Position="106.3681,2.7866,2.307" Rotation="2.4167" Scale="0.8127,0.8127,0.8127" Type="DustLeaves">
+    <ObjectDoodad Id="742684761" Position="192.8698,44.9624,2.0151" Rotation="0.0134" Scale="0.9238,0.9238,0.9238" Type="HeavySnowTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="742684761" Position="192.8698,44.9624,2.0151" Rotation="0.0134" Scale="0.9238,0.9238,0.9238" Type="HeavySnowTree">
+    <ObjectDoodad Id="1382512755" Position="106.3681,2.7866,2.307" Rotation="2.4167" Scale="0.8127,0.8127,0.8127" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="422274190" Variation="2" Position="36.5,12.5,2.0146" Rotation="3.6164" Scale="0.8413,0.8413,0.8413" Type="BelShirCanopyTrees" TintColor="149,38,6">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1301005984" Position="153.8305,58.7312,2.0151" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="612267101" Position="79.582,32.6491,8.0156" Rotation="0.794" Scale="1.1962,1.1962,1.1962" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1597573221" Variation="2" Position="195.2097,196.371,2.0146" Rotation="5.6235" Scale="0.9462,0.9462,0.9462" Type="BelShirFlowers">
+    <ObjectDoodad Id="1301005984" Position="153.8305,58.7312,2.0151" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1340437974" Position="192.9372,46.9226,2.0151" Rotation="1.6364" Scale="1.1997,1.1997,1.1997" Type="HeavySnowTree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1597573221" Variation="2" Position="195.2097,196.371,2.0146" Rotation="5.6235" Scale="0.9462,0.9462,0.9462" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="126627959" Position="92.6403,57.201,6.0151" Rotation="0.475" Scale="0.8635,0.8635,0.8635" Type="DustLeaves">
@@ -140,37 +140,37 @@
     <ObjectDoodad Id="2100727545" Variation="6" Position="170.728,36.3847,4.0151" Rotation="4.0197" Scale="1.1506,1.1506,1.1506" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="760285118" Variation="6" Position="5.5,133.5,2.0146" Rotation="4.4816" Scale="1.056,1.056,1.056" Type="AiurTree">
+    <ObjectDoodad Id="769337735" Position="112.9523,32.2753,4.0166" Rotation="4.5415" Scale="1.0273,1.0273,1.0273" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1523123254" Variation="8" Position="182.7788,201.5961,2.0146" Rotation="2.1645" Scale="1.1472,1.1472,1.1472" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="769337735" Position="112.9523,32.2753,4.0166" Rotation="4.5415" Scale="1.0273,1.0273,1.0273" Type="DustLeaves">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="192061334" Variation="1" Position="87.5,199.5,2.0146" Rotation="2.4106" Scale="0.9992,0.9992,0.9992" Type="BelShirTree">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1148347640" Position="159.3347,17.433,2.0151" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
+    <ObjectDoodad Id="760285118" Variation="6" Position="5.5,133.5,2.0146" Rotation="4.4816" Scale="1.056,1.056,1.056" Type="AiurTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="51116394" Position="231.6225,138.8654,4.0151" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="170314531" Variation="1" Position="194.4946,11.9824,2.0151" Rotation="4.0241" Scale="1,1,1" Type="SnowTreeDead">
+    <ObjectDoodad Id="1148347640" Position="159.3347,17.433,2.0151" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="649792987" Variation="22" Position="6.5,4,2.0144" Rotation="4.7138" Scale="0.8283,0.8283,0.8283" Type="PlantsJungle">
+    <ObjectDoodad Id="192061334" Variation="1" Position="87.5,199.5,2.0146" Rotation="2.4106" Scale="0.9992,0.9992,0.9992" Type="BelShirTree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="170314531" Variation="1" Position="194.4946,11.9824,2.0151" Rotation="4.0241" Scale="1,1,1" Type="SnowTreeDead">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1248452684" Position="159.6772,29.3332,2.0151" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="659145622" Position="220.1406,87.2011,5.9965" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
+    <ObjectDoodad Id="649792987" Variation="22" Position="6.5,4,2.0144" Rotation="4.7138" Scale="0.8283,0.8283,0.8283" Type="PlantsJungle">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="647430955" Position="219.5644,101.2104,4.0151" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="659145622" Position="220.1406,87.2011,5.9965" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1260849736" Variation="1" Position="89.5,179.5,2.0146" Rotation="0.5476" Scale="1.0493,1.0493,1.0493" Type="AiurTree">
@@ -202,10 +202,10 @@
     <ObjectDoodad Id="1963366073" Position="118.4943,8.2578,2.0153" Rotation="0.7312" Scale="1.0087,1.0087,1.0087" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1134689697" Variation="5" Position="5,4,2.0144" Rotation="3.456" Scale="1.0341,1.0341,1.0341" Type="PlantsJungle">
+    <ObjectDoodad Id="2120819339" Variation="2" Position="219.0454,124.2023,2.015" Rotation="0.8232" Scale="1.134,1.134,1.134" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2120819339" Variation="2" Position="219.0454,124.2023,2.015" Rotation="0.8232" Scale="1.134,1.134,1.134" Type="SnowTrees">
+    <ObjectDoodad Id="1134689697" Variation="5" Position="5,4,2.0144" Rotation="3.456" Scale="1.0341,1.0341,1.0341" Type="PlantsJungle">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="657237490" Position="191.4255,199.6997,2.0146" Rotation="1.5202" Scale="0.8632,0.8632,0.8632" Type="BelShirFlowers">
@@ -217,16 +217,16 @@
     <ObjectDoodad Id="362044873" Position="149.0434,20.814,2.0151" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1145160403" Variation="4" Position="22.5,222.5,2.0146" Rotation="4.0378" Scale="0.999,0.999,0.999" Type="BelShirTree">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="2115427570" Variation="4" Position="192.0834,204.4594,2.0146" Rotation="5.8908" Scale="1.0334,1.0334,1.0334" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="389133394" Variation="3" Position="156.856,11.322,2.0151" Rotation="2.435" Scale="1.1174,1.1174,1.1174" Type="SnowTrees">
+    <ObjectDoodad Id="1145160403" Variation="4" Position="22.5,222.5,2.0146" Rotation="4.0378" Scale="0.999,0.999,0.999" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="709518699" Position="140.3845,234.9995,1.9865" Scale="1,1,1" Type="RainSprinkle">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="389133394" Variation="3" Position="156.856,11.322,2.0151" Rotation="2.435" Scale="1.1174,1.1174,1.1174" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1191766133" Variation="7" Position="23.864,33.1574,4.015" Rotation="3.221" Scale="1.119,1.119,1.119" Type="Brambles">
@@ -241,20 +241,20 @@
     <ObjectDoodad Id="1534945922" Position="11.697,37.8666,2.0151" Rotation="1.9426" Scale="0.868,0.868,0.868" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1101353535" Position="70.818,17.1103,4.0151" Rotation="0.3686" Scale="1.1452,1.1452,1.1452" Type="DustLeaves">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="2047068767" Variation="1" Position="41.9128,105.598,4.0007" Rotation="2.3728" Scale="1.0585,1.0585,1.0585" Type="BelShirCanopyTrees" TintColor="149,38,6">
         <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1101353535" Position="70.818,17.1103,4.0151" Rotation="0.3686" Scale="1.1452,1.1452,1.1452" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1329870363" Position="47.8505,88.4157,8.0151" Rotation="0.1967" Scale="1.0915,1.0915,1.0915" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1871211544" Position="4.5,207.5,1.9963" Rotation="2.5632" Scale="0.8305,0.8305,0.8305" Type="BelShirTree">
+    <ObjectDoodad Id="515510288" Variation="1" Position="216.2382,75.5136,0.9667" Rotation="4.537" Scale="1,1,1" Type="IceShearedRocksUpright">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="515510288" Variation="1" Position="216.2382,75.5136,0.9667" Rotation="4.537" Scale="1,1,1" Type="IceShearedRocksUpright">
+    <ObjectDoodad Id="1871211544" Position="4.5,207.5,1.9963" Rotation="2.5632" Scale="0.8305,0.8305,0.8305" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="784870892" Position="23.4511,30.098,4.0151" Rotation="5.1638" Scale="1.1821,1.1821,1.1821" Type="DustLeaves">
@@ -281,10 +281,10 @@
     <ObjectDoodad Id="1348475396" Variation="25" Position="4.5,5,2.0144" Rotation="0.712" Scale="0.9204,0.9204,0.9204" Type="PlantsJungle">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="94137344" Position="97.5695,53.7714,6.0151" Rotation="1.1628" Scale="1.0502,1.0502,1.0502" Type="DustLeaves">
+    <ObjectDoodad Id="1101877626" Position="192.8198,12.438,2.0151" Rotation="6.2587" Scale="0.8532,0.8532,0.8532" Type="HeavySnowTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1101877626" Position="192.8198,12.438,2.0151" Rotation="6.2587" Scale="0.8532,0.8532,0.8532" Type="HeavySnowTree">
+    <ObjectDoodad Id="94137344" Position="97.5695,53.7714,6.0151" Rotation="1.1628" Scale="1.0502,1.0502,1.0502" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1056699145" Variation="1" Position="185.1691,203.7744,2.0146" Rotation="0.0793" Scale="1.1547,1.1547,1.1547" Type="BelShirFlowers">
@@ -299,10 +299,10 @@
     <ObjectDoodad Id="102271949" Position="82.568,14.8591,4.2861" Rotation="5.8791" Scale="1.1853,1.1853,1.1853" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1120082614" Variation="5" Position="182.5637,198.182,2.0146" Rotation="2.658" Scale="0.9106,0.9106,0.9106" Type="BelShirFlowers">
+    <ObjectDoodad Id="458898903" Variation="4" Position="190.6943,195.0942,2.0146" Rotation="3.2861" Scale="0.9226,0.9226,0.9226" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="458898903" Variation="4" Position="190.6943,195.0942,2.0146" Rotation="3.2861" Scale="0.9226,0.9226,0.9226" Type="BelShirFlowers">
+    <ObjectDoodad Id="1120082614" Variation="5" Position="182.5637,198.182,2.0146" Rotation="2.658" Scale="0.9106,0.9106,0.9106" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1909334784" Variation="11" Position="248,251,4.0146" Rotation="6.2026" Scale="1.116,1.116,1.116" Type="PlantsJungle">
@@ -311,13 +311,13 @@
     <ObjectDoodad Id="2023616032" Variation="3" Position="4.5,251.5,2.0146" Rotation="3.8305" Scale="0.9284,0.9284,0.9284" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1231228340" Variation="4" Position="20.5,222.5,2.0146" Rotation="4.0312" Scale="0.8608,0.8608,0.8608" Type="BelShirTree">
+    <ObjectDoodad Id="1463429859" Position="56.9392,42.3137,8.0151" Rotation="1.344" Scale="0.9406,0.9406,0.9406" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="542297183" Variation="2" Position="247.6362,106.9343,2.0153" Rotation="5.344" Scale="1.1123,1.1123,1.1123" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1463429859" Position="56.9392,42.3137,8.0151" Rotation="1.344" Scale="0.9406,0.9406,0.9406" Type="DustLeaves">
+    <ObjectDoodad Id="1231228340" Variation="4" Position="20.5,222.5,2.0146" Rotation="4.0312" Scale="0.8608,0.8608,0.8608" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="290158418" Position="33.5695,33.727,6.0151" Rotation="3.101" Scale="0.8735,0.8735,0.8735" Type="DustLeaves">
@@ -348,10 +348,10 @@
     <ObjectDoodad Id="2007821209" Variation="1" Position="183.2236,196.7182,2.0146" Rotation="0.8554" Scale="0.846,0.846,0.846" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="757212956" Position="91.5,181.5,2.0146" Rotation="3.907" Scale="1.0227,1.0227,1.0227" Type="AiurTree">
+    <ObjectDoodad Id="1339528042" Position="221.1833,13.4792,2.0156" Rotation="5.756" Scale="0.9704,0.9704,0.9704" Type="SnowBlizzard">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1339528042" Position="221.1833,13.4792,2.0156" Rotation="5.756" Scale="0.9704,0.9704,0.9704" Type="SnowBlizzard">
+    <ObjectDoodad Id="757212956" Position="91.5,181.5,2.0146" Rotation="3.907" Scale="1.0227,1.0227,1.0227" Type="AiurTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2123960138" Variation="3" Position="113.5,188.5,2.0151" Rotation="5.914" Scale="0.9145,0.9145,0.9145" Type="AiurTree">
@@ -392,10 +392,10 @@
     <ObjectDoodad Id="2143983383" Variation="7" Position="188.364,194.633,2.0146" Rotation="1.7553" Scale="1.1066,1.1066,1.1066" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1118453884" Position="212.3063,11.356,2.0156" Rotation="5.756" Scale="0.9704,0.9704,0.9704" Type="SnowBlizzard">
+    <ObjectDoodad Id="791095434" Position="64.4262,55.4626,6.0151" Rotation="0.9885" Scale="1.0646,1.0646,1.0646" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="791095434" Position="64.4262,55.4626,6.0151" Rotation="0.9885" Scale="1.0646,1.0646,1.0646" Type="DustLeaves">
+    <ObjectDoodad Id="1118453884" Position="212.3063,11.356,2.0156" Rotation="5.756" Scale="0.9704,0.9704,0.9704" Type="SnowBlizzard">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="38504166" Position="127.217,203.771,-5.9848" Scale="1,1,1" Type="FishSchool">
@@ -422,11 +422,11 @@
     <ObjectDoodad Id="226107014" Variation="5" Position="6,7.5,2.0144" Rotation="6.229" Scale="1.1914,1.1914,1.1914" Type="PlantsJungle">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1495671605" Position="184.6274,100.5944,2.0151" Rotation="5.5798" Scale="1,1,1" Type="SnowTreeDead">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="908634984" Variation="3" Position="24.7634,63.4094,4.015" Rotation="0.4953" Scale="0.9711,0.9711,0.9711" Type="BelShirCanopyTrees" TintColor="149,38,6">
         <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1495671605" Position="184.6274,100.5944,2.0151" Rotation="5.5798" Scale="1,1,1" Type="SnowTreeDead">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1046148957" Position="31.304,64.4724,6.0151" Rotation="5.856" Scale="1.0505,1.0505,1.0505" Type="DustLeaves">
@@ -435,26 +435,26 @@
     <ObjectDoodad Id="587963354" Variation="2" Position="5.5,209.5,2.0146" Rotation="3.5488" Scale="0.8476,0.8476,0.8476" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="255518421" Variation="2" Position="63.5,182.5,2.0146" Rotation="2.4775" Scale="0.8356,0.8356,0.8356" Type="BelShirTree">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="374020655" Position="172.5781,34.9685,4.0151" Rotation="0.858" Scale="1.031,1.031,1.031" Type="HeavySnowTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1668741798" Variation="7" Position="226.5,35.5,2.0146" Rotation="4.4218" Scale="1.03,1.03,1.03" Type="IceWorldRock">
+    <ObjectDoodad Id="255518421" Variation="2" Position="63.5,182.5,2.0146" Rotation="2.4775" Scale="0.8356,0.8356,0.8356" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1377943819" Variation="1" Position="90.722,24.3256,4.015" Rotation="2.3728" Scale="1.0585,1.0585,1.0585" Type="BelShirCanopyTrees" TintColor="149,38,6">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="1668741798" Variation="7" Position="226.5,35.5,2.0146" Rotation="4.4218" Scale="1.03,1.03,1.03" Type="IceWorldRock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="99980306" Variation="2" Position="5.5,195.5,2.0146" Rotation="4.9572" Scale="0.831,0.831,0.831" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="537163265" Variation="4" Position="249.2011,3.8908,4.015" Rotation="2.0222" Scale="0.9558,0.9558,0.9558" Type="IceWorldAmbientCrystals">
+    <ObjectDoodad Id="933997770" Position="161.726,38.0168,4.0151" Rotation="1.8432" Scale="0.957,0.957,0.957" Type="HeavySnowTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="933997770" Position="161.726,38.0168,4.0151" Rotation="1.8432" Scale="0.957,0.957,0.957" Type="HeavySnowTree">
+    <ObjectDoodad Id="537163265" Variation="4" Position="249.2011,3.8908,4.015" Rotation="2.0222" Scale="0.9558,0.9558,0.9558" Type="IceWorldAmbientCrystals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="451484834" Variation="6" Position="3.5,194.5,2.015" Rotation="2.5446" Scale="1.0014,1.0014,1.0014" Type="BelShirTree">
@@ -469,16 +469,16 @@
     <ObjectDoodad Id="515645350" Position="163.0585,34.0402,4.0151" Rotation="2.5803" Scale="0.8005,0.8005,0.8005" Type="HeavySnowTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="803519214" Variation="6" Position="183.9665,195.3413,2.0146" Rotation="3.546" Scale="1.1791,1.1791,1.1791" Type="BelShirFlowers">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1548157199" Variation="1" Position="250.5,133.5,2.0146" Scale="1,1,1" Type="Purifier_Trees_Tall">
+    <ObjectDoodad Id="176690370" Position="221.175,23.758,2.0136" Rotation="5.756" Scale="0.9704,0.9704,0.9704" Type="SnowBlizzard">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1970307816" Variation="2" Position="250.3176,107.077,2.0153" Rotation="2.2932" Scale="1.0063,1.0063,1.0063" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="176690370" Position="221.175,23.758,2.0136" Rotation="5.756" Scale="0.9704,0.9704,0.9704" Type="SnowBlizzard">
+    <ObjectDoodad Id="1548157199" Variation="1" Position="250.5,133.5,2.0146" Scale="1,1,1" Type="Purifier_Trees_Tall">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="803519214" Variation="6" Position="183.9665,195.3413,2.0146" Rotation="3.546" Scale="1.1791,1.1791,1.1791" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="523403890" Position="128.1018,190.1408,-5.8195" Rotation="6.1135" Scale="0.985,0.985,0.985" Type="Fish">
@@ -490,10 +490,10 @@
     <ObjectDoodad Id="457545310" Variation="8" Position="191.7136,203.1352,2.0146" Rotation="4.3896" Scale="1.1701,1.1701,1.1701" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2039652076" Variation="4" Position="49.5,229.5,2.0146" Rotation="3.125" Scale="0.8598,0.8598,0.8598" Type="AiurTree">
+    <ObjectDoodad Id="1714356477" Position="72.882,15.4892,3.9963" Rotation="2.9348" Scale="0.8486,0.8486,0.8486" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1714356477" Position="72.882,15.4892,3.9963" Rotation="2.9348" Scale="0.8486,0.8486,0.8486" Type="DustLeaves">
+    <ObjectDoodad Id="2039652076" Variation="4" Position="49.5,229.5,2.0146" Rotation="3.125" Scale="0.8598,0.8598,0.8598" Type="AiurTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1274585154" Variation="3" Position="192.7985,196.8471,2.0146" Rotation="5.18" Scale="0.8303,0.8303,0.8303" Type="BelShirFlowers">
@@ -505,11 +505,11 @@
     <ObjectDoodad Id="2085656275" Variation="7" Position="190.915,191.9147,2.0146" Rotation="4.0886" Scale="1.003,1.003,1.003" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1430041643" Position="192.9074,48.5932,2.0151" Rotation="4.318" Scale="1.0068,1.0068,1.0068" Type="HeavySnowTree">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1920250345" Variation="3" Position="67.2336,59.722,6.015" Rotation="0.4953" Scale="0.9711,0.9711,0.9711" Type="BelShirCanopyTrees" TintColor="149,38,6">
         <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1430041643" Position="192.9074,48.5932,2.0151" Rotation="4.318" Scale="1.0068,1.0068,1.0068" Type="HeavySnowTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1975906706" Position="187.5822,119.4621,2.0156" Rotation="6.2717" Scale="1.083,1.083,1.083" Type="SnowTrees">
@@ -524,10 +524,10 @@
     <ObjectDoodad Id="872483645" Variation="8" Position="192.1806,201.4575,2.0146" Rotation="5.608" Scale="0.9277,0.9277,0.9277" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1161740536" Position="114.4147,41.071,2.0151" Rotation="5.4282" Scale="1.0747,1.0747,1.0747" Type="DustLeaves">
+    <ObjectDoodad Id="1850625116" Position="170.5317,37.4184,4.0151" Rotation="4.9248" Scale="1.171,1.171,1.171" Type="HeavySnowTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1850625116" Position="170.5317,37.4184,4.0151" Rotation="4.9248" Scale="1.171,1.171,1.171" Type="HeavySnowTree">
+    <ObjectDoodad Id="1161740536" Position="114.4147,41.071,2.0151" Rotation="5.4282" Scale="1.0747,1.0747,1.0747" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1516105710" Variation="5" Position="85.5,179.5,2.0146" Rotation="3.363" Scale="0.9633,0.9633,0.9633" Type="AiurTree">
@@ -542,11 +542,11 @@
     <ObjectDoodad Id="1396234378" Variation="3" Position="227.5,35.5,2.0146" Rotation="5.3117" Scale="0.9785,0.9785,0.9785" Type="IceWorldRock">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="217082740" Position="187.425,197.007,2.0146" Rotation="6.1633" Scale="1.1572,1.1572,1.1572" Type="BelShirFlowers">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="881458192" Variation="2" Position="50.5144,67.6303,8.0134" Rotation="3.616" Scale="0.8413,0.8413,0.8413" Type="BelShirCanopyTrees" TintColor="149,38,6">
         <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="217082740" Position="187.425,197.007,2.0146" Rotation="6.1633" Scale="1.1572,1.1572,1.1572" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1956108742" Position="48.5,231.5,2.0146" Rotation="0.2558" Scale="0.9194,0.9194,0.9194" Type="AiurTree">
@@ -558,20 +558,20 @@
     <ObjectDoodad Id="534913416" Variation="6" Position="10.5,251.5,2.0146" Rotation="4.2976" Scale="0.9091,0.9091,0.9091" Type="AiurTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1648514405" Variation="3" Position="88.5,179.5,2.0146" Rotation="6.1843" Scale="1.0871,1.0871,1.0871" Type="AiurTree">
+    <ObjectDoodad Id="1992427750" Variation="2" Position="24.743,32.666,4.015" Rotation="2.7707" Scale="0.8906,0.8906,0.8906" Type="RockSmall">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1992427750" Variation="2" Position="24.743,32.666,4.015" Rotation="2.7707" Scale="0.8906,0.8906,0.8906" Type="RockSmall">
+    <ObjectDoodad Id="1648514405" Variation="3" Position="88.5,179.5,2.0146" Rotation="6.1843" Scale="1.0871,1.0871,1.0871" Type="AiurTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1912221031" Variation="3" Position="12.5122,82.973,2.0146" Rotation="0.495" Scale="0.9711,0.9711,0.9711" Type="BelShirCanopyTrees" TintColor="239,62,10">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="201860359" Variation="26" Position="3.5,5,2.017" Rotation="2.0895" Scale="1.054,1.054,1.054" Type="PlantsJungle">
+    <ObjectDoodad Id="1038915353" Position="171.7922,36.2204,4.0151" Rotation="1.434" Scale="0.9946,0.9946,0.9946" Type="HeavySnowTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1038915353" Position="171.7922,36.2204,4.0151" Rotation="1.434" Scale="0.9946,0.9946,0.9946" Type="HeavySnowTree">
+    <ObjectDoodad Id="201860359" Variation="26" Position="3.5,5,2.017" Rotation="2.0895" Scale="1.054,1.054,1.054" Type="PlantsJungle">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2043074340" Position="40.0776,101.9091,6.0151" Rotation="3.1262" Scale="1.0217,1.0217,1.0217" Type="DustLeaves">
@@ -586,16 +586,16 @@
     <ObjectDoodad Id="1090917919" Position="162.094,35.568,4.0151" Rotation="1.7651" Scale="0.813,0.813,0.813" Type="HeavySnowTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1565412036" Position="227.2304,73.8461,2.015" Rotation="3.857" Scale="1,1,1" Type="IceShearedRocksUpright">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1204803463" Variation="2" Position="251.3984,5.0217,4.015" Rotation="3.7097" Scale="0.802,0.802,0.802" Type="IceWorldAmbientCrystals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1582100859" Variation="7" Position="3.5,246.5,2.015" Rotation="1.6203" Scale="0.8347,0.8347,0.8347" Type="BelShirTree">
+    <ObjectDoodad Id="1565412036" Position="227.2304,73.8461,2.015" Rotation="3.857" Scale="1,1,1" Type="IceShearedRocksUpright">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1831080162" Variation="5" Position="86.5,201.5,2.0146" Rotation="3.3435" Scale="0.9062,0.9062,0.9062" Type="BelShirTree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1582100859" Variation="7" Position="3.5,246.5,2.015" Rotation="1.6203" Scale="0.8347,0.8347,0.8347" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2049297775" Variation="2" Position="193.8332,45.8342,2.0151" Rotation="0.9291" Scale="1,1,1" Type="SnowTreeDead">
@@ -607,10 +607,10 @@
     <ObjectDoodad Id="783824675" Position="163.663,243.7714,2.0068" Scale="1,1,1" Type="RainSprinkle">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="749725345" Variation="10" Position="239.5,176.5,2.0146" Scale="1,1,1" Type="Purifier_Trees_Tall">
+    <ObjectDoodad Id="162444005" Variation="1" Position="245.329,107.5815,2.0153" Rotation="4.2368" Scale="1.1955,1.1955,1.1955" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="162444005" Variation="1" Position="245.329,107.5815,2.0153" Rotation="4.2368" Scale="1.1955,1.1955,1.1955" Type="SnowTrees">
+    <ObjectDoodad Id="749725345" Variation="10" Position="239.5,176.5,2.0146" Scale="1,1,1" Type="Purifier_Trees_Tall">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="362161286" Position="69.9433,37.7475,8.0158" Rotation="5.3217" Scale="0.8195,0.8195,0.8195" Type="DustLeaves">
@@ -622,10 +622,10 @@
     <ObjectDoodad Id="1814471514" Variation="1" Position="4.5,193.5,2.0146" Rotation="4.6765" Scale="0.9824,0.9824,0.9824" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1704737650" Variation="25" Position="8,5.5,2.0144" Rotation="3.646" Scale="1.0224,1.0224,1.0224" Type="PlantsJungle">
+    <ObjectDoodad Id="12780408" Variation="5" Position="22.4736,114.8281,2.015" Rotation="2.7453" Scale="0.9233,0.9233,0.9233" Type="BelShirCanopyTrees" TintColor="149,38,6">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="12780408" Variation="5" Position="22.4736,114.8281,2.015" Rotation="2.7453" Scale="0.9233,0.9233,0.9233" Type="BelShirCanopyTrees" TintColor="149,38,6">
+    <ObjectDoodad Id="1704737650" Variation="25" Position="8,5.5,2.0144" Rotation="3.646" Scale="1.0224,1.0224,1.0224" Type="PlantsJungle">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="247622171" Variation="4" Position="184.6303,205.1562,2.0134" Rotation="1.2646" Scale="0.963,0.963,0.963" Type="BelShirFlowers">
@@ -665,10 +665,10 @@
     <ObjectDoodad Id="1344769542" Position="12.0852,114.79,2.0151" Rotation="2.8632" Scale="0.9731,0.9731,0.9731" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1957121345" Variation="6" Position="62.5,193.5,2.0146" Rotation="1.7385" Scale="0.9531,0.9531,0.9531" Type="BelShirTree">
+    <ObjectDoodad Id="129263192" Position="49.4802,59.084,8.0151" Rotation="2.835" Scale="0.968,0.968,0.968" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="129263192" Position="49.4802,59.084,8.0151" Rotation="2.835" Scale="0.968,0.968,0.968" Type="DustLeaves">
+    <ObjectDoodad Id="1957121345" Variation="6" Position="62.5,193.5,2.0146" Rotation="1.7385" Scale="0.9531,0.9531,0.9531" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1967345206" Position="168.4765,47.1821,6.0151" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
@@ -686,10 +686,10 @@
     <ObjectDoodad Id="858704206" Position="21.1384,96.6804,4.6711" Rotation="6.211" Scale="1.1635,1.1635,1.1635" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="29421951" Variation="1" Position="5.5,250.5,2.0146" Rotation="2.5803" Scale="1.0627,1.0627,1.0627" Type="AiurTree">
+    <ObjectDoodad Id="2075724075" Position="163.113,35.4624,4.0151" Rotation="1.8017" Scale="1.0551,1.0551,1.0551" Type="HeavySnowTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2075724075" Position="163.113,35.4624,4.0151" Rotation="1.8017" Scale="1.0551,1.0551,1.0551" Type="HeavySnowTree">
+    <ObjectDoodad Id="29421951" Variation="1" Position="5.5,250.5,2.0146" Rotation="2.5803" Scale="1.0627,1.0627,1.0627" Type="AiurTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="780219891" Variation="6" Position="114.5,186.5,2.0151" Rotation="3.9152" Scale="0.8266,0.8266,0.8266" Type="AiurTree">
@@ -713,10 +713,10 @@
     <ObjectDoodad Id="1985146257" Position="111.9611,30.8303,4.0151" Rotation="2.671" Scale="1.1066,1.1066,1.1066" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1502433075" Variation="5" Position="239.0288,59.0185,2.0153" Rotation="5.9645" Scale="1.0346,1.0346,1.0346" Type="SnowTrees">
+    <ObjectDoodad Id="1707760635" Position="193.6086,13.6816,2.0151" Rotation="1.635" Scale="0.9904,0.9904,0.9904" Type="HeavySnowTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1707760635" Position="193.6086,13.6816,2.0151" Rotation="1.635" Scale="0.9904,0.9904,0.9904" Type="HeavySnowTree">
+    <ObjectDoodad Id="1502433075" Variation="5" Position="239.0288,59.0185,2.0153" Rotation="5.9645" Scale="1.0346,1.0346,1.0346" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1859784022" Position="207.5246,95.8122,5.9973" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
@@ -780,13 +780,13 @@
     <ObjectDoodad Id="1271672166" Variation="1" Position="25.4548,33.4443,4.015" Rotation="5.3505" Scale="0.9191,0.9191,0.9191" Type="Brambles">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1623173439" Variation="3" Position="5.5087,119.3786,2.0146" Rotation="0.4953" Scale="0.9711,0.9711,0.9711" Type="BelShirCanopyTrees" TintColor="239,62,10">
+    <ObjectDoodad Id="1759572549" Variation="3" Position="28.0144,13.658,2.0146" Rotation="1.73" Scale="1.1162,1.1162,1.1162" Type="BelShirCanopyTrees" TintColor="149,38,6">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="846487553" Variation="5" Position="156.3474,13.5432,2.0151" Rotation="4.1975" Scale="1.1064,1.1064,1.1064" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1759572549" Variation="3" Position="28.0144,13.658,2.0146" Rotation="1.73" Scale="1.1162,1.1162,1.1162" Type="BelShirCanopyTrees" TintColor="149,38,6">
+    <ObjectDoodad Id="1623173439" Variation="3" Position="5.5087,119.3786,2.0146" Rotation="0.4953" Scale="0.9711,0.9711,0.9711" Type="BelShirCanopyTrees" TintColor="239,62,10">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="226962503" Variation="5" Position="124.9411,36.3117,1.6342" Rotation="2.7446" Scale="0.923,0.923,0.923" Type="BelShirCanopyTrees" TintColor="143,11,147">
@@ -832,10 +832,10 @@
     <ObjectDoodad Id="1951976350" Position="114.976,58.9323,2.0151" Rotation="2.1032" Scale="1.0932,1.0932,1.0932" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2007097446" Variation="8" Position="251.5,206.5,2.015" Scale="1,1,1" Type="Purifier_Trees_Tall">
+    <ObjectDoodad Id="2118269952" Variation="3" Position="165.3522,33.9326,4.0151" Rotation="0.7897" Scale="0.896,0.896,0.896" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2118269952" Variation="3" Position="165.3522,33.9326,4.0151" Rotation="0.7897" Scale="0.896,0.896,0.896" Type="SnowTrees">
+    <ObjectDoodad Id="2007097446" Variation="8" Position="251.5,206.5,2.015" Scale="1,1,1" Type="Purifier_Trees_Tall">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="698550668" Variation="4" Position="179.796,190.7746,2.0146" Rotation="6.228" Scale="0.8137,0.8137,0.8137" Type="BelShirFlowers">
@@ -847,10 +847,10 @@
     <ObjectDoodad Id="1904494790" Variation="9" Position="180.083,205.9768,2.0146" Rotation="6.1381" Scale="0.8623,0.8623,0.8623" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1677256384" Variation="4" Position="6.5,165.5,2.0146" Rotation="3.1547" Scale="0.809,0.809,0.809" Type="AiurTree">
+    <ObjectDoodad Id="1970667756" Variation="2" Position="184.2492,200.8862,2.0146" Rotation="4.816" Scale="1.1691,1.1691,1.1691" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1970667756" Variation="2" Position="184.2492,200.8862,2.0146" Rotation="4.816" Scale="1.1691,1.1691,1.1691" Type="BelShirFlowers">
+    <ObjectDoodad Id="1677256384" Variation="4" Position="6.5,165.5,2.0146" Rotation="3.1547" Scale="0.809,0.809,0.809" Type="AiurTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1696018622" Variation="1" Position="25.5,211.5,2.015" Rotation="6.208" Scale="0.9155,0.9155,0.9155" Type="BelShirTree">
@@ -871,19 +871,19 @@
     <ObjectDoodad Id="597676606" Variation="6" Position="224.1865,124.1391,2.015" Rotation="0.426" Scale="0.9245,0.9245,0.9245" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="822826741" Variation="6" Position="183.7558,192.7131,2.0146" Rotation="1.9597" Scale="0.813,0.813,0.813" Type="BelShirFlowers">
+    <ObjectDoodad Id="847316609" Variation="2" Position="251.3261,107.1477,2.0153" Rotation="2.574" Scale="0.9011,0.9011,0.9011" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="847316609" Variation="2" Position="251.3261,107.1477,2.0153" Rotation="2.574" Scale="0.9011,0.9011,0.9011" Type="SnowTrees">
+    <ObjectDoodad Id="822826741" Variation="6" Position="183.7558,192.7131,2.0146" Rotation="1.9597" Scale="0.813,0.813,0.813" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1723312974" Variation="3" Position="223.0183,124.0114,2.015" Rotation="0.3994" Scale="0.8095,0.8095,0.8095" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1423190475" Position="21.731,20.9291,4.0151" Rotation="0.8193" Scale="0.8088,0.8088,0.8088" Type="DustLeaves">
+    <ObjectDoodad Id="543994310" Variation="2" Position="184.7453,90.7746,2.9511" Rotation="1.7175" Scale="0.8903,0.8903,0.8903" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="543994310" Variation="2" Position="184.7453,90.7746,2.9511" Rotation="1.7175" Scale="0.8903,0.8903,0.8903" Type="SnowTrees">
+    <ObjectDoodad Id="1423190475" Position="21.731,20.9291,4.0151" Rotation="0.8193" Scale="0.8088,0.8088,0.8088" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="315273203" Position="54.55,41.37,8.0151" Rotation="5.9792" Scale="0.844,0.844,0.844" Type="DustLeaves">
@@ -904,43 +904,43 @@
     <ObjectDoodad Id="1247430663" Position="79.4895,28.0217,8.016" Rotation="4.1335" Scale="0.8017,0.8017,0.8017" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1786684907" Variation="3" Position="189.5905,202.7248,2.0146" Rotation="1.3352" Scale="1.1035,1.1035,1.1035" Type="BelShirFlowers">
+    <ObjectDoodad Id="986220179" Position="34.1645,113.623,4.3015" Rotation="2.927" Scale="1.0517,1.0517,1.0517" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="986220179" Position="34.1645,113.623,4.3015" Rotation="2.927" Scale="1.0517,1.0517,1.0517" Type="DustLeaves">
+    <ObjectDoodad Id="1786684907" Variation="3" Position="189.5905,202.7248,2.0146" Rotation="1.3352" Scale="1.1035,1.1035,1.1035" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1572377549" Variation="3" Position="22.5,221.5,2.0146" Rotation="2.6423" Scale="0.9592,0.9592,0.9592" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1823183670" Variation="8" Position="251.5,152.5,2.015" Scale="1,1,1" Type="Purifier_Trees_Tall">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="126720047" Variation="1" Position="225.961,45.6904,2.0151" Rotation="1.4448" Scale="1,1,1" Type="SnowTreeDead">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1081821760" Position="172.5058,36.987,4.0151" Rotation="4.392" Scale="1.052,1.052,1.052" Type="HeavySnowTree">
+    <ObjectDoodad Id="1823183670" Variation="8" Position="251.5,152.5,2.015" Scale="1,1,1" Type="Purifier_Trees_Tall">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="830834697" Position="132.1787,126.0627,4.0144" Rotation="1.5705" Scale="1,2.5,1" Type="ProtossEnergyLine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="57666907" Variation="5" Position="23.3552,31.8215,4.015" Rotation="3.2407" Scale="0.8178,0.8178,0.8178" Type="Brambles">
+    <ObjectDoodad Id="1081821760" Position="172.5058,36.987,4.0151" Rotation="4.392" Scale="1.052,1.052,1.052" Type="HeavySnowTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2126421592" Variation="4" Position="91.5,182.5,2.0146" Rotation="1.1745" Scale="0.9985,0.9985,0.9985" Type="AiurTree">
+    <ObjectDoodad Id="57666907" Variation="5" Position="23.3552,31.8215,4.015" Rotation="3.2407" Scale="0.8178,0.8178,0.8178" Type="Brambles">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1928615005" Variation="8" Position="181.5917,203.8476,2.0146" Rotation="5.7907" Scale="0.834,0.834,0.834" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="2126421592" Variation="4" Position="91.5,182.5,2.0146" Rotation="1.1745" Scale="0.9985,0.9985,0.9985" Type="AiurTree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="1161619126" Variation="6" Position="63.5,183.5,2.0146" Rotation="3.8305" Scale="1.0327,1.0327,1.0327" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="725337284" Variation="12" Position="8.5,4.5,2.0144" Rotation="6.0197" Scale="1.1823,1.1823,1.1823" Type="PlantsJungle">
+    <ObjectDoodad Id="232269821" Variation="5" Position="22.5,223.5,2.0146" Rotation="5.116" Scale="0.8471,0.8471,0.8471" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="232269821" Variation="5" Position="22.5,223.5,2.0146" Rotation="5.116" Scale="0.8471,0.8471,0.8471" Type="BelShirTree">
+    <ObjectDoodad Id="725337284" Variation="12" Position="8.5,4.5,2.0144" Rotation="6.0197" Scale="1.1823,1.1823,1.1823" Type="PlantsJungle">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="904814163" Variation="6" Position="85.5,200.5,2.0146" Rotation="1.1633" Scale="0.8925,0.8925,0.8925" Type="BelShirTree">
@@ -955,16 +955,16 @@
     <ObjectDoodad Id="1533720751" Variation="3" Position="33.52,12.088,2.0146" Rotation="0.4956" Scale="0.9711,0.9711,0.9711" Type="BelShirCanopyTrees" TintColor="149,38,6">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1202942536" Variation="5" Position="4.5,195.5,2.0146" Rotation="0.4067" Scale="0.8161,0.8161,0.8161" Type="BelShirTree">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1271412808" Variation="7" Position="183.6823,203.1718,2.0146" Rotation="4.815" Scale="1.0466,1.0466,1.0466" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1329680641" Variation="2" Position="87.5,201.5,2.0146" Rotation="4.3554" Scale="0.936,0.936,0.936" Type="BelShirTree">
+    <ObjectDoodad Id="1202942536" Variation="5" Position="4.5,195.5,2.0146" Rotation="0.4067" Scale="0.8161,0.8161,0.8161" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="178317661" Position="223.3586,151.0664,2.0146" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1329680641" Variation="2" Position="87.5,201.5,2.0146" Rotation="4.3554" Scale="0.936,0.936,0.936" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="128681847" Variation="6" Position="60.5,191.5,2.0146" Rotation="4.6567" Scale="0.9848,0.9848,0.9848" Type="BelShirTree">
@@ -1014,13 +1014,13 @@
     <ObjectDoodad Id="1009017332" Variation="5" Position="5.5,135.5,2.0146" Rotation="3.5908" Scale="0.8144,0.8144,0.8144" Type="AiurTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1218918273" Position="4.5,136.5,2.0146" Rotation="1.9152" Scale="1.1682,1.1682,1.1682" Type="AiurTree">
+    <ObjectDoodad Id="1923860875" Variation="3" Position="185.5812,97.2255,2.0153" Rotation="3.2111" Scale="1,1,1" Type="SnowTreeDead">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="862375527" Variation="5" Position="3.5,169.5,1.9958" Rotation="3.7756" Scale="1.1784,1.1784,1.1784" Type="AiurTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1923860875" Variation="3" Position="185.5812,97.2255,2.0153" Rotation="3.2111" Scale="1,1,1" Type="SnowTreeDead">
+    <ObjectDoodad Id="1218918273" Position="4.5,136.5,2.0146" Rotation="1.9152" Scale="1.1682,1.1682,1.1682" Type="AiurTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="646235139" Position="150.3532,225.7543,3.9916" Scale="1,1,1" Type="RainSprinkle">
@@ -1044,20 +1044,20 @@
     <ObjectDoodad Id="2005420645" Variation="4" Position="7.5,131.5,2.015" Rotation="4.6301" Scale="0.954,0.954,0.954" Type="AiurTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1886578843" Variation="3" Position="252.5,250,4.015" Rotation="5.1911" Scale="0.9184,0.9184,0.9184" Type="PlantsJungle">
+    <ObjectDoodad Id="25799501" Position="192.9953,14.5761,2.0151" Rotation="5.4924" Scale="1.1174,1.1174,1.1174" Type="HeavySnowTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="25799501" Position="192.9953,14.5761,2.0151" Rotation="5.4924" Scale="1.1174,1.1174,1.1174" Type="HeavySnowTree">
+    <ObjectDoodad Id="1886578843" Variation="3" Position="252.5,250,4.015" Rotation="5.1911" Scale="0.9184,0.9184,0.9184" Type="PlantsJungle">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1200069450" Variation="5" Position="227.2014,45.3945,2.0151" Rotation="5.985" Scale="1.059,1.059,1.059" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="977295416" Variation="2" Position="79.4677,12.9243,2.0146" Rotation="3.6162" Scale="0.8413,0.8413,0.8413" Type="BelShirCanopyTrees" TintColor="149,38,6">
-        <Flag Index="HeightOffset" Value="1"/>
+    <ObjectDoodad Id="1929417581" Variation="1" Position="91.5,179.5,2.0146" Rotation="0.603" Scale="0.918,0.918,0.918" Type="AiurTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1929417581" Variation="1" Position="91.5,179.5,2.0146" Rotation="0.603" Scale="0.918,0.918,0.918" Type="AiurTree">
+    <ObjectDoodad Id="977295416" Variation="2" Position="79.4677,12.9243,2.0146" Rotation="3.6162" Scale="0.8413,0.8413,0.8413" Type="BelShirCanopyTrees" TintColor="149,38,6">
+        <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="554453256" Variation="25" Position="9,5.5,2.0144" Rotation="3.0895" Scale="1.1713,1.1713,1.1713" Type="PlantsJungle">
@@ -1066,30 +1066,30 @@
     <ObjectDoodad Id="862177098" Variation="4" Position="184.7053,196.816,2.0146" Rotation="1.8525" Scale="0.9042,0.9042,0.9042" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="631196678" Variation="2" Position="189.487,193.7946,2.0146" Rotation="0.436" Scale="1.1965,1.1965,1.1965" Type="BelShirFlowers">
+    <ObjectDoodad Id="1879997384" Position="14.5441,109.979,4.3076" Rotation="3.8632" Scale="1.0192,1.0192,1.0192" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1879997384" Position="14.5441,109.979,4.3076" Rotation="3.8632" Scale="1.0192,1.0192,1.0192" Type="DustLeaves">
+    <ObjectDoodad Id="631196678" Variation="2" Position="189.487,193.7946,2.0146" Rotation="0.436" Scale="1.1965,1.1965,1.1965" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1671800247" Variation="4" Position="74.9677,13.9243,2.0146" Rotation="1.7094" Scale="1.0341,1.0341,1.0341" Type="BelShirCanopyTrees" TintColor="149,38,6">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1134970232" Variation="5" Position="20.5,223.5,2.0146" Rotation="3.481" Scale="1.0964,1.0964,1.0964" Type="BelShirTree">
+    <ObjectDoodad Id="1711395246" Position="192.3015,195.3706,2.0146" Rotation="4.377" Scale="0.9045,0.9045,0.9045" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1711395246" Position="192.3015,195.3706,2.0146" Rotation="4.377" Scale="0.9045,0.9045,0.9045" Type="BelShirFlowers">
+    <ObjectDoodad Id="1134970232" Variation="5" Position="20.5,223.5,2.0146" Rotation="3.481" Scale="1.0964,1.0964,1.0964" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1203192538" Variation="13" Position="5.5,9,2.0144" Rotation="2.7412" Scale="1.0854,1.0854,1.0854" Type="PlantsJungle">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="863681442" Position="178.4824,192.1103,2.0146" Rotation="4.1127" Scale="1.0737,1.0737,1.0737" Type="BelShirFlowers">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1265392755" Variation="2" Position="38.36,38.6237,8.0134" Rotation="3.616" Scale="0.8413,0.8413,0.8413" Type="BelShirCanopyTrees" TintColor="149,38,6">
         <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="863681442" Position="178.4824,192.1103,2.0146" Rotation="4.1127" Scale="1.0737,1.0737,1.0737" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1834780187" Variation="4" Position="46.5366,67.817,8.0134" Rotation="1.7094" Scale="1.0341,1.0341,1.0341" Type="BelShirCanopyTrees" TintColor="149,38,6">
@@ -1102,16 +1102,16 @@
     <ObjectDoodad Id="124396101" Position="55.737,74.9143,6.0151" Rotation="4.638" Scale="1.0261,1.0261,1.0261" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1845479530" Position="229.6391,105.0854,6.2724" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
+    <ObjectDoodad Id="1845479530" Position="229.6391,105.0854,4.015" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="853765123" Position="208.6147,82.1486,4.2998" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1498974027" Variation="3" Position="6.7546,120.868,2.0146" Rotation="0.4953" Scale="0.9711,0.9711,0.9711" Type="BelShirCanopyTrees" TintColor="182,83,10">
+    <ObjectDoodad Id="1662963640" Position="137.508,48.4763,2.0151" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1662963640" Position="137.508,48.4763,2.0151" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
+    <ObjectDoodad Id="1498974027" Variation="3" Position="6.7546,120.868,2.0146" Rotation="0.4953" Scale="0.9711,0.9711,0.9711" Type="BelShirCanopyTrees" TintColor="182,83,10">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="227163008" Variation="4" Position="184.3613,98.4206,2.0156" Rotation="5.4252" Scale="0.845,0.845,0.845" Type="SnowTrees">
@@ -1132,13 +1132,13 @@
     <ObjectDoodad Id="238168032" Position="112.5,188.5,2.0151" Rotation="0.9248" Scale="1.0217,1.0217,1.0217" Type="AiurTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1459158729" Variation="4" Position="6.5,208.5,2.0146" Rotation="1.464" Scale="0.9897,0.9897,0.9897" Type="BelShirTree">
+    <ObjectDoodad Id="1529064396" Variation="2" Position="196.4638,201.92,2.015" Rotation="2.9606" Scale="0.9416,0.9416,0.9416" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1603103724" Variation="9" Position="182.8498,194.8483,2.0146" Rotation="3.4145" Scale="0.9001,0.9001,0.9001" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1529064396" Variation="2" Position="196.4638,201.92,2.015" Rotation="2.9606" Scale="0.9416,0.9416,0.9416" Type="BelShirFlowers">
+    <ObjectDoodad Id="1459158729" Variation="4" Position="6.5,208.5,2.0146" Rotation="1.464" Scale="0.9897,0.9897,0.9897" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="56875237" Variation="3" Position="79.5,226.5,2.015" Rotation="2.7302" Scale="1.1215,1.1215,1.1215" Type="AiurTree">
@@ -1148,11 +1148,11 @@
     <ObjectDoodad Id="1380748131" Variation="5" Position="185.0874,89.8332,2.0156" Rotation="2.525" Scale="1.0266,1.0266,1.0266" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1744830347" Position="141.6118,30.8037,2.0151" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1482802889" Variation="3" Position="48.7744,68.3107,8.0134" Rotation="0.4953" Scale="0.9711,0.9711,0.9711" Type="BelShirCanopyTrees" TintColor="149,38,6">
         <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1744830347" Position="141.6118,30.8037,2.0151" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1258057272" Variation="3" Position="13.758,84.4621,2.0146" Rotation="0.495" Scale="0.9711,0.9711,0.9711" Type="BelShirCanopyTrees" TintColor="182,83,10">
@@ -1174,11 +1174,11 @@
     <ObjectDoodad Id="679344010" Variation="4" Position="5.5,249.5,2.0146" Rotation="5.5488" Scale="1.166,1.166,1.166" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1336621842" Variation="3" Position="87.5,179.5,2.0146" Rotation="0.206" Scale="0.8737,0.8737,0.8737" Type="AiurTree">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="187195336" Variation="3" Position="25.0576,65.9211,4.015" Rotation="0.495" Scale="0.9711,0.9711,0.9711" Type="BelShirCanopyTrees" TintColor="239,62,10">
         <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1336621842" Variation="3" Position="87.5,179.5,2.0146" Rotation="0.206" Scale="0.8737,0.8737,0.8737" Type="AiurTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1048119459" Variation="7" Position="63.5,192.5,2.0146" Rotation="5.5485" Scale="1.0468,1.0468,1.0468" Type="BelShirTree">
@@ -1194,17 +1194,14 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="1195114363" Variation="4" Position="22.4821,32.6093,4.015" Rotation="2.3024" Scale="1.1806,1.1806,1.1806" Type="Brambles">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="1415055475" Variation="3" Position="104.0046,35.041,4.015" Rotation="0.4948" Scale="0.9711,0.9711,0.9711" Type="BelShirCanopyTrees" TintColor="149,38,6">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1195114363" Variation="4" Position="22.4821,32.6093,4.015" Rotation="2.3024" Scale="1.1806,1.1806,1.1806" Type="Brambles">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1680252386" Variation="3" Position="187.753,201.4926,2.0146" Rotation="2.3435" Scale="1.1372,1.1372,1.1372" Type="BelShirFlowers">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="850319891" Position="234.589,34.645,2.0151" Rotation="3.47" Scale="1,1,1" Type="SnowTreeDead">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1582677133" Position="179.64,2,-9.9372" Scale="0.5495,5,1" Type="DecalSpace" TintColor="0,94,219 4.000000">
@@ -1213,10 +1210,13 @@
         <Flag Index="ForcePlacement" Value="1"/>
         <Flag Index="NoDoodadFootprint" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2137167080" Variation="5" Position="3.5,10,2.017" Rotation="1.8894" Scale="1.0832,1.0832,1.0832" Type="PlantsJungle">
+    <ObjectDoodad Id="850319891" Position="234.589,34.645,2.0151" Rotation="3.47" Scale="1,1,1" Type="SnowTreeDead">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1862235815" Position="31.1518,81.7644,6.0151" Rotation="2.6025" Scale="0.9645,0.9645,0.9645" Type="DustLeaves">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2137167080" Variation="5" Position="3.5,10,2.017" Rotation="1.8894" Scale="1.0832,1.0832,1.0832" Type="PlantsJungle">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="198092149" Variation="3" Position="48.5,229.5,2.0146" Rotation="1.1791" Scale="0.902,0.902,0.902" Type="AiurTree">
@@ -1229,11 +1229,11 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="340366903" Position="40.9707,77.8024,8.0151" Rotation="2.8286" Scale="0.9868,0.9868,0.9868" Type="DustLeaves">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="90113716" Variation="2" Position="34.9118,25.5603,4.0146" Rotation="3.616" Scale="0.8413,0.8413,0.8413" Type="BelShirCanopyTrees" TintColor="149,38,6">
         <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="340366903" Position="40.9707,77.8024,8.0151" Rotation="2.8286" Scale="0.9868,0.9868,0.9868" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="113393121" Position="237.786,152.99,2.0146" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
@@ -1258,10 +1258,10 @@
     <ObjectDoodad Id="365415073" Variation="7" Position="179.4025,198.1181,2.0146" Rotation="4.0307" Scale="1.167,1.167,1.167" Type="BelShirFlowers">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="355284392" Variation="3" Position="163.683,36.3444,4.0151" Rotation="4.6953" Scale="1,1,1" Type="SnowTreeDead">
+    <ObjectDoodad Id="1006664446" Position="20.565,38.4274,6.0151" Rotation="0.4223" Scale="0.8886,0.8886,0.8886" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1006664446" Position="20.565,38.4274,6.0151" Rotation="0.4223" Scale="0.8886,0.8886,0.8886" Type="DustLeaves">
+    <ObjectDoodad Id="355284392" Variation="3" Position="163.683,36.3444,4.0151" Rotation="4.6953" Scale="1,1,1" Type="SnowTreeDead">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1265362687" Variation="3" Position="251.175,105.8608,2.0153" Rotation="2.781" Scale="1.001,1.001,1.001" Type="SnowTrees">
@@ -1270,10 +1270,10 @@
     <ObjectDoodad Id="2005898167" Position="121.7617,58.9323,2.0151" Rotation="4.0947" Scale="1.1723,1.1723,1.1723" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1744727287" Variation="7" Position="82.5,201.5,2.015" Rotation="1.0576" Scale="0.8884,0.8884,0.8884" Type="BelShirTree">
+    <ObjectDoodad Id="1659268958" Variation="2" Position="185.7443,98.5747,2.0153" Rotation="2.051" Scale="1,1,1" Type="SnowTreeDead">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1659268958" Variation="2" Position="185.7443,98.5747,2.0153" Rotation="2.051" Scale="1,1,1" Type="SnowTreeDead">
+    <ObjectDoodad Id="1744727287" Variation="7" Position="82.5,201.5,2.015" Rotation="1.0576" Scale="0.8884,0.8884,0.8884" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="546679529" Position="9.3144,201.085,2.015" Rotation="4.2583" Scale="1.1945,1.1945,1.1945" Type="Fish">
@@ -1300,11 +1300,11 @@
     <ObjectDoodad Id="17048663" Variation="6" Position="249.997,106.074,2.0153" Rotation="4.1833" Scale="0.8388,0.8388,0.8388" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="273579616" Variation="4" Position="41.298,38.2263,8.0134" Rotation="1.7094" Scale="1.0341,1.0341,1.0341" Type="BelShirCanopyTrees" TintColor="149,38,6">
-        <Flag Index="HeightOffset" Value="1"/>
+    <ObjectDoodad Id="800194691" Position="127.5732,24.5905,-5.9855" Rotation="5.533" Scale="0.9604,0.9604,0.9604" Type="Fish">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="800194691" Position="127.5732,24.5905,-5.9855" Rotation="5.533" Scale="0.9604,0.9604,0.9604" Type="Fish">
+    <ObjectDoodad Id="273579616" Variation="4" Position="41.298,38.2263,8.0134" Rotation="1.7094" Scale="1.0341,1.0341,1.0341" Type="BelShirCanopyTrees" TintColor="149,38,6">
+        <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2020963243" Position="240.7851,59.0942,2.0153" Rotation="0.3994" Scale="1.0913,1.0913,1.0913" Type="SnowTrees">
@@ -1350,10 +1350,10 @@
     <ObjectDoodad Id="9731753" Variation="3" Position="185.9248,99.8356,2.0156" Rotation="3.0625" Scale="0.9516,0.9516,0.9516" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1386808869" Variation="7" Position="4.5,245.5,2.0146" Rotation="2.2038" Scale="1.0317,1.0317,1.0317" Type="BelShirTree">
+    <ObjectDoodad Id="353930938" Variation="6" Position="186.4262,119.1606,2.0156" Rotation="3.725" Scale="0.947,0.947,0.947" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="353930938" Variation="6" Position="186.4262,119.1606,2.0156" Rotation="3.725" Scale="0.947,0.947,0.947" Type="SnowTrees">
+    <ObjectDoodad Id="1386808869" Variation="7" Position="4.5,245.5,2.0146" Rotation="2.2038" Scale="1.0317,1.0317,1.0317" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="855799235" Position="192.5498,2.17,-9.974" Scale="0.5495,5,1" Type="DecalSpace" TintColor="0,94,219 4.000000">
@@ -1365,10 +1365,10 @@
     <ObjectDoodad Id="1608379712" Position="66.5251,43.0986,8.016" Rotation="4.4174" Scale="1.0234,1.0234,1.0234" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="495995612" Variation="1" Position="252.319,107.2905,2.0153" Rotation="0.7966" Scale="0.833,0.833,0.833" Type="SnowTrees">
+    <ObjectDoodad Id="1318216226" Position="118.5737,10.1494,2.015" Rotation="1.5407" Scale="1.0375,1.0375,1.0375" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1318216226" Position="118.5737,10.1494,2.015" Rotation="1.5407" Scale="1.0375,1.0375,1.0375" Type="DustLeaves">
+    <ObjectDoodad Id="495995612" Variation="1" Position="252.319,107.2905,2.0153" Rotation="0.7966" Scale="0.833,0.833,0.833" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="659520943" Position="147.4042,10.5495,4.0151" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
@@ -1386,17 +1386,17 @@
     <ObjectDoodad Id="914330050" Variation="3" Position="239.1794,57.922,2.0153" Rotation="4.2502" Scale="0.9736,0.9736,0.9736" Type="SnowTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="545630292" Position="65.0998,72.939,4.0151" Rotation="3.0314" Scale="0.8833,0.8833,0.8833" Type="DustLeaves">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1172345190" Variation="3" Position="115.599,46.1711,2.0146" Rotation="0.495" Scale="0.9711,0.9711,0.9711" Type="BelShirCanopyTrees" TintColor="182,83,10">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="157345777" Variation="5" Position="7.5,208.5,2.0146" Rotation="0.8325" Scale="0.8247,0.8247,0.8247" Type="BelShirTree">
+    <ObjectDoodad Id="545630292" Position="65.0998,72.939,4.0151" Rotation="3.0314" Scale="0.8833,0.8833,0.8833" Type="DustLeaves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="217949481" Variation="7" Position="176.8986,199.771,2.0146" Rotation="3.0993" Scale="1.0451,1.0451,1.0451" Type="BelShirFlowers">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="157345777" Variation="5" Position="7.5,208.5,2.0146" Rotation="0.8325" Scale="0.8247,0.8247,0.8247" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1549656361" Position="50.339,115.4035,2.6081" Rotation="3.9721" Scale="0.8586,0.8586,0.8586" Type="DustLeaves">
@@ -1408,10 +1408,10 @@
     <ObjectDoodad Id="1436242972" Position="202.0898,110.4521,2.0153" Rotation="2.6142" Scale="1.1535,1.1535,1.1535" Type="SnowLight">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectPoint Id="756511362" Position="109.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Ghosts)" Color="0,0,0,0"/>
     <ObjectPoint Id="2142687418" Position="145,110,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Defender" Color="0,0,0,0"/>
-    <ObjectPoint Id="643511402" Position="128,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Builders)" Color="0,0,0,0"/>
+    <ObjectPoint Id="756511362" Position="109.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Ghosts)" Color="0,0,0,0"/>
     <ObjectPoint Id="231894419" Position="147.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Supports)" Color="0,0,0,0"/>
+    <ObjectPoint Id="643511402" Position="128,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Builders)" Color="0,0,0,0"/>
     <ObjectPoint Id="1248696952" Position="110,110,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Hunter" Color="0,0,0,0"/>
     <ObjectPoint Id="314" Position="127.9748,127.9382,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
     <ObjectCamera Id="816" Position="126.7687,12.3073,0" Rotation="3.14" Scale="1,1,1" Name="Camera 007" Color="0,0,0,0" CameraTarget="126.7687,12.3073">
@@ -1537,8 +1537,8 @@
     <ObjectUnit Id="1488616557" Position="140.0375,233.5676,0" Rotation="3.6384" Scale="1,1,1" UnitType="CritterArtosilope"/>
     <ObjectUnit Id="1786244883" Position="214.7812,196.481,0" Rotation="0.5021" Scale="1,1,1" UnitType="CritterSheep"/>
     <ObjectUnit Id="1323004290" Variation="2" Position="118.4785,57.6726,0" Rotation="4.3708" Scale="1,1,1" UnitType="CritterDog"/>
-    <ObjectUnit Id="24046314" Position="210.387,199.4047,0" Rotation="1.446" Scale="1,1,1" UnitType="CritterSheep"/>
     <ObjectUnit Id="1194488402" Position="211.8203,195.6376,0" Rotation="1.5036" Scale="1,1,1" UnitType="CritterSheep"/>
+    <ObjectUnit Id="24046314" Position="210.387,199.4047,0" Rotation="1.446" Scale="1,1,1" UnitType="CritterSheep"/>
     <ObjectUnit Id="508962180" Position="213.2373,198.702,0" Rotation="3.4082" Scale="1,1,1" UnitType="CritterSheep"/>
     <ObjectUnit Id="929236382" Position="210.83,192.8442,0" Rotation="2.8652" Scale="1,1,1" UnitType="CritterSheep"/>
     <ObjectUnit Id="1444926647" Position="98.476,211.0615,0" Rotation="3.2414" Scale="1,1,1" UnitType="CritterUrsadakFemale"/>
@@ -1546,26 +1546,26 @@
     <ObjectUnit Id="1335182371" Position="216.2937,200.2058,0" Rotation="2.9313" Scale="1,1,1" UnitType="CritterSheep"/>
     <ObjectUnit Id="116615699" Position="11.9975,202.0822,0" Rotation="0.1972" Scale="1,1,1" UnitType="RedstoneLavaCritter"/>
     <ObjectUnit Id="881958809" Position="9.5561,200.8474,0" Rotation="4.0822" Scale="1,1,1" UnitType="Lyote"/>
-    <ObjectUnit Id="1640739456" Position="107.097,48.8234,0" Rotation="4.477" Scale="1,1,1" UnitType="CritterDog"/>
     <ObjectUnit Id="870337104" Position="7.065,201.5827,0" Rotation="1.604" Scale="1,1,1" UnitType="ZerusAlienTreeWalker"/>
-    <ObjectUnit Id="1513927227" Position="7.2644,202.7897,0" Rotation="5.1455" Scale="1,1,1" UnitType="Lyote"/>
+    <ObjectUnit Id="1640739456" Position="107.097,48.8234,0" Rotation="4.477" Scale="1,1,1" UnitType="CritterDog"/>
     <ObjectUnit Id="1698055559" Position="5.7448,203.7133,0" Rotation="3.9233" Scale="1,1,1" UnitType="UrsadakMale"/>
+    <ObjectUnit Id="1513927227" Position="7.2644,202.7897,0" Rotation="5.1455" Scale="1,1,1" UnitType="Lyote"/>
     <ObjectUnit Id="1273623301" Position="60.4748,195.5004,0" Rotation="0.3308" Scale="1,1,1" UnitType="CritterFemaleKarak"/>
     <ObjectUnit Id="1135179202" Position="11.0881,199.8635,0" Rotation="1.0966" Scale="1,1,1" UnitType="RedstoneLavaCritter"/>
-    <ObjectUnit Id="1996517055" Variation="1" Position="114.9235,8.263,0" Rotation="6.0498" Scale="1,1,1" UnitType="CritterDog"/>
     <ObjectUnit Id="2145992604" Position="99.976,212.0615,0" Rotation="5.548" Scale="1,1,1" UnitType="CritterUrsadakCalf"/>
+    <ObjectUnit Id="1996517055" Variation="1" Position="114.9235,8.263,0" Rotation="6.0498" Scale="1,1,1" UnitType="CritterDog"/>
     <ObjectUnit Id="470697423" Position="217.379,191.376,0" Rotation="1.869" Scale="1,1,1" UnitType="CritterSheep"/>
     <ObjectUnit Id="530155599" Position="10.727,202.7673,0" Rotation="3.5852" Scale="1,1,1" UnitType="Lyote"/>
     <ObjectUnit Id="1249299917" Position="57.8513,200.9348,0" Rotation="5.025" Scale="1,1,1" UnitType="CritterCrabBeetle"/>
-    <ObjectUnit Id="1312125120" Position="24.7878,33.2004,0" Rotation="5.2714" Scale="1,1,1" UnitType="CritterUrubu"/>
-    <ObjectUnit Id="1710435324" Position="4.8852,200.3127,0" Rotation="4.3271" Scale="1,1,1" UnitType="Yeti"/>
     <ObjectUnit Id="778200234" Position="8.794,202.2133,0" Rotation="0.3234" Scale="1,1,1" UnitType="KarakFemale"/>
+    <ObjectUnit Id="1710435324" Position="4.8852,200.3127,0" Rotation="4.3271" Scale="1,1,1" UnitType="Yeti"/>
+    <ObjectUnit Id="1312125120" Position="24.7878,33.2004,0" Rotation="5.2714" Scale="1,1,1" UnitType="CritterUrubu"/>
     <ObjectUnit Id="288635917" Position="4.9565,202.203,0" Rotation="0.6677" Scale="1,1,1" UnitType="Lyote"/>
     <ObjectUnit Id="926353126" Position="166.8286,191.3552,0" Rotation="3.3754" Scale="1,1,1" UnitType="CritterArtosilope"/>
     <ObjectUnit Id="1467880373" Variation="1" Position="109.6711,16.7504,0" Rotation="0.5168" Scale="1,1,1" UnitType="CritterDog"/>
     <ObjectUnit Id="1502900214" Position="218.9074,193.9682,0" Rotation="4.1213" Scale="1,1,1" UnitType="CritterArtosilope"/>
     <ObjectUnit Id="1843771295" Position="97.476,214.0615,0" Rotation="0.7165" Scale="1,1,1" UnitType="CritterUrsadakMale"/>
-    <ObjectUnit Id="1845221029" Position="99.976,213.5615,0" Rotation="5.212" Scale="1,1,1" UnitType="CritterUrsadakCalf"/>
     <ObjectUnit Id="743083011" Position="59.4948,195.103,0" Rotation="2.7736" Scale="1,1,1" UnitType="CritterKarakMale"/>
+    <ObjectUnit Id="1845221029" Position="99.976,213.5615,0" Rotation="5.212" Scale="1,1,1" UnitType="CritterUrsadakCalf"/>
     <ObjectUnit Id="1062287752" Position="10.1416,203.7761,0" Rotation="1.3261" Scale="1,1,1" UnitType="Yeti"/>
 </PlacedObjects>
