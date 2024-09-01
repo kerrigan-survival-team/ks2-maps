@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CLight id="LastSanctuaryLighting" parent="DuckMapLighting"/>
+    <CWater id="LastSanctuaryWater">
+        <State index="0">
+            <Name value="[Default]"/>
+            <Height value="0.050000"/>
+            <Color value="0.098039,0.349020,0.498039,0.300000"/>
+            <ColorFallOff value="0.100000"/>
+            <Specularity value="100.000000"/>
+            <SpecularScaler value="2.450000"/>
+            <UvRate value="-0.000000,-0.001000,0.000000,0.000000"/>
+            <ReflectionDistortion value="0.012000"/>
+            <RefractionDistortion value="0.020000"/>
+            <MinReflection value="0.300000"/>
+            <ReflectivityPower value="8.000000"/>
+        </State>
+        <BeachShoreline value="BelShirBeachShoreline"/>
+        <CliffShoreline value="BelShirCliffShoreline"/>
+    </CWater>
+    <CTerrain id="LastSanctuaryTerrainType">
+        <EditorCategories value="Climate:Wasteland"/>
+        <Lighting value="LastSanctuaryLighting"/>
+        <LoadingScreen value="Assets\Textures\loading-shakuras.dds"/>
+        <TextureProp value="shakuras"/>
+        <Ambience value="Ambience_Shakuras"/>
+        <ReverbAmbient value="BetaVerb"/>
+        <MinimapBrightenFactor value="1.000000"/>
+        <BlendTextures value="AvernusMetal"/>
+        <BlendTextures value="AvernusMesh"/>
+        <BlendTextures value="Slayn8"/>
+        <BlendTextures value="CharDirtLightEx2"/>
+        <BlendTextures value="VolcanoIsle_4"/>
+        <BlendTextures value="CharLavaCracks"/>
+        <BlendTextures value="AiurTempleJungle2"/>
+        <BlendTextures value="KorhalCityEx2_7"/>
+        <HardTiles value="MarSaraTile"/>
+        <CliffSets value="AiurEx1Cliff1"/>
+        <CliffSets value="ShakurasEx1Cliff1"/>
+        <FixedSkyboxModel value="ShakurasSkyBox"/>
+        <FogEnabled value="1"/>
+        <FogColor value="255,45,68,86"/>
+        <FogDensity value="0.060000"/>
+        <FogFalloff value="0.200000"/>
+        <FogStartingHeight value="-0.900000"/>
+        <CreepBaseTexture value="Assets\Textures\Creep_Shakuras.dds"/>
+        <CreepEdgeNormalMap value="Assets\Textures\CreepEdgeNormal.dds"/>
+        <CreepSettingsArray index="Low" CreepOpaqueAlphaThreshold="0.180000" CreepTranslucentMinThreshold="0.050000" CreepTranslucentPassTint="1.000000,0.850000,0.750000"/>
+        <CreepSettingsArray index="Medium">
+            <CreepOpaqueAlphaThreshold value="0.180000"/>
+            <CreepTranslucentMinThreshold value="0.050000"/>
+            <CreepTranslucentMaxThreshold value="0.150000"/>
+            <CreepTranslucentPassTint value="1.000000,0.850000,0.750000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="High">
+            <CreepOpaqueAlphaThreshold value="0.180000"/>
+            <CreepTranslucentMinThreshold value="0.050000"/>
+            <CreepTranslucentMaxThreshold value="0.150000"/>
+            <CreepTranslucentPassTint value="1.000000,0.850000,0.750000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="Ultra">
+            <CreepOpaqueAlphaThreshold value="0.180000"/>
+            <CreepTranslucentMinThreshold value="0.050000"/>
+            <CreepTranslucentMaxThreshold value="0.150000"/>
+            <CreepTranslucentPassTint value="1.000000,0.850000,0.750000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="Extreme">
+            <CreepOpaqueAlphaThreshold value="0.180000"/>
+            <CreepTranslucentMinThreshold value="0.050000"/>
+            <CreepTranslucentMaxThreshold value="0.150000"/>
+            <CreepTranslucentPassTint value="1.000000,0.850000,0.750000"/>
+        </CreepSettingsArray>
+    </CTerrain>
+</Catalog>
