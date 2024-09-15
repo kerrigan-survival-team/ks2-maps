@@ -1,22 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Catalog>
     <CLight id="LastSanctuaryLighting" parent="DuckMapLighting"/>
-    <CWater id="LastSanctuaryWater">
+    <CWater id="LastSanctuaryWater00">
         <State index="0">
             <Name value="[Default]"/>
-            <Height value="0.050000"/>
-            <Color value="0.098039,0.349020,0.498039,0.300000"/>
-            <ColorFallOff value="0.100000"/>
-            <Specularity value="100.000000"/>
-            <SpecularScaler value="2.450000"/>
-            <UvRate value="-0.000000,-0.001000,0.000000,0.000000"/>
-            <ReflectionDistortion value="0.012000"/>
-            <RefractionDistortion value="0.020000"/>
+            <Height value="1.700000"/>
+            <Color value="0.000000,0.439216,1.000000,0.050000"/>
+            <ColorFallOff value="0.090000"/>
+            <Specularity value="200.000000"/>
+            <SpecularScaler value="2.700000"/>
+            <UvRate value="0.001000,0.000000,0.000000,0.000000"/>
+            <MeshRoughness value="0.300000"/>
+            <TextureRoughness value="0.400000"/>
+            <ReflectionDistortion value="0.040000"/>
+            <RefractionDistortion value="0.012000"/>
             <MinReflection value="0.300000"/>
             <ReflectivityPower value="8.000000"/>
         </State>
         <BeachShoreline value="BelShirBeachShoreline"/>
         <CliffShoreline value="BelShirCliffShoreline"/>
+        <Doodads Model="BelShirWaterDoodadLilyPad" MinSize="0.000500" MaxSize="0.000500"/>
+    </CWater>
+    <CWater id="LastSanctuaryWater01">
+        <State index="0">
+            <Name value="[Default]"/>
+            <Height value="0.950000"/>
+            <Color value="0.000000,0.439216,1.000000,0.050000"/>
+            <ColorFallOff value="0.090000"/>
+            <Specularity value="200.000000"/>
+            <SpecularScaler value="2.700000"/>
+            <UvRate value="0.000707,-0.000707,0.000000,0.000000"/>
+            <MeshRoughness value="0.300000"/>
+            <TextureRoughness value="0.400000"/>
+            <ReflectionDistortion value="0.040000"/>
+            <RefractionDistortion value="0.012000"/>
+            <MinReflection value="0.300000"/>
+            <ReflectivityPower value="8.000000"/>
+        </State>
+        <BeachShoreline value="BelShirBeachShoreline"/>
+        <CliffShoreline value="BelShirCliffShoreline"/>
+        <Doodads Model="BelShirWaterDoodadLilyPad" MinSize="0.000500" MaxSize="0.000500"/>
+    </CWater>
+    <CWater id="LastSanctuaryWater03">
+        <State index="0">
+            <Name value="[Default]"/>
+            <Height value="5.500000"/>
+            <Color value="0.000000,0.439216,1.000000,0.050000"/>
+            <ColorFallOff value="0.057000"/>
+            <CausticsFallOff value="4.020000"/>
+            <Specularity value="200.000000"/>
+            <SpecularScaler value="2.700000"/>
+            <UvRate value="0.000707,-0.000707,0.000000,0.000000"/>
+            <MeshRoughness value="0.300000"/>
+            <TextureRoughness value="0.400000"/>
+            <ReflectionDistortion value="0.022000"/>
+            <RefractionDistortion value="0.012000"/>
+            <MinReflection value="0.300000"/>
+            <ReflectivityPower value="8.000000"/>
+        </State>
+        <BeachShoreline value="BelShirBeachShoreline"/>
+        <CliffShoreline value="BelShirCliffShoreline"/>
+        <Doodads Model="BelShirWaterDoodadLilyPad" MinSize="0.000500" MaxSize="0.000500"/>
+    </CWater>
+    <CWater id="LastSanctuaryWater02">
+        <State index="0">
+            <Name value="[Default]"/>
+            <Height value="1.700000"/>
+            <Color value="0.000000,0.439216,1.000000,0.050000"/>
+            <ColorFallOff value="0.090000"/>
+            <Specularity value="200.000000"/>
+            <SpecularScaler value="2.700000"/>
+            <UvRate value="-0.000000,-0.001000,0.000000,0.000000"/>
+            <MeshRoughness value="0.300000"/>
+            <TextureRoughness value="0.400000"/>
+            <ReflectionDistortion value="0.040000"/>
+            <RefractionDistortion value="0.012000"/>
+            <MinReflection value="0.300000"/>
+            <ReflectivityPower value="8.000000"/>
+        </State>
+        <BeachShoreline value="BelShirBeachShoreline"/>
+        <CliffShoreline value="BelShirCliffShoreline"/>
+        <Doodads Model="BelShirWaterDoodadLilyPad" MinSize="0.000500" MaxSize="0.000500"/>
+    </CWater>
+    <CWater id="LastSanctuaryWater05">
+        <State index="0">
+            <Name value="[Default]"/>
+            <Height value="3.500000"/>
+            <Color value="0.000000,0.439216,1.000000,0.050000"/>
+            <ColorFallOff value="0.090000"/>
+            <Specularity value="200.000000"/>
+            <SpecularScaler value="2.700000"/>
+            <UvRate value="0.000707,-0.000707,0.000000,0.000000"/>
+            <MeshRoughness value="0.300000"/>
+            <TextureRoughness value="0.400000"/>
+            <ReflectionDistortion value="0.040000"/>
+            <RefractionDistortion value="0.012000"/>
+            <MinReflection value="0.300000"/>
+            <ReflectivityPower value="8.000000"/>
+        </State>
+        <BeachShoreline value="BelShirBeachShoreline"/>
+        <CliffShoreline value="BelShirCliffShoreline"/>
+        <Doodads Model="BelShirWaterDoodadLilyPad" MinSize="0.000500" MaxSize="0.000500"/>
+    </CWater>
+    <CWater id="LastSanctuaryWater04">
+        <State index="0">
+            <Name value="[Default]"/>
+            <Height value="-0.700000"/>
+            <Color value="0.000000,0.439216,1.000000,0.050000"/>
+            <ColorFallOff value="0.090000"/>
+            <Specularity value="200.000000"/>
+            <SpecularScaler value="2.700000"/>
+            <UvRate value="0.000707,-0.000707,0.000000,0.000000"/>
+            <MeshRoughness value="0.300000"/>
+            <TextureRoughness value="0.400000"/>
+            <ReflectionDistortion value="0.040000"/>
+            <RefractionDistortion value="0.012000"/>
+            <MinReflection value="0.300000"/>
+            <ReflectivityPower value="8.000000"/>
+        </State>
+        <IsLava value="1"/>
+        <BeachShoreline value="BelShirBeachShoreline"/>
+        <CliffShoreline value="BelShirCliffShoreline"/>
+        <Doodads Model="BelShirWaterDoodadLilyPad" MinSize="0.000500" MaxSize="0.000500"/>
     </CWater>
     <CTerrain id="LastSanctuaryTerrainType">
         <EditorCategories value="Climate:Wasteland"/>

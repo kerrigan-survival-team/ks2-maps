@@ -1288,7 +1288,7 @@
     <region id="22">
         <name value="Ramp59"/>
         <shape type="rect">
-            <quad value="29.5007,198.5012,33.5007,202.501"/>
+            <quad value="15.0002,208.002,19.0002,212.0017"/>
         </shape>
     </region>
 </Regions>
