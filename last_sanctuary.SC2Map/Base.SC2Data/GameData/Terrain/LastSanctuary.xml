@@ -106,7 +106,7 @@
         <State index="0">
             <Name value="[Default]"/>
             <Height value="-0.700000"/>
-            <Color value="0.000000,0.439216,1.000000,0.050000"/>
+            <Color value="0.819608,0.294118,0.078431,0.050000"/>
             <ColorFallOff value="0.090000"/>
             <Specularity value="200.000000"/>
             <SpecularScaler value="2.700000"/>
