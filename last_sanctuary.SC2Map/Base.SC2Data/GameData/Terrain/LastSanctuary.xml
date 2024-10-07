@@ -21,7 +21,7 @@
         <CliffShoreline value="BelShirCliffShoreline"/>
         <Doodads Model="BelShirWaterDoodadLilyPad" MinSize="0.000500" MaxSize="0.000500"/>
     </CWater>
-    <CWater id="LastSanctuaryWater01">
+    <CWater id="LastSanctuaryWater02">
         <State index="0">
             <Name value="[Default]"/>
             <Height value="0.950000"/>
@@ -41,7 +41,7 @@
         <CliffShoreline value="BelShirCliffShoreline"/>
         <Doodads Model="BelShirWaterDoodadLilyPad" MinSize="0.000500" MaxSize="0.000500"/>
     </CWater>
-    <CWater id="LastSanctuaryWater03">
+    <CWater id="LastSanctuaryWater04">
         <State index="0">
             <Name value="[Default]"/>
             <Height value="5.500000"/>
@@ -62,27 +62,7 @@
         <CliffShoreline value="BelShirCliffShoreline"/>
         <Doodads Model="BelShirWaterDoodadLilyPad" MinSize="0.000500" MaxSize="0.000500"/>
     </CWater>
-    <CWater id="LastSanctuaryWater02">
-        <State index="0">
-            <Name value="[Default]"/>
-            <Height value="1.700000"/>
-            <Color value="0.000000,0.439216,1.000000,0.050000"/>
-            <ColorFallOff value="0.090000"/>
-            <Specularity value="200.000000"/>
-            <SpecularScaler value="2.700000"/>
-            <UvRate value="-0.000000,-0.001000,0.000000,0.000000"/>
-            <MeshRoughness value="0.300000"/>
-            <TextureRoughness value="0.400000"/>
-            <ReflectionDistortion value="0.040000"/>
-            <RefractionDistortion value="0.012000"/>
-            <MinReflection value="0.300000"/>
-            <ReflectivityPower value="8.000000"/>
-        </State>
-        <BeachShoreline value="BelShirBeachShoreline"/>
-        <CliffShoreline value="BelShirCliffShoreline"/>
-        <Doodads Model="BelShirWaterDoodadLilyPad" MinSize="0.000500" MaxSize="0.000500"/>
-    </CWater>
-    <CWater id="LastSanctuaryWater05">
+    <CWater id="LastSanctuaryWater03">
         <State index="0">
             <Name value="[Default]"/>
             <Height value="3.500000"/>
@@ -102,7 +82,7 @@
         <CliffShoreline value="BelShirCliffShoreline"/>
         <Doodads Model="BelShirWaterDoodadLilyPad" MinSize="0.000500" MaxSize="0.000500"/>
     </CWater>
-    <CWater id="LastSanctuaryWater04">
+    <CWater id="LastSanctuaryWater01">
         <State index="0">
             <Name value="[Default]"/>
             <Height value="-0.700000"/>
