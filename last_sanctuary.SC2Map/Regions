@@ -986,7 +986,7 @@
     <region id="99">
         <name value="Ramp98"/>
         <shape type="rect">
-            <quad value="121.0002,186.001,125.0002,190.0007"/>
+            <quad value="121.0004,182.001,125.0004,186.0007"/>
         </shape>
     </region>
     <region id="118">
