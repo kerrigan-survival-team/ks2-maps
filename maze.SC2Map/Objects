@@ -146,6 +146,6 @@
     <ObjectUnit Id="1571981602" Position="88,42,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="237523155" Position="134,207,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="745604118" Position="11,171,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="1950939877" Position="132,173,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="1950939877" Position="131,169,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="593659748" Position="28,41,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
 </PlacedObjects>
