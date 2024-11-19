@@ -580,7 +580,7 @@
     <ObjectDoodad Id="1269036280" Position="45.0744,249.2614,9.9992" Rotation="2.412" Scale="1,1,1" Type="XelNaga_Cavern_ArchPost">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1000953681" Position="153,146,7.9997" Rotation="4.3825" Scale="1.039,1.039,1.039" Type="XilCreature">
+    <ObjectDoodad Id="1000953681" Position="165,150,7.9997" Rotation="4.3825" Scale="1.039,1.039,1.039" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1864099868" Variation="1" Position="244.8227,194.0578,7.9992" Rotation="4.1638" Scale="1,1,1" Type="XelNagaTornPlates">
