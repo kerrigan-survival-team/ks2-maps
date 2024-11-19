@@ -3,7 +3,7 @@
     <region id="1">
         <name value="Ramp0"/>
         <shape type="rect">
-            <quad value="16,60.0002,20,64"/>
+            <quad value="17,60.001,21,64.0007"/>
         </shape>
     </region>
     <region id="3">
@@ -99,7 +99,7 @@
     <region id="20">
         <name value="Ramp19"/>
         <shape type="rect">
-            <quad value="56,192.0002,60,196"/>
+            <quad value="52,188.0002,56,192"/>
         </shape>
     </region>
     <region id="21">
