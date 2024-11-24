@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <terrain version="115">
-    <heightMap tileSet="LastSanctuaryTerrainType" uvtiling="24.000000 24.000000 -12.000000 -12.000000 " dim="257 257 " offset="0.000000 0.000000 0.000000 " scale="1.000000e+00 1.000000e+00 1.000000e+00 ">
+    <heightMap tileSet="NoHopeTerrainType" uvtiling="24.000000 24.000000 -12.000000 -12.000000 " dim="257 257 " offset="0.000000 0.000000 0.000000 " scale="1.000000e+00 1.000000e+00 1.000000e+00 ">
         <cliffSetList num="2">
             <cliffSet i="0" name="SlaynCliff0"/>
             <cliffSet i="1" name="UlaanEx1Cliff0"/>
@@ -180,8 +180,8 @@
         <vertData quantizeBias="9.001382e+00" quantizeScale="3.052015e-04" standardHeight="8.000000e+00" name="t3HeightMap"/>
         <masks name="t3TextureMasks"/>
         <textureSetList num="8">
-            <textureSet i="0" name="UlaanEx1"/>
-            <textureSet i="1" name="BelShirEx1"/>
+            <textureSet i="0" name="No_Hope"/>
+            <textureSet i="1" name=""/>
             <textureSet i="2" name=""/>
             <textureSet i="3" name=""/>
             <textureSet i="4" name=""/>
