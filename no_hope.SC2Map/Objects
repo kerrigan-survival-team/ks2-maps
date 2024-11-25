@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PlacedObjects Version="27">
-    <ObjectDoodad Id="1952984637" Variation="5" Position="115.477,25.3242,7.9995" Scale="1,1,1" Type="XelNaga_Temple_Small_Destroyed">
+    <ObjectDoodad Id="1169801548" Position="90.9912,122.6665,9.9995" Rotation="6.1882" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1169801548" Position="90.9912,122.6665,9.9995" Rotation="6.1882" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="1952984637" Variation="5" Position="115.477,25.3242,7.9995" Scale="1,1,1" Type="XelNaga_Temple_Small_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1207698079" Variation="4" Position="140.6457,20.0407,9.9941" Scale="1,1,1" Type="XelNaga_Temple_Small_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2126980190" Variation="3" Position="97.5,56.5,9.9948" Scale="1,1,1" Type="AvernusBarrier">
+    <ObjectDoodad Id="241871500" Variation="3" Position="24.59,133.2458,17.9604" Rotation="3.2402" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="241871500" Variation="3" Position="24.59,133.2458,17.9604" Rotation="3.2402" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="2126980190" Variation="3" Position="97.5,56.5,9.9948" Scale="1,1,1" Type="AvernusBarrier">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="648958698" Variation="3" Position="10.9255,200.5966,7.9992" Rotation="2.9707" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -60,33 +60,33 @@
     <ObjectDoodad Id="2073202363" Variation="1" Position="105.5092,245.3752,9.9995" Rotation="4.096" Scale="0.9733,0.9733,0.9733" Type="XelNagaDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="1170638050" Position="29.9626,48.766,7.9995" Rotation="0.4602" Scale="1.1906,1.1906,1.1906" Type="Xelnaga_EnergySprite">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="145275740" Position="120.4162,219.4736,12.0004" Rotation="4.588" Scale="1.0864,1.0864,1.0864" Type="XelNaga_EnergyStreaks">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1170638050" Position="29.9626,48.766,7.9995" Rotation="0.4602" Scale="1.1906,1.1906,1.1906" Type="Xelnaga_EnergySprite">
+    <ObjectDoodad Id="1869004369" Variation="3" Position="53.1667,45.5964,7.9995" Rotation="0.151" Scale="0.9763,0.9763,0.9763" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1445472448" Variation="2" Position="56.5517,139.997,13.9995" Rotation="3.0117" Scale="0.8205,0.8205,0.8205" Type="Blast_Craters_Big">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1869004369" Variation="3" Position="53.1667,45.5964,7.9995" Rotation="0.151" Scale="0.9763,0.9763,0.9763" Type="Blast_Craters_Big">
+    <ObjectDoodad Id="652528162" Position="105.784,172.236,7.999" Rotation="5.2585" Scale="1,1,1" Type="XelNagaTornPlates">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="769457066" Variation="1" Position="113.229,138.7414,11.9995" Rotation="2.5361" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2008824171" Variation="2" Position="49.9685,123.3627,15.9995" Rotation="3.0117" Scale="0.8205,0.8205,0.8205" Type="Blast_Craters_Big">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="769457066" Variation="1" Position="113.229,138.7414,11.9995" Rotation="2.5361" Scale="1,1,1" Type="XelNagaTornPlates">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="652528162" Position="105.784,172.236,7.999" Rotation="5.2585" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="67001005" Variation="1" Position="189,29,7.9992" Rotation="4.858" Scale="0.9287,0.9287,0.9287" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="96160269" Variation="2" Position="200.832,189.513,7.9992" Rotation="2.9731" Scale="0.9665,0.9665,0.9665" Type="XelNagaDebris">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="67001005" Variation="1" Position="189,29,7.9992" Rotation="4.858" Scale="0.9287,0.9287,0.9287" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="810531835" Variation="5" Position="84.4204,224.0788,7.9992" Rotation="4.2575" Scale="1.1545,1.1545,1.1545" Type="Blast_Craters_Big">
@@ -99,10 +99,10 @@
     <ObjectDoodad Id="1086111987" Position="72.2216,20.9765,9.9995" Rotation="3.9714" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="19540528" Variation="5" Position="172.5268,47.0307,9.9992" Rotation="3.178" Scale="0.9235,0.9235,0.9235" Type="Blast_Craters_Big">
+    <ObjectDoodad Id="1118047184" Variation="5" Position="173.444,179.8554,7.9992" Rotation="1.0183" Scale="0.8061,0.8061,0.8061" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1118047184" Variation="5" Position="173.444,179.8554,7.9992" Rotation="1.0183" Scale="0.8061,0.8061,0.8061" Type="Blast_Craters_Big">
+    <ObjectDoodad Id="19540528" Variation="5" Position="172.5268,47.0307,9.9992" Rotation="3.178" Scale="0.9235,0.9235,0.9235" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="750977943" Variation="3" Position="32.069,143.8781,15.9995" Rotation="1.4714" Scale="1.0302,1.0302,1.0302" Type="Blast_Craters_Big">
@@ -111,17 +111,11 @@
     <ObjectDoodad Id="256424467" Variation="2" Position="155.7961,170.5375,9.9995" Rotation="4.933" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1025842960" Position="185,215,7.9992" Rotation="5.1933" Scale="1.0034,1.0034,1.0034" Type="XilCreature">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="713905525" Position="11.2307,106.5273,15.9677" Rotation="4.7207" Scale="1,1,1" Type="XelNagaHullPlate">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1539174904" Variation="4" Position="196.7067,126.5104,11.9997" Rotation="3.522" Scale="0.818,0.818,0.818" Type="Blast_Craters_Big">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="353804342" Position="245,230,9.9992" Rotation="3.884" Scale="1.127,1.127,1.127" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1801132283" Variation="2" Position="222.035,36.5273,9.9975" Rotation="2.7644" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -166,10 +160,10 @@
     <ObjectDoodad Id="1031848298" Position="61.0375,72.0676,11.9995" Rotation="4.6794" Scale="0.9213,0.9213,0.9213" Type="XelNaga_LargeCrate">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="658622526" Variation="4" Position="101.5,179.5,7.9992" Scale="1,1,1" Type="AvernusBarrier">
+    <ObjectDoodad Id="753434865" Variation="3" Position="186.5563,92.4797,7.9992" Rotation="4.0107" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="753434865" Variation="3" Position="186.5563,92.4797,7.9992" Rotation="4.0107" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="658622526" Variation="4" Position="101.5,179.5,7.9992" Scale="1,1,1" Type="AvernusBarrier">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="537583136" Variation="2" Position="83.0166,45.323,7.9992" Rotation="5.547" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -181,10 +175,10 @@
     <ObjectDoodad Id="366201095" Variation="2" Position="68.0446,27.2092,9.9995" Scale="1,1,1" Type="XelNaga_Crystal_Patch">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1620709791" Position="22.301,71.5507,13.9953" Scale="1,1,1" Type="XelNagaHullPlate">
+    <ObjectDoodad Id="1933432091" Position="145.5146,128.476,7.9995" Rotation="1.5705" Scale="0.6936,0.5605,0.9348" Type="XelNaga_Ramp">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1933432091" Position="145.5146,128.476,7.9995" Rotation="1.5705" Scale="0.6936,0.5605,0.9348" Type="XelNaga_Ramp">
+    <ObjectDoodad Id="1620709791" Position="22.301,71.5507,13.9953" Scale="1,1,1" Type="XelNagaHullPlate">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="599540891" Position="48.7524,176.8312,13.9963" Rotation="1.5793" Scale="1,1,1" Type="XelNagaHullPlate">
@@ -205,9 +199,6 @@
     <ObjectDoodad Id="1869543860" Position="216.983,97.2961,9.9995" Scale="1,1,1" Type="XelNaga_Caverns_CliffPillar_1High">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1797916601" Variation="1" Position="231,230,9.9992" Rotation="4.749" Scale="1.0197,1.0197,1.0197" Type="XilCreature">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="839991044" Position="56.4113,224.2001,9.9995" Scale="1,1,1" Type="XelNaga_Crystal_Patch">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -217,19 +208,19 @@
     <ObjectDoodad Id="1627780230" Variation="3" Position="79.5927,74.2978,11.9995" Rotation="0.8957" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="415641113" Position="120.753,239.8305,12.008" Rotation="3.6293" Scale="1.0056,1.0056,1.0056" Type="XelNaga_EnergyStreaks">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="869101692" Position="221.9235,168.569,7.999" Rotation="3.9042" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1661344122" Position="224.822,117.0864,9.9995" Scale="1,1,1" Type="XelNaga_Crates_Animating">
+    <ObjectDoodad Id="415641113" Position="120.753,239.8305,12.008" Rotation="3.6293" Scale="1.0056,1.0056,1.0056" Type="XelNaga_EnergyStreaks">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1562265474" Variation="1" Position="227.5673,40.2514,11.9997" Rotation="1.9645" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2130351964" Variation="15" Position="236.2536,40.679,7.9992" Rotation="1.9143" Scale="1,1,1" Type="XelNaga_Temple_Curb">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1562265474" Variation="1" Position="227.5673,40.2514,11.9997" Rotation="1.9645" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="1661344122" Position="224.822,117.0864,9.9995" Scale="1,1,1" Type="XelNaga_Crates_Animating">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="882413193" Variation="1" Position="161.9326,30.3193,7.9995" Rotation="3.218" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -257,23 +248,23 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1405861984" Position="228.029,198.5395,9.9995" Rotation="4.7551" Scale="1,1,1" Type="XelNagaTornPlates">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="422974226" Position="203.7844,234.5131,9.9995" Rotation="1.59" Scale="0.9213,0.9213,0.9213" Type="XelNaga_LargeCrate">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="350946057" Variation="2" Position="78.96,18.3681,9.9995" Rotation="0.6706" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="1405861984" Position="228.029,198.5395,9.9995" Rotation="4.7551" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="393471524" Position="52.0573,62.9377,7.9985" Scale="1,1,1" Type="TheVoid_XelNaga_Vision_Temple_Corrupted">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1947250111" Variation="2" Position="92.2634,89.2915,9.9995" Rotation="4.5598" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="350946057" Variation="2" Position="78.96,18.3681,9.9995" Rotation="0.6706" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1262527358" Position="128.018,145.442,7.9995" Rotation="3.1413" Scale="0.6936,0.5605,0.9348" Type="XelNaga_Ramp">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1947250111" Variation="2" Position="92.2634,89.2915,9.9995" Rotation="4.5598" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="705796705" Position="233.4013,210.6408,7.9992" Rotation="3.9902" Scale="0.9213,0.9213,0.9213" Type="XelNaga_LargeCrate">
@@ -282,10 +273,10 @@
     <ObjectDoodad Id="454845567" Position="239.4626,128.1484,7.9995" Rotation="4.2136" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="367714779" Position="68,130,7.9995" Rotation="6.0185" Scale="1,1,1" Type="CastanarStasisTubeDebris">
+    <ObjectDoodad Id="1792793140" Position="47.9455,93.4948,15.9841" Scale="1,1,1" Type="XelNagaHullPlate">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1792793140" Position="47.9455,93.4948,15.9841" Scale="1,1,1" Type="XelNagaHullPlate">
+    <ObjectDoodad Id="367714779" Position="68,130,7.9995" Rotation="6.0185" Scale="1,1,1" Type="CastanarStasisTubeDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="828776755" Position="220.9897,119.6232,9.9995" Scale="0.9475,1,1" Type="XelNaga_Vision_Temple">
@@ -309,34 +300,34 @@
     <ObjectDoodad Id="1386332008" Position="197,185,7.9992" Rotation="4.6472" Scale="1,1,1" Type="ArtifactShrine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="515422971" Position="93.889,56.0151,10.0012" Rotation="5.37" Scale="1.0751,1.0751,1.0751" Type="Xelnaga_EnergySprite">
+    <ObjectDoodad Id="2115509110" Position="58.413,101.651,15.9995" Rotation="4.6794" Scale="0.9213,0.9213,0.9213" Type="XelNaga_LargeCrate">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2115509110" Position="58.413,101.651,15.9995" Rotation="4.6794" Scale="0.9213,0.9213,0.9213" Type="XelNaga_LargeCrate">
+    <ObjectDoodad Id="515422971" Position="93.889,56.0151,10.0012" Rotation="5.37" Scale="1.0751,1.0751,1.0751" Type="Xelnaga_EnergySprite">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="451957963" Position="205.2783,97.3984,7.9992" Rotation="5.0141" Scale="1,1,1" Type="XelNaga_Cavern_ArchPost_Broken">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1381715032" Position="110.5505,189.3251,9.9992" Rotation="0.23" Scale="1.0153,1.0153,1.0153" Type="XelNagaDebris">
+    <ObjectDoodad Id="2129340685" Variation="3" Position="57.7504,50.0058,7.9987" Scale="1,1,1" Type="XelNaga_Temple_Small_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1257552995" Position="231.9533,147.5705,9.9995" Rotation="4.0234" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2129340685" Variation="3" Position="57.7504,50.0058,7.9987" Scale="1,1,1" Type="XelNaga_Temple_Small_Destroyed">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="151241994" Position="162,84,7.9995" Rotation="4.6472" Scale="1,1,1" Type="ArtifactShrine">
+    <ObjectDoodad Id="1381715032" Position="110.5505,189.3251,9.9992" Rotation="0.23" Scale="1.0153,1.0153,1.0153" Type="XelNagaDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="755649496" Position="171.9338,163.944,7.9995" Rotation="1.8981" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="789507917" Variation="4" Position="8.852,39.7373,9.9936" Rotation="2.764" Scale="1.0986,1.0986,1.0986" Type="Blast_Craters_Big">
+    <ObjectDoodad Id="151241994" Position="162,84,7.9995" Rotation="4.6472" Scale="1,1,1" Type="ArtifactShrine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="685190181" Position="170.287,87.3371,7.9995" Rotation="4.033" Scale="1,1,1" Type="XelNagaTornPlates">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="789507917" Variation="4" Position="8.852,39.7373,9.9936" Rotation="2.764" Scale="1.0986,1.0986,1.0986" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2106523814" Position="216.992,74.4907,9.9995" Scale="1,1,1" Type="XelNaga_Crates_Animating">
@@ -345,13 +336,10 @@
     <ObjectDoodad Id="1982080509" Variation="3" Position="195.841,18.109,10.007" Rotation="0.57" Scale="1,1,1" Type="XelNaga_Temple_Curb">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="561814536" Variation="1" Position="246,243,7.9992" Rotation="4.7751" Scale="0.88,0.88,0.88" Type="XilCreature">
+    <ObjectDoodad Id="549477415" Position="218.4702,238.5981,9.9992" Rotation="4.1977" Scale="1.0485,1.0485,1.0485" Type="XelNagaDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="670516193" Variation="2" Position="8.5,38.5,0.1367" Scale="1,1,1" Type="AvernusBarrier">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="549477415" Position="218.4702,238.5981,9.9992" Rotation="4.1977" Scale="1.0485,1.0485,1.0485" Type="XelNagaDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1461122282" Position="76.5,28.5,10.006" Scale="1,1,1" Type="AvernusBarrier">
@@ -363,13 +351,10 @@
     <ObjectDoodad Id="1930667009" Variation="1" Position="127.6523,85.3928,7.9992" Rotation="4.4174" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1255464986" Position="77,103,9.9995" Rotation="2.6132" Scale="1.1394,1.1394,1.1394" Type="XilCreature">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1132140823" Variation="3" Position="210.885,235.8867,9.9995" Rotation="0.7727" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="746764605" Variation="1" Position="242,237,7.9992" Rotation="4.3056" Scale="0.8481,0.8481,0.8481" Type="XilCreature">
+    <ObjectDoodad Id="1255464986" Position="77,103,9.9995" Rotation="2.6132" Scale="1.1394,1.1394,1.1394" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="494942685" Position="179.3234,224.7741,9.9995" Rotation="2.1472" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -417,10 +402,10 @@
     <ObjectDoodad Id="863925614" Position="199,9,7.9992" Rotation="4.8767" Scale="0.9396,0.9396,0.9396" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="518637128" Position="99.4597,219.7431,12.016" Rotation="4.4565" Scale="0.8474,0.8474,0.8474" Type="XelNaga_EnergyStreaks">
+    <ObjectDoodad Id="659253453" Position="236,154,7.9995" Rotation="3.2202" Scale="0.809,0.809,0.809" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="659253453" Position="236,154,7.9995" Rotation="3.2202" Scale="0.809,0.809,0.809" Type="XilCreature">
+    <ObjectDoodad Id="518637128" Position="99.4597,219.7431,12.016" Rotation="4.4565" Scale="0.8474,0.8474,0.8474" Type="XelNaga_EnergyStreaks">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2100019443" Variation="3" Position="244.073,84.8107,7.9992" Rotation="5.454" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -453,22 +438,19 @@
     <ObjectDoodad Id="679200907" Position="133,163,7.9992" Rotation="6.1198" Scale="1.0764,1.0764,1.0764" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1800782153" Variation="3" Position="229.8808,229.2194,9.9992" Scale="1,1,1" Type="XelNaga_Cavern_Rubble">
+    <ObjectDoodad Id="1506471169" Variation="4" Position="11.4936,23.606,7.9995" Rotation="1.8476" Scale="0.9252,0.9252,0.9252" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="402214224" Variation="5" Position="237.5,211.5,7.9992" Scale="1,1,1" Type="AvernusBarrier">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1506471169" Variation="4" Position="11.4936,23.606,7.9995" Rotation="1.8476" Scale="0.9252,0.9252,0.9252" Type="Blast_Craters_Big">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1259694238" Variation="4" Position="233.3352,47.083,7.9995" Rotation="4.6396" Scale="1.138,1.138,1.138" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1805985171" Position="233,191,7.9992" Rotation="1.2624" Scale="0.851,0.851,0.851" Type="XilCreature">
+    <ObjectDoodad Id="1355254748" Variation="2" Position="91.56,19.3854,10.0187" Rotation="0.6752" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1355254748" Variation="2" Position="91.56,19.3854,10.0187" Rotation="0.6752" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="1805985171" Position="233,191,7.9992" Rotation="1.2624" Scale="0.851,0.851,0.851" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="800546805" Position="164.5,59.5,7.9995" Rotation="1.3205" Scale="1,1,1" Type="XelNagaShrineDoodad">
@@ -514,10 +496,10 @@
     <ObjectDoodad Id="819260957" Variation="2" Position="190,73,7.9992" Rotation="6.268" Scale="0.8994,0.8994,0.8994" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1108090430" Variation="2" Position="37.3437,95.3515,15.9995" Rotation="4.3388" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="206503705" Position="16.3166,162.1511,11.9995" Rotation="1.4504" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="206503705" Position="16.3166,162.1511,11.9995" Rotation="1.4504" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="1108090430" Variation="2" Position="37.3437,95.3515,15.9995" Rotation="4.3388" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1444813357" Variation="1" Position="147.3962,87.8676,9.9885" Rotation="5.2978" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -526,10 +508,10 @@
     <ObjectDoodad Id="258754204" Variation="2" Position="29.7622,40.169,7.9995" Rotation="1.0825" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1681373639" Variation="2" Position="240.5,113.5,7.9992" Rotation="4.7121" Scale="1,1,1" Type="AvernusBarrier">
+    <ObjectDoodad Id="1078385211" Position="111.0441,168.233,7.999" Rotation="5.0727" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1078385211" Position="111.0441,168.233,7.999" Rotation="5.0727" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="1681373639" Variation="2" Position="240.5,113.5,7.9992" Rotation="4.7121" Scale="1,1,1" Type="AvernusBarrier">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1446301426" Position="212,183,11.9995" Scale="1,1,1" Type="XelNagaHullReactorSmall">
@@ -541,10 +523,10 @@
     <ObjectDoodad Id="1440053855" Position="17.2827,84.5244,11.9997" Rotation="3.9902" Scale="0.9213,0.9213,0.9213" Type="XelNaga_LargeCrate">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2014487900" Position="79,138,9.9992" Rotation="1.2685" Scale="1.1838,1.1838,1.1838" Type="XilCreature">
+    <ObjectDoodad Id="1726380542" Variation="1" Position="32.9428,178.9113,13.9995" Rotation="6.1374" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1726380542" Variation="1" Position="32.9428,178.9113,13.9995" Rotation="6.1374" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="2014487900" Position="79,138,9.9992" Rotation="1.2685" Scale="1.1838,1.1838,1.1838" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="72992802" Variation="2" Position="234.042,204.1948,7.9992" Rotation="1.781" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -553,10 +535,10 @@
     <ObjectDoodad Id="1522932856" Variation="2" Position="235.4414,8.824,7.9995" Rotation="4.312" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="739814035" Variation="4" Position="39.2902,88.8535,13.9995" Rotation="4.6496" Scale="0.8864,0.8864,0.8864" Type="Blast_Craters_Big">
+    <ObjectDoodad Id="1217341967" Position="177,151,7.9992" Scale="1,1,1" Type="XelNagaHullReactorSmall">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1217341967" Position="177,151,7.9992" Scale="1,1,1" Type="XelNagaHullReactorSmall">
+    <ObjectDoodad Id="739814035" Variation="4" Position="39.2902,88.8535,13.9995" Rotation="4.6496" Scale="0.8864,0.8864,0.8864" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="12519298" Variation="2" Position="136,96,7.9992" Rotation="5.3513" Scale="1.0385,1.0385,1.0385" Type="XilCreature">
@@ -565,10 +547,10 @@
     <ObjectDoodad Id="263211218" Position="41,156,11.9992" Rotation="4.6472" Scale="1,1,1" Type="ArtifactShrine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1530603791" Variation="2" Position="162.5,226.5,9.9963" Scale="1,1,1" Type="AvernusBarrier">
+    <ObjectDoodad Id="1237652483" Position="224.7121,122.811,9.9995" Scale="1,1,1" Type="XelNaga_Crates_Animating">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1237652483" Position="224.7121,122.811,9.9995" Scale="1,1,1" Type="XelNaga_Crates_Animating">
+    <ObjectDoodad Id="1530603791" Variation="2" Position="162.5,226.5,9.9963" Scale="1,1,1" Type="AvernusBarrier">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="44049639" Variation="2" Position="134,89,10.0168" Rotation="6.0036" Scale="0.8066,0.8066,0.8066" Type="XilCreature">
@@ -577,10 +559,10 @@
     <ObjectDoodad Id="181441254" Variation="5" Position="56.372,179.552,7.9992" Rotation="1.8833" Scale="1.0935,1.0935,1.0935" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1000953681" Position="165,150,7.9997" Rotation="4.3825" Scale="1.039,1.039,1.039" Type="XilCreature">
+    <ObjectDoodad Id="1269036280" Position="45.0744,249.2614,9.9992" Rotation="2.412" Scale="1,1,1" Type="XelNaga_Cavern_ArchPost">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1269036280" Position="45.0744,249.2614,9.9992" Rotation="2.412" Scale="1,1,1" Type="XelNaga_Cavern_ArchPost">
+    <ObjectDoodad Id="1000953681" Position="165,150,7.9997" Rotation="4.3825" Scale="1.039,1.039,1.039" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1864099868" Variation="1" Position="244.8227,194.0578,7.9992" Rotation="4.1638" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -589,10 +571,10 @@
     <ObjectDoodad Id="533202721" Position="33.8125,190.836,7.9995" Rotation="3.616" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="812451774" Position="220.468,98.9013,9.9995" Scale="1,1,1.0783" Type="XelNaga_Techno_Holo_Planet_DNA_Sculpture">
+    <ObjectDoodad Id="1382254403" Position="204.953,74.04,7.9995" Rotation="0.704" Scale="1.1513,1.1513,1.1513" Type="Xelnaga_EnergySprite">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1382254403" Position="204.953,74.04,7.9995" Rotation="0.704" Scale="1.1513,1.1513,1.1513" Type="Xelnaga_EnergySprite">
+    <ObjectDoodad Id="812451774" Position="220.468,98.9013,9.9995" Scale="1,1,1.0783" Type="XelNaga_Techno_Holo_Planet_DNA_Sculpture">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1254340831" Variation="2" Position="14.186,133.3886,16.0202" Rotation="2.5195" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -601,21 +583,21 @@
     <ObjectDoodad Id="1465119292" Position="198.6032,248.433,11.9995" Rotation="3.5112" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1192956118" Variation="2" Position="17.8195,110.99,15.9992" Rotation="3.0117" Scale="0.8205,0.8205,0.8205" Type="Blast_Craters_Big">
-        <Flag Index="HeightOffset" Value="1"/>
+    <ObjectDoodad Id="1118267349" Position="60.7573,120.9907,13.9621" Rotation="1.5793" Scale="1,1,1" Type="XelNagaHullPlate">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1118267349" Position="60.7573,120.9907,13.9621" Rotation="1.5793" Scale="1,1,1" Type="XelNagaHullPlate">
+    <ObjectDoodad Id="1192956118" Variation="2" Position="17.8195,110.99,15.9992" Rotation="3.0117" Scale="0.8205,0.8205,0.8205" Type="Blast_Craters_Big">
+        <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1883098028" Variation="1" Position="26.0454,25.368,7.9995" Rotation="1.2331" Scale="0.8654,0.8654,0.8654" Type="Blast_Craters_Big">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1544479493" Position="140.3007,161.0107,7.999" Rotation="4.0441" Scale="1.0595,1.0595,1.0595" Type="XelNagaDebris">
+    <ObjectDoodad Id="2062879536" Variation="2" Position="117.9062,7.8264,9.9995" Rotation="0.892" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2062879536" Variation="2" Position="117.9062,7.8264,9.9995" Rotation="0.892" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="1544479493" Position="140.3007,161.0107,7.999" Rotation="4.0441" Scale="1.0595,1.0595,1.0595" Type="XelNagaDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1485930889" Position="98,179,7.9992" Scale="1,1,1" Type="XelNagaHullReactorSmall">
@@ -624,10 +606,10 @@
     <ObjectDoodad Id="1951289076" Variation="3" Position="8.531,67.302,3.944" Rotation="5.3627" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="743948916" Position="171.9584,4.993,8.0163" Rotation="2.1254" Scale="0.872,0.872,0.872" Type="XelNaga_EnergyStreaks">
+    <ObjectDoodad Id="623857336" Variation="3" Position="22.9616,113.4167,15.9995" Rotation="0.4113" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="623857336" Variation="3" Position="22.9616,113.4167,15.9995" Rotation="0.4113" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="743948916" Position="171.9584,4.993,8.0163" Rotation="2.1254" Scale="0.872,0.872,0.872" Type="XelNaga_EnergyStreaks">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1179167330" Position="110.5014,128.4746,7.9995" Rotation="4.7207" Scale="0.6936,0.5605,0.9348" Type="XelNaga_Ramp">
@@ -645,28 +627,28 @@
     <ObjectDoodad Id="382669827" Position="208,6,8.0063" Rotation="2.0598" Scale="0.8706,0.8706,0.8706" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="376073584" Position="222,144,9.9992" Rotation="1.5397" Scale="1.1313,1.1313,1.1313" Type="XilCreature">
+    <ObjectDoodad Id="2025624837" Position="48.8344,166.631,13.9897" Rotation="1.5793" Scale="1,1,1" Type="XelNagaHullPlate">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1706978478" Variation="1" Position="203.1733,122.1496,7.9992" Rotation="0.91" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2025624837" Position="48.8344,166.631,13.9897" Rotation="1.5793" Scale="1,1,1" Type="XelNagaHullPlate">
+    <ObjectDoodad Id="376073584" Position="222,144,9.9992" Rotation="1.5397" Scale="1.1313,1.1313,1.1313" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="955745643" Position="207,74,7.9995" Scale="1,1,1" Type="XelNagaHullReactorSmall">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1954232332" Variation="1" Position="199,77,7.9992" Rotation="2.7846" Scale="1.1455,1.1455,1.1455" Type="XilCreature">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="85920121" Position="51.6037,75.8256,11.9995" Rotation="1.928" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2135055359" Variation="2" Position="35.8376,157.506,11.9995" Rotation="0.786" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="1954232332" Variation="1" Position="199,77,7.9992" Rotation="2.7846" Scale="1.1455,1.1455,1.1455" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1954151033" Variation="2" Position="133.0083,249.8271,7.9995" Rotation="1.6491" Scale="1,1,1" Type="XelNaga_Huge_Column">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2135055359" Variation="2" Position="35.8376,157.506,11.9995" Rotation="0.786" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1363209910" Position="18.3017,127.0268,13.9995" Scale="1,1,1" Type="HybridLab_StasisTubeLarge">
@@ -678,19 +660,19 @@
     <ObjectDoodad Id="1947196814" Position="224.6572,74.1811,9.9995" Scale="1,1,1" Type="XelNaga_Crates_Animating">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="869401699" Variation="3" Position="28.5,69.5,11.9953" Scale="1,1,1" Type="AvernusBarrier">
+    <ObjectDoodad Id="621882061" Variation="2" Position="91.701,208.3332,7.9992" Rotation="3.2287" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="621882061" Variation="2" Position="91.701,208.3332,7.9992" Rotation="3.2287" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="869401699" Variation="3" Position="28.5,69.5,11.9953" Scale="1,1,1" Type="AvernusBarrier">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="897753903" Position="91,139,9.9992" Rotation="4.3977" Scale="0.887,0.887,0.887" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="561171628" Variation="2" Position="31.5942,59.2011,9.9992" Rotation="4.3854" Scale="1.0036,1.0036,1.0036" Type="Blast_Craters_Big">
+    <ObjectDoodad Id="620068956" Variation="3" Position="38.452,66.1381,9.9995" Rotation="5.3403" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="620068956" Variation="3" Position="38.452,66.1381,9.9995" Rotation="5.3403" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="561171628" Variation="2" Position="31.5942,59.2011,9.9992" Rotation="4.3854" Scale="1.0036,1.0036,1.0036" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1895597785" Position="209.8105,163.9047,7.9992" Rotation="3.9902" Scale="0.9213,0.9213,0.9213" Type="XelNaga_LargeCrate">
@@ -711,10 +693,10 @@
     <ObjectDoodad Id="1607192142" Position="99.2907,239.5861,11.9953" Rotation="4.2788" Scale="1.1567,1.1567,1.1567" Type="XelNaga_EnergyStreaks">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1899531449" Variation="2" Position="213.9272,241.774,9.9995" Rotation="2.1174" Scale="0.9848,0.9848,0.9848" Type="Blast_Craters_Big">
+    <ObjectDoodad Id="1817918432" Position="230.828,241.503,9.9995" Rotation="5.5292" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1817918432" Position="230.828,241.503,9.9995" Rotation="5.5292" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="1899531449" Variation="2" Position="213.9272,241.774,9.9995" Rotation="2.1174" Scale="0.9848,0.9848,0.9848" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1298819791" Position="25.0834,156.7302,13.994" Rotation="1.4921" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -723,10 +705,10 @@
     <ObjectDoodad Id="1846090711" Variation="2" Position="223.4497,39.9223,11.95" Rotation="0.0473" Scale="1,1,1" Type="XelNaga_Temple_Curb">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="688781670" Position="33.7487,180.5898,13.9877" Rotation="3.1501" Scale="1,1,1" Type="XelNagaHullPlate">
+    <ObjectDoodad Id="457662158" Position="24.9675,240.0288,7.9992" Scale="1,1,1" Type="TheVoid_XelNaga_Vision_Temple_Corrupted">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="457662158" Position="24.9675,240.0288,7.9992" Scale="1,1,1" Type="TheVoid_XelNaga_Vision_Temple_Corrupted">
+    <ObjectDoodad Id="688781670" Position="33.7487,180.5898,13.9877" Rotation="3.1501" Scale="1,1,1" Type="XelNagaHullPlate">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1315189958" Position="94,56,10.0012" Scale="1,1,1" Type="XelNagaHullReactorSmall">
@@ -747,31 +729,31 @@
     <ObjectDoodad Id="951076681" Variation="1" Position="149.857,6.6811,7.9995" Scale="1,1,1" Type="XelNaga_GiantCrystalFloating">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="927675909" Position="197.6542,179.2934,7.9992" Rotation="3.4511" Scale="1.0031,1.0031,1.0031" Type="XelNagaDebris">
+    <ObjectDoodad Id="1217276745" Variation="5" Position="75.3542,18.508,9.9997" Rotation="2.8515" Scale="1.1491,1.1491,1.1491" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1217276745" Variation="5" Position="75.3542,18.508,9.9997" Rotation="2.8515" Scale="1.1491,1.1491,1.1491" Type="Blast_Craters_Big">
+    <ObjectDoodad Id="927675909" Position="197.6542,179.2934,7.9992" Rotation="3.4511" Scale="1.0031,1.0031,1.0031" Type="XelNagaDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1287070416" Position="44.1052,180.442,13.99" Rotation="3.1501" Scale="1,1,1" Type="XelNagaHullPlate">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1428362873" Variation="3" Position="145.5,251.5,-0.0002" Scale="1,1,1" Type="AvernusBarrier">
+    <ObjectDoodad Id="1709138285" Variation="1" Position="224,183,12.0173" Rotation="2.915" Scale="0.8225,0.8225,0.8225" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1709138285" Variation="1" Position="224,183,12.0173" Rotation="2.915" Scale="0.8225,0.8225,0.8225" Type="XilCreature">
+    <ObjectDoodad Id="1428362873" Variation="3" Position="145.5,251.5,-0.0002" Scale="1,1,1" Type="AvernusBarrier">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="789690834" Position="12.732,70.727,15.8598" Scale="1,1,1" Type="XelNagaHullPlate">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1898045255" Position="112.7666,25.117,7.9995" Scale="1,1,1" Type="XelNaga_Crystal_Patch">
+    <ObjectDoodad Id="1954892176" Position="137,37.7626,9.9995" Rotation="5.5683" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1135331438" Variation="2" Position="97,170,7.9992" Rotation="5.646" Scale="1.1943,1.1943,1.1943" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1954892176" Position="137,37.7626,9.9995" Rotation="5.5683" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="1898045255" Position="112.7666,25.117,7.9995" Scale="1,1,1" Type="XelNaga_Crystal_Patch">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1452223308" Variation="6" Position="12.1445,6.8503,9.9995" Rotation="5.5588" Scale="1,1,1" Type="XelNaga_Temple_Small_Destroyed">
@@ -783,22 +765,22 @@
     <ObjectDoodad Id="361390779" Position="204.807,96.5021,7.9992" Rotation="1.2756" Scale="1.1215,1.1215,1.1215" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1952212118" Variation="2" Position="175.3576,34.5893,9.9995" Rotation="4.0441" Scale="1,1,1" Type="XelNagaTornPlates">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="32778402" Variation="2" Position="16.8337,14.073,10.0117" Rotation="2.0158" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="776656901" Variation="2" Position="136,207,9.9992" Rotation="0.2502" Scale="0.9187,0.9187,0.9187" Type="XilCreature">
+    <ObjectDoodad Id="1952212118" Variation="2" Position="175.3576,34.5893,9.9995" Rotation="4.0441" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="71793392" Position="106,17,7.9992" Rotation="4.6472" Scale="1,1,1" Type="ArtifactShrine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1123709875" Position="123.3432,17.639,7.9992" Rotation="2.4226" Scale="1.0454,1.0454,1.0454" Type="XelNaga_EnergyStreaks">
+    <ObjectDoodad Id="776656901" Variation="2" Position="136,207,9.9992" Rotation="0.2502" Scale="0.9187,0.9187,0.9187" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2094989179" Variation="2" Position="184.461,34.3623,7.9995" Rotation="4.8632" Scale="1,1,1" Type="XelNagaTornPlates">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1123709875" Position="123.3432,17.639,7.9992" Rotation="2.4226" Scale="1.0454,1.0454,1.0454" Type="XelNaga_EnergyStreaks">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1810745430" Variation="2" Position="129.1337,11.1335,7.9995" Rotation="0.8527" Scale="1.0393,1.0393,1.0393" Type="Blast_Craters_Big">
@@ -807,26 +789,20 @@
     <ObjectDoodad Id="1790039949" Variation="3" Position="222.025,203.221,11.9995" Rotation="4.5092" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1955821681" Variation="2" Position="219,224,7.9992" Rotation="4.9633" Scale="1.0617,1.0617,1.0617" Type="XilCreature">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="316277583" Variation="1" Position="242,249,7.9992" Rotation="3.2526" Scale="1.064,1.064,1.064" Type="XilCreature">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1558359178" Position="55.8972,208.12,7.9992" Rotation="1.8657" Scale="0.8032,0.8032,0.8032" Type="Blast_Craters_Big">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1885140162" Variation="2" Position="158.8747,96.5812,9.9833" Rotation="1.7902" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="66193581" Position="11.4367,116.9941,15.9895" Rotation="4.7207" Scale="1,1,1" Type="XelNagaHullPlate">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1885140162" Variation="2" Position="158.8747,96.5812,9.9833" Rotation="1.7902" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="38627826" Position="84.3195,233.582,7.9992" Rotation="3.5166" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1155992464" Position="177.023,151.1308,7.9992" Rotation="2.125" Scale="0.9787,0.9787,0.9787" Type="Xelnaga_EnergySprite">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="38627826" Position="84.3195,233.582,7.9992" Rotation="3.5166" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1396705709" Variation="2" Position="16.711,166.179,11.9992" Rotation="2.6052" Scale="1.15,1.15,1.15" Type="Blast_Craters_Big">
@@ -856,28 +832,28 @@
     <ObjectDoodad Id="36800091" Variation="6" Position="97.839,47.7407,7.9995" Scale="1,1,1" Type="XelNaga_Temple_Small_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="38703065" Variation="4" Position="190.89,220.0065,7.9992" Rotation="0.6623" Scale="0.8051,0.8051,0.8051" Type="Blast_Craters_Big">
+    <ObjectDoodad Id="720235970" Variation="3" Position="101.449,134.4482,7.9995" Rotation="1.1455" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="720235970" Variation="3" Position="101.449,134.4482,7.9995" Rotation="1.1455" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="38703065" Variation="4" Position="190.89,220.0065,7.9992" Rotation="0.6623" Scale="0.8051,0.8051,0.8051" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1421382586" Position="185,43,7.9992" Rotation="0.2741" Scale="0.964,0.964,0.964" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1192751961" Variation="4" Position="59.7277,230.3227,8.2644" Scale="1,1,1" Type="XelNaga_Crystal_Patch">
+    <ObjectDoodad Id="571484525" Variation="1" Position="80.558,109.089,9.9995" Rotation="0.0871" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="571484525" Variation="1" Position="80.558,109.089,9.9995" Rotation="0.0871" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="1192751961" Variation="4" Position="59.7277,230.3227,8.2644" Scale="1,1,1" Type="XelNaga_Crystal_Patch">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1633433027" Variation="2" Position="188.1677,130.124,10.084" Rotation="5.1501" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="193226817" Position="195.8364,32.8156,10.0173" Rotation="5.011" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="33589465" Variation="2" Position="36.2226,201.4123,7.9995" Rotation="6.2004" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="33589465" Variation="2" Position="36.2226,201.4123,7.9995" Rotation="6.2004" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="193226817" Position="195.8364,32.8156,10.0173" Rotation="5.011" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1190923002" Variation="4" Position="51.5366,134.251,17.9995" Rotation="1.8217" Scale="1.0703,1.0703,1.0703" Type="Blast_Craters_Big">
@@ -910,28 +886,22 @@
     <ObjectDoodad Id="2008777532" Position="10.3684,34.735,8.009" Rotation="4.0598" Scale="0.9213,0.9213,0.9213" Type="XelNaga_LargeCrate">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2065761812" Variation="2" Position="239,245,7.9992" Rotation="1.7707" Scale="1.1911,1.1911,1.1911" Type="XilCreature">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="734073042" Variation="2" Position="195,228,9.9992" Rotation="3.5827" Scale="0.9614,0.9614,0.9614" Type="XilCreature">
+    <ObjectDoodad Id="1210080282" Variation="3" Position="120.1274,240.75,12.0012" Scale="1,1,1" Type="XelNaga_Temple_Small_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1184218160" Variation="1" Position="242,253,-0.0002" Rotation="2.0361" Scale="0.9213,0.9213,0.9213" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1210080282" Variation="3" Position="120.1274,240.75,12.0012" Scale="1,1,1" Type="XelNaga_Temple_Small_Destroyed">
+    <ObjectDoodad Id="1946703242" Position="153.3122,121.9843,7.9995" Rotation="3.4057" Scale="0.9514,0.9514,0.9514" Type="XelNagaDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1180427585" Variation="10" Position="195.7558,70.335,10.0163" Rotation="2.5812" Scale="1,1,1" Type="XelNaga_Temple_Curb">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1946703242" Position="153.3122,121.9843,7.9995" Rotation="3.4057" Scale="0.9514,0.9514,0.9514" Type="XelNagaDebris">
+    <ObjectDoodad Id="2061986598" Variation="6" Position="67.7976,48.2495,7.9995" Scale="1,1,1" Type="XelNaga_Temple_Small_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="122447256" Position="212.0537,183.115,11.9995" Rotation="1.428" Scale="1.0515,1.0515,1.0515" Type="Xelnaga_EnergySprite">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="2061986598" Variation="6" Position="67.7976,48.2495,7.9995" Scale="1,1,1" Type="XelNaga_Temple_Small_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1548181356" Variation="2" Position="204.988,118.2941,7.9992" Rotation="4.4658" Scale="1.132,1.132,1.132" Type="Blast_Craters_Big">
@@ -946,14 +916,14 @@
     <ObjectDoodad Id="740135161" Variation="2" Position="97.1318,145.119,7.9992" Rotation="6.2121" Scale="1.0834,1.0834,1.0834" Type="XelNagaDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="273521851" Position="196.909,127.9414,11.9997" Rotation="0.307" Scale="1.0598,1.0598,1.0598" Type="Xelnaga_EnergySprite">
-        <Flag Index="HeightOffset" Value="1"/>
+    <ObjectDoodad Id="377700654" Variation="2" Position="146.45,96.129,8" Rotation="0.2861" Scale="0.91,0.91,0.91" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="397849721" Variation="1" Position="10.2487,13.4833,9.9995" Scale="1,1,1" Type="XelNaga_Crystal_Patch">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="377700654" Variation="2" Position="146.45,96.129,8" Rotation="0.2861" Scale="0.91,0.91,0.91" Type="Blast_Craters_Big">
+    <ObjectDoodad Id="273521851" Position="196.909,127.9414,11.9997" Rotation="0.307" Scale="1.0598,1.0598,1.0598" Type="Xelnaga_EnergySprite">
+        <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="479372293" Variation="1" Position="183.263,178.1994,7.9995" Rotation="5.2395" Scale="1.0566,1.0566,1.0566" Type="XelNagaDebris">
@@ -983,7 +953,7 @@
     <ObjectDoodad Id="240862440" Variation="3" Position="221.122,24.0156,7.9995" Rotation="4.1308" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2075965928" Position="92.5051,28.5744,9.9995" Scale="1,1,1" Type="XelNaga_Techno_Holo_Planet_DNA_Sculpture">
+    <ObjectDoodad Id="2075965928" Position="91.7602,27.9133,10" Scale="1,1,1" Type="XelNaga_Techno_Holo_Planet_DNA_Sculpture">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -996,22 +966,22 @@
     <ObjectDoodad Id="29067860" Position="126.571,182.1462,7.9992" Rotation="4.772" Scale="0.9367,0.9367,0.9367" Type="XelNagaDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1407527573" Position="69,64,7.9992" Rotation="4.6472" Scale="1,1,1" Type="ArtifactShrine">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="2076093585" Variation="2" Position="210.589,61.2023,7.9995" Rotation="2.322" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="589648622" Variation="1" Position="100.933,201.8947,9.9992" Rotation="4.9445" Scale="1.0717,1.0717,1.0717" Type="XelNagaDebris">
+    <ObjectDoodad Id="1407527573" Position="69,64,7.9992" Rotation="4.6472" Scale="1,1,1" Type="ArtifactShrine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1463939683" Position="234,61,7.9995" Rotation="4.6472" Scale="1,1,1" Type="ArtifactShrine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1113641345" Variation="2" Position="236.9462,54.9187,7.9992" Rotation="3.4421" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="589648622" Variation="1" Position="100.933,201.8947,9.9992" Rotation="4.9445" Scale="1.0717,1.0717,1.0717" Type="XelNagaDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="683735067" Variation="2" Position="67.8066,245.7197,7.9995" Rotation="2.432" Scale="1,1,1" Type="XelNagaTornPlates">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1113641345" Variation="2" Position="236.9462,54.9187,7.9992" Rotation="3.4421" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1851694116" Variation="2" Position="191.8444,45.884,7.9992" Rotation="4.832" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -1020,23 +990,23 @@
     <ObjectDoodad Id="1445886743" Position="170.86,153.4345,9.9985" Rotation="5.6264" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1245212567" Variation="2" Position="225.6765,128.7055,9.9995" Rotation="0.9812" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="45582583" Position="165,40,7.9995" Scale="1,1,1" Type="XelNagaHullReactorSmall">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2074456118" Variation="7" Position="106.8105,67.878,7.9992" Scale="1,1,1" Type="XelNaga_Temple_Small_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="45582583" Position="165,40,7.9995" Scale="1,1,1" Type="XelNagaHullReactorSmall">
+    <ObjectDoodad Id="1245212567" Variation="2" Position="225.6765,128.7055,9.9995" Rotation="0.9812" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="338304459" Variation="1" Position="102.456,188.3227,9.9992" Rotation="3.3935" Scale="1.0595,1.0595,1.0595" Type="XelNagaDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2052983763" Variation="1" Position="183.0363,65.939,7.9992" Rotation="5.3681" Scale="1,1,1" Type="XelNagaObeliskBroken">
-        <Flag Index="HeightOffset" Value="1"/>
+    <ObjectDoodad Id="1936848138" Variation="1" Position="149.4882,215.414,7.9992" Rotation="6.1132" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1936848138" Variation="1" Position="149.4882,215.414,7.9992" Rotation="6.1132" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="2052983763" Variation="1" Position="183.0363,65.939,7.9992" Rotation="5.3681" Scale="1,1,1" Type="XelNagaObeliskBroken">
+        <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="834745" Variation="5" Position="152.8972,198.6005,7.9992" Rotation="2.2102" Scale="1.1,1.1,1.1" Type="Blast_Craters_Big">
@@ -1045,19 +1015,19 @@
     <ObjectDoodad Id="931753148" Position="151,235,7.9992" Scale="1,1,1" Type="XelNagaHullReactorSmall">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="905845741" Position="11.4753,61.7158,10.3955" Scale="1,1,1" Type="XelNaga_Crystal_Patch">
+    <ObjectDoodad Id="625742533" Variation="2" Position="231.9755,243.5292,9.9995" Rotation="3.5583" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="625742533" Variation="2" Position="231.9755,243.5292,9.9995" Rotation="3.5583" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="905845741" Position="11.4753,61.7158,10.3955" Scale="1,1,1" Type="XelNaga_Crystal_Patch">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1130813736" Position="176.3403,147.8347,9.9995" Rotation="5.9458" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="755543100" Variation="1" Position="233,207,7.9992" Rotation="2.3325" Scale="0.8156,0.8156,0.8156" Type="XilCreature">
+    <ObjectDoodad Id="239685918" Position="55,216,7.9992" Rotation="4.6472" Scale="1,1,1" Type="ArtifactShrine">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="239685918" Position="55,216,7.9992" Rotation="4.6472" Scale="1,1,1" Type="ArtifactShrine">
+    <ObjectDoodad Id="755543100" Variation="1" Position="233,207,7.9992" Rotation="2.3325" Scale="0.8156,0.8156,0.8156" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1414394518" Variation="1" Position="122.2087,17.4904,7.9995" Scale="1,1,1" Type="XelNaga_Temple_Small_Destroyed">
@@ -1087,10 +1057,10 @@
     <ObjectDoodad Id="1860156906" Variation="1" Position="40.821,74.2453,11.9995" Rotation="0.7722" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="724021887" Variation="1" Position="77.1994,35.4655,7.9992" Rotation="5.6647" Scale="1.197,1.197,1.197" Type="Blast_Craters_Big">
+    <ObjectDoodad Id="1939670687" Position="72.5,131.5,7.9995" Scale="1,1,1" Type="AvernusBarrier">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1939670687" Position="72.5,131.5,7.9995" Scale="1,1,1" Type="AvernusBarrier">
+    <ObjectDoodad Id="724021887" Variation="1" Position="77.1994,35.4655,7.9992" Rotation="5.6647" Scale="1.197,1.197,1.197" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="591259830" Variation="2" Position="65.499,193.5224,7.9992" Rotation="5.5253" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -1112,10 +1082,10 @@
     <ObjectDoodad Id="1251635700" Variation="1" Position="208.134,43.0708,7.9995" Rotation="5.8293" Scale="0.9921,0.9921,0.9921" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="41453828" Variation="1" Position="120.5651,208.3325,7.9992" Rotation="5.7624" Scale="0.9562,0.9562,0.9562" Type="Blast_Craters_Big">
+    <ObjectDoodad Id="1164578836" Position="217.2885,122.6074,9.9995" Scale="1,1,1" Type="XelNaga_Crates_Animating">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1164578836" Position="217.2885,122.6074,9.9995" Scale="1,1,1" Type="XelNaga_Crates_Animating">
+    <ObjectDoodad Id="41453828" Variation="1" Position="120.5651,208.3325,7.9992" Rotation="5.7624" Scale="0.9562,0.9562,0.9562" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1424589213" Variation="3" Position="102.3408,29.0656,9.9995" Rotation="6.1955" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -1130,13 +1100,13 @@
     <ObjectDoodad Id="983955729" Variation="2" Position="78.045,139.903,9.9995" Rotation="1.1987" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="336477" Position="47.5,159.5,11.9992" Scale="1,1,1" Type="AvernusBarrier">
+    <ObjectDoodad Id="857676889" Position="179.0876,97.638,7.9992" Rotation="1.3605" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1175765985" Variation="2" Position="210.636,131.6218,9.3742" Rotation="5.0524" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="857676889" Position="179.0876,97.638,7.9992" Rotation="1.3605" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="336477" Position="47.5,159.5,11.9992" Scale="1,1,1" Type="AvernusBarrier">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="617852909" Variation="2" Position="28.1696,212.5515,9.9836" Rotation="0.322" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -1145,10 +1115,10 @@
     <ObjectDoodad Id="922564305" Variation="2" Position="238.7521,140.544,7.9995" Rotation="5.6057" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1997324110" Position="104.5,25.5,7.9992" Scale="1,1,1" Type="AvernusBarrier">
+    <ObjectDoodad Id="965402883" Variation="2" Position="138.1325,164.376,7.9992" Rotation="1.9216" Scale="0.9311,0.9311,0.9311" Type="XelNagaDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="965402883" Variation="2" Position="138.1325,164.376,7.9992" Rotation="1.9216" Scale="0.9311,0.9311,0.9311" Type="XelNagaDebris">
+    <ObjectDoodad Id="1997324110" Position="104.5,25.5,7.9992" Scale="1,1,1" Type="AvernusBarrier">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1762948050" Position="207.8527,244.2485,9.9992" Rotation="5.6042" Scale="0.934,0.934,0.934" Type="XelNagaDebris">
@@ -1163,16 +1133,16 @@
     <ObjectDoodad Id="1729222096" Position="221.7622,64.8044,7.9995" Rotation="4.0036" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1209501694" Variation="1" Position="102.6591,115.213,7.9992" Rotation="5.546" Scale="1.179,1.179,1.179" Type="Blast_Craters_Big">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="2033037854" Position="99.9001,85.2727,7.9995" Rotation="4.7407" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1403116080" Variation="3" Position="217.0717,195.2541,11.9992" Rotation="2.8312" Scale="0.861,0.861,0.861" Type="Blast_Craters_Big">
+    <ObjectDoodad Id="1209501694" Variation="1" Position="102.6591,115.213,7.9992" Rotation="5.546" Scale="1.179,1.179,1.179" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="891530531" Variation="3" Position="240.5444,81.0131,7.9992" Scale="1,1,1" Type="XelNaga_Temple_Small_Destroyed">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1403116080" Variation="3" Position="217.0717,195.2541,11.9992" Rotation="2.8312" Scale="0.861,0.861,0.861" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="259279927" Variation="1" Position="161,97,9.9992" Rotation="5.168" Scale="1.1506,1.1506,1.1506" Type="XilCreature">
@@ -1188,10 +1158,10 @@
     <ObjectDoodad Id="1901293114" Position="142.109,45.6347,7.9992" Rotation="3.2482" Scale="0.894,0.894,0.894" Type="XelNaga_EnergyStreaks">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="833279073" Variation="2" Position="187.5527,184.8247,7.9992" Rotation="5.8684" Scale="0.9392,0.9392,0.9392" Type="XelNagaDebris">
+    <ObjectDoodad Id="59400290" Variation="2" Position="214,135,9.9992" Rotation="5.4282" Scale="1.1765,1.1765,1.1765" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="59400290" Variation="2" Position="214,135,9.9992" Rotation="5.4282" Scale="1.1765,1.1765,1.1765" Type="XilCreature">
+    <ObjectDoodad Id="833279073" Variation="2" Position="187.5527,184.8247,7.9992" Rotation="5.8684" Scale="0.9392,0.9392,0.9392" Type="XelNagaDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1731744827" Variation="3" Position="79.4084,4.9875,10.0092" Rotation="1.1577" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -1200,10 +1170,10 @@
     <ObjectDoodad Id="194071655" Variation="1" Position="102.6396,110.2031,8" Rotation="3.6882" Scale="1.0554,1.0554,1.0554" Type="XelNagaDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1187613121" Variation="3" Position="85.9858,15.8955,7.9995" Rotation="1.0546" Scale="0.9885,0.9885,0.9885" Type="Blast_Craters_Big">
+    <ObjectDoodad Id="452358956" Variation="1" Position="192.7792,223.3691,7.9992" Rotation="5.77" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="452358956" Variation="1" Position="192.7792,223.3691,7.9992" Rotation="5.77" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="1187613121" Variation="3" Position="85.9858,15.8955,7.9995" Rotation="1.0546" Scale="0.9885,0.9885,0.9885" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1818330863" Position="142.5,201.5,7.9992" Rotation="1.0297" Scale="1,1,1" Type="XelNagaShrineDoodad">
@@ -1218,16 +1188,16 @@
     <ObjectDoodad Id="795797968" Variation="3" Position="37.4787,104.0717,17.9953" Rotation="5.7634" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="701437218" Variation="1" Position="225.416,210.956,9.9995" Rotation="3.9157" Scale="1,1,1" Type="XelNagaTornPlates">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="933248397" Variation="1" Position="202.389,112.598,7.9995" Rotation="2.164" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="194582344" Variation="2" Position="89.1894,161.9814,7.9992" Rotation="1.668" Scale="1.0534,1.0534,1.0534" Type="XelNagaDebris">
+    <ObjectDoodad Id="701437218" Variation="1" Position="225.416,210.956,9.9995" Rotation="3.9157" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="866162840" Variation="2" Position="242.412,38.5937,9.9995" Rotation="0.3652" Scale="1,1,1" Type="XelNagaTornPlates">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="194582344" Variation="2" Position="89.1894,161.9814,7.9992" Rotation="1.668" Scale="1.0534,1.0534,1.0534" Type="XelNagaDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2060547777" Position="141.2917,19.0712,8.0468" Rotation="3.17" Scale="0.9101,0.9101,0.9101" Type="XelNaga_EnergyStreaks">
@@ -1251,10 +1221,10 @@
     <ObjectDoodad Id="1525972464" Variation="1" Position="167.5,190.5,7.9992" Scale="1,1,1" Type="AvernusBarrier">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1862634492" Position="197,53,9.9992" Rotation="2.0241" Scale="0.8823,0.8823,0.8823" Type="XilCreature">
+    <ObjectDoodad Id="58640817" Variation="3" Position="177.1933,22.4316,9.9995" Rotation="4.9338" Scale="0.8125,0.8125,0.8125" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="58640817" Variation="3" Position="177.1933,22.4316,9.9995" Rotation="4.9338" Scale="0.8125,0.8125,0.8125" Type="Blast_Craters_Big">
+    <ObjectDoodad Id="1862634492" Position="197,53,9.9992" Rotation="2.0241" Scale="0.8823,0.8823,0.8823" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2003846815" Variation="1" Position="150.4658,107.607,8" Rotation="2.2065" Scale="0.9475,0.9475,0.9475" Type="XelNagaDebris">
@@ -1275,10 +1245,10 @@
     <ObjectDoodad Id="1605086442" Variation="2" Position="123.522,215.9338,9.9873" Rotation="4.1643" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2105779664" Variation="3" Position="36.2536,164.4763,11.9992" Rotation="1.5893" Scale="0.9575,0.9575,0.9575" Type="Blast_Craters_Big">
+    <ObjectDoodad Id="2109886605" Variation="2" Position="66.975,236.626,7.9992" Rotation="5.6154" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2109886605" Variation="2" Position="66.975,236.626,7.9992" Rotation="5.6154" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="2105779664" Variation="3" Position="36.2536,164.4763,11.9992" Rotation="1.5893" Scale="0.9575,0.9575,0.9575" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="790376372" Position="58.2026,190.4755,7.9992" Rotation="3.9902" Scale="0.9213,0.9213,0.9213" Type="XelNaga_LargeCrate">
@@ -1293,10 +1263,10 @@
     <ObjectDoodad Id="1308861768" Position="85.427,130.437,7.9992" Scale="1,1,1" Type="XelNaga_Library">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1180841502" Position="45.2453,173.9875,13.9995" Rotation="5.2687" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="175178069" Position="153.3791,166.5441,7.9992" Rotation="3.9902" Scale="0.9213,0.9213,0.9213" Type="XelNaga_LargeCrate">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="175178069" Position="153.3791,166.5441,7.9992" Rotation="3.9902" Scale="0.9213,0.9213,0.9213" Type="XelNaga_LargeCrate">
+    <ObjectDoodad Id="1180841502" Position="45.2453,173.9875,13.9995" Rotation="5.2687" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="922725281" Variation="1" Position="231.044,185.319,9.9992" Rotation="5.0175" Scale="0.932,0.932,0.932" Type="XelNagaDebris">
@@ -1305,16 +1275,16 @@
     <ObjectDoodad Id="1828268994" Position="220.8562,76.7485,9.9995" Scale="0.9482,1,1" Type="XelNaga_Vision_Temple">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1817918716" Variation="2" Position="183,69,7.9992" Rotation="3.6965" Scale="0.8388,0.8388,0.8388" Type="XilCreature">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="484490275" Position="113.143,225.6677,9.9995" Rotation="3.1174" Scale="0.9213,0.9213,0.9213" Type="XelNaga_LargeCrate">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="167504661" Variation="2" Position="241.713,113.4633,7.9992" Rotation="4.7036" Scale="1,1,1" Type="XelNaga_Caverns_Door_Destroyed">
+    <ObjectDoodad Id="1817918716" Variation="2" Position="183,69,7.9992" Rotation="3.6965" Scale="0.8388,0.8388,0.8388" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1233278772" Position="114.8703,203.4506,11.9995" Scale="1,1,1" Type="XelNaga_Techno_Holo_Planet_DNA_Sculpture">
+    <ObjectDoodad Id="1233278772" Position="115.0495,204.2595,12.0158" Scale="1,1,1" Type="XelNaga_Techno_Holo_Planet_DNA_Sculpture">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="167504661" Variation="2" Position="241.713,113.4633,7.9992" Rotation="4.7036" Scale="1,1,1" Type="XelNaga_Caverns_Door_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1505099613" Position="143.2414,188.0246,7.9992" Rotation="0.831" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -1338,13 +1308,13 @@
     <ObjectDoodad Id="816307528" Variation="1" Position="243.991,54.2263,9.9995" Rotation="4.2045" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="261851151" Position="234.4421,73.8308,7.9992" Scale="1,1,1" Type="XelNaga_Archpost">
+    <ObjectDoodad Id="1211882148" Variation="2" Position="89.3234,227.1533,7.9995" Rotation="2.5854" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="285433899" Variation="3" Position="185.6965,80.5361,7.9992" Rotation="1.9997" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1211882148" Variation="2" Position="89.3234,227.1533,7.9995" Rotation="2.5854" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="261851151" Position="234.4421,73.8308,7.9992" Scale="1,1,1" Type="XelNaga_Archpost">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="190267163" Variation="3" Position="57.4777,19.5832,8.0383" Rotation="2.3532" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -1353,10 +1323,10 @@
     <ObjectDoodad Id="63528796" Position="96.9604,9.0617,9.9792" Scale="1,1,1" Type="XelNaga_Temple_Small_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1039843416" Variation="1" Position="81.5,131.5,7.9995" Scale="1,1,1" Type="AvernusBarrier">
+    <ObjectDoodad Id="639303400" Variation="2" Position="217.777,134.5041,9.9995" Rotation="5.7702" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="639303400" Variation="2" Position="217.777,134.5041,9.9995" Rotation="5.7702" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="1039843416" Variation="1" Position="81.5,131.5,7.9995" Scale="1,1,1" Type="AvernusBarrier">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1983085050" Position="210.6528,198.393,11.9992" Rotation="0.2751" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -1408,51 +1378,48 @@
     <ObjectDoodad Id="255541053" Position="236.265,179.8881,8" Scale="1,1,1" Type="XelNaga_Shrine_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="369639308" Variation="2" Position="244,146,9.9992" Rotation="3.293" Scale="1.134,1.134,1.134" Type="XilCreature">
+    <ObjectDoodad Id="1221310586" Position="103.98,90.646,7.9995" Rotation="2.1743" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1059631348" Position="163.286,179.0764,7.9992" Rotation="3.849" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1221310586" Position="103.98,90.646,7.9995" Rotation="2.1743" Scale="1,1,1" Type="XelNagaTornPlates">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1861802550" Variation="1" Position="188.9011,241.8625,9.9995" Rotation="3.3483" Scale="1,1,1" Type="XelNagaTornPlates">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="435980815" Variation="3" Position="241.2065,100.7038,7.9995" Rotation="3.3344" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="369639308" Variation="2" Position="244,146,9.9992" Rotation="3.293" Scale="1.134,1.134,1.134" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1585092674" Position="155.284,114.8991,7.9997" Rotation="1.2587" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="505676268" Variation="3" Position="178.0822,110.9047,7.9992" Rotation="3.27" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="435980815" Variation="3" Position="241.2065,100.7038,7.9995" Rotation="3.3344" Scale="1,1,1" Type="XelNagaTornPlates">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1861802550" Variation="1" Position="188.9011,241.8625,9.9995" Rotation="3.3483" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="107350472" Variation="3" Position="210.3186,17.9323,9.9973" Rotation="3.0207" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="736878539" Position="29.3593,232.7133,9.9995" Rotation="3.8972" Scale="1.026,1.026,1.026" Type="XelNaga_LargeCrate">
-        <Flag Index="HeightOffset" Value="1"/>
+    <ObjectDoodad Id="505676268" Variation="3" Position="178.0822,110.9047,7.9992" Rotation="3.27" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="683899039" Position="245.532,152.559,7.9995" Rotation="1.564" Scale="0.9213,0.9213,0.9213" Type="XelNaga_LargeCrate" Pitch="6.283" Roll="0.0085">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="256642459" Variation="2" Position="223.8164,176.591,7.9992" Rotation="0.0024" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="736878539" Position="29.3593,232.7133,9.9995" Rotation="3.8972" Scale="1.026,1.026,1.026" Type="XelNaga_LargeCrate">
+        <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="124048128" Variation="2" Position="110.6445,202.4726,9.9992" Rotation="4.57" Scale="0.9846,0.9846,0.9846" Type="XelNagaDebris">
+    <ObjectDoodad Id="256642459" Variation="2" Position="223.8164,176.591,7.9992" Rotation="0.0024" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="939286591" Variation="3" Position="57.404,171.3283,7.9995" Rotation="5.0866" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1829306180" Variation="1" Position="163.947,13.3942,7.9995" Rotation="2.498" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="124048128" Variation="2" Position="110.6445,202.4726,9.9992" Rotation="4.57" Scale="0.9846,0.9846,0.9846" Type="XelNagaDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2032558800" Position="237,237,7.9992" Rotation="4.7016" Scale="0.9045,0.9045,0.9045" Type="XilCreature">
+    <ObjectDoodad Id="1829306180" Variation="1" Position="163.947,13.3942,7.9995" Rotation="2.498" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="667522931" Variation="2" Position="63.198,154.8496,7.9995" Rotation="2.2763" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -1480,10 +1447,10 @@
     <ObjectDoodad Id="1667310135" Position="43.4357,242.1,9.9997" Rotation="5.245" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1767976534" Variation="4" Position="157.9814,65.7832,10.016" Scale="1,1,1" Type="XelNaga_Temple_Small_Destroyed">
+    <ObjectDoodad Id="189105843" Position="158.1682,219.8471,7.9992" Rotation="4.697" Scale="0.9213,0.9213,0.9213" Type="XelNaga_LargeCrate">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="189105843" Position="158.1682,219.8471,7.9992" Rotation="4.697" Scale="0.9213,0.9213,0.9213" Type="XelNaga_LargeCrate">
+    <ObjectDoodad Id="1767976534" Variation="4" Position="157.9814,65.7832,10.016" Scale="1,1,1" Type="XelNaga_Temple_Small_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="627121646" Variation="3" Position="234.1933,177.1218,8.9033" Rotation="4.9306" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -1492,47 +1459,47 @@
     <ObjectDoodad Id="1530621608" Variation="1" Position="50.5825,208.458,7.9995" Rotation="0.1936" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="981063301" Variation="1" Position="242.5,251.5,7.9956" Scale="1,1,1" Type="AvernusBarrier">
+    <ObjectDoodad Id="981063301" Variation="1" Position="222.5,225.5,8.0461" Scale="1,1,1" Type="AvernusBarrier">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1123284695" Position="31,49,7.9995" Scale="1,1,1" Type="XelNagaHullReactorSmall">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1942447863" Position="213.2885,94.2087,9.9995" Rotation="2.6352" Scale="1,1,1" Type="XelNagaTornPlates">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="117108083" Variation="1" Position="93.4147,42.4892,9.9995" Rotation="0.5476" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="1942447863" Position="213.2885,94.2087,9.9995" Rotation="2.6352" Scale="1,1,1" Type="XelNagaTornPlates">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="1672774528" Position="121.55,5.4692,8.0351" Rotation="4.3422" Scale="0.9025,0.9025,0.9025" Type="XelNaga_EnergyStreaks">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="617550261" Position="60.8364,97.8447,16.0097" Rotation="1.5793" Scale="1,1,1" Type="XelNagaHullPlate">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="783596261" Position="224.0151,97.3298,9.9995" Scale="1,1,1" Type="XelNaga_Caverns_CliffPillar_1High">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="945550854" Position="11.3298,136.5275,15.992" Rotation="4.7207" Scale="1,1,1" Type="XelNagaHullPlate">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="783596261" Position="224.0151,97.3298,9.9995" Scale="1,1,1" Type="XelNaga_Caverns_CliffPillar_1High">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="617550261" Position="60.8364,97.8447,16.0097" Rotation="1.5793" Scale="1,1,1" Type="XelNagaHullPlate">
+    <ObjectDoodad Id="522949570" Variation="2" Position="85.9003,99.9375,7.9995" Rotation="2.5292" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1527247625" Position="60.5,56.5,9.9968" Scale="1,1,1" Type="AvernusBarrier">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="522949570" Variation="2" Position="85.9003,99.9375,7.9995" Rotation="2.5292" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="804005262" Variation="2" Position="119.5151,107.8217,12" Rotation="2.7294" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1565457690" Variation="4" Position="243,39.748,9.9995" Rotation="3.573" Scale="0.824,0.824,0.824" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="804005262" Variation="2" Position="119.5151,107.8217,12" Rotation="2.7294" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="187950584" Position="196.2775,179.911,7.9992" Rotation="0.5507" Scale="0.8432,0.8432,0.8432" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2066797136" Variation="13" Position="209.7851,43.8977,7.9995" Rotation="1.288" Scale="1,1,1" Type="XelNaga_Temple_Curb">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="187950584" Position="196.2775,179.911,7.9992" Rotation="0.5507" Scale="0.8432,0.8432,0.8432" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1613840191" Variation="2" Position="177,99,7.9995" Rotation="0.442" Scale="0.8662,0.8662,0.8662" Type="XilCreature">
@@ -1541,27 +1508,27 @@
     <ObjectDoodad Id="2081393227" Variation="3" Position="245.8337,221.6945,7.9992" Rotation="1.3657" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1560563250" Variation="3" Position="157.8891,20.7053,10.007" Scale="1,1,1" Type="XelNaga_Temple_Small_Destroyed">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1967473693" Position="24.2084,225.293,7.9995" Rotation="6.2692" Scale="0.9355,0.9355,0.9355" Type="XelNaga_GroundPlates_Amon">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="883306824" Variation="1" Position="91,127,9.9992" Rotation="2.0261" Scale="0.907,0.907,0.907" Type="XilCreature">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1332669875" Position="134,216,7.9995" Rotation="4.6472" Scale="1,1,1" Type="ArtifactShrine">
+    <ObjectDoodad Id="1560563250" Variation="3" Position="157.8891,20.7053,10.007" Scale="1,1,1" Type="XelNaga_Temple_Small_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2058049776" Position="43.4448,67.4816,7.999" Scale="1,1,1" Type="HybridLab_StasisTubeLarge">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1008611314" Variation="4" Position="188.8312,50.7465,7.9992" Rotation="5.2851" Scale="1.1008,1.1008,1.1008" Type="Blast_Craters_Big">
+    <ObjectDoodad Id="1332669875" Position="134,216,7.9995" Rotation="4.6472" Scale="1,1,1" Type="ArtifactShrine">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="883306824" Variation="1" Position="91,127,9.9992" Rotation="2.0261" Scale="0.907,0.907,0.907" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="509794090" Position="149.5065,36.8974,7.9995" Rotation="5.7834" Scale="1,1,1" Type="XelNaga_ObeliskConstructDestroyed">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1008611314" Variation="4" Position="188.8312,50.7465,7.9992" Rotation="5.2851" Scale="1.1008,1.1008,1.1008" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2019297427" Variation="2" Position="215.7946,221.4902,7.9992" Rotation="1.219" Scale="0.9504,0.9504,0.9504" Type="XelNagaDebris">
@@ -1579,16 +1546,13 @@
     <ObjectDoodad Id="1471452562" Variation="2" Position="196.1232,111.6577,9.9995" Rotation="0.7502" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2145429309" Position="105.9733,195.7395,9.9992" Rotation="0.0075" Scale="0.9392,0.9392,0.9392" Type="XelNaga_GroundPlates_Amon">
+    <ObjectDoodad Id="11594361" Position="128.0573,208.0283,7.9992" Rotation="4.725" Scale="0.9226,0.9226,0.9226" Type="XelNaga_LargeCrate">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="521384593" Variation="2" Position="218.5615,32.2387,9.9995" Rotation="3.3173" Scale="1.0087,1.0087,1.0087" Type="ZergBonePileLarge">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="11594361" Position="128.0573,208.0283,7.9992" Rotation="4.725" Scale="0.9226,0.9226,0.9226" Type="XelNaga_LargeCrate">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1705452857" Position="238,251,7.9985" Rotation="1.4445" Scale="1.0771,1.0771,1.0771" Type="XilCreature">
+    <ObjectDoodad Id="2145429309" Position="105.9733,195.7395,9.9992" Rotation="0.0075" Scale="0.9392,0.9392,0.9392" Type="XelNaga_GroundPlates_Amon">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1085412170" Position="60.9355,130.7902,13.9987" Rotation="1.5793" Scale="1,1,1" Type="XelNagaHullPlate">
@@ -1597,10 +1561,10 @@
     <ObjectDoodad Id="251113210" Position="116.7885,114.0966,12.0002" Rotation="3.2387" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1121843375" Variation="1" Position="219.4353,185.488,11.9992" Rotation="2.1232" Scale="1.0256,1.0256,1.0256" Type="XelNagaDebris">
+    <ObjectDoodad Id="1144585109" Variation="3" Position="23.456,73.0334,13.9995" Rotation="1.3554" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1144585109" Variation="3" Position="23.456,73.0334,13.9995" Rotation="1.3554" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="1121843375" Variation="1" Position="219.4353,185.488,11.9992" Rotation="2.1232" Scale="1.0256,1.0256,1.0256" Type="XelNagaDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2013575767" Variation="3" Position="185.0075,249.069,11.9997" Rotation="3.587" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -1630,28 +1594,28 @@
     <ObjectDoodad Id="1450758335" Position="220.5012,97.5131,9.9995" Scale="1,1,1" Type="XelNaga_Caverns_GroundPlates_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1464824267" Variation="4" Position="179.5,143.5,7.9992" Scale="1,1,1" Type="AvernusBarrier">
+    <ObjectDoodad Id="2100077062" Position="150.8024,235.2216,7.9992" Rotation="0.0937" Scale="1.1772,1.1772,1.1772" Type="Xelnaga_EnergySprite">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2100077062" Position="150.8024,235.2216,7.9992" Rotation="0.0937" Scale="1.1772,1.1772,1.1772" Type="Xelnaga_EnergySprite">
+    <ObjectDoodad Id="1464824267" Variation="4" Position="179.5,143.5,7.9992" Scale="1,1,1" Type="AvernusBarrier">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1458750651" Position="156.0124,46.1193,8.012" Rotation="4.0117" Scale="1.0642,1.0642,1.0642" Type="XelNaga_EnergyStreaks">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="8300394" Position="66.861,148.5476,7.9995" Rotation="2.9926" Scale="1.1762,1.1762,1.1762" Type="Blast_Craters_Big">
+    <ObjectDoodad Id="42065351" Position="180.255,236.3974,9.9995" Rotation="5.7702" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="42065351" Position="180.255,236.3974,9.9995" Rotation="5.7702" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="8300394" Position="66.861,148.5476,7.9995" Rotation="2.9926" Scale="1.1762,1.1762,1.1762" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2049643737" Variation="3" Position="108.249,175.436,7.9992" Rotation="1.0976" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1211027608" Variation="2" Position="211.3505,238.9184,10.002" Rotation="2.285" Scale="1.0178,1.0178,1.0178" Type="XelNagaDebris">
+    <ObjectDoodad Id="906494383" Position="46.88,21.6313,8.1838" Rotation="0.779" Scale="1,1,1" Type="XelNagaTornPlates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="906494383" Position="46.88,21.6313,8.1838" Rotation="0.779" Scale="1,1,1" Type="XelNagaTornPlates">
+    <ObjectDoodad Id="1211027608" Variation="2" Position="211.3505,238.9184,10.002" Rotation="2.285" Scale="1.0178,1.0178,1.0178" Type="XelNagaDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1077246187" Variation="1" Position="161.7714,162.657,7.9995" Rotation="3.2294" Scale="0.9494,0.9494,0.9494" Type="XelNagaDebris">
@@ -1666,10 +1630,10 @@
     <ObjectDoodad Id="2010502225" Position="21.878,193.2504,9.9995" Rotation="1.4074" Scale="0.874,0.874,0.874" Type="Xelnaga_EnergySprite">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="462758701" Variation="1" Position="203.7126,60.637,7.9992" Rotation="2.0246" Scale="0.8854,0.8854,0.8854" Type="Blast_Craters_Big">
+    <ObjectDoodad Id="1628450416" Variation="3" Position="242.9404,182.3471,7.9992" Rotation="0.5141" Scale="1,1,1" Type="XelNaga_Cavern_ArchPost_Broken">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1628450416" Variation="3" Position="242.9404,182.3471,7.9992" Rotation="0.5141" Scale="1,1,1" Type="XelNaga_Cavern_ArchPost_Broken">
+    <ObjectDoodad Id="462758701" Variation="1" Position="203.7126,60.637,7.9992" Rotation="2.0246" Scale="0.8854,0.8854,0.8854" Type="Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="833612617" Variation="2" Position="215.3432,24.4213,7.9995" Rotation="0.3698" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -1679,9 +1643,6 @@
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1000553182" Variation="1" Position="178.7893,56.0573,7.9995" Rotation="4.7104" Scale="1,1,1" Type="XelNagaTornPlates">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="886154950" Position="228,221,7.9992" Rotation="0.3122" Scale="1.0205,1.0205,1.0205" Type="XilCreature">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="888517510" Position="158.213,78.3784,7.9995" Rotation="3.3674" Scale="1,1,1" Type="XelNagaTornPlates">
@@ -1694,8 +1655,8 @@
     <ObjectPoint Id="1357192372" Position="67.0234,92.9833,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 015" Color="0,0,0,0"/>
     <ObjectPoint Id="547027335" Position="128,128,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
     <ObjectPoint Id="461122805" Position="184.3562,247.6206,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 033" Color="0,0,0,0"/>
-    <ObjectPoint Id="1889491724" Position="206.9611,73.659,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 025" Color="0,0,0,0"/>
     <ObjectPoint Id="359421681" Position="217.2746,76.0158,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 001" Color="0,0,0,0"/>
+    <ObjectPoint Id="1889491724" Position="206.9611,73.659,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 025" Color="0,0,0,0"/>
     <ObjectPoint Id="1588615635" Position="101,100,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
     <ObjectPoint Id="1995668250" Position="220.9975,78.298,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 048" Color="0,0,0,0"/>
     <ObjectPoint Id="1178710259" Position="241.913,116.8085,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 037" Color="0,0,0,0"/>
@@ -1716,8 +1677,8 @@
     <ObjectPoint Id="1316635511" Position="135.0356,249.581,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 031" Color="0,0,0,0"/>
     <ObjectPoint Id="1657828000" Position="224.24,119.397,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 009" Color="0,0,0,0"/>
     <ObjectPoint Id="573433305" Position="93.9384,55.9885,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 022" Color="0,0,0,0"/>
-    <ObjectPoint Id="456577538" Position="222.2434,116.4677,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 008" Color="0,0,0,0"/>
     <ObjectPoint Id="1124052361" Position="155,103,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
+    <ObjectPoint Id="456577538" Position="222.2434,116.4677,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 008" Color="0,0,0,0"/>
     <ObjectPoint Id="2123446702" Position="114.9335,202.752,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 013" Color="0,0,0,0"/>
     <ObjectPoint Id="1096585998" Position="221.5754,120.8842,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 042" Color="0,0,0,0"/>
     <ObjectPoint Id="1010482962" Position="241.8371,108.6877,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 038" Color="0,0,0,0"/>
@@ -1726,15 +1687,15 @@
     <ObjectPoint Id="1930624723" Position="223.3542,76.9868,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 046" Color="0,0,0,0"/>
     <ObjectPoint Id="1250219341" Position="100,154,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
     <ObjectPoint Id="1538009702" Position="219.808,116.5502,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 007" Color="0,0,0,0"/>
-    <ObjectPoint Id="1662624475" Position="98.0021,178.5815,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 016" Color="0,0,0,0"/>
-    <ObjectPoint Id="1900127593" Position="219.0517,77.8273,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 006" Color="0,0,0,0"/>
     <ObjectPoint Id="486587537" Position="222.5822,73.888,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 003" Color="0,0,0,0"/>
-    <ObjectPoint Id="1361841624" Position="223.731,74.882,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 045" Color="0,0,0,0"/>
+    <ObjectPoint Id="1900127593" Position="219.0517,77.8273,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 006" Color="0,0,0,0"/>
+    <ObjectPoint Id="1662624475" Position="98.0021,178.5815,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 016" Color="0,0,0,0"/>
     <ObjectPoint Id="1790487122" Position="18.4306,99.3801,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 036" Color="0,0,0,0"/>
+    <ObjectPoint Id="1361841624" Position="223.731,74.882,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 045" Color="0,0,0,0"/>
     <ObjectPoint Id="1689628952" Position="211.9433,182.8945,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 018" Color="0,0,0,0"/>
-    <ObjectPoint Id="61870229" Position="218.2656,77.2407,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 047" Color="0,0,0,0"/>
     <ObjectPoint Id="1401507366" Position="223.426,118.189,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 041" Color="0,0,0,0"/>
-    <ObjectPoint Id="1139678412" Position="220.4494,97.9506,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 024" Color="0,0,0,0"/>
+    <ObjectPoint Id="61870229" Position="218.2656,77.2407,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 047" Color="0,0,0,0"/>
     <ObjectPoint Id="1270775417" Position="219.4645,73.8642,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 002" Color="0,0,0,0"/>
+    <ObjectPoint Id="1139678412" Position="220.4494,97.9506,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 024" Color="0,0,0,0"/>
     <ObjectPoint Id="1044388431" Position="22.2145,192.2514,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 020" Color="0,0,0,0"/>
 </PlacedObjects>
