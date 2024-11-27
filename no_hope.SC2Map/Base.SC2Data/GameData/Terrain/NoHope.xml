@@ -67,10 +67,13 @@
         <EditorCategories value="LightGroup:Tilesets"/>
     </CLight>
     <CTerrain id="NoHopeTerrainType">
-        <Lighting value="NoHopeLighting"/>
-        <TextureProp value="ulaan"/>
-        <LoadingScreen value="Assets\Textures\loading-ulaan.dds"/>
         <EditorCategories value="Climate:Cave"/>
+        <Lighting value="NoHopeLighting"/>
+        <LoadingScreen value="Assets\Textures\loading-ulaan.dds"/>
+        <TextureProp value="ulaan"/>
+        <Ambience value="Ambience_Ulaan"/>
+        <ReverbAmbient value="BetaVerb"/>
+        <MinimapBrightenFactor value="1.000000"/>
         <BlendTextures value="UlaanDirt"/>
         <BlendTextures value="UlaanDirtCracked"/>
         <BlendTextures value="UlaanSand"/>
@@ -79,18 +82,15 @@
         <BlendTextures value="UlaanStone"/>
         <BlendTextures value="UlaanGrunge"/>
         <BlendTextures value="UlaanRoughRock"/>
+        <HardTiles value="MarSaraTile"/>
         <CliffSets value="UlaanEx1Cliff0"/>
         <CliffSets value="UlaanEx1Cliff1"/>
-        <HardTiles value="MarSaraTile"/>
-        <MinimapBrightenFactor value="1.000000"/>
         <FixedSkyboxModel value="ShakurasSkyBox"/>
         <FogEnabled value="1"/>
         <FogColor value="255,45,68,86"/>
         <FogDensity value="0.060000"/>
         <FogFalloff value="0.200000"/>
         <FogStartingHeight value="-0.900000"/>
-        <ReverbAmbient value="BetaVerb"/>
-        <Ambience value="Ambience_Ulaan"/>
         <CreepBaseTexture value="Assets\Textures\Creep_Shakuras.dds"/>
         <CreepEdgeNormalMap value="Assets\Textures\CreepEdgeNormal.dds"/>
         <CreepSettingsArray index="Low" CreepOpaqueAlphaThreshold="0.180000" CreepTranslucentMinThreshold="0.050000" CreepTranslucentPassTint="1.000000,0.850000,0.750000"/>
