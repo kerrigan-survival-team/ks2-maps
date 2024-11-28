@@ -918,4 +918,34 @@
             <quad value="92,193.0002,96,197"/>
         </shape>
     </region>
+    <region id="102">
+        <name value="Ramp81"/>
+        <shape type="rect">
+            <quad value="206.9572,223.9504,210.9572,227.9501"/>
+        </shape>
+    </region>
+    <region id="103">
+        <name value="Ramp83"/>
+        <shape type="rect">
+            <quad value="194,231.0002,198,235"/>
+        </shape>
+    </region>
+    <region id="104">
+        <name value="Ramp155"/>
+        <shape type="rect">
+            <quad value="224,243.0002,228,247"/>
+        </shape>
+    </region>
+    <region id="105">
+        <name value="Ramp156"/>
+        <shape type="rect">
+            <quad value="234,241.0002,238,245"/>
+        </shape>
+    </region>
+    <region id="106">
+        <name value="Ramp157"/>
+        <shape type="rect">
+            <quad value="183,224.0002,187,228"/>
+        </shape>
+    </region>
 </Regions>
