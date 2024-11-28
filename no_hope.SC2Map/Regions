@@ -972,4 +972,10 @@
             <quad value="26,41.0002,30,45"/>
         </shape>
     </region>
+    <region id="111">
+        <name value="Ramp162"/>
+        <shape type="rect">
+            <quad value="88,13.0002,92,17"/>
+        </shape>
+    </region>
 </Regions>
