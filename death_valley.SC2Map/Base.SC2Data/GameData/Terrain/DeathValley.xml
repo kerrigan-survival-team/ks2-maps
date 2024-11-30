@@ -1,39 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Catalog>
-    <CValidatorUnitType id="CommonIsPortal">
-        <Value value="CommonTerrainObjectPortal"/>
-    </CValidatorUnitType>
-    <CValidatorUnitCompareBehaviorCount id="CommonPortalNoCooldown">
-        <Behavior value="CommonPortalCooldown"/>
-    </CValidatorUnitCompareBehaviorCount>
-    <CValidatorUnitCompareBehaviorCount id="CommonObjectsWarpInPad2@MaxStacks">
-        <Value value="5"/>
-        <Behavior value="CommonObjectsWarpInPad2@Stacking"/>
-    </CValidatorUnitCompareBehaviorCount>
-    <CValidatorUnitType id="CommonObjectsWarpInPad2@Target">
-        <Value value="CommonObjectsWarpInPad2"/>
-    </CValidatorUnitType>
-    <CValidatorUnitCompareBehaviorCount id="CommonObjectsWarpInPad3@MaxStacks">
-        <Value value="5"/>
-        <Behavior value="CommonObjectsWarpInPad3@Stacking"/>
-    </CValidatorUnitCompareBehaviorCount>
-    <CValidatorUnitType id="CommonObjectsWarpInPad3@Target">
-        <Value value="CommonObjectsWarpInPad3"/>
-    </CValidatorUnitType>
-    <CValidatorUnitCompareBehaviorCount id="CommonObjectsWarpInPad4@MaxStacks">
-        <Value value="5"/>
-        <Behavior value="CommonObjectsWarpInPad4@Stacking"/>
-    </CValidatorUnitCompareBehaviorCount>
-    <CValidatorUnitType id="CommonObjectsWarpInPad4@Target">
-        <Value value="CommonObjectsWarpInPad4"/>
-    </CValidatorUnitType>
-    <CValidatorUnitCompareBehaviorCount id="CommonObjectsWarpInPad@MaxStacks">
-        <Value value="5"/>
-        <Behavior value="CommonObjectsWarpInPad@Stacking"/>
-    </CValidatorUnitCompareBehaviorCount>
-    <CValidatorUnitType id="CommonObjectsWarpInPad@Target">
-        <Value value="CommonObjectsWarpInPad"/>
-    </CValidatorUnitType>
+    <CLight id="DeathValleyLighting" parent="default">
+        <ToDInfoArray index="0" Id="Cybros" AmbientColor="0.329412,0.364706,0.364706" Colorize="1">
+            <Param index="HDRExposure" value="1.300000"/>
+            <Param index="HDRDiffuseMultiplier" value="1.250000"/>
+            <Param index="HDRWhitePoint" value="1.850000"/>
+            <Param index="TerrainSpecularExp" value="11.210000"/>
+            <Param index="TerrainHDRSpecular" value="2.500000"/>
+            <Param index="CreepSpecularExp" value="30.000000"/>
+            <Param index="CreepHDRSpecMultiplier" value="3.000000"/>
+            <Param index="ColorizationHue" value="0.001000"/>
+            <Param index="ColorizationSaturation" value="-0.004000"/>
+            <Param index="ColorizationBlend" value="0.250000"/>
+            <DirectionalLight index="Key">
+                <Color value="0.839216,0.882353,0.921569"/>
+                <ColorMultiplier value="1.200000"/>
+                <SpecularColor value="0.784314,0.784314,0.784314"/>
+                <SpecColorMultiplier value="1.000000"/>
+                <Direction value="0.448527,-0.196890,-0.871813"/>
+            </DirectionalLight>
+            <DirectionalLight index="Fill" Color="0.176471,0.215686,0.254902" ColorMultiplier="2.000000" Direction="-0.499113,-0.618999,0.606405"/>
+            <DirectionalLight index="Back" Color="0.196078,0.235294,0.274510" ColorMultiplier="2.000000" Direction="-0.709236,0.246704,0.660395"/>
+        </ToDInfoArray>
+        <EditorCategories value="LightGroup:Tilesets"/>
+    </CLight>
     <CActorUnit id="DeathValleyInvisibleVent2" parent="GenericUnitStandardNoAutoSoundLinks" unitName="DeathValleyVent2">
         <FogVisibility value="Visible"/>
         <On index="0" Send="Create SoundEmitter DeathValleyVentA_Ambience"/>
@@ -111,12 +101,12 @@
     </CActorUnit>
     <CTerrain id="DeathValleyTerrainType">
         <EditorCategories value="Climate:Volcanic"/>
-        <Lighting value="Char2"/>
+        <Lighting value="DeathValleyLighting"/>
         <LoadingScreen value="Assets\Textures\UI_HotS_Loading_PlanetViewCharEX1.dds"/>
         <Ambience value="Ambience_HybridLabInner"/>
         <ReverbAmbient value="BetaVerb"/>
         <BlendTextures value="Starship6"/>
-        <BlendTextures value="BlackOpsLabA1"/>
+        <BlendTextures value="Cybros2"/>
         <BlendTextures value="AiurCity10"/>
         <BlendTextures value="DefendersCity_2"/>
         <BlendTextures value="UlaanSand"/>
@@ -182,6 +172,6 @@
         <EditorCategories value="AbilityorEffectType:Units"/>
         <Duration value="60"/>
         <InfoIcon value="Assets\Textures\wireframe-protoss-starshipventdoor.dds"/>
-		<DisplayDuration index="Self" value="1"/>
+        <DisplayDuration index="Self" value="1"/>
     </CBehaviorBuff>
 </Catalog>
