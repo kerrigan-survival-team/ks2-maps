@@ -4,7 +4,7 @@
     <CWater id="LastSanctuaryWater00">
         <State index="0">
             <Name value="[Default]"/>
-            <Height value="1.700000"/>
+            <Height value="5.700000"/>
             <Color value="0.000000,0.439216,1.000000,0.050000"/>
             <ColorFallOff value="0.090000"/>
             <Specularity value="200.000000"/>
@@ -24,7 +24,7 @@
     <CWater id="LastSanctuaryWater02">
         <State index="0">
             <Name value="[Default]"/>
-            <Height value="0.950000"/>
+            <Height value="5.500000"/>
             <Color value="0.000000,0.439216,1.000000,0.050000"/>
             <ColorFallOff value="0.090000"/>
             <Specularity value="200.000000"/>
@@ -44,7 +44,7 @@
     <CWater id="LastSanctuaryWater04">
         <State index="0">
             <Name value="[Default]"/>
-            <Height value="5.500000"/>
+            <Height value="9.500000"/>
             <Color value="0.000000,0.439216,1.000000,0.050000"/>
             <ColorFallOff value="0.057000"/>
             <CausticsFallOff value="4.020000"/>
@@ -65,7 +65,7 @@
     <CWater id="LastSanctuaryWater03">
         <State index="0">
             <Name value="[Default]"/>
-            <Height value="3.500000"/>
+            <Height value="7.800000"/>
             <Color value="0.000000,0.439216,1.000000,0.050000"/>
             <ColorFallOff value="0.090000"/>
             <Specularity value="200.000000"/>
@@ -85,8 +85,8 @@
     <CWater id="LastSanctuaryWater01">
         <State index="0">
             <Name value="[Default]"/>
-            <Height value="-0.700000"/>
-            <Color value="0.819608,0.294118,0.078431,0.050000"/>
+            <Height value="6.000000"/>
+            <Color value="0.819608,0.294118,0.074510,0.050000"/>
             <ColorFallOff value="0.090000"/>
             <Specularity value="200.000000"/>
             <SpecularScaler value="2.700000"/>
