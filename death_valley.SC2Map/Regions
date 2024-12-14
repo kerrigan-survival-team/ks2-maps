@@ -1787,7 +1787,7 @@
     <region id="272">
         <name value="Ramp167"/>
         <shape type="rect">
-            <quad value="214.0014,38.5004,218.0014,42.5002"/>
+            <quad value="214.0014,39.0014,218.0014,43.0012"/>
         </shape>
     </region>
     <region id="273">
