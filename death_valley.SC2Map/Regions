@@ -1349,49 +1349,49 @@
     <region id="188">
         <name value="Vent 2A"/>
         <shape type="rect">
-            <quad value="112.3754,87.529,115.6254,88.029"/>
+            <quad value="112.3754,87.0046,115.6254,88.0046"/>
         </shape>
     </region>
     <region id="189">
         <name value="Vent 3A"/>
         <shape type="rect">
-            <quad value="140.381,87.5017,143.631,88.0017"/>
+            <quad value="140.381,87.0075,143.631,88.0075"/>
         </shape>
     </region>
     <region id="190">
         <name value="Vent 4A"/>
         <shape type="rect">
-            <quad value="153.5268,76.4201,154.0268,79.6701"/>
+            <quad value="153.0024,76.3752,154.0024,79.6252"/>
         </shape>
     </region>
     <region id="191">
         <name value="Vent 1A"/>
         <shape type="rect">
-            <quad value="101.9914,76.3891,102.4914,79.6391"/>
+            <quad value="102.007,76.3818,103.007,79.6318"/>
         </shape>
     </region>
     <region id="192">
         <name value="Vent 1B"/>
         <shape type="rect">
-            <quad value="17.9484,144.3603,18.4484,147.6103"/>
+            <quad value="18.007,144.3793,19.007,147.6293"/>
         </shape>
     </region>
     <region id="193">
         <name value="Vent 2B"/>
         <shape type="rect">
-            <quad value="68.3728,245.5173,71.6228,246.0173"/>
+            <quad value="68.3803,245.0004,71.6303,246.0004"/>
         </shape>
     </region>
     <region id="194">
         <name value="Vent 3B"/>
         <shape type="rect">
-            <quad value="184.3615,245.5065,187.6115,246.0065"/>
+            <quad value="184.377,245.0144,187.627,246.0144"/>
         </shape>
     </region>
     <region id="195">
         <name value="Vent 4B"/>
         <shape type="rect">
-            <quad value="237.5141,144.3752,238.0141,147.6252"/>
+            <quad value="237.005,144.3752,238.005,147.6252"/>
         </shape>
     </region>
     <region id="196">
