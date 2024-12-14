@@ -14,10 +14,10 @@
     <ObjectDoodad Id="538429979" Position="142,88,6.0244" Scale="1,1,1" Type="StarshipVentdoor">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="342000379" Variation="1" Position="242,248.5,13.9975" Scale="1,1,1" Type="Protoss_Base_Drill">
+    <ObjectDoodad Id="36793096" Position="70,246,6.0166" Scale="1,1,1" Type="StarshipVentdoor">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="36793096" Position="70,246,6.0166" Scale="1,1,1" Type="StarshipVentdoor">
+    <ObjectDoodad Id="342000379" Variation="1" Position="242,248.5,13.9975" Scale="1,1,1" Type="Protoss_Base_Drill">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="620217217" Position="102,78,6.018" Rotation="1.5705" Scale="1,1,1" Type="StarshipVentdoor" Pitch="6.2216" Roll="6.2666">
@@ -31,10 +31,10 @@
     <ObjectDoodad Id="765135258" Position="186,246,6.0153" Scale="1,1,1" Type="StarshipVentdoor">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="346326808" Position="238,146.5,8.0097" Rotation="4.7121" Scale="1,1,1" Type="StarshipVentdoor" Pitch="6.2216" Roll="6.2666">
+    <ObjectDoodad Id="791129775" Position="154,78,6.0163" Rotation="4.7121" Scale="1,1,1" Type="StarshipVentdoor" Pitch="6.2216" Roll="6.2666">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="791129775" Position="154,78,6.0163" Rotation="4.7121" Scale="1,1,1" Type="StarshipVentdoor" Pitch="6.2216" Roll="6.2666">
+    <ObjectDoodad Id="346326808" Position="238,146.5,8.0097" Rotation="4.7121" Scale="1,1,1" Type="StarshipVentdoor" Pitch="6.2216" Roll="6.2666">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1953113865" Position="114,88,6.0073" Scale="1,1,1" Type="StarshipVentdoor">
@@ -43,10 +43,10 @@
     <ObjectPoint Id="1556280491" Position="178,115,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
     <ObjectPoint Id="996884917" Position="181,81,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
     <ObjectPoint Id="900776839" Position="77,115.5,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
-    <ObjectPoint Id="366005776" Position="128,84,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
     <ObjectPoint Id="196451203" Position="73.5,81,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
-    <ObjectUnit Id="1647611863" Position="31,137,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
+    <ObjectPoint Id="366005776" Position="128,84,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
     <ObjectUnit Id="1344122480" Position="135,9,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
+    <ObjectUnit Id="1647611863" Position="31,137,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1574237656" Position="103,78,0" Rotation="2.1743" Scale="1,1,1" UnitType="DeathValleyVent1"/>
     <ObjectUnit Id="82361429" Position="42,82,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1899510" Position="79,159,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
@@ -61,60 +61,60 @@
     <ObjectUnit Id="2089576849" Position="225,165,0" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
     <ObjectUnit Id="2004576718" Position="199,8.5,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonGuideArrow"/>
     <ObjectUnit Id="240230589" Position="214,82,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
-    <ObjectUnit Id="1048046504" Position="235,99,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1951062233" Position="57,9,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
+    <ObjectUnit Id="1048046504" Position="235,99,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="203374872" Position="85,123,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
-    <ObjectUnit Id="814400621" Position="225,165,0" Scale="1,1,1" UnitType="CommonGuideArrow"/>
     <ObjectUnit Id="1197416319" Position="91,159,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
+    <ObjectUnit Id="814400621" Position="225,165,0" Scale="1,1,1" UnitType="CommonGuideArrow"/>
     <ObjectUnit Id="1924554780" Position="217,159,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonGuideArrow"/>
-    <ObjectUnit Id="1595918931" Position="113,239,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1143056245" Position="107,83,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="1595918931" Position="113,239,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1870595922" Position="31,159,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1317352325" Position="171,150,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="895156115" Position="165,195,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonGuideArrow"/>
-    <ObjectUnit Id="2131567292" Position="241,73,0" Rotation="3.1413" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
     <ObjectUnit Id="1431570051" Position="114,87,0" Rotation="1.0693" Scale="1,1,1" UnitType="DeathValleyVent2"/>
-    <ObjectUnit Id="1758981743" Position="225,159,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
+    <ObjectUnit Id="2131567292" Position="241,73,0" Rotation="3.1413" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
     <ObjectUnit Id="483904502" Position="62,159,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
+    <ObjectUnit Id="1758981743" Position="225,159,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1780837266" Position="23,159,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonGuideArrow"/>
-    <ObjectUnit Id="776680002" Position="121,4,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1118340344" Position="177,159,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonGuideArrow"/>
+    <ObjectUnit Id="776680002" Position="121,4,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1944455346" Position="225,153,0" Rotation="3.1413" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
     <ObjectUnit Id="906733850" Position="27,221,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="2099283471" Position="149,83,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="1325806793" Position="167,9,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
+    <ObjectUnit Id="2099283471" Position="149,83,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="1251860373" Position="121,8.5,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonGuideArrow"/>
     <ObjectUnit Id="1098129210" Position="194,159,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
-    <ObjectUnit Id="1769186057" Position="121,9,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
     <ObjectUnit Id="717768081" Position="165,159,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
+    <ObjectUnit Id="1769186057" Position="121,9,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
     <ObjectUnit Id="756965354" Position="241,72.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="CommonGuideArrow"/>
     <ObjectUnit Id="1538075890" Position="156,32.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1051376221" Position="186,245,0" Rotation="1.1362" Scale="1,1,1" UnitType="DeathValleyVent3"/>
     <ObjectUnit Id="1916469277" Position="39,159,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
     <ObjectUnit Id="1446889256" Position="241,90.5,0" Scale="1,1,1" UnitType="CommonGuideArrow"/>
     <ObjectUnit Id="323307751" Position="89,9,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
-    <ObjectUnit Id="68926216" Position="113,123,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="632758841" Position="128,183,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="68926216" Position="113,123,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="58929107" Position="43,13,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="312128871" Position="15,54,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="479787413" Position="79,195,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
     <ObjectUnit Id="1611373337" Position="21,99,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
-    <ObjectUnit Id="1085500073" Position="209,9,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
     <ObjectUnit Id="674452361" Position="153,78,0" Rotation="6.0197" Scale="1,1,1" UnitType="DeathValleyVent4"/>
+    <ObjectUnit Id="1085500073" Position="209,9,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
     <ObjectUnit Id="670662159" Position="85,178,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1966569864" Position="15,91,0" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
     <ObjectUnit Id="1101364117" Position="177,195,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonGuideArrow"/>
     <ObjectUnit Id="439981066" Position="79,195,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonGuideArrow"/>
-    <ObjectUnit Id="1840223663" Position="143,239,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="686490026" Position="199,4,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
+    <ObjectUnit Id="1840223663" Position="143,239,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1688309731" Position="47,8.5,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonGuideArrow"/>
     <ObjectUnit Id="1234599862" Position="199,9,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
-    <ObjectUnit Id="1838875139" Position="165,207.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="823150933" Position="142,87,0" Rotation="0.9382" Scale="1,1,1" UnitType="DeathValleyVent3"/>
+    <ObjectUnit Id="1838875139" Position="165,207.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="586249490" Position="23,159,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
     <ObjectUnit Id="724005268" Position="31,181,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
-    <ObjectUnit Id="481867074" Position="91,195,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonGuideArrow"/>
     <ObjectUnit Id="338578712" Position="57,4,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
+    <ObjectUnit Id="481867074" Position="91,195,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonGuideArrow"/>
     <ObjectUnit Id="962532437" Position="31,165,0" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
     <ObjectUnit Id="609952014" Position="79,159,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonGuideArrow"/>
     <ObjectUnit Id="159441897" Position="31,153,0" Rotation="3.1413" Scale="1,1,1" UnitType="CommonGuideArrow"/>
@@ -124,32 +124,32 @@
     <ObjectUnit Id="288629230" Position="225,181,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1785681278" Position="39,159,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonGuideArrow"/>
     <ObjectUnit Id="1420085789" Position="233,159,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
-    <ObjectUnit Id="183472760" Position="135,4,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1903565342" Position="89,4,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
-    <ObjectUnit Id="1861039694" Position="100,32.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
-    <ObjectUnit Id="68646599" Position="85,238.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
+    <ObjectUnit Id="183472760" Position="135,4,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1341333592" Position="171,178,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
-    <ObjectUnit Id="454450583" Position="31,153,0" Rotation="3.1413" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
-    <ObjectUnit Id="1194119031" Position="177,159,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
+    <ObjectUnit Id="68646599" Position="85,238.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
+    <ObjectUnit Id="1861039694" Position="100,32.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1432188630" Position="70,245,0" Rotation="0.912" Scale="1,1,1" UnitType="DeathValleyVent2"/>
-    <ObjectUnit Id="34016116" Position="143,123,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
+    <ObjectUnit Id="1194119031" Position="177,159,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
+    <ObjectUnit Id="454450583" Position="31,153,0" Rotation="3.1413" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
     <ObjectUnit Id="883764008" Position="47,9,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
+    <ObjectUnit Id="34016116" Position="143,123,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="305399540" Position="19,146,0" Rotation="3.7204" Scale="1,1,1" UnitType="DeathValleyVent1"/>
     <ObjectUnit Id="565694886" Position="85,150,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
-    <ObjectUnit Id="446709982" Position="229,221,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="1801560884" Position="213,13,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="446709982" Position="229,221,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="1258065464" Position="165,159,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonGuideArrow"/>
-    <ObjectUnit Id="504222247" Position="15,72.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="CommonGuideArrow"/>
     <ObjectUnit Id="281208408" Position="15,73,0" Rotation="3.1413" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
+    <ObjectUnit Id="504222247" Position="15,72.5,0" Rotation="3.1413" Scale="1,1,1" UnitType="CommonGuideArrow"/>
     <ObjectUnit Id="1878623739" Position="91,159,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonGuideArrow"/>
     <ObjectUnit Id="2095041714" Position="209,8.5,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonGuideArrow"/>
     <ObjectUnit Id="243128294" Position="177,195,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
     <ObjectUnit Id="1795613565" Position="217,159,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
-    <ObjectUnit Id="71412193" Position="233,159,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonGuideArrow"/>
     <ObjectUnit Id="1904000465" Position="241,91,0" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
+    <ObjectUnit Id="71412193" Position="233,159,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonGuideArrow"/>
     <ObjectUnit Id="1911697800" Position="167,4,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
-    <ObjectUnit Id="23174240" Position="165,195,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
     <ObjectUnit Id="330488231" Position="112,159,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
+    <ObjectUnit Id="23174240" Position="165,195,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonTerrainObjectPortal"/>
     <ObjectUnit Id="2000198834" Position="225,153,0" Rotation="3.1413" Scale="1,1,1" UnitType="CommonGuideArrow"/>
     <ObjectUnit Id="838533940" Position="15,90.5,0" Scale="1,1,1" UnitType="CommonGuideArrow"/>
 </PlacedObjects>
