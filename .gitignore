@@ -1,4 +1,5 @@
 *
+!base_map.sc2map
 !*/
 !*/Base.SC2Data/GameData/Terrain/*.xml
 !*/CellAttribute_Pde
