@@ -29,7 +29,7 @@ client.once("ready", async () => {
     mapName = mapName
       .replace(/^./, (char) => char.toUpperCase()) // uppercase first char
       .replace(".SC2Map", "");
-    mapName.trim();
+    mapName = mapName.trimEnd();
     let date = new Date().toISOString();
 
     execSync(`convert "${absoluteFilePath}" "${pngFile}"`);
@@ -37,7 +37,7 @@ client.once("ready", async () => {
 
     // Fetch the forum channel and its threads
     const forumChannel = await client.channels.fetch(FORUM_CHANNEL_ID);
-    const threads = await forumChannel.threads.fetchActive();
+    const threads = await forumChannel.threads.fetch();
     let thread = threads.threads.find((t) => t.name === mapName);
 
     if (!thread) {
