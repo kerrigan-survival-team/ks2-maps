@@ -4,12 +4,13 @@ on:
   push:
     branches:
       - main
+      - add-notify-job
 
+env:
+  DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
 jobs:
   process-tga:
-    environment: Convert and Notify
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -25,12 +26,5 @@ jobs:
       - name: Install dependencies
         run: npm install discord.js glob
 
-      - name: Debug environment variables
-        env:
-          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
-        run: echo "DISCORD_TOKEN is set to: ${DISCORD_TOKEN:0:4}****"
-
       - name: Find and process .tga files
-        env:
-          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
-        run: node ./convert-and-notify.js
+        run: DISCORD_TOKEN=${{ secrets.DISCORD_TOKEN }} node ./convert-and-notify.js
