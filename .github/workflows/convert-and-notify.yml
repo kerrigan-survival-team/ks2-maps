@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - add-notify-job
 
 env:
   DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
