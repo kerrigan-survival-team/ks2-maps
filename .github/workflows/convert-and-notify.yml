@@ -9,7 +9,8 @@ on:
 jobs:
   process-tga:
     runs-on: ubuntu-latest
-
+    env:
+      DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -27,5 +28,3 @@ jobs:
 
       - name: Find and process .tga files
         run: node ./convert-and-notify.js
-        with:
-          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
