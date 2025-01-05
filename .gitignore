@@ -1,4 +1,6 @@
 *
+!convert-and-notify.js
+!.github/workflows/convert-and-notify.yml
 !base_map.sc2map
 !*/
 !*/Base.SC2Data/GameData/Terrain/*.xml
