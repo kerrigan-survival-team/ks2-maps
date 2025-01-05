@@ -6,11 +6,11 @@ on:
       - main
       - add-notify-job
 
+env:
+  DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
 jobs:
   process-tga:
     runs-on: ubuntu-latest
-    env:
-      DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
