@@ -5,7 +5,7 @@ const glob = require("glob");
 const { Client, GatewayIntentBits } = require("discord.js");
 
 const DISCORD_TOKEN = process.env.DISCORD_TOKEN;
-const FORUM_CHANNEL_ID = "1325542393130258462";
+const FORUM_CHANNEL_ID = "1255486156758585508";
 
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
