@@ -7,8 +7,9 @@ on:
 
 jobs:
   process-tga:
-    environment: Convert and Notify
     runs-on: ubuntu-latest
+    env:
+      DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
 
     steps:
       - name: Checkout repository
@@ -24,11 +25,6 @@ jobs:
 
       - name: Install dependencies
         run: npm install discord.js glob
-
-      - name: Debug environment variables
-        env:
-          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
-        run: echo "DISCORD_TOKEN is set to: ${DISCORD_TOKEN:0:4}****"
 
       - name: Find and process .tga files
         env:
