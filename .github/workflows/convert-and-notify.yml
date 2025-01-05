@@ -25,7 +25,6 @@ jobs:
         run: npm install discord.js glob
 
       - name: Find and process .tga files
-        run: |
-          node ./convert-and-notify.js
         env:
           DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+        run: node ./convert-and-notify.js
