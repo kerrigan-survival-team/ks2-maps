@@ -726,4 +726,22 @@
             <quad value="249,69.0002,253,73"/>
         </shape>
     </region>
+    <region id="122">
+        <name value="Ramp125"/>
+        <shape type="rect">
+            <quad value="201,136.0002,205,140"/>
+        </shape>
+    </region>
+    <region id="123">
+        <name value="Ramp126"/>
+        <shape type="rect">
+            <quad value="185,118.0002,189,122"/>
+        </shape>
+    </region>
+    <region id="124">
+        <name value="Ramp127"/>
+        <shape type="rect">
+            <quad value="199,110.0002,203,114"/>
+        </shape>
+    </region>
 </Regions>
