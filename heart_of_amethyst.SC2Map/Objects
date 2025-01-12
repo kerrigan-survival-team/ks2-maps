@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PlacedObjects Version="27">
+    <ObjectDoodad Id="184931813" Position="200.541,5.318,2.0124" Rotation="6.094" Scale="1.1416,1.1416,1.1416" Type="AiurTree_Grouped"/>
     <ObjectDoodad Id="1667809564" Variation="3" Position="163.2395,169.9753,2.0124" Rotation="5.6762" Scale="0.891,0.891,0.891" Type="AiurTree_Grouped">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -15,7 +16,7 @@
     <ObjectDoodad Id="93735165" Position="127.8764,102.3637,2.1955" Scale="1,1,1" Type="PortCity_StreetLight_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="477408469" Variation="2" Position="139.9353,134.5515,2.0241" Rotation="1.2731" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
+    <ObjectDoodad Id="477408469" Variation="2" Position="139.9704,134.843,6.0134" Rotation="2.0236" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2007561302" Variation="1" Position="176.7797,53.68,2.0073" Rotation="1.847" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
@@ -69,7 +70,7 @@
     <ObjectDoodad Id="2132751093" Position="206.416,131.6174,4.0146" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="566656447" Variation="1" Position="139.452,121.1171,2.0241" Rotation="1.63" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
+    <ObjectDoodad Id="566656447" Variation="1" Position="139.452,121.1171,6.0134" Rotation="1.63" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1510118679" Position="47.4396,108.2116,4.0114" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
@@ -90,6 +91,7 @@
     <ObjectDoodad Id="665610827" Position="236.9755,17.5024,4.0041" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="627472596" Position="195.4384,30.642,2.0134" Scale="1,1,1" Type="PortCity_StatueDestroyed"/>
     <ObjectDoodad Id="594776127" Variation="9" Position="148.9777,11.4792,2.0134" Rotation="3.365" Scale="1,1,1" Type="Elsecaro_Medium_Rock">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -111,6 +113,7 @@
     <ObjectDoodad Id="541206410" Position="13.6315,132.232,4.0297" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="2116586018" Variation="2" Position="192.356,8.3107,2.0134" Rotation="6.2468" Scale="1.139,1.139,1.139" Type="AiurTree_Grouped"/>
     <ObjectDoodad Id="1311261460" Position="136.3383,43.8005,4.0278" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -138,7 +141,7 @@
     <ObjectDoodad Id="1343802320" Position="22.185,71.288,4.0134" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="822942204" Position="175.8046,50.9187,4.0134" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
+    <ObjectDoodad Id="822942204" Position="175.8046,50.9187,4.0136" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1879350948" Variation="6" Position="136.6816,10.0146,2.0334" Rotation="5.9123" Scale="1,1,1" Type="Elsecaro_Medium_Rock">
@@ -150,7 +153,7 @@
     <ObjectDoodad Id="364731832" Variation="4" Position="250.5507,139.9023,2.0136" Rotation="4.1528" Scale="1.0065,1.0065,1.0065" Type="Elsecaro_Foliage">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="303441560" Variation="1" Position="116.92,134.4865,2.0393" Rotation="4.7714" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
+    <ObjectDoodad Id="303441560" Variation="1" Position="116.92,134.4865,6.0134" Rotation="4.7714" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2002092" Position="165.8234,85.2387,4.0078" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
@@ -174,13 +177,13 @@
     <ObjectDoodad Id="1861498423" Position="159.3098,149.3398,2.0068" Rotation="2.7368" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="910319068" Position="189.5051,27.6718,4.0407" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
+    <ObjectDoodad Id="910319068" Position="189.371,29.5307,3.997" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="810960870" Variation="3" Position="188.303,47.494,2.0195" Rotation="2.5678" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="909469003" Variation="2" Position="134.5317,139.6884,2.0241" Rotation="3.4384" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
+    <ObjectDoodad Id="909469003" Variation="2" Position="134.5317,139.6884,6.0134" Rotation="3.4384" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="601541724" Position="13.7446,163.642,4.0087" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
@@ -225,7 +228,7 @@
     <ObjectDoodad Id="1576803253" Position="166.1418,169.9291,2.0124" Rotation="1.5217" Scale="0.9335,0.9335,0.9335" Type="AiurTree_Grouped">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="519312229" Position="187.95,26.42,2.0134" Rotation="4.43" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
+    <ObjectDoodad Id="519312229" Position="188.0068,26.8532,2.0134" Rotation="4.43" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="548665042" Position="232.0446,88.4394,2.6074" Scale="1,1,1" Type="PortCity_GroundLights">
@@ -282,7 +285,7 @@
     <ObjectDoodad Id="2061017122" Variation="4" Position="102.157,127.7922,2.0922" Rotation="1.5705" Scale="1,1,1" Type="PortCity_StreetLight_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="810999258" Position="193.5856,240.0327,4.0266" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
+    <ObjectDoodad Id="810999258" Position="193.5856,240.0327,4.0078" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="171885906" Position="148.4965,14.3867,4.0134" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
@@ -303,6 +306,7 @@
     <ObjectDoodad Id="1813584419" Variation="1" Position="250.7941,78.7131,2.0126" Rotation="6.1733" Scale="0.9895,0.9895,0.9895" Type="AiurTree_Grouped">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="1628951984" Variation="1" Position="9.9953,110.9602,2.0122" Rotation="1.5898" Scale="1.1433,1.1433,1.1433" Type="AiurTree_Grouped"/>
     <ObjectDoodad Id="740370557" Variation="7" Position="249.7656,145.2788,2.0136" Rotation="3.9167" Scale="1,1,1" Type="Elsecaro_Medium_Rock_Group">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -348,6 +352,8 @@
     <ObjectDoodad Id="2075425543" Variation="2" Position="175.2673,11.3923,2.0134" Rotation="1.5283" Scale="1,1,1" Type="Elsecaro_Medium_Rock">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="506415453" Variation="3" Position="11.0122,106.1428,2.0122" Rotation="1.4211" Scale="1.05,1.05,1.05" Type="AiurTree_Grouped"/>
+    <ObjectDoodad Id="30020927" Variation="1" Position="5.8266,104.8845,2.0122" Rotation="2.6733" Scale="0.813,0.813,0.813" Type="AiurTree_Grouped"/>
     <ObjectDoodad Id="1047092507" Variation="1" Position="47.974,17.6982,2.0136" Scale="1,1,1" Type="PortCity_Statue">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -378,6 +384,7 @@
     <ObjectDoodad Id="1637595344" Variation="5" Position="251.925,138.3735,2.0136" Rotation="4.472" Scale="1.019,1.019,1.019" Type="Elsecaro_Foliage">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="1849523037" Variation="1" Position="184.994,4.4287,2.0134" Rotation="3.2897" Scale="1.1354,1.1354,1.1354" Type="AiurTree_Grouped"/>
     <ObjectDoodad Id="1796691745" Position="237.1921,55.3188,4.0134" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -417,6 +424,7 @@
     <ObjectDoodad Id="1371923923" Position="247.5532,82.7763,2.0124" Rotation="0.1843" Scale="1.1745,1.1745,1.1745" Type="AiurTree_Grouped">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="595023959" Variation="1" Position="198.8664,32.2277,2.0134" Scale="1,1,1" Type="PortCity_StreetLight_Destroyed"/>
     <ObjectDoodad Id="551777013" Position="58.2443,177.3442,4.07" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -444,12 +452,14 @@
     <ObjectDoodad Id="1564477127" Variation="6" Position="251.178,150.2495,2.0136" Rotation="3.9694" Scale="1,1,1" Type="Elsecaro_Large_Rock">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="827723974" Variation="5" Position="190.3886,4.9,2.013" Rotation="3.4123" Scale="1.1643,1.1643,1.1643" Type="AiurTree_Grouped"/>
     <ObjectDoodad Id="593637858" Variation="3" Position="243.551,216.1953,2.0134" Rotation="5.5332" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1548674699" Position="176.4414,14.667,4.0034" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="884505201" Variation="4" Position="194.6997,4.6791,2.013" Rotation="3.9035" Scale="1.1445,1.1445,1.1445" Type="AiurTree_Grouped"/>
     <ObjectDoodad Id="922796325" Position="163.2775,34.78,2.0197" Rotation="5.292" Scale="1,1,1" Type="Elsecaro_Medium_Rock">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -465,7 +475,7 @@
     <ObjectDoodad Id="1914851665" Position="127.8552,237.8527,4.0136" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="203360349" Variation="2" Position="121.1384,116.5273,2.025" Rotation="0.2968" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
+    <ObjectDoodad Id="203360349" Variation="2" Position="121.1384,116.5273,6.0134" Rotation="0.2968" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1340870874" Variation="5" Position="248.5112,141.734,2.0136" Rotation="2.0173" Scale="0.9013,0.9013,0.9013" Type="Elsecaro_Foliage">
@@ -477,7 +487,7 @@
     <ObjectDoodad Id="1522359355" Variation="2" Position="37.446,231.466,2.0122" Rotation="5.0715" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1450171287" Variation="2" Position="115.9963,121.174,2.0134" Rotation="4.4147" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
+    <ObjectDoodad Id="1450171287" Variation="2" Position="115.9963,121.174,6.0134" Rotation="5.0605" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="827665786" Variation="8" Position="251.3186,157.2358,2.0136" Rotation="0.269" Scale="0.9707,0.9707,0.9707" Type="Elsecaro_Foliage">
@@ -504,7 +514,7 @@
     <ObjectDoodad Id="1261746818" Position="135.189,25.2094,2.0134" Rotation="3.1323" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1503485075" Position="58.967,211.768,1.9973" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
+    <ObjectDoodad Id="1503485075" Position="58.3945,210.1662,4.0278" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1822564319" Variation="3" Position="188.9924,131.1435,2.0134" Rotation="3.2792" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
@@ -516,6 +526,7 @@
     <ObjectDoodad Id="790433159" Variation="16" Position="81.5026,13.207,2.0136" Scale="1,1,1" Type="PortCity_Trims">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="1562038277" Position="5.3337,110.9277,2.012" Rotation="1.3886" Scale="1.1442,1.1442,1.1442" Type="AiurTree_Grouped"/>
     <ObjectDoodad Id="1616945100" Variation="4" Position="250.9963,143.6672,2.0136" Rotation="5.1804" Scale="1,1,1" Type="Elsecaro_Large_Rock">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -561,6 +572,7 @@
     <ObjectDoodad Id="1229376946" Position="108.0898,43.6767,4.0117" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="2066160091" Variation="5" Position="7.8486,107.255,2.0122" Rotation="4.9375" Scale="0.9616,0.9616,0.9616" Type="AiurTree_Grouped"/>
     <ObjectDoodad Id="362927513" Position="207.7705,17.7961,4.0087" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -582,7 +594,7 @@
     <ObjectDoodad Id="1148914449" Position="228.0432,177.4282,4.0104" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1580263497" Position="97.544,57.8266,4.0261" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
+    <ObjectDoodad Id="1580263497" Position="97.544,57.8266,4.0253" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1574557358" Position="239.408,16.135,2.0095" Rotation="0.9782" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
@@ -615,7 +627,7 @@
     <ObjectDoodad Id="1253991012" Position="96.8598,118.22,2.0134" Rotation="0.7246" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="369127253" Variation="2" Position="63.9587,18.052,2.0263" Scale="1,1,1" Type="PortCity_StreetAlarms">
+    <ObjectDoodad Id="369127253" Variation="2" Position="63.4802,34.0507,2.0144" Scale="1,1,1" Type="PortCity_StreetAlarms">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1559704928" Variation="1" Position="87.3967,86.5114,2.002" Rotation="3.3527" Scale="1,1,1" Type="Elsecaro_Medium_Rock">
@@ -624,7 +636,7 @@
     <ObjectDoodad Id="2066547363" Position="118.0097,158.7797,2.0134" Rotation="2.5273" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="580139100" Variation="1" Position="121.7358,139.3288,2.0385" Rotation="3.082" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
+    <ObjectDoodad Id="580139100" Variation="1" Position="121.7358,139.3288,6.0134" Rotation="3.082" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1945876144" Position="232.121,234.77,6.063" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
@@ -633,13 +645,15 @@
     <ObjectDoodad Id="360578005" Variation="3" Position="160.98,171.7922,2.0124" Rotation="4.0808" Scale="1.183,1.183,1.183" Type="AiurTree_Grouped">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="1575822867" Position="202.6166,30.6452,2.0134" Scale="1,1,1" Type="PortCity_StatueDestroyed"/>
+    <ObjectDoodad Id="945637291" Variation="2" Position="251.3071,196.0224,2.0134" Scale="1,1,1" Type="PortCity_IndustrialCraneDestroyed"/>
     <ObjectDoodad Id="855799235" Position="192.5498,2.17,-5.0224" Scale="0.5495,5,1" Type="DecalSpace" TintColor="0,94,219 4.000000">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
         <Flag Index="ForcePlacement" Value="1"/>
         <Flag Index="NoDoodadFootprint" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1529200796" Position="44.256,239.8596,4.006" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
+    <ObjectDoodad Id="1529200796" Position="44.256,239.8596,4.0134" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1103715353" Position="208.4768,80.7277,4.0034" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
@@ -648,7 +662,7 @@
     <ObjectDoodad Id="1161322688" Position="118.0898,96.8398,2.0134" Rotation="3.9875" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1122938926" Position="136.3105,75.9472,4.0207" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
+    <ObjectDoodad Id="1122938926" Position="136.3105,75.9472,4.0134" Scale="1,1,1" Type="Elsecaro_Leaf_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="523241494" Variation="1" Position="83.8298,179.2,2.0124" Rotation="5.8464" Scale="1,1,1" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
@@ -702,7 +716,7 @@
     <ObjectDoodad Id="811051818" Position="149.3398,159.3098,2.0266" Rotation="1.9753" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="292542516" Variation="1" Position="134.2224,116.6003,2.0393" Rotation="6.2236" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
+    <ObjectDoodad Id="292542516" Variation="1" Position="134.2224,116.6003,6.0134" Rotation="6.2236" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="698215484" Variation="3" Position="174.2937,89.0922,2.0134" Rotation="1.7011" Scale="0.5,0.5,0.5" Type="XelNaga_GiantCrystal" TintColor="128,0,255">
