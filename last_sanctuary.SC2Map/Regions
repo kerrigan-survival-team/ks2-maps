@@ -105,7 +105,7 @@
     <region id="28">
         <name value="Ramp27"/>
         <shape type="rect">
-            <quad value="16.0007,34.001,20.0007,38.0007"/>
+            <quad value="16.0007,33.5004,20.0007,37.5002"/>
         </shape>
     </region>
     <region id="29">
@@ -387,7 +387,7 @@
     <region id="92">
         <name value="Ramp91"/>
         <shape type="rect">
-            <quad value="222.0004,145.002,226.0004,149.0017"/>
+            <quad value="226.0014,145.0004,230.0014,149.0002"/>
         </shape>
     </region>
     <region id="93">
@@ -435,7 +435,7 @@
     <region id="110">
         <name value="Ramp109"/>
         <shape type="rect">
-            <quad value="192.0004,101.0007,196.0004,105.0004"/>
+            <quad value="188.0012,101.0007,192.0012,105.0004"/>
         </shape>
     </region>
     <region id="112">
@@ -658,7 +658,7 @@
         <name value="Tutorial Outpost (Unit) 07"/>
         <color value="255,255,255,128"/>
         <shape type="circle">
-            <center value="185.001,165.5012"/>
+            <center value="187.501,165.0012"/>
             <radius value="2.5"/>
         </shape>
     </region>
@@ -836,7 +836,7 @@
     <region id="214">
         <name value="Tutorial Initial Eco (1)"/>
         <shape type="rect">
-            <quad value="99.098,162.0402,102.9035,169.9614"/>
+            <quad value="99.098,164.0402,102.9035,171.9614"/>
         </shape>
     </region>
     <region id="215">
@@ -950,7 +950,7 @@
     <region id="50">
         <name value="Ramp49"/>
         <shape type="rect">
-            <quad value="102.0014,123.0014,106.0014,127.0012"/>
+            <quad value="102.0014,121.0017,106.0014,125.0014"/>
         </shape>
     </region>
     <region id="117">
@@ -1011,7 +1011,7 @@
     <region id="141">
         <name value="Ramp140"/>
         <shape type="rect">
-            <quad value="131.0007,76.0004,135.0007,80.0002"/>
+            <quad value="133.0012,76.0004,137.0012,80.0002"/>
         </shape>
     </region>
     <region id="119">
@@ -1046,7 +1046,7 @@
         <name value="Tutorial Outpost (Unit) 14"/>
         <color value="255,255,255,128"/>
         <shape type="circle">
-            <center value="171.0007,125.5002"/>
+            <center value="171.0007,127.5002"/>
             <radius value="2.5"/>
         </shape>
     </region>
@@ -1117,7 +1117,7 @@
         <name value="Tutorial Outpost (Unit) 20"/>
         <color value="255,255,255,128"/>
         <shape type="circle">
-            <center value="210.501,23.0007"/>
+            <center value="206.501,23.0007"/>
             <radius value="2.5"/>
         </shape>
     </region>
@@ -1208,7 +1208,7 @@
         <name value="Tutorial Outpost (Unit) 13"/>
         <color value="255,255,255,128"/>
         <shape type="circle">
-            <center value="120.5004,91.5012"/>
+            <center value="122.5004,91.0012"/>
             <radius value="2.5"/>
         </shape>
     </region>
@@ -1319,6 +1319,18 @@
         <name value="Ramp129"/>
         <shape type="rect">
             <quad value="58.0014,247.0007,62.0014,251.0004"/>
+        </shape>
+    </region>
+    <region id="45">
+        <name value="Ramp38"/>
+        <shape type="rect">
+            <quad value="105.0012,92.002,109.0012,96.0017"/>
+        </shape>
+    </region>
+    <region id="48">
+        <name value="Ramp40"/>
+        <shape type="rect">
+            <quad value="91.0017,70.0004,95.0017,74.0002"/>
         </shape>
     </region>
 </Regions>
