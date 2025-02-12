@@ -537,19 +537,19 @@
     <region id="82">
         <name value="Ramp11"/>
         <shape type="rect">
-            <quad value="196,225.0002,200,229"/>
+            <quad value="195,220.0002,199,224"/>
         </shape>
     </region>
     <region id="83">
         <name value="Ramp12"/>
         <shape type="rect">
-            <quad value="209,222.0002,213,226"/>
+            <quad value="204,225.0002,208,229"/>
         </shape>
     </region>
     <region id="85">
         <name value="Ramp22"/>
         <shape type="rect">
-            <quad value="204,203.0002,208,207"/>
+            <quad value="196,203.0004,200,207.0002"/>
         </shape>
     </region>
     <region id="86">
@@ -579,7 +579,7 @@
     <region id="98">
         <name value="Ramp41"/>
         <shape type="rect">
-            <quad value="221,206.0002,225,210"/>
+            <quad value="235,206.0002,239,210"/>
         </shape>
     </region>
     <region id="6">
@@ -885,7 +885,7 @@
     <region id="149">
         <name value="Ramp152"/>
         <shape type="rect">
-            <quad value="201,231.9987,205,235.9985"/>
+            <quad value="193,240.0002,197,244"/>
         </shape>
     </region>
     <region id="150">
@@ -922,6 +922,30 @@
         <name value="Ramp158"/>
         <shape type="rect">
             <quad value="156,247.0002,160,251"/>
+        </shape>
+    </region>
+    <region id="155">
+        <name value="Ramp72"/>
+        <shape type="rect">
+            <quad value="211,190.0002,215,194"/>
+        </shape>
+    </region>
+    <region id="156">
+        <name value="Ramp159"/>
+        <shape type="rect">
+            <quad value="229,200.0002,233,204"/>
+        </shape>
+    </region>
+    <region id="157">
+        <name value="Ramp160"/>
+        <shape type="rect">
+            <quad value="224.9995,200.0002,228.9995,204"/>
+        </shape>
+    </region>
+    <region id="158">
+        <name value="Ramp161"/>
+        <shape type="rect">
+            <quad value="210,211.0002,214,215"/>
         </shape>
     </region>
 </Regions>
