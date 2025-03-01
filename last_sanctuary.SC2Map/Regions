@@ -513,7 +513,7 @@
     <region id="135">
         <name value="Ramp134"/>
         <shape type="rect">
-            <quad value="187.001,28.0017,191.001,32.0014"/>
+            <quad value="189.0014,28.0014,193.0014,32.0012"/>
         </shape>
     </region>
     <region id="136">
