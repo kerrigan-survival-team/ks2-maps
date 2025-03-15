@@ -141,36 +141,36 @@
         <CameraValue Index="BokehFStop" Value="0.0187"/>
         <CameraValue Index="BokehMaxCoC" Value="1"/>
     </ObjectCamera>
-    <ObjectUnit Id="1272670902" Position="53.5,44.5,0" Rotation="5.6354" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+    <ObjectUnit Id="1272670902" Position="53.5,44.5,0" Rotation="5.6354" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris">
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectUnit>
-    <ObjectUnit Id="413344897" Position="46.5,51.5,0" Rotation="4.5673" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+    <ObjectUnit Id="413344897" Position="46.5,51.5,0" Rotation="4.5673" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris">
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectUnit>
-    <ObjectUnit Id="213461809" Position="49.5,47.5,0" Rotation="1.2697" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+    <ObjectUnit Id="213461809" Position="49.5,47.5,0" Rotation="1.2697" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris">
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectUnit>
-    <ObjectUnit Id="435395535" Position="46.5,50.5,0" Rotation="0.2016" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+    <ObjectUnit Id="435395535" Position="46.5,50.5,0" Rotation="0.2016" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris">
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectUnit>
-    <ObjectUnit Id="767477771" Position="44.5,51.5,0" Rotation="3.0185" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+    <ObjectUnit Id="767477771" Position="44.5,51.5,0" Rotation="3.0185" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris">
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectUnit>
-    <ObjectUnit Id="886134497" Position="51.5,47.5,0" Rotation="1.5637" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+    <ObjectUnit Id="886134497" Position="51.5,47.5,0" Rotation="1.5637" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris">
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectUnit>
-    <ObjectUnit Id="2058259509" Position="45.5,52.5,0" Rotation="5.6196" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+    <ObjectUnit Id="2058259509" Position="45.5,52.5,0" Rotation="5.6196" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris">
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectUnit>
-    <ObjectUnit Id="256438288" Position="48.5,48.5,0" Rotation="5.2233" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+    <ObjectUnit Id="256438288" Position="48.5,48.5,0" Rotation="5.2233" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris">
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectUnit>
-    <ObjectUnit Id="145115739" Position="50.5,45.5,0" Rotation="4.3" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris"/>
-    <ObjectUnit Id="1539617050" Position="52.5,43.5,0" Rotation="4.5605" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+    <ObjectUnit Id="145115739" Position="50.5,45.5,0" Rotation="4.3" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris"/>
+    <ObjectUnit Id="1539617050" Position="52.5,43.5,0" Rotation="4.5605" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris">
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectUnit>
-    <ObjectUnit Id="1464003973" Position="46.5,50.5,0" Rotation="0.3962" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris"/>
-    <ObjectUnit Id="461998229" Position="44.5,53.5,0" Rotation="0.496" Scale="1,1,1" UnitType="CollapsiblePurifierTowerDebris">
+    <ObjectUnit Id="1464003973" Position="46.5,50.5,0" Rotation="0.3962" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris"/>
+    <ObjectUnit Id="461998229" Position="44.5,53.5,0" Rotation="0.496" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris">
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectUnit>
 </PlacedObjects>
