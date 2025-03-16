@@ -633,4 +633,10 @@
             <quad value="15.0004,68.001,19.0004,72.0007"/>
         </shape>
     </region>
+    <region id="24">
+        <name value="Ramp69"/>
+        <shape type="rect">
+            <quad value="106.0004,0.0004,110.0004,4.0002"/>
+        </shape>
+    </region>
 </Regions>
