@@ -9,16 +9,16 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectPoint Id="2142687418" Position="145,110,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Defender" Color="0,0,0,0"/>
+    <ObjectPoint Id="2142687418" Position="224,248,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Defender" Color="0,0,0,0"/>
     <ObjectPoint Id="1513950538" Position="154,155,0" Scale="1,1,1" Type="Normal" Name="+30% movespeed in water" Color="0,0,0,0"/>
-    <ObjectPoint Id="231894419" Position="147.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Supports)" Color="0,0,0,0"/>
+    <ObjectPoint Id="231894419" Position="208,232,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Supports)" Color="0,0,0,0"/>
     <ObjectPoint Id="100919145" Position="77,77,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
     <ObjectPoint Id="470977835" Position="196,196,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
-    <ObjectPoint Id="1248696952" Position="110,110,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Hunter" Color="0,0,0,0"/>
-    <ObjectPoint Id="314" Position="240.97,240.94,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
-    <ObjectPoint Id="1878568214" Position="252,252,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
-    <ObjectPoint Id="756511362" Position="109.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Ghosts)" Color="0,0,0,0"/>
-    <ObjectPoint Id="643511402" Position="128,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Builders)" Color="0,0,0,0"/>
+    <ObjectPoint Id="1248696952" Position="244,231.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Hunter" Color="0,0,0,0"/>
+    <ObjectPoint Id="314" Position="224,224,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
+    <ObjectPoint Id="1878568214" Position="253,252.5,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
+    <ObjectPoint Id="756511362" Position="208,207.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Ghosts)" Color="0,0,0,0"/>
+    <ObjectPoint Id="643511402" Position="240,208,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Builders)" Color="0,0,0,0"/>
     <ObjectPoint Id="1678468149" Position="131,130.5,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
     <ObjectPoint Id="1016739991" Position="44.5,45.5,0" Scale="1,1,1" Type="Normal" Name="Can these rocks be unbreakable??" Color="0,0,0,0"/>
     <ObjectCamera Id="816" Position="126.7687,12.3073,0" Rotation="3.14" Scale="1,1,1" Name="Camera 007" Color="0,0,0,0" CameraTarget="126.7687,12.3073">
@@ -147,10 +147,10 @@
     <ObjectUnit Id="413344897" Position="46.5,51.5,0" Rotation="4.5673" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris">
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectUnit>
-    <ObjectUnit Id="435395535" Position="46.5,50.5,0" Rotation="0.2016" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris">
+    <ObjectUnit Id="213461809" Position="49.5,47.5,0" Rotation="1.2697" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris">
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectUnit>
-    <ObjectUnit Id="213461809" Position="49.5,47.5,0" Rotation="1.2697" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris">
+    <ObjectUnit Id="435395535" Position="46.5,50.5,0" Rotation="0.2016" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris">
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectUnit>
     <ObjectUnit Id="2111783887" Position="232,232,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
@@ -167,11 +167,11 @@
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectUnit>
     <ObjectUnit Id="145115739" Position="50.5,45.5,0" Rotation="4.3" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris"/>
-    <ObjectUnit Id="1464003973" Position="46.5,50.5,0" Rotation="0.3962" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris"/>
+    <ObjectUnit Id="1359491107" Position="240,200,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="1539617050" Position="52.5,43.5,0" Rotation="4.5605" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris">
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectUnit>
-    <ObjectUnit Id="1359491107" Position="240,200,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="1464003973" Position="46.5,50.5,0" Rotation="0.3962" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris"/>
     <ObjectUnit Id="622818790" Position="200,240,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="461998229" Position="44.5,53.5,0" Rotation="0.496" Scale="1.132,1.617,1.446" UnitType="CollapsiblePurifierTowerDebris">
         <Flag Index="ForcePlacement" Value="1"/>
