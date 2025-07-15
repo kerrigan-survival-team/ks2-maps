@@ -10,6 +10,8 @@ const FORUM_CHANNEL_ID = "1255486156758585508";
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
 client.once("ready", async () => {
+  // temporarily disabled while i work on a better solution, sorry. - koneko
+  return;
   console.log(`Logged in as ${client.user.tag}!`);
 
   const repoRoot = path.resolve(__dirname, "./");
