@@ -73,10 +73,10 @@
     <ObjectDoodad Id="579094623" Variation="2" Position="175.5,181.5,8.0002" Rotation="3.092" Scale="1,1,1" Type="StarShipAdun_Broken_Debris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1709195796" Variation="4" Position="174.5874,39.4104,8.0002" Rotation="1.8596" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="815041031" Variation="6" Position="195.4658,61.9497,8" Rotation="1.9577" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="815041031" Variation="6" Position="195.4658,61.9497,8" Rotation="1.9577" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="1709195796" Variation="4" Position="174.5874,39.4104,8.0002" Rotation="1.8596" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2079622213" Position="15.5,35.5,10" Scale="1,1,1" Type="Purifier_LandingDeck">
@@ -88,10 +88,10 @@
     <ObjectDoodad Id="1535902315" Variation="12" Position="73,57,10.001" Rotation="4.688" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1771592365" Variation="9" Position="77.3337,152.7324,8.0002" Rotation="4.07" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="1395877954" Position="94.5056,106.9907,8" Rotation="4.445" Scale="1.1364,1.1364,1.1364" Type="FireMedium">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1395877954" Position="94.5056,106.9907,8" Rotation="4.445" Scale="1.1364,1.1364,1.1364" Type="FireMedium">
+    <ObjectDoodad Id="1771592365" Variation="9" Position="77.3337,152.7324,8.0002" Rotation="4.07" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1724320426" Variation="4" Position="156,64.5,8" Scale="1,1,1" Type="Purifier_Cybros_Hologram">
@@ -118,16 +118,16 @@
     <ObjectDoodad Id="1095056246" Position="98.052,148.5566,8.0002" Rotation="1.382" Scale="1.1376,1.1376,1.1376" Type="FireMedium">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1381228560" Variation="1" Position="232.5,168.5,8.0002" Rotation="2.5334" Scale="1,1,1" Type="StarShipAdun_Broken_Debris">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1844943088" Variation="1" Position="134,55,10.0812" Scale="1,1,1" Type="AiurBat">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="482202047" Position="39,23.5,8" Scale="1,1,1" Type="Purifier_Cybros_Hologram">
+    <ObjectDoodad Id="1381228560" Variation="1" Position="232.5,168.5,8.0002" Rotation="2.5334" Scale="1,1,1" Type="StarShipAdun_Broken_Debris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1142445329" Variation="1" Position="153.5,121,10" Scale="1,1,1" Type="AiurBat">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="482202047" Position="39,23.5,8" Scale="1,1,1" Type="Purifier_Cybros_Hologram">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="795877115" Position="156.5,240.5,8.0217" Rotation="4.402" Scale="1,1,1" Type="Aiur_City_Light">
@@ -136,19 +136,19 @@
     <ObjectDoodad Id="1206416970" Variation="4" Position="95,60,8" Scale="1,1,1" Type="Purifier_Cybros_Hologram">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1777813904" Variation="4" Position="217.5,100,10" Scale="1,1,1" Type="Purifier_Cybros_Hologram">
+    <ObjectDoodad Id="582051366" Variation="5" Position="19.5,195,7.9995" Rotation="3.3908" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="582051366" Variation="5" Position="19.5,195,7.9995" Rotation="3.3908" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="1777813904" Variation="4" Position="217.5,100,10" Scale="1,1,1" Type="Purifier_Cybros_Hologram">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1263362386" Variation="2" Position="216.7082,212.5815,10.0002" Rotation="4.6633" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="613630011" Variation="1" Position="237,19,9.9995" Rotation="2.9812" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="1392814939" Variation="4" Position="180,54.5,9.9995" Rotation="0.706" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1392814939" Variation="4" Position="180,54.5,9.9995" Rotation="0.706" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="613630011" Variation="1" Position="237,19,9.9995" Rotation="2.9812" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="172160923" Variation="13" Position="160.4846,92.7412,8.0002" Rotation="6.0007" Scale="1,1,1" Type="Purifier_City_Decals">
@@ -160,10 +160,10 @@
     <ObjectDoodad Id="606882373" Variation="2" Position="149,223,8.0002" Rotation="3.7695" Scale="1,1,1" Type="Purifier_CityBuilding_Floating_Temple">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1496912688" Position="249.5,140.5,7.9997" Rotation="0.8432" Scale="1,1,1" Type="Aiur_CliffBuilding_A_Destroyed">
+    <ObjectDoodad Id="892386997" Position="128.695,155.9445,10.0002" Rotation="2.6611" Scale="1.096,1.096,1.096" Type="FireMedium">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="892386997" Position="128.695,155.9445,10.0002" Rotation="2.6611" Scale="1.096,1.096,1.096" Type="FireMedium">
+    <ObjectDoodad Id="1496912688" Position="249.5,140.5,7.9997" Rotation="0.8432" Scale="1,1,1" Type="Aiur_CliffBuilding_A_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1201987222" Variation="1" Position="128,222.5,-0.0002" Rotation="3.1416" Scale="1,1,1" Type="Purifier_RepairBay">
@@ -197,18 +197,18 @@
     <ObjectDoodad Id="1341766702" Variation="10" Position="199.5,144.5,8.0004" Rotation="3.309" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="720727174" Variation="2" Position="228.5,218.5,12.0021" Rotation="2.9658" Scale="1,1,1" Type="Aiur_City_Light">
+    <ObjectDoodad Id="720727174" Variation="2" Position="207.5,194.5,7.999" Rotation="2.9658" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="144585036" Variation="3" Position="237.5,161.5,10.0007" Rotation="3.9743" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1048547262" Variation="2" Position="42,22.5,8.0002" Rotation="0.5087" Scale="1,1,1" Type="Purifier_CityBuilding_Floating_Temple">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1958243745" Position="36.5,128,9.9997" Rotation="4.5947" Scale="1,1,1" Type="StarShipAdun_Turret">
         <Flag Index="HeightAbsolute" Value="1"/>
         <Flag Index="NoSoundEmitters" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1048547262" Variation="2" Position="42,22.5,8.0002" Rotation="0.5087" Scale="1,1,1" Type="Purifier_CityBuilding_Floating_Temple">
+        <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2081005239" Variation="1" Position="16,32,8.018" Rotation="0.0085" Scale="1,1,1" Type="Purifier_Drill">
         <Flag Index="HeightAbsolute" Value="1"/>
@@ -270,28 +270,28 @@
     <ObjectDoodad Id="995945903" Variation="6" Position="107,238,8.0002" Rotation="3.6638" Scale="1,1,1" Type="StarShipAdun_Broken_Debris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1039357772" Variation="1" Position="113.5,193.5,7.9992" Rotation="3.6606" Scale="1,1,1" Type="Aiur_City_Light">
+    <ObjectDoodad Id="1159889486" Variation="3" Position="160.5,27.5,8.0214" Rotation="3.7846" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1159889486" Variation="3" Position="160.5,27.5,8.0214" Rotation="3.7846" Scale="1,1,1" Type="Aiur_City_Light">
+    <ObjectDoodad Id="1039357772" Variation="1" Position="113.5,193.5,7.9992" Rotation="3.6606" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="344528160" Variation="15" Position="45.5,171,9.4997" Rotation="4.9824" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1514064943" Variation="6" Position="179.5847,201.7817,8.0002" Rotation="1.642" Scale="1,1,1" Type="Purifier_City_Decals">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="954773457" Variation="3" Position="183.5,40.5,8.0214" Rotation="2.2685" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1476975313" Position="109.277,89.743,8.0705" Rotation="3.18" Scale="0.9516,0.9516,0.9516" Type="FireMedium">
+    <ObjectDoodad Id="1514064943" Variation="6" Position="179.5847,201.7817,8.0002" Rotation="1.642" Scale="1,1,1" Type="Purifier_City_Decals">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2039879543" Variation="2" Position="29.5,68.5,12.0017" Rotation="5.63" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1648990847" Variation="4" Position="28.5,143.5,7.9995" Rotation="0.0202" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2039879543" Variation="2" Position="29.5,68.5,12.0017" Rotation="5.63" Scale="1,1,1" Type="Aiur_City_Light">
+    <ObjectDoodad Id="1476975313" Position="109.277,89.743,8.0705" Rotation="3.18" Scale="0.9516,0.9516,0.9516" Type="FireMedium">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1219372089" Variation="1" Position="102.5,135,10" Rotation="3.1413" Scale="1,1,1" Type="AiurBat">
@@ -318,48 +318,48 @@
     <ObjectDoodad Id="874581338" Variation="17" Position="63.5,28.5,10" Rotation="1.8618" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1938554923" Variation="16" Position="83.5,55,10" Rotation="2.7392" Scale="1,1,1" Type="Purifier_City_Decals">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="338874281" Variation="11" Position="192,182,7.9997" Rotation="5.0463" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1181641378" Position="9,171.5,7.9995" Rotation="4.9645" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="1938554923" Variation="16" Position="83.5,55,10" Rotation="2.7392" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1961435665" Variation="1" Position="201.5,134.5,9.9963" Rotation="3.1413" Scale="1,1,1" Type="AiurBat">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="781866718" Variation="1" Position="58.5,23.5,8" Scale="1,1,1" Type="Purifier_StasisPods">
+    <ObjectDoodad Id="1181641378" Position="9,171.5,7.9995" Rotation="4.9645" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1685937318" Variation="10" Position="161,124.5,9.9995" Rotation="5.7436" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="718060386" Position="151.0983,133.949,10" Rotation="0.3425" Scale="1.1281,1.1281,1.1281" Type="FireMedium">
+    <ObjectDoodad Id="781866718" Variation="1" Position="58.5,23.5,8" Scale="1,1,1" Type="Purifier_StasisPods">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1959254047" Position="88.69,167.25,9.9997" Rotation="4.3754" Scale="1,1,1" Type="StarShipAdun_Turret">
         <Flag Index="HeightAbsolute" Value="1"/>
         <Flag Index="NoSoundEmitters" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="718060386" Position="151.0983,133.949,10" Rotation="0.3425" Scale="1.1281,1.1281,1.1281" Type="FireMedium">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="1432246035" Position="167.3098,167.25,9.9997" Rotation="1.9062" Scale="1,1,1" Type="StarShipAdun_Turret">
         <Flag Index="HeightAbsolute" Value="1"/>
         <Flag Index="NoSoundEmitters" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="498289134" Variation="2" Position="42,136.5,7.9997" Scale="1,1,1" Type="Purifier_Cybros_Hologram">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="2105734224" Position="127.9636,146.7336,10.0002" Scale="1,1,1" Type="Elsecaro_Ash_Wind">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="727469995" Variation="1" Position="43.5,247.5,8.0002" Rotation="5.6816" Scale="1,1,1" Type="Purifier_CityBuilding_Floating_Temple">
+    <ObjectDoodad Id="498289134" Variation="2" Position="42,136.5,7.9997" Scale="1,1,1" Type="Purifier_Cybros_Hologram">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="170161283" Position="159.5,181.5,7.9995" Rotation="2.6586" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="394903429" Variation="1" Position="25.5,221.5,8.022" Rotation="2.883" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="170161283" Position="159.5,181.5,7.9995" Rotation="2.6586" Scale="1,1,1" Type="Aiur_City_Light">
+    <ObjectDoodad Id="727469995" Variation="1" Position="43.5,247.5,8.0002" Rotation="5.6816" Scale="1,1,1" Type="Purifier_CityBuilding_Floating_Temple">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="904926063" Variation="12" Position="188,226,7.9997" Rotation="1.5766" Scale="1,1,1" Type="Purifier_City_Decals">
@@ -368,19 +368,19 @@
     <ObjectDoodad Id="1750523226" Variation="3" Position="53.5,134.5,10.0021" Rotation="0.3225" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1380191550" Variation="1" Position="200.5,168,8.1135" Scale="1,1,1" Type="Purifier_Cybros_Hologram">
+    <ObjectDoodad Id="1691409783" Variation="3" Position="32.5,170.5,8.0214" Rotation="4.9636" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1691409783" Variation="3" Position="32.5,170.5,8.0214" Rotation="4.9636" Scale="1,1,1" Type="Aiur_City_Light">
+    <ObjectDoodad Id="1380191550" Variation="1" Position="200.5,168,8.1135" Scale="1,1,1" Type="Purifier_Cybros_Hologram">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1476004031" Variation="1" Position="146.5,48.5,8.0214" Rotation="4.6086" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1691086648" Position="155.9162,104.6662,8.0002" Rotation="0.1882" Scale="1.179,1.179,1.179" Type="FireMedium">
+    <ObjectDoodad Id="2066404458" Variation="1" Position="133.5,189,7.9997" Rotation="3.9333" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2066404458" Variation="1" Position="133.5,189,7.9997" Rotation="3.9333" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="1691086648" Position="155.9162,104.6662,8.0002" Rotation="0.1882" Scale="1.179,1.179,1.179" Type="FireMedium">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1507300393" Variation="18" Position="166.8447,236.6728,8.0002" Rotation="4.2282" Scale="1,1,1" Type="Purifier_City_Decals">
@@ -392,10 +392,10 @@
     <ObjectDoodad Id="16813437" Position="231.5,243.5,8.022" Rotation="2.1098" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1236180209" Variation="15" Position="38,64.5,10.252" Rotation="5.7304" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="1934577094" Position="182,76.5,7.9997" Rotation="3.4084" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1934577094" Position="182,76.5,7.9997" Rotation="3.4084" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="1236180209" Variation="15" Position="38,64.5,10.252" Rotation="5.7304" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="505392118" Variation="2" Position="33,150,8.0183" Rotation="4.2973" Scale="1,1,1" Type="Purifier_CityBuilding_Floating_Temple">
@@ -413,19 +413,19 @@
     <ObjectDoodad Id="1533522543" Variation="1" Position="135.5,42,8.135" Rotation="3.1511" Scale="1,1,1" Type="Purifier_WallPost">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="858947878" Position="153.893,155.385,8.0002" Rotation="4.334" Scale="1.1081,1.1081,1.1081" Type="FireMedium">
+    <ObjectDoodad Id="1832584929" Variation="14" Position="68,126.5,7.9997" Rotation="6.256" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1832584929" Variation="14" Position="68,126.5,7.9997" Rotation="6.256" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="858947878" Position="153.893,155.385,8.0002" Rotation="4.334" Scale="1.1081,1.1081,1.1081" Type="FireMedium">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="91621220" Variation="4" Position="199.5,95,8" Rotation="2.7866" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="97860199" Variation="2" Position="156.1264,217.4296,9.9941" Rotation="4.69" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="301330025" Variation="17" Position="123.5,134,11.9995" Rotation="4.009" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="301330025" Variation="17" Position="123.5,134,11.9995" Rotation="4.009" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="97860199" Variation="2" Position="156.1264,217.4296,9.9941" Rotation="4.69" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="343181115" Position="94.5,64,11.8737" Rotation="4.023" Scale="1,1,1" Type="Purifier_Central_CoreArm" Roll="3.1416">
@@ -438,20 +438,20 @@
     <ObjectDoodad Id="1879539271" Variation="1" Position="184,64,8.0178" Rotation="0.277" Scale="1,1,1" Type="Purifier_WallPost">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1122649416" Variation="7" Position="62.9882,219.2546,8.239" Rotation="1.523" Scale="1,1,1" Type="Purifier_City_Decals">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1031939153" Position="167.3098,88.75,9.9997" Rotation="1.235" Scale="1,1,1" Type="StarShipAdun_Turret">
         <Flag Index="HeightAbsolute" Value="1"/>
         <Flag Index="NoSoundEmitters" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="1122649416" Variation="7" Position="62.9882,219.2546,8.239" Rotation="1.523" Scale="1,1,1" Type="Purifier_City_Decals">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="2093069024" Variation="3" Position="145.5,205.5,10.0024" Rotation="4.662" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2029876636" Variation="12" Position="96.5432,157.3276,8.1962" Rotation="5.6401" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="222167248" Variation="1" Position="112.5,10.5,8.0014" Rotation="2.231" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="222167248" Variation="1" Position="112.5,10.5,8.0014" Rotation="2.231" Scale="1,1,1" Type="Aiur_City_Light">
+    <ObjectDoodad Id="2029876636" Variation="12" Position="96.5432,157.3276,8.1962" Rotation="5.6401" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="896726858" Variation="3" Position="199.5,247,7.9997" Rotation="0.9257" Scale="1,1,1" Type="Purifier_City_Decals">
@@ -466,19 +466,19 @@
     <ObjectDoodad Id="185037605" Variation="1" Position="91.5,174.5,8.0214" Rotation="1.3947" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1452776799" Variation="2" Position="93.6157,220.3122,10" Rotation="2.3112" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="1773216575" Variation="3" Position="166.5,54.5,7.9995" Rotation="2.5178" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1773216575" Variation="3" Position="166.5,54.5,7.9995" Rotation="2.5178" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="1452776799" Variation="2" Position="93.6157,220.3122,10" Rotation="2.3112" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1670810733" Variation="3" Position="47.5,76.5,11.9995" Rotation="2.0183" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1313292323" Variation="10" Position="232.9426,67.7988,8.0002" Rotation="5.5583" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="179153651" Variation="3" Position="178.5,232.5,7.9995" Rotation="1.2946" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="179153651" Variation="3" Position="178.5,232.5,7.9995" Rotation="1.2946" Scale="1,1,1" Type="Aiur_City_Light">
+    <ObjectDoodad Id="1313292323" Variation="10" Position="232.9426,67.7988,8.0002" Rotation="5.5583" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1944091568" Variation="7" Position="141,5,9.9995" Rotation="0.0112" Scale="1,1,1" Type="Purifier_City_Decals">
@@ -490,10 +490,10 @@
     <ObjectDoodad Id="1131005401" Variation="3" Position="205,190,9.9997" Rotation="4.834" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1578579680" Variation="10" Position="31.7221,224.1894,8" Rotation="4.1142" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="1815063272" Variation="11" Position="25.5,174.5,7.999" Rotation="5.0781" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1815063272" Variation="11" Position="25.5,174.5,7.999" Rotation="5.0781" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="1578579680" Variation="10" Position="31.7221,224.1894,8" Rotation="4.1142" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="799780206" Variation="2" Position="200,219,7.9992" Scale="1,1,1" Type="Purifier_Cybros_Hologram">
@@ -539,16 +539,16 @@
         <Flag Index="HeightAbsolute" Value="1"/>
         <Flag Index="NoSoundEmitters" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="30049307" Variation="5" Position="68,83.5,9.9995" Rotation="5.4914" Scale="1,1,1" Type="Purifier_City_Decals">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="302342316" Position="99.5,167.5,7.999" Rotation="0.4118" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2013258366" Variation="6" Position="169.5,153,9.9995" Rotation="2.7551" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="30049307" Variation="5" Position="68,83.5,9.9995" Rotation="5.4914" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="836944436" Position="226.5,194.5,10.0214" Rotation="5.3781" Scale="1,1,1" Type="Aiur_City_Light">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2013258366" Variation="6" Position="169.5,153,9.9995" Rotation="2.7551" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1489428386" Variation="6" Position="215.9072,147.833,8" Rotation="3.102" Scale="1,1,1" Type="Purifier_City_Decals">
@@ -564,31 +564,31 @@
     <ObjectDoodad Id="1360666691" Variation="2" Position="110,31,8.0002" Scale="1,1,1" Type="Purifier_RepairBay">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2082872350" Position="7.5,114.5,8.0002" Scale="1,1,1" Type="Purifier_Energy_Generator">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="890658362" Variation="7" Position="233,112,8.0002" Rotation="1.262" Scale="1,1,1" Type="StarShipAdun_Broken_Debris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="93546109" Variation="2" Position="150,86.5,9.9995" Rotation="3.1601" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="2082872350" Position="8,114,8.0002" Scale="1,1,1" Type="Purifier_Energy_Generator">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="990409531" Variation="2" Position="137.5,14.5,8.002" Rotation="2.8837" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1692474525" Variation="1" Position="54.5,134.5,9.998" Rotation="3.1413" Scale="1,1,1" Type="AiurBat">
+    <ObjectDoodad Id="93546109" Variation="2" Position="150,86.5,9.9995" Rotation="3.1601" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="556448175" Position="108.5168,107.205,8.0002" Rotation="5.4963" Scale="1,1,1" Type="Purifier_CityBuilding_Temple">
+    <ObjectDoodad Id="1692474525" Variation="1" Position="54.5,134.5,9.998" Rotation="3.1413" Scale="1,1,1" Type="AiurBat">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1280925534" Position="121,102.5,10.0007" Scale="1,1,1" Type="AiurBat">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="96183743" Position="108.5346,149.1115,8.0002" Rotation="3.917" Scale="1,1,1" Type="Purifier_CityBuilding_Temple">
+    <ObjectDoodad Id="556448175" Position="108.5168,107.205,8.0002" Rotation="5.4963" Scale="1,1,1" Type="Purifier_CityBuilding_Temple">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1417286496" Variation="11" Position="237.1137,127.4055,8.0002" Rotation="4.0036" Scale="1,1,1" Type="Purifier_City_Decals">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="96183743" Position="108.5346,149.1115,8.0002" Rotation="3.917" Scale="1,1,1" Type="Purifier_CityBuilding_Temple">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="716523843" Variation="1" Position="122,55,10.0842" Scale="1,1,1" Type="AiurBat">
@@ -603,12 +603,12 @@
     <ObjectDoodad Id="1326665521" Variation="4" Position="204.0502,37.8417,10.0002" Rotation="2.4038" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="826768038" Position="156.5,170.5,7.999" Rotation="2.7302" Scale="1,1,1" Type="Aiur_City_Light">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="989434135" Position="128.5,37,9.9997" Rotation="1.235" Scale="1,1,1" Type="StarShipAdun_Turret">
         <Flag Index="HeightAbsolute" Value="1"/>
         <Flag Index="NoSoundEmitters" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="826768038" Position="156.5,170.5,7.999" Rotation="2.7302" Scale="1,1,1" Type="Aiur_City_Light">
-        <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1117019469" Variation="2" Position="113,47.5,7.9995" Rotation="5.4448" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
@@ -640,25 +640,25 @@
     <ObjectDoodad Id="427821883" Variation="12" Position="50.5,131,9.9997" Rotation="0.342" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="587676748" Position="111.2534,162.8527,8.0002" Rotation="1.9384" Scale="0.8356,0.8356,0.8356" Type="FireMedium">
+    <ObjectDoodad Id="1994377133" Variation="1" Position="85.5,175.5,7.9992" Rotation="3.6445" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1994377133" Variation="1" Position="85.5,175.5,7.9992" Rotation="3.6445" Scale="1,1,1" Type="Aiur_City_Light">
+    <ObjectDoodad Id="587676748" Position="111.2534,162.8527,8.0002" Rotation="1.9384" Scale="0.8356,0.8356,0.8356" Type="FireMedium">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1588610932" Variation="2" Position="153,4,8.015" Scale="1,1,1" Type="Purifier_Cybros_Hologram">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="592506392" Position="89.5,98.5,8.0166" Rotation="1.573" Scale="1,1,1" Type="Aiur_City_Light">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1909268871" Variation="1" Position="191.5,13.5,7.9992" Rotation="4.8457" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="963118156" Variation="5" Position="71,23.5,8" Scale="1,1,1" Type="Purifier_Cybros_Hologram">
+    <ObjectDoodad Id="592506392" Position="89.5,98.5,8.0166" Rotation="1.573" Scale="1,1,1" Type="Aiur_City_Light">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2083589518" Variation="16" Position="235,202,11.9997" Rotation="4.7016" Scale="1,1,1" Type="Purifier_City_Decals">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="963118156" Variation="5" Position="71,23.5,8" Scale="1,1,1" Type="Purifier_Cybros_Hologram">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="136055026" Variation="1" Position="191.2343,151.7285,8" Rotation="0.1235" Scale="1,1,1" Type="StarShipAdun_Broken_Debris">
@@ -689,51 +689,51 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="235361782" Variation="6" Position="59.5,43.5,7.9995" Rotation="1.7607" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="1130203398" Variation="3" Position="224.5,245.5,7.9997" Rotation="2.881" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1130203398" Variation="3" Position="224.5,245.5,7.9997" Rotation="2.881" Scale="1,1,1" Type="Purifier_City_Decals">
+    <ObjectDoodad Id="235361782" Variation="6" Position="59.5,43.5,7.9995" Rotation="1.7607" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="825897987" Variation="2" Position="15.5,30,8" Rotation="5.4975" Scale="1,1,1" Type="Purifier_GroundConsole">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="675106593" Position="96.113,120.581,9.2907" Rotation="3.2744" Scale="0.9243,0.9243,0.9243" Type="FireMedium">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1489410357" Variation="17" Position="71,244.5,7.9995" Rotation="4.647" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="675106593" Position="96.113,120.581,9.2907" Rotation="3.2744" Scale="0.9243,0.9243,0.9243" Type="FireMedium">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectPoint Id="688971333" Position="127.5,127.5,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
     <ObjectPoint Id="1923621889" Position="128,67,0" Scale="1,1,1" Type="Normal" Name="Shop 4" Color="0,0,0,0"/>
-    <ObjectPoint Id="688971333" Position="128,128,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
     <ObjectPoint Id="1655036450" Position="128,187,0" Scale="1,1,1" Type="Normal" Name="Shop 2" Color="0,0,0,0"/>
     <ObjectPoint Id="389922660" Position="188,128,0" Scale="1,1,1" Type="Normal" Name="Shop 3" Color="0,0,0,0"/>
     <ObjectPoint Id="1826383261" Position="68,128,0" Scale="1,1,1" Type="Normal" Name="Shop 1" Color="0,0,0,0"/>
     <ObjectUnit Id="1500403393" Position="128,20,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
-    <ObjectUnit Id="261753703" Position="98,91.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1597752866" Position="131,87.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
+    <ObjectUnit Id="261753703" Position="98,91.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="599147275" Position="236,128,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="56517066" Position="164.5,95.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1041045929" Position="98.5,164.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1989396573" Position="125,87.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
-    <ObjectUnit Id="506008972" Position="164.5,159.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1909990280" Position="124.5,168.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
+    <ObjectUnit Id="506008972" Position="164.5,159.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="537767485" Position="211,131,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="982504196" Position="128,236,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1331881340" Position="168.5,130.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1398752142" Position="20,128,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
-    <ObjectUnit Id="702925203" Position="45,125,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="471345314" Position="168.5,124.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
+    <ObjectUnit Id="702925203" Position="45,125,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1102560838" Position="92.5,159.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
-    <ObjectUnit Id="910722733" Position="211,125,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1795721345" Position="236,128,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
-    <ObjectUnit Id="690332364" Position="131,45,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
-    <ObjectUnit Id="1042777371" Position="157.5,163.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
+    <ObjectUnit Id="910722733" Position="211,125,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1758515232" Position="87.5,125.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
+    <ObjectUnit Id="1042777371" Position="157.5,163.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
+    <ObjectUnit Id="690332364" Position="131,45,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1550919546" Position="20,128,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="257451052" Position="92,96.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
-    <ObjectUnit Id="1314006802" Position="158.5,91.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="1351530340" Position="128,20,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
+    <ObjectUnit Id="1314006802" Position="158.5,91.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="477830990" Position="45,131,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="437046246" Position="128,236,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
     <ObjectUnit Id="319885878" Position="125,211,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonAccelerationZone"/>
