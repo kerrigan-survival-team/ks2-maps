@@ -49,7 +49,6 @@
         <Flag Index="HeightAbsolute" Value="1"/>
         <Flag Index="NoSoundEmitters" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="364743796" Position="159.5,194.5,8.0004" Rotation="3.821" Scale="1.1604,1.1604,1.1604" Type="FireMedium">
     <ObjectDoodad Id="364743796" Position="174,191.5,8.0004" Rotation="3.821" Scale="1.1604,1.1604,1.1604" Type="FireMedium">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -71,6 +70,7 @@
     <ObjectDoodad Id="835573936" Variation="14" Position="97.015,130.584,10.0002" Rotation="2.7912" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="579094623" Variation="2" Position="173.5,181.5,8.0002" Rotation="3.092" Scale="1,1,1" Type="StarShipAdun_Broken_Debris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="815041031" Variation="6" Position="195.4658,61.9497,8" Rotation="1.9577" Scale="1,1,1" Type="Purifier_City_Decals">
@@ -306,6 +306,7 @@
     <ObjectDoodad Id="860940158" Variation="16" Position="128,241,7.9995" Rotation="3.1706" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="702632393" Position="169.5,202.5,9.7348" Scale="1,1,1" Type="Purifier_Cybros_Hologram">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1308765583" Variation="3" Position="221.5,12.5,8.0214" Rotation="1.5407" Scale="1,1,1" Type="Aiur_City_Light">
@@ -495,6 +496,7 @@
     <ObjectDoodad Id="1578579680" Variation="10" Position="31.7221,224.1894,8" Rotation="4.1142" Scale="1,1,1" Type="Purifier_City_Decals">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="799780206" Variation="2" Position="174.5605,207.9665,7.9997" Scale="1,1,1" Type="Purifier_Cybros_Hologram">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="526738002" Variation="6" Position="182.5,117.5,8.0004" Rotation="0.1081" Scale="1,1,1" Type="StarShipAdun_Broken_Debris">
