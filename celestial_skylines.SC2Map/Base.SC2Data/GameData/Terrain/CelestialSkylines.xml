@@ -55,10 +55,11 @@
         <BlendTextures value="Cybros8"/>
         <HardTiles value="MarSaraTile"/>
         <CliffSets value="CybrossCliff0"/>
-        <FixedSkyboxModel value="StarshipSkyBoxMP"/>
-        <FogColor value="255,121,214,244"/>
-        <FogDensity value="0.050000"/>
-        <FogFalloff value="0.050000"/>
-        <FogStartingHeight value="-40.000000"/>
+		<FixedSkyboxModel value="ShakurasSkyBox"/>
+        <FogEnabled value="1"/>
+        <FogColor value="255,45,68,86"/>
+        <FogDensity value="0.060000"/>
+        <FogFalloff value="0.200000"/>
+        <FogStartingHeight value="-0.900000"/>
     </CTerrain>
 </Catalog>
