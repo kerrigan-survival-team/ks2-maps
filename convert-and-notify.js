@@ -11,6 +11,7 @@ const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
 client.once("ready", async () => {
   // temporarily disabled while i work on a better solution, sorry. - koneko
+  // remember to uncomment last line, i deeply apologise.
   return;
   console.log(`Logged in as ${client.user.tag}!`);
 
@@ -81,4 +82,4 @@ client.once("ready", async () => {
   client.destroy();
 });
 
-client.login(DISCORD_TOKEN);
+//client.login(DISCORD_TOKEN);

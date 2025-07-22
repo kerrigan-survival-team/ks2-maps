@@ -55,7 +55,7 @@
         <BlendTextures value="Cybros8"/>
         <HardTiles value="MarSaraTile"/>
         <CliffSets value="CybrossCliff0"/>
-		<FixedSkyboxModel value="ShakurasSkyBox"/>
+		<FixedSkyboxModel value="KorhalSkyboxHorizon"/>
         <FogEnabled value="1"/>
         <FogColor value="255,45,68,86"/>
         <FogDensity value="0.060000"/>
