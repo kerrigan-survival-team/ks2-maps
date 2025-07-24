@@ -85,20 +85,20 @@
     <CWater id="LastSanctuaryWater01">
         <State index="0">
             <Name value="[Default]"/>
-            <Height value="6.000000"/>
-            <Color value="0.819608,0.294118,0.074510,0.050000"/>
-            <ColorFallOff value="0.090000"/>
-            <Specularity value="200.000000"/>
+            <Height value="4.100000"/>
+            <Color value="0.290196,0.305882,0.850980,0.010000"/>
+            <ColorFallOff value="0.070000"/>
+            <Specularity value="100.000000"/>
             <SpecularScaler value="2.700000"/>
             <UvRate value="0.000707,-0.000707,0.000000,0.000000"/>
-            <MeshRoughness value="0.300000"/>
-            <TextureRoughness value="0.400000"/>
+            <UvRotate value="0.179071"/>
+            <MeshRoughness value="0.225000"/>
+            <TextureRoughness value="0.370000"/>
             <ReflectionDistortion value="0.040000"/>
             <RefractionDistortion value="0.012000"/>
-            <MinReflection value="0.300000"/>
+            <MinReflection value="0.100000"/>
             <ReflectivityPower value="8.000000"/>
         </State>
-        <IsLava value="1"/>
         <BeachShoreline value="BelShirBeachShoreline"/>
         <CliffShoreline value="BelShirCliffShoreline"/>
         <Doodads Model="BelShirWaterDoodadLilyPad" MinSize="0.000500" MaxSize="0.000500"/>
@@ -116,7 +116,7 @@
         <BlendTextures value="Slayn8"/>
         <BlendTextures value="CharDirtLightEx2"/>
         <BlendTextures value="VolcanoIsle_4"/>
-        <BlendTextures value="CharLavaCracks"/>
+        <BlendTextures value="MonlythSand"/>
         <BlendTextures value="AiurTempleJungle2"/>
         <BlendTextures value="KorhalCityEx2_7"/>
         <HardTiles value="MarSaraTile"/>
