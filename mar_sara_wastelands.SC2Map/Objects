@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PlacedObjects Version="27">
+    <ObjectDoodad Id="1503748162" Variation="1" Position="159,97.5,7.9978" Rotation="1.3425" Scale="0.9506,0.9506,0.9506" Type="AiurTree_Grouped"/>
+    <ObjectDoodad Id="1660875124" Variation="6" Position="88.5,88.5,7.9958" Rotation="4.7353" Scale="0.8347,0.8347,0.8347" Type="AiurTree"/>
+    <ObjectDoodad Id="179380616" Variation="7" Position="196.5,114.5,7.9982" Rotation="3.0253" Scale="0.8552,0.8552,0.8552" Type="AiurTree"/>
+    <ObjectDoodad Id="953746054" Variation="1" Position="89,89.5,7.9958" Rotation="3.616" Scale="0.972,0.972,0.972" Type="AiurTree_Grouped"/>
+    <ObjectDoodad Id="433750781" Variation="7" Position="105.5,200.5,7.9965" Rotation="1.4633" Scale="1.1108,1.1108,1.1108" Type="AiurTree"/>
+    <ObjectDoodad Id="1131759588" Variation="7" Position="105.5,201.5,7.9965" Rotation="3.2526" Scale="1.0642,1.0642,1.0642" Type="AiurTree"/>
     <ObjectPoint Id="562554067" Position="165,113.5,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
     <ObjectPoint Id="1150838230" Position="160,160,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
-    <ObjectPoint Id="1619629666" Position="96,96,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
     <ObjectPoint Id="348312107" Position="128,128,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
+    <ObjectPoint Id="1619629666" Position="96,96,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
     <ObjectPoint Id="1700692043" Position="94,156.5,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
     <ObjectCamera Id="816" Position="126.7687,12.3073,0" Rotation="3.14" Scale="1,1,1" Name="Camera 007" Color="0,0,0,0" CameraTarget="126.7687,12.3073">
         <Flag Index="CameraHidden" Value="1"/>
