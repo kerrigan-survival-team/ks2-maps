@@ -1,273 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PlacedObjects Version="27">
-    <ObjectDoodad Id="1008541245" Position="148.8212,68.532,7.9992" Rotation="2.4936" Scale="1,1,1" Type="CharCrashingBattlecruiser">
+    <ObjectDoodad Id="1008541245" Position="148.8212,68.532,9.9995" Rotation="2.4936" Scale="1,1,1" Type="CharCrashingBattlecruiser">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="526311997" Position="132.9101,169.4057,10.9731" Rotation="2.681" Scale="1.0012,1.0012,1.0012" Type="ZergRootsCliff" Pitch="0.722" Roll="0.5168">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="658652526" Position="156.174,98.9682,11.9812" Scale="1,1,1" Type="ZergInfestedCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1695434987" Position="141.9113,75.013,5.9506" Scale="1,1,1" Type="Aiur_CrashingDebris">
+    <ObjectDoodad Id="1695434987" Position="141.9113,75.013,7.951" Scale="1,1,1" Type="Aiur_CrashingDebris">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="676240792" Variation="2" Position="196.5227,140.773,10.131" Rotation="0.0634" Scale="1.0727,1.0727,1.0727" Type="ZergRootsCliff">
+    <ObjectDoodad Id="103157669" Position="92.798,95.881,14.0004" Rotation="1.3554" Scale="1,1,1" Type="Aiur_CrashingDebris" Pitch="6.1235" Roll="6.083">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="103157669" Position="92.798,95.881,9.9968" Rotation="1.3554" Scale="1,1,1" Type="Aiur_CrashingDebris" Pitch="6.1235" Roll="6.083">
+    <ObjectDoodad Id="1968364412" Position="96.4162,204.9465,14.0002" Rotation="4.892" Scale="1,1,1" Type="CharCrashingDebrisFire">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="921404275" Position="205.608,169.0131,11.9746" Rotation="6.0366" Scale="1.0517,1.0517,1.0517" Type="ZergRootsCliff">
+    <ObjectDoodad Id="2084362710" Position="189.2788,241.6791,11.9995" Rotation="5.6735" Scale="1,1,1" Type="CharCrashingBarracks">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1489919900" Variation="1" Position="203.923,141.9003,12.3051" Rotation="6.0065" Scale="0.953,0.953,0.953" Type="ZergRootsCliff">
+    <ObjectDoodad Id="1291469760" Position="116.3371,47.3752,9.9992" Rotation="1.7885" Scale="1,1,1" Type="CharCrashingBarracks">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1386724514" Position="68.83,171.5034,11.9997" Rotation="4.0734" Scale="1,1,1" Type="CharCrashingDebrisFire">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="760952509" Position="174.9772,236.1723,12.0014" Rotation="1.576" Scale="1,1,1" Type="CharCrashingBattlecruiser">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="996271552" Position="225.175,155.4338,9.7961" Rotation="5.2077" Scale="1,1,1" Type="Aiur_CrashingDebris" Pitch="0.2797" Roll="0.293">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="445976107" Variation="1" Position="190.0087,96.9064,11.947" Rotation="3.2854" Scale="1.0808,1.0808,1.0808" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1968364412" Position="96.4162,204.9465,11.999" Rotation="4.892" Scale="1,1,1" Type="CharCrashingDebrisFire">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="2084362710" Position="189.2788,241.6791,9.9992" Rotation="5.6735" Scale="1,1,1" Type="CharCrashingBarracks">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1291469760" Position="116.3371,47.3752,7.9987" Rotation="1.7885" Scale="1,1,1" Type="CharCrashingBarracks">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1386724514" Position="68.83,171.5034,7.9995" Rotation="4.0734" Scale="1,1,1" Type="CharCrashingDebrisFire">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="50774035" Variation="1" Position="175.818,158.0551,11.9975" Rotation="0.1542" Scale="1.0322,1.0322,1.0322" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="95867264" Variation="1" Position="197.7658,97.6481,12.0703" Rotation="6.1586" Scale="1.0368,1.0368,1.0368" Type="ZergRootsCliff" Pitch="0.4853" Roll="0.058">
+    <ObjectDoodad Id="1987335483" Position="204.6564,209.086,10" Rotation="0.6523" Scale="1,1,1" Type="Aiur_CrashingDebris" Pitch="6.1877" Roll="5.8002">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="760952509" Position="174.9772,236.1723,10.0012" Rotation="1.576" Scale="1,1,1" Type="CharCrashingBattlecruiser">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1179011112" Position="126.1337,119.9055,11.999" Rotation="3.4074" Scale="1.0986,1.0986,1.0986" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="996271552" Position="225.175,155.4338,7.7963" Rotation="5.2077" Scale="1,1,1" Type="Aiur_CrashingDebris" Pitch="0.2797" Roll="0.293">
+    <ObjectDoodad Id="2097287143" Position="54.0756,237.8488,12.0136" Rotation="0.855" Scale="1,1,1" Type="Aiur_CrashingDebris" Pitch="6.0935" Roll="5.7834">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1636869190" Variation="1" Position="205.9482,100.1257,11.999" Rotation="1.7094" Scale="1.159,1.159,1.159" Type="ZergRootsCliff">
+    <ObjectDoodad Id="1188820523" Position="251.321,15.9042,13.9992" Scale="1,1,1" Type="Aiur_CrashingDebris" Roll="1.719">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1994808071" Variation="2" Position="170.5698,156.3513,8.882" Rotation="1.5183" Scale="0.8625,0.8625,0.8625" Type="ZergRootsCliff">
+    <ObjectDoodad Id="1130295273" Position="149.558,246.9921,12.0053" Rotation="0.5078" Scale="1,1,1" Type="CharCrashingBarracks">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1982636855" Position="176.0871,126.739,11.9992" Rotation="1.1691" Scale="1,1,1" Type="Aiur_CrashingDebris">
+    <ObjectDoodad Id="115069894" Position="81.8078,44.6623,12" Scale="1,1,1" Type="Aiur_CrashingDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1987335483" Position="204.6564,209.086,7.9997" Rotation="0.6523" Scale="1,1,1" Type="Aiur_CrashingDebris" Pitch="6.1877" Roll="5.8002">
-        <Flag Index="HeightOffset" Value="1"/>
+    <ObjectDoodad Id="858146855" Position="18.8234,60.252,14.0002" Rotation="4.4077" Scale="1,1,1" Type="CharCrashingBattlecruiser">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1719634024" Variation="1" Position="175.9677,98.5886,11.9995" Rotation="4.036" Scale="1.0136,1.0136,1.0136" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="2054511674" Variation="1" Position="177.1147,97.5095,12.017" Rotation="5.932" Scale="0.8063,0.8063,0.8063" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1638821092" Variation="1" Position="175.3317,112.639,10.0026" Rotation="5.3933" Scale="0.9135,0.9135,0.9135" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="233360020" Variation="1" Position="126.5783,142.4777,11.999" Scale="1,1,1" Type="ZergInfestedCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1812409422" Variation="1" Position="151.3356,97.543,12.017" Rotation="1.0825" Scale="0.9558,0.9558,0.9558" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1093185833" Variation="2" Position="126.5507,97.7763,11.9887" Rotation="5.6105" Scale="0.847,0.847,0.847" Type="ZergRootsCliff" Pitch="0.2314" Roll="5.9902">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="2097287143" Position="54.0756,237.8488,8.001" Rotation="0.855" Scale="1,1,1" Type="Aiur_CrashingDebris" Pitch="6.0935" Roll="5.7834">
-        <Flag Index="HeightOffset" Value="1"/>
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="2114158453" Variation="2" Position="144.7976,110.634,11.7761" Rotation="2.5944" Scale="0.9177,0.9177,0.9177" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1765723866" Variation="1" Position="126.482,124.9572,11.999" Rotation="3.208" Scale="1.067,1.067,1.067" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1600866301" Variation="1" Position="126.6855,167.675,11.999" Rotation="3.2932" Scale="1.151,1.151,1.151" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="623359050" Variation="2" Position="131.2917,97.6145,12.0026" Rotation="5.0517" Scale="1.0905,1.0905,1.0905" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="523868098" Variation="2" Position="159.1213,112.7333,8.5236" Rotation="5.176" Scale="0.9482,0.9482,0.9482" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="2100136399" Variation="1" Position="136.8906,140.8696,9.9294" Rotation="1.1315" Scale="1.1743,1.1743,1.1743" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="699458551" Variation="2" Position="156.2165,163.735,12.0068" Rotation="1.5761" Scale="1.0014,1.0014,1.0014" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1188820523" Position="251.321,15.9042,11.9992" Scale="1,1,1" Type="Aiur_CrashingDebris" Roll="1.719">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="871016937" Variation="1" Position="137.4291,97.756,11.9997" Rotation="5.953" Scale="1.1374,1.1374,1.1374" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1148806789" Variation="2" Position="207.0383,151.287,11.969" Rotation="4.604" Scale="0.996,0.996,0.996" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1972451567" Position="136.3952,142.8703,11.9865" Rotation="1.559" Scale="0.9106,0.9106,0.9106" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="798844935" Position="155.876,101.0295,11.999" Rotation="2.0024" Scale="0.997,0.997,0.997" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1247985525" Variation="2" Position="158.9301,154.536,10.0151" Rotation="3.423" Scale="0.8771,0.8771,0.8771" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="150743989" Variation="1" Position="200.8041,168.346,12.014" Rotation="2.9904" Scale="1.1394,1.1394,1.1394" Type="ZergRootsCliff" Pitch="0.131" Roll="0.146">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="861663537" Variation="1" Position="206.4477,107.9067,12.0046" Rotation="3.4067" Scale="1.1762,1.1762,1.1762" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1374940054" Variation="2" Position="135.6098,125.7424,11.999" Rotation="1.8981" Scale="1.1435,1.1435,1.1435" Type="ZergRootsCliff" Pitch="0.0207" Roll="6.1367">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="223894006" Position="156.193,110.9145,10.0034" Rotation="0.9721" Scale="0.972,0.972,0.972" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="315036317" Position="126.059,115.813,11.999" Rotation="4.8881" Scale="1.0776,1.0776,1.0776" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1679368690" Variation="1" Position="156.4377,165.0507,12.0134" Rotation="2.6884" Scale="0.8361,0.8361,0.8361" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="603407426" Variation="1" Position="196.7587,168.0102,11.8354" Rotation="2.9096" Scale="0.875,0.875,0.875" Type="ZergRootsCliff" Pitch="6.046" Roll="0.9348">
-        <Flag Index="HeightOffset" Value="1"/>
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1824870645" Variation="1" Position="206.208,144.4594,12.0085" Rotation="1.1364" Scale="1.1972,1.1972,1.1972" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="762049683" Position="175.48,167.7731,11.99" Rotation="3.1752" Scale="0.9143,0.9143,0.9143" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="862665063" Position="207.0764,119.6645,9.525" Rotation="4.146" Scale="1,1,1" Type="CharCrashingBattlecruiser">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1130295273" Position="149.558,246.9921,10.0051" Rotation="0.5078" Scale="1,1,1" Type="CharCrashingBarracks">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="669305652" Variation="2" Position="206.796,153.1982,12.0136" Rotation="0.9492" Scale="1.183,1.183,1.183" Type="ZergRootsCliff" Pitch="0.0334" Roll="0.4077">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="2076769949" Position="206.1835,148.9587,11.9814" Rotation="0.5563" Scale="0.8554,0.8554,0.8554" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1748308697" Variation="2" Position="206.3537,121.4147,12.0024" Rotation="0.1262" Scale="1.017,1.017,1.017" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="115069894" Position="81.8078,44.6623,7.9997" Scale="1,1,1" Type="Aiur_CrashingDebris">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="2053598344" Position="183.4724,98.2687,11.999" Rotation="5.4328" Scale="1.169,1.169,1.169" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="787894941" Position="206.3771,158.4812,12.0163" Rotation="0.458" Scale="0.8461,0.8461,0.8461" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="809010862" Variation="2" Position="155.5278,157.7954,12.0134" Rotation="6.032" Scale="1.0446,1.0446,1.0446" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="858146855" Position="18.8234,60.252,10" Rotation="4.4077" Scale="1,1,1" Type="CharCrashingBattlecruiser">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="315653150" Position="125.8076,103.009,12.0168" Rotation="3.4997" Scale="0.9621,0.9621,0.9621" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1476943527" Position="86.6933,168.9172,10.605" Scale="1,1,1" Type="Aiur_CrashingDebris">
-        <Flag Index="HeightOffset" Value="1"/>
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1852469510" Variation="1" Position="195.504,96.565,10.14" Rotation="5.7106" Scale="1.0058,1.0058,1.0058" Type="ZergRootsCliff" Pitch="0.9392" Roll="1.0524">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1368795744" Variation="2" Position="126.3664,166.0854,11.999" Rotation="3.9858" Scale="0.9511,0.9511,0.9511" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="846920267" Variation="1" Position="138.0202,148.9157,11.988" Rotation="3.5578" Scale="0.8041,0.8041,0.8041" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1147620902" Variation="1" Position="189.9096,95.1857,7.999" Rotation="2.4667" Scale="0.8198,0.8198,0.8198" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1058749079" Position="136.5786,118.035,11.9943" Rotation="1.8461" Scale="1.0395,1.0395,1.0395" Type="ZergRootsCliff" Pitch="0.2023" Roll="0.3605">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1889744222" Position="132.6582,142.1245,11.999" Rotation="6.0627" Scale="1.0988,1.0988,1.0988" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1342974601" Variation="1" Position="146.6684,157.6928,12.0007" Rotation="6.0305" Scale="0.8535,0.8535,0.8535" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="12838831" Variation="2" Position="185.319,156.8681,11.985" Rotation="4.0104" Scale="0.93,0.93,0.93" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1747696067" Variation="1" Position="195.2368,140.4311,9.8388" Rotation="3.495" Scale="0.8837,0.8837,0.8837" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="531831405" Variation="2" Position="206.7321,141.241,9.229" Rotation="0.62" Scale="0.9655,0.9655,0.9655" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="769190283" Variation="2" Position="206.0053,126.6667,11.9914" Rotation="1.5354" Scale="0.83,0.83,0.83" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1532381561" Position="175.433,141.704,11.9992" Rotation="0.9184" Scale="1,1,1" Type="Aiur_CrashingDebris" Pitch="5.8725" Roll="5.6271">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="467668304" Position="205.8818,99.0893,11.999" Rotation="0.8945" Scale="1.0727,1.0727,1.0727" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="393583794" Position="155.1835,125.9777,11.9992" Rotation="5.8012" Scale="1,1,1" Type="Aiur_CrashingDebris" Pitch="6.1735" Roll="0.3212">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1485373943" Variation="1" Position="206.294,117.8513,11.8596" Rotation="2.097" Scale="1.0312,1.0312,1.0312" Type="ZergRootsCliff" Pitch="0.2863" Roll="6.2253">
-        <Flag Index="HeightOffset" Value="1"/>
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="641290931" Position="155.966,142.9172,11.9992" Rotation="0.8452" Scale="1,1,1" Type="Aiur_CrashingDebris" Pitch="0.331" Roll="4.341">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="662394953" Variation="2" Position="125.6308,98.3522,12.0046" Rotation="3.6105" Scale="1.0124,1.0124,1.0124" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="252492227" Variation="2" Position="141.264,127.151,9.9897" Rotation="4.531" Scale="1.088,1.088,1.088" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="2113518566" Position="195.6054,125.528,12.0034" Rotation="3.293" Scale="1.0876,1.0876,1.0876" Type="ZergRootsCliff">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1373307338" Position="193.0432,168.484,11.7924" Rotation="4.6501" Scale="0.8632,0.8632,0.8632" Type="ZergRootsCliff" Pitch="5.2312" Roll="6.069">
+    <ObjectDoodad Id="1476943527" Position="86.6933,168.9172,14.5993" Scale="1,1,1" Type="Aiur_CrashingDebris">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectPoint Id="2142687418" Position="192.5,106,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Defender" Color="0,0,0,0"/>
     <ObjectPoint Id="756511362" Position="118.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Ghosts)" Color="0,0,0,0"/>
-    <ObjectPoint Id="168988177" Position="215.5698,133.5698,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
+    <ObjectPoint Id="168988177" Position="212,152,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
     <ObjectPoint Id="701410637" Position="165.607,180.0502,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
     <ObjectPoint Id="231894419" Position="202.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Supports)" Color="0,0,0,0"/>
     <ObjectPoint Id="643511402" Position="164.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Builders)" Color="0,0,0,0"/>
-    <ObjectPoint Id="829344360" Position="115.5495,133.8593,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
+    <ObjectPoint Id="829344360" Position="116,112,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
     <ObjectPoint Id="1248696952" Position="136.5,104.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Hunter" Color="0,0,0,0"/>
-    <ObjectPoint Id="314" Position="166.0056,133.5561,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
+    <ObjectPoint Id="314" Position="164,136,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
     <ObjectPoint Id="918115619" Position="165.536,88.5788,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
     <ObjectCamera Id="816" Position="126.7687,12.3073,0" Rotation="3.14" Scale="1,1,1" Name="Camera 007" Color="0,0,0,0" CameraTarget="126.7687,12.3073">
         <Flag Index="CameraHidden" Value="1"/>
