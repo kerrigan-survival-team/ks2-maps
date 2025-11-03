@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CLight id="DuckMapLighting">
+        <ToDInfoArray index="0">
+            <Id value="DuckMapLighting"/>
+            <AmbientColor value="0.784314,0.784314,0.784314"/>
+            <OperatorHDR value="1"/>
+            <TerrainUseBackLight value="0"/>
+            <Colorize value="1"/>
+            <Param index="HDRExposure" value="1.500000"/>
+            <Param index="HDRBloomThreshold" value="1.100000"/>
+            <Param index="HDRWhitePoint" value="1.850000"/>
+            <Param index="HDRGain" value="1.000000"/>
+            <Param index="HDRScale" value="1.000000"/>
+            <Param index="TerrainSpecularExp" value="11.210000"/>
+            <Param index="TerrainHDRDiffuse" value="1.000000"/>
+            <Param index="TerrainHDRSpecular" value="3.750000"/>
+            <Param index="CreepSpecularExp" value="30.000000"/>
+            <Param index="CreepHDRSpecMultiplier" value="3.000000"/>
+            <Param index="ColorizationContrast" value="1.066000"/>
+            <Param index="ColorizationHue" value="0.001000"/>
+            <Param index="ColorizationBlend" value="0.180000"/>
+            <Param index="AOOcclusionRadius" value="0.100000"/>
+            <Param index="AONoOcclusion" value="0.020000"/>
+            <Param index="AOOcclusionPower" value="1.970000"/>
+            <Param index="AODetailOcclusionRadius" value="0.023000"/>
+            <Param index="AODetailNoOcclusion" value="0.015000"/>
+            <Param index="AODetailOcclusionPower" value="3.610000"/>
+            <DirectionalLight index="Key">
+                <Color value="0.584314,0.564706,0.631373"/>
+                <ColorMultiplier value="3.981000"/>
+                <SpecularColor value="1.000000,1.000000,1.000000"/>
+                <SpecColorMultiplier value="1.250000"/>
+                <Direction value="0.573801,0.223139,-0.788011"/>
+            </DirectionalLight>
+            <DirectionalLight index="Fill" Color="0.215686,0.305882,0.909804" ColorMultiplier="2.200000" Direction="-0.463854,-0.769851,0.438371"/>
+            <DirectionalLight index="Back" Color="0.141176,0.141176,0.619608" ColorMultiplier="1.400000" Direction="-0.668793,-0.021251,0.743145"/>
+            <Variations index="0" removed="1"/>
+            <Variations index="1" removed="1"/>
+            <Variations index="2" removed="1"/>
+            <Variations index="3" removed="1"/>
+            <Variations index="4" removed="1"/>
+            <Variations index="5" removed="1"/>
+            <Variations index="6" removed="1"/>
+            <Variations index="7" removed="1"/>
+            <Variations index="8" removed="1"/>
+            <Variations index="9" removed="1"/>
+            <Variations index="10" removed="1"/>
+            <Variations index="11" removed="1"/>
+            <Variations index="12" removed="1"/>
+            <Variations index="13" removed="1"/>
+            <Variations index="14" removed="1"/>
+            <Variations index="15" removed="1"/>
+            <Variations index="16" removed="1"/>
+            <Variations index="17" removed="1"/>
+            <Variations index="18" removed="1"/>
+            <Variations index="19" removed="1"/>
+            <Variations index="20" removed="1"/>
+            <Variations index="21" removed="1"/>
+            <Variations index="22" removed="1"/>
+            <Variations index="23" removed="1"/>
+            <Variations index="24" removed="1"/>
+            <Variations index="25" removed="1"/>
+            <Variations index="26" removed="1"/>
+            <Variations index="27" removed="1"/>
+            <Variations index="28" removed="1"/>
+        </ToDInfoArray>
+        <EditorCategories value="LightGroup:Tilesets"/>
+    </CLight>
+    <CTerrain id="DuckMapTerrainType">
+        <EditorCategories value="Climate:Wasteland"/>
+        <Lighting value="DuckMapLighting"/>
+        <LoadingScreen value="Assets\Textures\loading-shakuras.dds"/>
+        <TextureProp value="shakuras"/>
+        <Ambience value="Ambience_Shakuras"/>
+        <ReverbAmbient value="BetaVerb"/>
+        <BlendTextures value="ShakurasSand"/>
+        <BlendTextures value="ShakurasSandDark"/>
+        <BlendTextures value="ShakurasDirtCracked"/>
+        <BlendTextures value="SlaynGrass8"/>
+        <BlendTextures value="CompoundMansion_2"/>
+        <BlendTextures value="AgriaCrops"/>
+        <BlendTextures value="ShakurasBricks"/>
+        <BlendTextures value="ShakurasHextiles"/>
+        <HardTiles value="MarSaraTile"/>
+        <CliffSets value="ShakurasEx1Cliff0"/>
+        <CliffSets value="ShakurasEx1Cliff1"/>
+        <FixedSkyboxModel value="ShakurasSkyBox"/>
+        <FogEnabled value="1"/>
+        <FogColor value="255,45,68,86"/>
+        <FogDensity value="0.060000"/>
+        <FogFalloff value="0.200000"/>
+        <FogStartingHeight value="-0.900000"/>
+        <CreepBaseTexture value="Assets\Textures\Creep_Shakuras.dds"/>
+        <CreepEdgeNormalMap value="Assets\Textures\CreepEdgeNormal.dds"/>
+        <CreepSettingsArray index="Low" CreepOpaqueAlphaThreshold="0.180000" CreepTranslucentMinThreshold="0.050000" CreepTranslucentPassTint="1.000000,0.850000,0.750000"/>
+        <CreepSettingsArray index="Medium">
+            <CreepOpaqueAlphaThreshold value="0.180000"/>
+            <CreepTranslucentMinThreshold value="0.050000"/>
+            <CreepTranslucentMaxThreshold value="0.150000"/>
+            <CreepTranslucentPassTint value="1.000000,0.850000,0.750000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="High">
+            <CreepOpaqueAlphaThreshold value="0.180000"/>
+            <CreepTranslucentMinThreshold value="0.050000"/>
+            <CreepTranslucentMaxThreshold value="0.150000"/>
+            <CreepTranslucentPassTint value="1.000000,0.850000,0.750000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="Ultra">
+            <CreepOpaqueAlphaThreshold value="0.180000"/>
+            <CreepTranslucentMinThreshold value="0.050000"/>
+            <CreepTranslucentMaxThreshold value="0.150000"/>
+            <CreepTranslucentPassTint value="1.000000,0.850000,0.750000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="Extreme">
+            <CreepOpaqueAlphaThreshold value="0.180000"/>
+            <CreepTranslucentMinThreshold value="0.050000"/>
+            <CreepTranslucentMaxThreshold value="0.150000"/>
+            <CreepTranslucentPassTint value="1.000000,0.850000,0.750000"/>
+        </CreepSettingsArray>
+        <MinimapBrightenFactor value="2.000000"/>
+    </CTerrain>
+</Catalog>
