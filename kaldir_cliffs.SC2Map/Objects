@@ -3,11 +3,11 @@
     <ObjectDoodad Id="1008541245" Position="148.8212,68.532,9.9995" Rotation="2.4936" Scale="1,1,1" Type="CharCrashingBattlecruiser">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1130295273" Position="149.558,246.9921,12.0053" Rotation="0.5078" Scale="1,1,1" Type="CharCrashingBarracks">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="2097287143" Position="54.0756,237.8488,12.0136" Rotation="0.855" Scale="1,1,1" Type="Aiur_CrashingDebris" Pitch="6.0935" Roll="5.7834">
         <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1130295273" Position="149.558,246.9921,12.0053" Rotation="0.5078" Scale="1,1,1" Type="CharCrashingBarracks">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1695434987" Position="141.9113,75.013,7.951" Scale="1,1,1" Type="Aiur_CrashingDebris">
@@ -20,29 +20,29 @@
     <ObjectDoodad Id="1968364412" Position="96.4162,204.9465,14.0002" Rotation="4.892" Scale="1,1,1" Type="CharCrashingDebrisFire">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="115069894" Position="81.8078,44.6623,12" Scale="1,1,1" Type="Aiur_CrashingDebris">
+    <ObjectDoodad Id="2084362710" Position="189.2788,241.6791,11.9997" Rotation="5.6735" Scale="1,1,1" Type="CharCrashingBarracks">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2084362710" Position="189.2788,241.6791,11.9995" Rotation="5.6735" Scale="1,1,1" Type="CharCrashingBarracks">
+    <ObjectDoodad Id="115069894" Position="81.8078,44.6623,12" Scale="1,1,1" Type="Aiur_CrashingDebris">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1291469760" Position="116.3371,47.3752,9.9992" Rotation="1.7885" Scale="1,1,1" Type="CharCrashingBarracks">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1188820523" Position="251.321,15.9042,13.9992" Scale="1,1,1" Type="Aiur_CrashingDebris" Roll="1.719">
+    <ObjectDoodad Id="1386724514" Position="68.83,171.5034,11.9997" Rotation="4.0734" Scale="1,1,1" Type="CharCrashingDebrisFire">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1386724514" Position="68.83,171.5034,11.9997" Rotation="4.0734" Scale="1,1,1" Type="CharCrashingDebrisFire">
+    <ObjectDoodad Id="1188820523" Position="251.321,15.9042,13.9992" Scale="1,1,1" Type="Aiur_CrashingDebris" Roll="1.719">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="858146855" Position="18.8234,60.252,14.0002" Rotation="4.4077" Scale="1,1,1" Type="CharCrashingBattlecruiser">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="996271552" Position="225.175,155.4338,9.7961" Rotation="5.2077" Scale="1,1,1" Type="Aiur_CrashingDebris" Pitch="0.2797" Roll="0.293">
-        <Flag Index="HeightOffset" Value="1"/>
+    <ObjectDoodad Id="760952509" Position="174.9772,236.1723,12.0014" Rotation="1.576" Scale="1,1,1" Type="CharCrashingBattlecruiser">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="760952509" Position="174.9772,236.1723,12.0014" Rotation="1.576" Scale="1,1,1" Type="CharCrashingBattlecruiser">
+    <ObjectDoodad Id="996271552" Position="225.175,155.4338,9.7961" Rotation="5.2077" Scale="1,1,1" Type="Aiur_CrashingDebris" Pitch="0.2797" Roll="0.293">
+        <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1476943527" Position="86.6933,168.9172,14.5993" Scale="1,1,1" Type="Aiur_CrashingDebris">
@@ -53,13 +53,13 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectPoint Id="168988177" Position="212,152,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
-    <ObjectPoint Id="756511362" Position="118.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Ghosts)" Color="0,0,0,0"/>
     <ObjectPoint Id="2142687418" Position="192.5,106,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Defender" Color="0,0,0,0"/>
+    <ObjectPoint Id="756511362" Position="118.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Ghosts)" Color="0,0,0,0"/>
+    <ObjectPoint Id="168988177" Position="212,152,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
     <ObjectPoint Id="701410637" Position="165.607,180.0502,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
-    <ObjectPoint Id="829344360" Position="116,112,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
-    <ObjectPoint Id="643511402" Position="164.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Builders)" Color="0,0,0,0"/>
     <ObjectPoint Id="231894419" Position="202.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Supports)" Color="0,0,0,0"/>
+    <ObjectPoint Id="643511402" Position="164.5,86.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Survivor (Builders)" Color="0,0,0,0"/>
+    <ObjectPoint Id="829344360" Position="116,112,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
     <ObjectPoint Id="1248696952" Position="136.5,104.5,0" Scale="1,1,1" Type="Normal" Name="Sandbox Kerrigan Team Hunter" Color="0,0,0,0"/>
     <ObjectPoint Id="314" Position="164,136,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
     <ObjectPoint Id="918115619" Position="165.536,88.5788,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
