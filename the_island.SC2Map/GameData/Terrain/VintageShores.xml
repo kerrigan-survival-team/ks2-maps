@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CLight id="VintageShoresLighting" parent="default">
+        <ToDInfoArray index="0" Id="VintageShoresLighting" AmbientColor="0.686275,0.713726,0.525490" Colorize="1">
+            <Param index="HDRExposure" value="1.200000"/>
+            <Param index="HDRWhitePoint" value="1.850000"/>
+            <Param index="HDRGain" value="0.000000"/>
+            <Param index="HDRScale" value="0.000000"/>
+            <Param index="TerrainSpecularExp" value="11.210000"/>
+            <Param index="TerrainHDRSpecular" value="3.750000"/>
+            <Param index="CreepSpecularExp" value="30.000000"/>
+            <Param index="CreepHDRSpecMultiplier" value="3.000000"/>
+            <Param index="ColorizationBrightness" value="1.250000"/>
+            <Param index="ColorizationContrast" value="1.066000"/>
+            <Param index="ColorizationBlend" value="0.250000"/>
+            <Param index="AOOcclusionRadius" value="1.000000"/>
+            <Param index="AONoOcclusion" value="0.900000"/>
+            <Param index="AOOcclusionPower" value="2.000000"/>
+            <Param index="AODetailOcclusionRadius" value="0.010000"/>
+            <Param index="AODetailNoOcclusion" value="0.060000"/>
+            <Param index="AODetailOcclusionPower" value="4.000000"/>
+            <DirectionalLight index="Key">
+                <Color value="0.937255,0.933333,0.811765"/>
+                <ColorMultiplier value="1.080000"/>
+                <SpecColorMultiplier value="1.250000"/>
+                <Direction value="0.724693,-0.124265,-0.677775"/>
+            </DirectionalLight>
+            <DirectionalLight index="Fill" Color="0.211765,0.529412,0.529412" ColorMultiplier="1.500000" Direction="-0.463854,-0.769851,0.438371"/>
+            <DirectionalLight index="Back" Color="0.082353,0.121569,0.200000" ColorMultiplier="1.400000" Direction="-0.668793,-0.021251,0.743145"/>
+        </ToDInfoArray>
+        <EditorCategories value="LightGroup:Tilesets"/>
+    </CLight>
+    <CWater id="VintageShoreAgria">
+        <State index="0">
+            <Name value="[Default]"/>
+            <Height value="1.650000"/>
+            <Color value="0.100000,0.350000,0.500000,0.300000"/>
+            <ColorFallOff value="0.100000"/>
+            <Specularity value="100.000000"/>
+            <SpecularScaler value="2.450000"/>
+            <UvRate value="0.000000,-1.000000,0.000000,0.000000"/>
+            <ReflectionDistortion value="0.012000"/>
+            <RefractionDistortion value="0.025000"/>
+            <MinReflection value="0.300000"/>
+            <ReflectivityPower value="8.000000"/>
+        </State>
+        <BeachShoreline value="BelShirBeachShoreline"/>
+        <CliffShoreline value="BelShirCliffShoreline"/>
+    </CWater>
+    <CWater id="VintageShoreAlbion">
+        <State index="0">
+            <Name value="[Default]"/>
+            <Height value="9.550000"/>
+            <Color value="0.100000,0.350000,0.500000,0.300000"/>
+            <ColorFallOff value="0.100000"/>
+            <Specularity value="100.000000"/>
+            <SpecularScaler value="2.450000"/>
+            <UvRate value="0.000000,-1.000000,0.000000,0.000000"/>
+            <ReflectionDistortion value="0.012000"/>
+            <RefractionDistortion value="0.025000"/>
+            <MinReflection value="0.300000"/>
+            <ReflectivityPower value="8.000000"/>
+        </State>
+    </CWater>
+    <CWater id="VintageShoreAvernus">
+        <State index="0">
+            <Name value="[Default]"/>
+            <Height value="3.700000"/>
+            <Color value="0.100000,0.350000,0.500000,0.300000"/>
+            <ColorFallOff value="0.100000"/>
+            <Specularity value="100.000000"/>
+            <SpecularScaler value="2.450000"/>
+            <UvRate value="0.000000,-1.000000,0.000000,0.000000"/>
+            <ReflectionDistortion value="0.012000"/>
+            <RefractionDistortion value="0.025000"/>
+            <MinReflection value="0.300000"/>
+            <ReflectivityPower value="8.000000"/>
+        </State>
+        <BeachShoreline value="BelShirBeachShoreline"/>
+        <CliffShoreline value="BelShirCliffShoreline"/>
+    </CWater>
+    <CWater id="VintageShoreBelShir">
+        <State index="0">
+            <Name value="[Default]"/>
+            <Height value="1.650000"/>
+            <Color value="0.000000,0.231373,0.239216,0.337000"/>
+            <ColorFallOff value="0.058000"/>
+            <Specularity value="73.599998"/>
+            <SpecularScaler value="0.050000"/>
+            <UvRate value="-0.000031,-0.001000,0.000000,0.000000"/>
+            <ReflectionDistortion value="0.184000"/>
+            <RefractionDistortion value="0.020000"/>
+            <MinReflection value="0.193000"/>
+            <ReflectivityPower value="8.000000"/>
+        </State>
+        <ReceiveShadows value="1"/>
+        <BeachShoreline value="BelShirBeachShoreline"/>
+        <CliffShoreline value="BelShirCliffShoreline"/>
+        <Doodads>
+            <Model value="BelShirWaterDoodadLilyPad"/>
+            <Density value="0.030000"/>
+            <MinSize value="0.800000"/>
+            <MaxSize value="1.500000"/>
+            <Lifetime value="4294967295"/>
+        </Doodads>
+    </CWater>
+    <CWater id="VintageShoreBelShirHighGround">
+        <State index="0">
+            <Name value="[Default]"/>
+            <Height value="3.750000"/>
+            <Color value="0.000000,0.235294,0.239216,0.337000"/>
+            <ColorFallOff value="0.058000"/>
+            <Specularity value="73.599998"/>
+            <SpecularScaler value="0.050000"/>
+            <UvRate value="-0.000031,-0.001000,0.000000,0.000000"/>
+            <ReflectionDistortion value="0.184000"/>
+            <RefractionDistortion value="0.020000"/>
+            <MinReflection value="0.193000"/>
+            <ReflectivityPower value="8.000000"/>
+        </State>
+        <ReceiveShadows value="1"/>
+        <BeachShoreline value="BelShirBeachShoreline"/>
+        <CliffShoreline value="BelShirCliffShoreline"/>
+        <Doodads>
+            <Model value="BelShirWaterDoodadLilyPad"/>
+            <Density value="0.030000"/>
+            <MinSize value="0.800000"/>
+            <MaxSize value="1.500000"/>
+            <Lifetime value="4294967295"/>
+        </Doodads>
+    </CWater>
+    <CWater id="VintageShoreHavenCreep">
+        <State index="0">
+            <Name value="[Default]"/>
+            <Height value="10.750000"/>
+            <Color value="0.100000,0.350000,0.500000,0.300000"/>
+            <ColorFallOff value="0.100000"/>
+            <Specularity value="100.000000"/>
+            <SpecularScaler value="2.450000"/>
+            <UvRate value="0.000000,-1.000000,0.000000,0.000000"/>
+            <ReflectionDistortion value="0.012000"/>
+            <RefractionDistortion value="0.025000"/>
+            <MinReflection value="0.300000"/>
+            <ReflectivityPower value="8.000000"/>
+        </State>
+        <BeachShoreline value="HavenBeachShoreline"/>
+        <CliffShoreline value="BelShirCliffShoreline"/>
+        <Doodads>
+            <Model value="FloatingCreepPad"/>
+            <Density value="0.030000"/>
+            <MinSize value="0.500000"/>
+            <MaxSize value="1.000000"/>
+            <Lifetime value="4294967295"/>
+        </Doodads>
+    </CWater>
+    <CWater id="VintageShoreKorhal">
+        <State index="0">
+            <Name value="[Default]"/>
+            <Height value="9.100000"/>
+            <Color value="0.100000,0.350000,0.500000,0.300000"/>
+            <ColorFallOff value="0.100000"/>
+            <Specularity value="100.000000"/>
+            <SpecularScaler value="2.450000"/>
+            <UvRate value="0.000000,-1.000000,0.000000,0.000000"/>
+            <ReflectionDistortion value="0.012000"/>
+            <RefractionDistortion value="0.025000"/>
+            <MinReflection value="0.300000"/>
+            <ReflectivityPower value="8.000000"/>
+        </State>
+        <BeachShoreline value="BelShirBeachShoreline"/>
+        <CliffShoreline value="BelShirCliffShoreline"/>
+    </CWater>
+    <CTerrain id="VintageShores">
+        <EditorCategories value="Climate:SpacePlatform"/>
+        <Lighting value="VintageShoresLighting"/>
+        <LoadingScreen value="Assets\Textures\UI_HotS_Loading_MissionSelect_ZKaldir03.dds"/>
+        <Ambience value="Ambience_Agria"/>
+        <ReverbAmbient value="BetaVerb"/>
+        <MinimapBackgroundColor value="255,0,0,32"/>
+        <BlendTextures value="VolcanoIsle_7"/>
+        <BlendTextures value="MeinhoffWhiteSand"/>
+        <BlendTextures value="MeinhoffEx3_1"/>
+        <BlendTextures value="MeinhoffEx3_2"/>
+        <BlendTextures value="Purification_Desert_1"/>
+        <BlendTextures value="CompoundMansion_2"/>
+        <BlendTextures value="VintageShoresTexture"/>
+        <BlendTextures value="VolcanoIsle_1"/>
+        <HardTiles value="MarSaraTile"/>
+        <CliffSets value="PurificationDesertCliff0"/>
+        <CliffSets value="PurificationDesertCliff1"/>
+        <CliffSets value="MeinhoffEx1Cliff0"/>
+        <CliffSets value="IceWorldCliff1"/>
+        <FogEnabled value="1"/>
+        <FogColor value="255,121,214,244"/>
+        <FogDensity value="0.600000"/>
+        <FogFalloff value="0.200000"/>
+        <FogStartingHeight value="-20.000000"/>
+    </CTerrain>
+    <CTerrainTex id="VintageShoresTexture">
+        <Texture value="Assets\Textures\Elsecaro_City_3.dds"/>
+        <Normalmap value="Assets\Textures\Elsecaro_City_3Normal.dds"/>
+        <EditorIcon value="Assets\Textures\ui-editoricon_elsecaro_city_3.dds"/>
+        <DoodadEntry Model="PlantMixAgria" Probability="0.200000" PlacementRadius="1.000000"/>
+        <DoodadEntry Model="DynamicGrassAgria" Probability="0.750000" PlacementRadius="1.000000"/>
+    </CTerrainTex>
+</Catalog>
