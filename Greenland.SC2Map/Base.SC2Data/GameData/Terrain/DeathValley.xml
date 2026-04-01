@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CActorUnit id="DeathValleyInvisibleVent2" parent="GenericUnitStandardNoAutoSoundLinks" unitName="DeathValleyVent2">
+        <FogVisibility value="Visible"/>
+        <On index="0" Send="Create SoundEmitter DeathValleyVentA_Ambience"/>
+        <Model value="Invisible"/>
+        <DeathArray index="Normal" SoundLink="InvisibleTargetDummyDeath" VoiceLink="InvisibleTargetDummyDeathVoice"/>
+        <EditorModel value="Sphere"/>
+        <WalkAnimMoveSpeed value="0"/>
+        <HighlightTooltip value="Unit/Name/DeathValleyInvisibleVent2"/>
+        <MinimapIcon value="Assets\Textures\ui_minimap_icon_diamond.dds"/>
+        <MinimapIconScale value="0.500000"/>
+        <MinimapIconTintColor value="255,255,255,0"/>
+        <StatusBarFlags index="Shields" value="0"/>
+        <StatusBarFlags index="Life" value="0"/>
+        <StatusBarFlags index="Energy" value="0"/>
+        <StatusBarFlags index="Cargo" value="0"/>
+        <StatusBarFlags index="Progress" value="0"/>
+        <StatusBarFlags index="Duration" value="0"/>
+        <UnitFlags index="ShowBlobShadow" value="0"/>
+    </CActorUnit>
+    <CActorUnit id="DeathValleyInvisibleVent3" parent="GenericUnitStandardNoAutoSoundLinks" unitName="DeathValleyVent3">
+        <FogVisibility value="Visible"/>
+        <On index="0" Send="Create SoundEmitter DeathValleyVentA_Ambience"/>
+        <Model value="Invisible"/>
+        <DeathArray index="Normal" SoundLink="InvisibleTargetDummyDeath" VoiceLink="InvisibleTargetDummyDeathVoice"/>
+        <EditorModel value="Sphere"/>
+        <WalkAnimMoveSpeed value="0"/>
+        <HighlightTooltip value="Unit/Name/DeathValleyInvisibleVent3"/>
+        <MinimapIcon value="Assets\Textures\ui_minimap_icon_diamond.dds"/>
+        <MinimapIconScale value="0.500000"/>
+        <MinimapIconTintColor value="255,255,0,0"/>
+        <StatusBarFlags index="Shields" value="0"/>
+        <StatusBarFlags index="Life" value="0"/>
+        <StatusBarFlags index="Energy" value="0"/>
+        <StatusBarFlags index="Cargo" value="0"/>
+        <StatusBarFlags index="Progress" value="0"/>
+        <StatusBarFlags index="Duration" value="0"/>
+        <UnitFlags index="ShowBlobShadow" value="0"/>
+    </CActorUnit>
+    <CActorUnit id="DeathValleyInvisibleVent4" parent="GenericUnitStandardNoAutoSoundLinks" unitName="DeathValleyVent4">
+        <FogVisibility value="Visible"/>
+        <On index="0" Send="Create SoundEmitter DeathValleyVentA_Ambience"/>
+        <Model value="Invisible"/>
+        <DeathArray index="Normal" SoundLink="InvisibleTargetDummyDeath" VoiceLink="InvisibleTargetDummyDeathVoice"/>
+        <EditorModel value="Sphere"/>
+        <WalkAnimMoveSpeed value="0"/>
+        <HighlightTooltip value="Unit/Name/DeathValleyInvisibleVent4"/>
+        <MinimapIcon value="Assets\Textures\ui_minimap_icon_diamond.dds"/>
+        <MinimapIconScale value="0.500000"/>
+        <MinimapIconTintColor value="255,0,255,64"/>
+        <StatusBarFlags index="Shields" value="0"/>
+        <StatusBarFlags index="Life" value="0"/>
+        <StatusBarFlags index="Energy" value="0"/>
+        <StatusBarFlags index="Cargo" value="0"/>
+        <StatusBarFlags index="Progress" value="0"/>
+        <StatusBarFlags index="Duration" value="0"/>
+        <UnitFlags index="ShowBlobShadow" value="0"/>
+    </CActorUnit>
+    <CActorUnit id="DeathValleyInvisibleVent" parent="GenericUnitStandardNoAutoSoundLinks" unitName="DeathValleyVent1">
+        <FogVisibility value="Visible"/>
+        <Model value="Invisible"/>
+        <DeathArray index="Normal" SoundLink="InvisibleTargetDummyDeath" VoiceLink="InvisibleTargetDummyDeathVoice"/>
+        <EditorModel value="Sphere"/>
+        <WalkAnimMoveSpeed value="0"/>
+        <HighlightTooltip value="Unit/Name/DeathValleyInvisibleVent"/>
+        <MinimapIcon value="Assets\Textures\ui_minimap_icon_diamond.dds"/>
+        <MinimapIconScale value="0.500000"/>
+        <MinimapIconTintColor value="255,128,0,255"/>
+        <StatusBarFlags index="Shields" value="0"/>
+        <StatusBarFlags index="Life" value="0"/>
+        <StatusBarFlags index="Energy" value="0"/>
+        <StatusBarFlags index="Cargo" value="0"/>
+        <StatusBarFlags index="Progress" value="0"/>
+        <StatusBarFlags index="Duration" value="0"/>
+        <UnitFlags index="ShowBlobShadow" value="0"/>
+    </CActorUnit>
+    <CTerrain id="DeathValleyTerrainType">
+        <EditorCategories value="Climate:Volcanic"/>
+        <Lighting value="Char2"/>
+        <LoadingScreen value="Assets\Textures\UI_HotS_Loading_PlanetViewCharEX1.dds"/>
+        <Ambience value="Ambience_HybridLabInner"/>
+        <ReverbAmbient value="BetaVerb"/>
+        <BlendTextures value="Starship6"/>
+        <BlendTextures value="BlackOpsLabA1"/>
+        <BlendTextures value="AiurCity10"/>
+        <BlendTextures value="DefendersCity_2"/>
+        <BlendTextures value="UlaanSand"/>
+        <BlendTextures value="SpearOfAdun3"/>
+        <BlendTextures value="Starship2"/>
+        <BlendTextures value="DominionLab1"/>
+        <HardTiles value="MarSaraTile"/>
+        <CliffSets value="StarshipCliff0"/>
+        <FogEnabled value="1"/>
+        <FogColor value="255,100,100,100"/>
+        <FogDensity value="0.160000"/>
+        <FogFalloff value="0.350000"/>
+        <FogStartingHeight value="-0.900000"/>
+        <CreepEdgeNormalMap value="Assets\Textures\CreepEdgeNormal.dds"/>
+        <CreepSettingsArray index="Low" CreepOpaqueAlphaThreshold="0.180000" CreepTranslucentMinThreshold="0.050000" CreepTranslucentPassTint="1.000000,0.850000,0.750000"/>
+        <CreepSettingsArray index="Medium">
+            <CreepOpaqueAlphaThreshold value="0.180000"/>
+            <CreepTranslucentMinThreshold value="0.050000"/>
+            <CreepTranslucentMaxThreshold value="0.150000"/>
+            <CreepTranslucentPassTint value="1.000000,0.850000,0.750000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="High">
+            <CreepOpaqueAlphaThreshold value="0.180000"/>
+            <CreepTranslucentMinThreshold value="0.050000"/>
+            <CreepTranslucentMaxThreshold value="0.150000"/>
+            <CreepTranslucentPassTint value="1.000000,0.850000,0.750000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="Ultra">
+            <CreepOpaqueAlphaThreshold value="0.180000"/>
+            <CreepTranslucentMinThreshold value="0.050000"/>
+            <CreepTranslucentMaxThreshold value="0.150000"/>
+            <CreepTranslucentPassTint value="1.000000,0.850000,0.750000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="Extreme">
+            <CreepOpaqueAlphaThreshold value="0.180000"/>
+            <CreepTranslucentMinThreshold value="0.050000"/>
+            <CreepTranslucentMaxThreshold value="0.150000"/>
+            <CreepTranslucentPassTint value="1.000000,0.850000,0.750000"/>
+        </CreepSettingsArray>
+    </CTerrain>
+    <CUnit id="DeathValleyVent1">
+        <Race value="Zerg"/>
+        <FogVisibility value="Visible"/>
+    </CUnit>
+    <CUnit id="DeathValleyVent2">
+        <Race value="Zerg"/>
+        <FogVisibility value="Visible"/>
+    </CUnit>
+    <CUnit id="DeathValleyVent3">
+        <Race value="Zerg"/>
+        <FogVisibility value="Visible"/>
+    </CUnit>
+    <CUnit id="DeathValleyVent4">
+        <Race value="Zerg"/>
+        <FogVisibility value="Visible"/>
+    </CUnit>
+    <CBehaviorBuff id="DeathValleyRecentlyVentedOuter">
+        <InfoIcon value="Assets\Textures\wireframe-protoss-starshipventdoor.dds"/>
+        <EditorCategories value="AbilityorEffectType:Units"/>
+        <Duration value="5"/>
+    </CBehaviorBuff>
+    <CBehaviorBuff id="DeathValleyRecentlyVented">
+        <EditorCategories value="AbilityorEffectType:Units"/>
+        <Duration value="60"/>
+        <InfoIcon value="Assets\Textures\wireframe-protoss-starshipventdoor.dds"/>
+        <DisplayDuration index="Self" value="1"/>
+    </CBehaviorBuff>
+</Catalog>

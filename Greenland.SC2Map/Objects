@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlacedObjects Version="27">
+    <ObjectDoodad Id="301174861" Variation="5" Position="116.5,242.5,9.9924" Rotation="6.2785" Scale="0.8256,0.8256,0.8256" Type="IceWorldRock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="998864643" Variation="1" Position="150.63,61.47,9.3144" Rotation="4.4367" Scale="1,1,1" Type="ProtossBaseArch">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1267937658" Position="19.3117,194.375,9.9995" Rotation="3.3308" Scale="1,1,1" Type="IceWorldCrackingIce">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="54122107" Variation="1" Position="39.7802,86.998,9.9995" Rotation="5.8095" Scale="1,1,1" Type="IceWorldCrackingIce">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="361696318" Variation="9" Position="139.5,241.5,9.9921" Rotation="2.3254" Scale="0.887,0.887,0.887" Type="IceWorldRock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1873728678" Position="31.4235,174.0344,9.9997" Rotation="5.4255" Scale="1,1,1" Type="IceShearedRocksLargeRefractive">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="577657194" Variation="4" Position="164.3686,178.6687,8.4118" Rotation="0.069" Scale="1.0278,1.0278,1.0278" Type="IceWorldAmbientCrystals">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="617839550" Position="14.9414,136.9816,7.9997" Scale="1,1,1" Type="IceWorldEx2_CliffGlacierMedium">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="864778752" Variation="1" Position="220.6333,91.9785,9.9997" Rotation="4.8686" Scale="1,1,1" Type="IceLake">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="997638083" Variation="2" Position="165.787,164.4543,8.0141" Rotation="5.2121" Scale="1.0827,1.0827,1.0827" Type="IceWorldAmbientCrystals">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1735382949" Position="241.2524,74.622,9.9995" Rotation="0.3666" Scale="1.053,1.053,1.053" Type="IceBlock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="901998210" Position="42.6474,220.24,9.994" Rotation="2.8784" Scale="1.1518,1.1518,1.1518" Type="IceBlock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="981456645" Position="72.6743,162.0407,7.9995" Rotation="1.505" Scale="1,1,1" Type="IceWorldCrackingIce">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="527625979" Variation="2" Position="181.9565,134.1193,8.0063" Rotation="2.0566" Scale="0.9497,0.9497,0.9497" Type="IceWorldAmbientCrystals">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1080033892" Variation="7" Position="116.5,240.5,9.9948" Rotation="1.584" Scale="1.1401,1.1401,1.1401" Type="IceWorldRock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1718764366" Variation="8" Position="116.5,239.5,10.015" Rotation="6.116" Scale="1.1862,1.1862,1.1862" Type="IceWorldRock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1745316941" Variation="2" Position="178.1062,144.3857,8.0043" Rotation="1.6816" Scale="0.825,0.825,0.825" Type="IceWorldAmbientCrystals">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="895268012" Position="174.8544,60.278,7.9995" Rotation="0.453" Scale="1,1,1" Type="IceWorldCrackingIce">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="883540358" Position="34.9975,104.8801,7.9995" Scale="1,1,1" Type="XelNaga_GiantCrystalFloating">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1913640490" Position="57.9565,218.3078,7.9995" Rotation="3.4013" Scale="1.1328,1.1328,1.1328" Type="IceBlock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="637953390" Variation="1" Position="113.1516,182.2868,7.9995" Rotation="0.7575" Scale="1,1,1" Type="IceWorldCrackingIce">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="806397053" Variation="8" Position="139.5,242.5,10.0058" Rotation="1.4033" Scale="0.9941,0.9941,0.9941" Type="IceWorldRock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1603588917" Variation="4" Position="126.0903,165.5437,7.9995" Rotation="4.3063" Scale="1.0598,1.0598,1.0598" Type="IceWave">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1461405356" Variation="6" Position="139.5,239.5,10.0087" Rotation="0.3723" Scale="1.0874,1.0874,1.0874" Type="IceWorldRock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="706460875" Variation="1" Position="236.174,87.1987,9.9995" Rotation="1.4191" Scale="1,1,1" Type="IceWorldCrackingIce">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1242449369" Variation="1" Position="182.6296,91.3293,7.9997" Rotation="4.8078" Scale="1,1,1" Type="IceWorldCrackingIce">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="502757631" Variation="2" Position="166.837,86.16,8.012" Rotation="1.0065" Scale="1.0375,1.0375,1.0375" Type="IceWorldAmbientCrystals">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="664864913" Position="220.437,85.245,9.9995" Rotation="5.0253" Scale="1,1,1" Type="IceProtossBaseArch">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="546870545" Position="129.4147,165.5405,7.9995" Rotation="2.5651" Scale="1.004,1.004,1.004" Type="IceSpikedWaves">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1709517200" Position="230.0021,25.782,11.9997" Scale="1,1,1" Type="XelNaga_GiantCrystalFloating">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="765210769" Position="123.8542,168.0363,8.012" Rotation="0.2526" Scale="1.1984,1.1984,1.1984" Type="IceWorldAmbientCrystals">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1360909875" Variation="1" Position="230.383,49.045,9.9995" Rotation="1.0686" Scale="1,1,1" Type="IceWorldCrackingIce">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1045013347" Position="47.5856,226.3227,9.9846" Rotation="3.5222" Scale="0.8266,0.8266,0.8266" Type="IceBlock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1256081524" Variation="1" Position="158.3071,208.0815,7.9997" Rotation="1.594" Scale="1,1,1" Type="IceWorldCrackingIce">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="755575066" Position="163.4511,67.8564,7.9987" Rotation="2.757" Scale="1,1,1" Type="IceLake">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1142155834" Position="221.2546,80.256,9.9995" Rotation="3.2556" Scale="1,1,1" Type="IceLake">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2108885261" Position="241.4345,79.4724,9.9995" Rotation="0.7937" Scale="1.116,1.116,1.116" Type="IceBlock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="423576445" Variation="3" Position="222.9746,32.604,11.0888" Scale="1,1,1" Type="IceWorldEx2_CliffGlacierMedium">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="421793182" Position="56.2985,220.0168,7.9997" Rotation="4.647" Scale="0.8366,0.8366,0.8366" Type="IceBlock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="747202165" Variation="1" Position="196.5153,8.6643,9.9997" Rotation="0.4794" Scale="1,1,1" Type="IceWorldCrackingIce">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1959690734" Variation="16" Position="219.956,80.7075,9.9995" Rotation="0.3552" Scale="0.9257,0.9257,0.9257" Type="IceRockGiant">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1480820938" Variation="2" Position="241.6906,31.5976,9.9997" Scale="1,1,1" Type="IceWorldEx2_CliffGlacierMedium">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="33003192" Position="36.0578,105.09,7.999" Rotation="5.9768" Scale="1,1,1" Type="IceLake">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="811712071" Variation="5" Position="128.855,168.166,7.9995" Rotation="4.0607" Scale="0.988,0.988,0.988" Type="IceWave">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="483442902" Variation="1" Position="101.782,60.7084,9.9995" Rotation="4.4367" Scale="1,1,1" Type="ProtossBaseArch">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="822268517" Variation="1" Position="116.5,241.5,10.0136" Rotation="0.2243" Scale="1.0102,1.0102,1.0102" Type="IceWorldRock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1722067752" Position="189.6994,127.3947,7.9997" Rotation="2.8847" Scale="1,1,1" Type="IceWorldCrackingIce">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="772836720" Position="28.8801,167.7131,9.9997" Rotation="0.1914" Scale="1,1,1" Type="IceLake">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1314416871" Variation="1" Position="169.7658,12.2666,9.9995" Rotation="4.4914" Scale="1,1,1" Type="IceWorldCrackingIce">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="634315941" Position="248.8671,79.88,9.9995" Rotation="2.8581" Scale="1.0444,1.0444,1.0444" Type="IceBlock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="166121486" Position="127.6594,90.218,7.9995" Rotation="0.6691" Scale="0.9606,0.9606,0.9606" Type="IceCave">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="273969693" Position="240.4467,32.6804,11.114" Scale="1,1,1" Type="IceWorldEx2_CliffGlacierMedium">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1212403116" Position="127.6472,172.0383,8.0026" Rotation="6.2634" Scale="1.023,1.023,1.023" Type="IceWorldAmbientCrystals">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1158410618" Variation="1" Position="85.8764,21.6567,9.9995" Rotation="4.6843" Scale="1,1,1" Type="IceWorldCrackingIce">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="174599865" Variation="3" Position="161.3706,83.5952,7.9995" Rotation="3.675" Scale="0.9582,0.9582,0.9582" Type="IceWorldAmbientCrystals">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="685008136" Position="241.8264,64.4233,9.9995" Rotation="4.3413" Scale="0.9201,0.9201,0.9201" Type="IceBlock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2089587623" Position="111.6044,75.779,7.9997" Rotation="5.9023" Scale="1,1,1" Type="IceWorldCrackingIce">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1083518831" Variation="5" Position="125.9748,167.8193,7.9995" Rotation="6.0136" Scale="1.091,1.091,1.091" Type="IceWave">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1699179196" Variation="1" Position="112.9985,99.8947,7.9995" Rotation="2.9458" Scale="1.1767,1.1767,1.1767" Type="IceWorldAmbientCrystals">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="439459154" Position="175.7087,140.484,7.9995" Rotation="0.6877" Scale="0.8471,0.8471,0.8471" Type="IceWorldAmbientCrystals">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1714294405" Variation="2" Position="218.7077,89.848,9.9997" Rotation="1.918" Scale="1.145,1.145,1.145" Type="IceRockGiant">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1086735463" Variation="1" Position="130.3928,164.7167,7.9995" Rotation="4.7685" Scale="0.8266,0.8266,0.8266" Type="IceWave">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="42029020" Position="46.518,234.9497,10.008" Rotation="5.5532" Scale="1.1506,1.1506,1.1506" Type="IceBlock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="8275802" Position="59.7868,216.5925,7.993" Rotation="2.5615" Scale="0.8916,0.8916,0.8916" Type="IceBlock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1553441083" Variation="9" Position="205.0837,22.522,9.9997" Rotation="2.6826" Scale="0.8142,0.8142,0.8142" Type="IceRockGiant">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="220688075" Position="127.6904,170.184,8.022" Rotation="4.4597" Scale="0.8383,0.8383,0.8383" Type="IceWave">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="146846810" Position="31.112,170.31,9.9997" Rotation="1.733" Scale="1,1,1" Type="IceLake">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1677503323" Position="139.5,240.5,9.9978" Rotation="4.2634" Scale="1.106,1.106,1.106" Type="IceWorldRock">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1518673837" Position="30.8244,175.3615,9.9997" Rotation="1.541" Scale="1,1,1" Type="IceLake">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="137866763" Position="32.5622,172.8034,9.9997" Rotation="2.1447" Scale="1,1,1" Type="IceLake">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1246668138" Variation="1" Position="219.046,93.303,9.9997" Rotation="5.7504" Scale="0.8293,0.8293,0.8293" Type="IceRockGiant">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2033164006" Variation="1" Position="252.5,3.5,11.9997" Rotation="4.252" Scale="0.9294,0.9294,0.9294" Type="IceSpikes">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="833477337" Position="128.8017,163.8635,7.9995" Rotation="3.826" Scale="0.8066,0.8066,0.8066" Type="IceWave">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="288428490" Variation="1" Position="131.8496,168.1062,8.0126" Rotation="2.8693" Scale="0.8134,0.8134,0.8134" Type="IceWorldAmbientCrystals">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="560905453" Variation="1" Position="163.3984,68.9321,7.9995" Scale="1,1,1" Type="XelNaga_GiantCrystalFloating">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1623213135" Variation="1" Position="64.4416,224.1694,7.9995" Rotation="3.7832" Scale="1,1,1" Type="IceWorldCrackingIce">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="914379081" Variation="1" Position="220.5915,90.4365,9.9997" Rotation="6.2268" Scale="1,1,1" Type="IceLake">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1767377149" Variation="1" Position="127.9921,39.0295,7.9997" Rotation="3.4252" Scale="1,1,1" Type="IceWorldCrackingIce">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="273055524" Variation="1" Position="141.3493,181.8076,7.9995" Rotation="2.5744" Scale="1,1,1" Type="IceWorldCrackingIce">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="507992191" Variation="3" Position="238.5871,32.4472,10.7934" Scale="1,1,1" Type="IceWorldEx2_CliffGlacierMedium">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectPoint Id="1447068493" Position="35.1208,104.606,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 007" Color="0,0,0,0"/>
+    <ObjectPoint Id="409574462" Position="230.2468,25.0346,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 002" Color="0,0,0,0"/>
+    <ObjectPoint Id="1899167070" Position="32.3037,171.3171,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 004" Color="0,0,0,0"/>
+    <ObjectPoint Id="464118871" Position="25.8144,170.3295,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 001" Color="0,0,0,0"/>
+    <ObjectPoint Id="531564875" Position="29.747,174.62,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 005" Color="0,0,0,0"/>
+    <ObjectPoint Id="1578599039" Position="29.462,168.1064,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 003" Color="0,0,0,0"/>
+    <ObjectPoint Id="623638453" Position="163.6242,68.45,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 006" Color="0,0,0,0"/>
+    <ObjectUnit Id="581338902" Position="128.5,128.5,0" Rotation="0.523" Scale="1,1,1" UnitType="NydusCanal" Player="1"/>
+    <ObjectUnit Id="1769672214" Position="33.13,227.6198,0" Rotation="4.0441" Scale="1,1,1" UnitType="GiantYeti">
+        <Flag Index="ForcePlacement" Value="1"/>
+        <AIRebuild Index="1" Value="0"/>
+        <AIRebuild Index="2" Value="0"/>
+        <AIRebuild Index="3" Value="0"/>
+        <AIRebuild Index="4" Value="0"/>
+        <AIActive Index="1" Value="0"/>
+        <AIActive Index="2" Value="0"/>
+        <AIActive Index="3" Value="0"/>
+        <AIActive Index="4" Value="0"/>
+    </ObjectUnit>
+</PlacedObjects>
