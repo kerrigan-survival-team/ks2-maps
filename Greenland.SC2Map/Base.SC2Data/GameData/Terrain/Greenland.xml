@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Catalog>
+    <CWater id="GreenlandWater1"/>
     <CTerrain id="GreenlandTerrain">
         <EditorCategories value="Climate:Wasteland"/>
         <Lighting value="FourSeasonsLighting"/>
@@ -13,6 +14,7 @@
         <BlendTextures value="IceWorld3"/>
         <BlendTextures value="IceWorld4"/>
         <BlendTextures value="IceWorld5"/>
+        <BlendTextures value="IceWorld6"/>
         <BlendTextures value="IceWorld7"/>
         <BlendTextures value="IceWorld8"/>
         <CliffSets value="IceWorldCliff0"/>
