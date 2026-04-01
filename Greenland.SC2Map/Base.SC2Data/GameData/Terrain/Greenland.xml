@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CWater id="GreenlandWater1"/>
+    <CTerrain id="GreenlandTerrain">
+        <EditorCategories value="Climate:Wasteland"/>
+        <Lighting value="FourSeasonsLighting"/>
+        <LoadingScreen value="Assets\Textures\loading-shakuras.dds"/>
+        <TextureProp value="shakuras"/>
+        <Ambience value="Ambience_Shakuras"/>
+        <ReverbAmbient value="BetaVerb"/>
+        <MinimapBrightenFactor value="1.000000"/>
+        <BlendTextures value="IceWorld1"/>
+        <BlendTextures value="IceWorld2"/>
+        <BlendTextures value="IceWorld3"/>
+        <BlendTextures value="IceWorld4"/>
+        <BlendTextures value="IceWorld5"/>
+        <BlendTextures value="IceWorld6"/>
+        <BlendTextures value="IceWorld7"/>
+        <BlendTextures value="IceWorld8"/>
+        <CliffSets value="IceWorldCliff0"/>
+        <CliffSets value="IceWorldCliff1"/>
+        <HardTiles value="MarSaraTile"/>
+        <FixedSkyboxModel value="ShakurasSkyBox"/>
+        <FogEnabled value="1"/>
+        <FogColor value="255,45,68,86"/>
+        <FogDensity value="0.060000"/>
+        <FogFalloff value="0.200000"/>
+        <FogStartingHeight value="-0.900000"/>
+        <CreepBaseTexture value="Assets\Textures\Creep_Shakuras.dds"/>
+        <CreepEdgeNormalMap value="Assets\Textures\CreepEdgeNormal.dds"/>
+        <CreepSettingsArray index="Low" CreepOpaqueAlphaThreshold="0.180000" CreepTranslucentMinThreshold="0.050000" CreepTranslucentPassTint="1.000000,0.850000,0.750000"/>
+        <CreepSettingsArray index="Medium">
+            <CreepOpaqueAlphaThreshold value="0.180000"/>
+            <CreepTranslucentMinThreshold value="0.050000"/>
+            <CreepTranslucentMaxThreshold value="0.150000"/>
+            <CreepTranslucentPassTint value="1.000000,0.850000,0.750000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="High">
+            <CreepOpaqueAlphaThreshold value="0.180000"/>
+            <CreepTranslucentMinThreshold value="0.050000"/>
+            <CreepTranslucentMaxThreshold value="0.150000"/>
+            <CreepTranslucentPassTint value="1.000000,0.850000,0.750000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="Ultra">
+            <CreepOpaqueAlphaThreshold value="0.180000"/>
+            <CreepTranslucentMinThreshold value="0.050000"/>
+            <CreepTranslucentMaxThreshold value="0.150000"/>
+            <CreepTranslucentPassTint value="1.000000,0.850000,0.750000"/>
+        </CreepSettingsArray>
+        <CreepSettingsArray index="Extreme">
+            <CreepOpaqueAlphaThreshold value="0.180000"/>
+            <CreepTranslucentMinThreshold value="0.050000"/>
+            <CreepTranslucentMaxThreshold value="0.150000"/>
+            <CreepTranslucentPassTint value="1.000000,0.850000,0.750000"/>
+        </CreepSettingsArray>
+    </CTerrain>
+</Catalog>
