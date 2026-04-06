@@ -15,7 +15,7 @@
             <ReflectivityPower value="8.000000"/>
         </State>
         <IsLava value="1"/>
-        <BeachShoreline value="RedstoneBeachShoreline"/>
+        <BeachShoreline value="RedstoneCliffShoreline"/>
         <CliffShoreline value="RedstoneCliffShoreline"/>
         <Sound value="Emitter_Lava"/>
     </CWater>
@@ -34,7 +34,7 @@
             <ReflectivityPower value="8.000000"/>
         </State>
         <IsLava value="1"/>
-        <BeachShoreline value="RedstoneBeachShoreline"/>
+        <BeachShoreline value="RedstoneCliffShoreline"/>
         <CliffShoreline value="RedstoneCliffShoreline"/>
         <Sound value="Emitter_Lava"/>
     </CWater>
