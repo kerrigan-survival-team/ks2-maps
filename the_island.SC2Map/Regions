@@ -783,7 +783,7 @@
     <region id="133">
         <name value="Spawn"/>
         <shape type="rect">
-            <quad value="170.9223,126.424,174.8417,130.435"/>
+            <quad value="171.0012,126.0017,175.0012,130.0014"/>
         </shape>
     </region>
     <region id="134">
@@ -808,6 +808,24 @@
         <name value="Shop2"/>
         <shape type="rect">
             <quad value="200.1762,152.4924,204.0957,156.5034"/>
+        </shape>
+    </region>
+    <region id="60">
+        <name value="Ramp131"/>
+        <shape type="rect">
+            <quad value="199,20,203,24"/>
+        </shape>
+    </region>
+    <region id="61">
+        <name value="Ramp132"/>
+        <shape type="rect">
+            <quad value="199.0002,13.5007,203.0002,17.5007"/>
+        </shape>
+    </region>
+    <region id="136">
+        <name value="Ramp133"/>
+        <shape type="rect">
+            <quad value="156.0004,3.0004,160.0004,7.0004"/>
         </shape>
     </region>
 </Regions>
