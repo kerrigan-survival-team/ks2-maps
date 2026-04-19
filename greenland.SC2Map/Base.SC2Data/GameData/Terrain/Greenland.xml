@@ -3,7 +3,7 @@
     <CWater id="GreenlandWater1">
         <State index="0">
             <Name value="[Default]"/>
-            <Height value="7.450000"/>
+            <Height value="7.950000"/>
             <Color value="0.819608,0.294118,0.090196,0.300000"/>
             <ColorFallOff value="0.100000"/>
             <Specularity value="100.000000"/>
@@ -22,7 +22,7 @@
     <CWater id="GreenlandWater2Unnamed">
         <State index="0">
             <Name value="[Default]"/>
-            <Height value="9.100000"/>
+            <Height value="9.600000"/>
             <Color value="0.819608,0.294118,0.090196,0.300000"/>
             <ColorFallOff value="0.100000"/>
             <Specularity value="100.000000"/>
@@ -41,7 +41,7 @@
     <CWater id="GreenlandWater3Unnamed">
         <State index="0">
             <Name value="[Default]"/>
-            <Height value="10.100000"/>
+            <Height value="11.400000"/>
             <Color value="0.819608,0.294118,0.090196,0.300000"/>
             <ColorFallOff value="0.100000"/>
             <Specularity value="100.000000"/>
