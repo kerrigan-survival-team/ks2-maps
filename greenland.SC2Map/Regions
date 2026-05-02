@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Regions>
-    <region id="1">
-        <name value="spawn"/>
-        <shape type="rect">
-            <quad value="126.0012,126.0014,130.0012,130.0014"/>
-        </shape>
-    </region>
     <region id="2">
         <name value="Ramp1"/>
         <shape type="rect">
@@ -922,30 +916,6 @@
         <name value="Ramp153"/>
         <shape type="rect">
             <quad value="148.5014,119.0007,152.5014,123.0007"/>
-        </shape>
-    </region>
-    <region id="155">
-        <name value="Shop1"/>
-        <shape type="rect">
-            <quad value="166.0012,126.0002,170.0012,130.0002"/>
-        </shape>
-    </region>
-    <region id="156">
-        <name value="Shop2"/>
-        <shape type="rect">
-            <quad value="126.0004,94.0002,130.0004,98.0002"/>
-        </shape>
-    </region>
-    <region id="157">
-        <name value="Shop3"/>
-        <shape type="rect">
-            <quad value="86.0004,126.0004,90.0004,130.0004"/>
-        </shape>
-    </region>
-    <region id="158">
-        <name value="Shop4"/>
-        <shape type="rect">
-            <quad value="126.0012,158.0014,130.0012,162.0014"/>
         </shape>
     </region>
 </Regions>
