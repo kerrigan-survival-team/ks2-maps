@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<PlacedObjects Version="27"/>
+<PlacedObjects Version="27">
+    <ObjectPoint Id="1567951209" Position="168,127.5,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
+    <ObjectPoint Id="268734825" Position="128,95.5,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
+    <ObjectPoint Id="1103304566" Position="88,127.5,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
+    <ObjectPoint Id="606765467" Position="128,159.5,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
+    <ObjectPoint Id="533718613" Position="128,128,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
+</PlacedObjects>
