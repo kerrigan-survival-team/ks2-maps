@@ -780,36 +780,6 @@
             <quad value="99.0405,77.9958,102.96,82.0068"/>
         </shape>
     </region>
-    <region id="133">
-        <name value="Spawn"/>
-        <shape type="rect">
-            <quad value="171.0012,126.0017,175.0012,130.0014"/>
-        </shape>
-    </region>
-    <region id="134">
-        <name value="Shop3"/>
-        <shape type="rect">
-            <quad value="133.5302,129.2563,137.4497,133.2673"/>
-        </shape>
-    </region>
-    <region id="135">
-        <name value="Shop4"/>
-        <shape type="rect">
-            <quad value="170.9934,158.0612,174.9128,162.0722"/>
-        </shape>
-    </region>
-    <region id="137">
-        <name value="Shop1"/>
-        <shape type="rect">
-            <quad value="210.5415,96.3513,214.461,100.3623"/>
-        </shape>
-    </region>
-    <region id="138">
-        <name value="Shop2"/>
-        <shape type="rect">
-            <quad value="200.1762,152.4924,204.0957,156.5034"/>
-        </shape>
-    </region>
     <region id="60">
         <name value="Ramp131"/>
         <shape type="rect">
