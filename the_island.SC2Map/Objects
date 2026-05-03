@@ -11,25 +11,25 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="647005616" Position="35.3461,15.5627,-0.6481" Rotation="3.4675" Scale="1,1,1" Type="WaterDropsDoodad">
+    <ObjectDoodad Id="564902843" Variation="2" Position="103.478,244.4211,6.0156" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="564902843" Variation="2" Position="103.478,244.4211,6.0156" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
+    <ObjectDoodad Id="647005616" Position="35.3461,15.5627,-0.6481" Rotation="3.4675" Scale="1,1,1" Type="WaterDropsDoodad">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="224771566" Position="28.1301,9.8867,1.734" Scale="1,1,1" Type="Elsecaro_Zerg_Damage_Splat">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1431826839" Variation="5" Position="13.1337,113.3635,10.0158" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1480467994" Variation="2" Position="22.5441,11.709,0.8713" Scale="1,1,1" Type="Elsecaro_SeaShell_Group">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="339576497" Variation="5" Position="156.4104,149.6765,6.0156" Scale="1,1,1" Type="Elsecaro_Tree">
+    <ObjectDoodad Id="1431826839" Variation="5" Position="13.1337,113.3635,10.0158" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1911567471" Variation="10" Position="13.74,15.3623,2.0012" Rotation="5.0131" Scale="0.9726,0.9726,0.9726" Type="Elsecaro_Foliage">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="339576497" Variation="5" Position="156.4104,149.6765,6.0156" Scale="1,1,1" Type="Elsecaro_Tree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="486338383" Variation="1" Position="177.9746,248.5656,6.0156" Rotation="2.1423" Scale="1.0227,1.0227,1.0227" Type="Elsecaro_Bush1x1">
@@ -38,10 +38,10 @@
     <ObjectDoodad Id="1020494317" Variation="12" Position="19.31,12.05,1.9367" Rotation="0.6735" Scale="0.9147,0.9147,0.9147" Type="Elsecaro_Foliage">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1298530130" Variation="5" Position="44.5583,15.1481,0.3261" Rotation="4.5854" Scale="1.0573,1.0573,1.0573" Type="RockWaterfall">
+    <ObjectDoodad Id="937372198" Position="85.5283,29.8293,4.6513" Rotation="5.5881" Scale="1,1,1" Type="SnowRefinery_RockRampSmall">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="937372198" Position="85.5283,29.8293,4.6513" Rotation="5.5881" Scale="1,1,1" Type="SnowRefinery_RockRampSmall">
+    <ObjectDoodad Id="1298530130" Variation="5" Position="44.5583,15.1481,0.3261" Rotation="4.5854" Scale="1.0573,1.0573,1.0573" Type="RockWaterfall">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="143047849" Variation="1" Position="5.1354,23.2131,1.9443" Rotation="3.6452" Scale="0.8342,0.8342,0.8342" Type="BelShirCanopyTrees">
@@ -64,61 +64,61 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="339006115" Variation="4" Position="42.9367,12.3432,0.7644" Rotation="3.89" Scale="1.0976,1.0976,1.0976" Type="RockWaterfall">
-        <Flag Index="HeightOffset" Value="1"/>
+    <ObjectDoodad Id="897096241" Variation="1" Position="10.439,12.566,2.0278" Rotation="4.0224" Scale="0.9926,0.9926,0.9926" Type="Elsecaro_Foliage">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="897096241" Variation="1" Position="10.439,12.566,2.0278" Rotation="4.0224" Scale="0.9926,0.9926,0.9926" Type="Elsecaro_Foliage">
+    <ObjectDoodad Id="339006115" Variation="4" Position="42.9367,12.3432,0.7644" Rotation="3.89" Scale="1.0976,1.0976,1.0976" Type="RockWaterfall">
+        <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="846275212" Position="14.25,7.8742,0.2692" Rotation="3.114" Scale="1,1,1" Type="Elsecaro_Waves">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="984414826" Variation="1" Position="31,26,6.0178" Rotation="0.7097" Scale="0.8764,0.8764,0.8764" Type="RedstoneRockSpiresNoBase">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="2139446065" Variation="6" Position="108.2094,52.0651,5.5632" Rotation="2.4667" Scale="1,1,1" Type="Elsecaro_Medium_Rock_Group">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="437187604" Position="41.8593,13.844,-0.6477" Rotation="4.606" Scale="1,1,1" Type="WaterDropsDoodad">
+    <ObjectDoodad Id="984414826" Variation="1" Position="31,26,6.0178" Rotation="0.7097" Scale="0.8764,0.8764,0.8764" Type="RedstoneRockSpiresNoBase">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2027215312" Position="21.06,20.756,0" Scale="1,1,1" Type="Elsecaro_Waves">
+    <ObjectDoodad Id="437187604" Position="41.8593,13.844,-0.6481" Rotation="4.606" Scale="1,1,1" Type="WaterDropsDoodad">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1806130899" Variation="3" Position="72.647,198.8388,6.0327" Rotation="1.0073" Scale="0.9277,0.9277,0.9277" Type="Elsecaro_Bush1x1">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="441247283" Variation="3" Position="28.4948,8.3581,1.4375" Rotation="2.8747" Scale="1.1337,1.1337,1.1337" Type="BelShirCanopyTrees">
+    <ObjectDoodad Id="2027215312" Position="21.06,20.756,0" Scale="1,1,1" Type="Elsecaro_Waves">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1839763654" Position="86.3283,89.4011,6.0156" Rotation="5.0554" Scale="0.9697,0.9697,0.9697" Type="Elsecaro_Bush1x1">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1209565797" Position="41.0314,15.9506,-0.6445" Rotation="2.5512" Scale="1,1,1" Type="WaterDropsDoodad">
+    <ObjectDoodad Id="441247283" Variation="3" Position="28.4948,8.3581,1.4375" Rotation="2.8747" Scale="1.1337,1.1337,1.1337" Type="BelShirCanopyTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="168163122" Variation="2" Position="229.5612,226.5141,12.0366" Rotation="5.204" Scale="1.0961,1.0961,1.0961" Type="Elsecaro_Bush1x1">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="584543758" Variation="2" Position="13.503,10.8593,0.9934" Scale="1,1,1" Type="Elsecaro_Dock">
+    <ObjectDoodad Id="1209565797" Position="41.0314,15.9506,-0.645" Rotation="2.5512" Scale="1,1,1" Type="WaterDropsDoodad">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="572435312" Variation="5" Position="25.0498,12.9934,1.7587" Rotation="0.0532" Scale="1.0117,1.0117,1.0117" Type="Elsecaro_Foliage">
+    <ObjectDoodad Id="584543758" Variation="2" Position="13.503,10.8593,0.9934" Scale="1,1,1" Type="Elsecaro_Dock">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1262894323" Variation="2" Position="2.8957,17.371,0.7065" Scale="1,1,1" Type="Elsecaro_SeaShell_Group">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1505103255" Variation="1" Position="14.8686,94.4213,6.4746" Scale="1,1,1" Type="Aiur_CliffRocks_Islands">
+    <ObjectDoodad Id="572435312" Variation="5" Position="25.0498,12.9934,1.7587" Rotation="0.0532" Scale="1.0117,1.0117,1.0117" Type="Elsecaro_Foliage">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2032281562" Variation="5" Position="116.5,76.5,5.8918" Rotation="2.9284" Scale="0.8715,0.8715,0.8715" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="58049927" Variation="5" Position="213.941,160.5065,6.0151" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2032281562" Variation="5" Position="116.5,76.5,5.8918" Rotation="2.9284" Scale="0.8715,0.8715,0.8715" Type="BelShirTree">
+    <ObjectDoodad Id="1505103255" Variation="1" Position="14.8686,94.4213,6.4746" Scale="1,1,1" Type="Aiur_CliffRocks_Islands">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1210515030" Variation="1" Position="187.9653,114.074,6.0158" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
@@ -128,42 +128,42 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="1386413765" Variation="5" Position="44.5,3.5,5.5263" Rotation="1.9877" Scale="1.052,1.052,1.052" Type="HavenTree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="1293794014" Position="37.8417,94.6008,11.235" Scale="1,1,1" Type="Aiur_CliffRocks_Islands">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1386413765" Variation="5" Position="44.5,3.5,5.5263" Rotation="1.9877" Scale="1.052,1.052,1.052" Type="HavenTree">
+    <ObjectDoodad Id="565039633" Variation="1" Position="189.3518,149.3312,6.0156" Rotation="3.6774" Scale="0.9396,0.9396,0.9396" Type="Elsecaro_Bush4x4">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="565039633" Variation="1" Position="189.3518,149.3312,6.0156" Rotation="3.6774" Scale="0.9396,0.9396,0.9396" Type="Elsecaro_Bush4x4">
+    <ObjectDoodad Id="289172601" Variation="5" Position="3.5,34.5,5.9707" Rotation="3.4648" Scale="1.16,1.16,1.16" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="784986392" Position="63.0595,106.7065,6.6442" Rotation="0.9484" Scale="1.1557,1.1557,1.1557" Type="Waterfall">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="289172601" Variation="5" Position="3.5,34.5,5.9707" Rotation="3.4648" Scale="1.16,1.16,1.16" Type="BelShirTree">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1994974239" Variation="3" Position="15.5642,12.5195,1.959" Rotation="5.966" Scale="0.923,0.923,0.923" Type="Elsecaro_GroundCover">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1624702582" Position="40.5366,13.6042,-0.6477" Rotation="5.0751" Scale="1,1,1" Type="WaterDropsDoodad">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="659021745" Variation="14" Position="9.3293,15.4804,1.7023" Rotation="1.5971" Scale="0.967,0.967,0.967" Type="Elsecaro_Foliage">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1197770641" Variation="1" Position="28.107,94.521,7.4545" Scale="1,1,1" Type="Aiur_CliffRocks_Islands">
+    <ObjectDoodad Id="1624702582" Position="40.5366,13.6042,-0.6481" Rotation="5.0751" Scale="1,1,1" Type="WaterDropsDoodad">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="840617017" Variation="2" Position="193.5217,136.3693,6.1594" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
+    <ObjectDoodad Id="501397464" Variation="1" Position="36.1533,21.9348,5.9421" Rotation="1.6794" Scale="0.9692,0.9692,0.9692" Type="Elsecaro_Bush1x1">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1625430395" Variation="2" Position="105.5,65.5,6.0156" Rotation="2.7836" Scale="0.9997,0.9997,0.9997" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="501397464" Variation="1" Position="36.1533,21.9348,5.9421" Rotation="1.6794" Scale="0.9692,0.9692,0.9692" Type="Elsecaro_Bush1x1">
+    <ObjectDoodad Id="840617017" Variation="2" Position="193.5217,136.3693,6.1594" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1197770641" Variation="1" Position="28.107,94.521,7.4545" Scale="1,1,1" Type="Aiur_CliffRocks_Islands">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="399683836" Variation="6" Position="52.0925,18.4638,5.299" Rotation="4.3906" Scale="1,1,1" Type="Elsecaro_Medium_Rock_Group">
@@ -176,8 +176,7 @@
     <ObjectDoodad Id="1018519125" Variation="6" Position="37.8693,64.173,5.9931" Scale="1,1,1" Type="Elsecaro_Tree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1788777067" Position="10,8.5,1.3784" Scale="1,1,1" Type="Elsecaro_Catamaran">
-        <Flag Index="HeightOffset" Value="1"/>
+    <ObjectDoodad Id="1788777067" Position="10.2062,8.306,0.2067" Scale="1,1,1" Type="Elsecaro_Catamaran">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1917646976" Variation="3" Position="8.8251,10.8654,2.0153" Rotation="0.6008" Scale="0.9853,0.9853,0.9853" Type="Elsecaro_GroundCover">
@@ -190,14 +189,14 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="898616253" Position="38.6408,14.5202,-0.6481" Rotation="0.1762" Scale="1,1,1" Type="WaterDropsDoodad">
+    <ObjectDoodad Id="568414315" Variation="6" Position="89.5083,31.8041,5.644" Rotation="4.3903" Scale="1,1,1" Type="Elsecaro_Medium_Rock_Group">
+        <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1430835403" Variation="6" Position="127.723,150.2514,5.2868" Scale="1,1,1" Type="Elsecaro_Tree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="568414315" Variation="6" Position="89.5083,31.8041,5.644" Rotation="4.3903" Scale="1,1,1" Type="Elsecaro_Medium_Rock_Group">
-        <Flag Index="HeightOffset" Value="1"/>
+    <ObjectDoodad Id="898616253" Position="38.6408,14.5202,-0.6481" Rotation="0.1762" Scale="1,1,1" Type="WaterDropsDoodad">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1136606339" Position="23.4128,15.38,2.0117" Scale="1,1,1" Type="Elsecaro_Dock_Hut">
@@ -216,10 +215,10 @@
     <ObjectDoodad Id="1988210361" Variation="4" Position="127.3603,156.638,5.8352" Scale="1,1,1" Type="Elsecaro_Tree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1146815591" Variation="2" Position="61.7277,25.4433,6.0158" Rotation="1.6904" Scale="1.0893,1.0893,1.0893" Type="Elsecaro_Bush1x1">
+    <ObjectDoodad Id="907119579" Variation="2" Position="124.795,233.269,6.0156" Rotation="2.7358" Scale="1.0297,1.0297,1.0297" Type="Elsecaro_Bush1x1">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="907119579" Variation="2" Position="124.795,233.269,6.0156" Rotation="2.7358" Scale="1.0297,1.0297,1.0297" Type="Elsecaro_Bush1x1">
+    <ObjectDoodad Id="1146815591" Variation="2" Position="61.7277,25.4433,6.0158" Rotation="1.6904" Scale="1.0893,1.0893,1.0893" Type="Elsecaro_Bush1x1">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="583835721" Variation="2" Position="20.6152,113.2587,10.0158" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
@@ -238,10 +237,10 @@
     <ObjectDoodad Id="362237425" Variation="3" Position="72.4206,99.6826,6.0156" Rotation="1.411" Scale="1.0952,1.0952,1.0952" Type="Elsecaro_Bush1x1">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="77274370" Variation="1" Position="21.9504,94.466,6.697" Scale="1,1,1" Type="Aiur_CliffRocks_Islands">
+    <ObjectDoodad Id="2017124188" Variation="3" Position="12.2062,11.6801,2.0195" Rotation="0.1403" Scale="1.029,1.029,1.029" Type="Elsecaro_GroundCover">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2017124188" Variation="3" Position="12.2062,11.6801,2.0195" Rotation="0.1403" Scale="1.029,1.029,1.029" Type="Elsecaro_GroundCover">
+    <ObjectDoodad Id="77274370" Variation="1" Position="21.9504,94.466,6.697" Scale="1,1,1" Type="Aiur_CliffRocks_Islands">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="368627097" Position="33,24,6.0158" Rotation="5.9484" Scale="0.833,0.833,0.833" Type="TTosh01RockSpires">
@@ -250,25 +249,25 @@
     <ObjectDoodad Id="1973111496" Variation="1" Position="34.0998,94.415,6.5485" Scale="1,1,1" Type="Aiur_CliffRocks_Islands">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1772812143" Position="42.6,14.8627,-0.5795" Rotation="2.309" Scale="1,1,1" Type="WaterDropsDoodad">
+    <ObjectDoodad Id="1600111155" Variation="6" Position="175.8295,215.2722,6.0217" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1600111155" Variation="6" Position="175.8295,215.2722,6.0217" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
+    <ObjectDoodad Id="1772812143" Position="42.6,14.8627,-0.58" Rotation="2.309" Scale="1,1,1" Type="WaterDropsDoodad">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1741668443" Variation="3" Position="65.8232,136.898,6.0158" Rotation="5.3581" Scale="0.987,0.987,0.987" Type="Elsecaro_Bush1x1">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="327176095" Variation="5" Position="224.431,4.4655,12.0187" Scale="1,1,1" Type="Elsecaro_Tree">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="658911945" Variation="4" Position="75.4638,229.48,6.0156" Rotation="0.976" Scale="1.058,1.058,1.058" Type="Elsecaro_Bush1x1">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1884239827" Position="42.2416,16.0954,-0.49" Rotation="0.4396" Scale="0.9584,0.9584,0.9584" Type="RockWaterfall">
+    <ObjectDoodad Id="327176095" Variation="5" Position="224.431,4.4655,12.0332" Scale="1,1,1" Type="Elsecaro_Tree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1050954289" Variation="5" Position="83.5,102.5,6.0156" Rotation="3.194" Scale="0.994,0.994,0.994" Type="BelShirTree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1884239827" Position="42.2416,16.0954,-0.4714" Rotation="0.4396" Scale="0.9584,0.9584,0.9584" Type="RockWaterfall">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1290277314" Position="108.4882,53.2348,3.433" Scale="1,1,1" Type="SnowRefinery_RockRampSmall">
@@ -278,18 +277,18 @@
     <ObjectDoodad Id="1915183354" Variation="20" Position="8.6115,12.2602,2.0278" Rotation="1.1486" Scale="0.9245,0.9245,0.9245" Type="Elsecaro_Foliage">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="197236961" Variation="7" Position="40.5,31.5,6.0158" Rotation="1.282" Scale="1.0808,1.0808,1.0808" Type="BelShirTree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="844090942" Variation="6" Position="142.5,103.5,5.2878" Rotation="1.523" Scale="1,1,1" Type="Elsecaro_Medium_Rock_Group">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="197236961" Variation="7" Position="40.5,31.5,6.0158" Rotation="1.282" Scale="1.0808,1.0808,1.0808" Type="BelShirTree">
+    <ObjectDoodad Id="220099638" Position="108.1533,55.469,4.0998" Scale="1,1,1" Type="Elsecaro_Tree">
+        <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2120076533" Position="39.47,13.7836,-0.6481" Rotation="6.0073" Scale="1,1,1" Type="WaterDropsDoodad">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="220099638" Position="108.1533,55.469,4.0998" Scale="1,1,1" Type="Elsecaro_Tree">
-        <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1154000148" Variation="11" Position="31.5,24.5,5.749" Rotation="5.9362" Scale="0.8586,0.8586,0.8586" Type="TyphonRock">
@@ -298,13 +297,13 @@
     <ObjectDoodad Id="2145354878" Variation="3" Position="206.2944,24.0236,10.0166" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1730042366" Variation="4" Position="213.734,158.5192,6.0263" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
+    <ObjectDoodad Id="1220259525" Variation="8" Position="5.5646,21.654,2.0427" Rotation="0.4775" Scale="0.9147,0.9147,0.9147" Type="Elsecaro_Foliage">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="29821017" Variation="4" Position="54.438,67.8051,6.0158" Scale="1,1,1" Type="Elsecaro_Tree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1220259525" Variation="8" Position="5.5646,21.654,2.0427" Rotation="0.4775" Scale="0.9147,0.9147,0.9147" Type="Elsecaro_Foliage">
+    <ObjectDoodad Id="1730042366" Variation="4" Position="213.734,158.5192,6.0263" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2122784627" Variation="2" Position="59.3945,237.9694,6.0156" Rotation="4.6943" Scale="0.9128,0.9128,0.9128" Type="Elsecaro_Bush1x1">
@@ -335,29 +334,29 @@
     <ObjectDoodad Id="1073144913" Variation="3" Position="127.684,117.5742,5.9978" Scale="1,1,1" Type="Elsecaro_Tree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2036473656" Variation="4" Position="67.8413,26.6728,5.9577" Rotation="4.3703" Scale="0.9128,0.9128,0.9128" Type="Elsecaro_Bush1x1">
+    <ObjectDoodad Id="1496634865" Variation="3" Position="26.0986,14.5134,1.46" Scale="1,1,1" Type="Elsecaro_SeaShell_Group">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1496634865" Variation="3" Position="26.0986,14.5134,1.46" Scale="1,1,1" Type="Elsecaro_SeaShell_Group">
+    <ObjectDoodad Id="2036473656" Variation="4" Position="67.8413,26.6728,5.9577" Rotation="4.3703" Scale="0.9128,0.9128,0.9128" Type="Elsecaro_Bush1x1">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1957997552" Position="11.0617,94.3854,9.8635" Scale="1,1,1" Type="Aiur_CliffRocks_Islands">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1612605790" Variation="2" Position="195.5205,252.3481,8.0102" Rotation="6.1166" Scale="1.0451,1.0451,1.0451" Type="Elsecaro_Bush1x1">
+    <ObjectDoodad Id="1312380026" Variation="1" Position="12.1103,21.2666,1.8557" Rotation="1.5131" Scale="1,1,1" Type="Korhal_SpacePort_SmallPlane">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1312380026" Variation="1" Position="12.1103,21.2666,1.8557" Rotation="1.5131" Scale="1,1,1" Type="Korhal_SpacePort_SmallPlane">
+    <ObjectDoodad Id="1612605790" Variation="2" Position="195.5205,252.3481,8.0102" Rotation="6.1166" Scale="1.0451,1.0451,1.0451" Type="Elsecaro_Bush1x1">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1740513438" Variation="1" Position="7.1562,94.4902,7.941" Scale="1,1,1" Type="Aiur_CliffRocks_Islands">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="544558912" Variation="7" Position="98.2302,229.5366,6.021" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
+    <ObjectDoodad Id="796218853" Variation="7" Position="86.5,82.5,5.9731" Rotation="3.7612" Scale="0.9755,0.9755,0.9755" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="796218853" Variation="7" Position="86.5,82.5,5.9731" Rotation="3.7612" Scale="0.9755,0.9755,0.9755" Type="BelShirTree">
+    <ObjectDoodad Id="544558912" Variation="7" Position="98.2302,229.5366,6.021" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="56443810" Variation="4" Position="151.72,114.4406,5.1545" Rotation="5.8493" Scale="0.923,0.923,0.923" Type="RockWaterfall">
@@ -367,33 +366,33 @@
     <ObjectDoodad Id="1316570402" Variation="6" Position="203.5866,36.4484,12.0102" Scale="1,1,1" Type="Elsecaro_Tree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1800097163" Position="36.6225,14.5078,-0.647" Rotation="0.5688" Scale="1,1,1" Type="WaterDropsDoodad">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1252448365" Variation="3" Position="130.6577,137.7995,6.0158" Scale="1,1,1" Type="Elsecaro_Tree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2015380201" Position="43.268,13.356,-0.2993" Rotation="3.7741" Scale="0.857,0.857,0.857" Type="RockWaterfall">
+    <ObjectDoodad Id="1800097163" Position="36.6225,14.5078,-0.647" Rotation="0.5688" Scale="1,1,1" Type="WaterDropsDoodad">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1070317266" Variation="1" Position="136.9184,102.9038,6.0151" Rotation="3.4355" Scale="1,1,1" Type="Elsecaro_Large_Rock">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2082643960" Variation="1" Position="55.005,79.7294,6.0158" Rotation="2.629" Scale="1.079,1.079,1.079" Type="Elsecaro_Bush1x1">
+    <ObjectDoodad Id="2015380201" Position="43.268,13.356,-0.2993" Rotation="3.7741" Scale="0.857,0.857,0.857" Type="RockWaterfall">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="31664303" Position="13.8354,22.589,1.8557" Scale="1,1,1" Type="Elsecaro_SeaShell_Group">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2047817939" Variation="6" Position="108.3835,57.191,5.852" Rotation="2.4667" Scale="1,1,1" Type="Elsecaro_Medium_Rock_Group">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="31664303" Position="13.8354,22.589,1.8557" Scale="1,1,1" Type="Elsecaro_SeaShell_Group">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="153168390" Variation="3" Position="37.752,58.476,5.736" Scale="1,1,1" Type="Elsecaro_Tree">
+    <ObjectDoodad Id="2082643960" Variation="1" Position="55.005,79.7294,6.0158" Rotation="2.629" Scale="1.079,1.079,1.079" Type="Elsecaro_Bush1x1">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1760713041" Position="53.9453,21.8574,4.4873" Scale="1,1,1" Type="Elsecaro_Tree">
         <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="153168390" Variation="3" Position="37.752,58.476,5.736" Scale="1,1,1" Type="Elsecaro_Tree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1231715399" Variation="5" Position="112.5,68.5,6.0156" Rotation="6.214" Scale="1.0134,1.0134,1.0134" Type="BelShirTree">
@@ -408,76 +407,75 @@
     <ObjectDoodad Id="1336359253" Variation="4" Position="10.8076,10.9291,1.9943" Rotation="3.9018" Scale="0.9858,0.9858,0.9858" Type="Elsecaro_GroundCover">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="603226307" Variation="1" Position="119.1035,117.468,5.9848" Scale="1,1,1" Type="Elsecaro_Tree">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="254335260" Position="43.7597,16.0598,-0.512" Rotation="5.193" Scale="1.0773,1.0773,1.0773" Type="Waterfall">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="735705101" Variation="6" Position="61.3955,107.0595,5.3527" Rotation="1.4218" Scale="0.834,0.834,0.834" Type="RockWaterfall">
         <Flag Index="HeightOffset" Value="1"/>
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="254335260" Position="43.7597,16.0598,-0.5344" Rotation="5.193" Scale="1.0773,1.0773,1.0773" Type="Waterfall">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="603226307" Variation="1" Position="119.1035,117.468,5.9848" Scale="1,1,1" Type="Elsecaro_Tree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="26918481" Variation="6" Position="84.2924,27.3742,6.1582" Rotation="4.3906" Scale="1,1,1" Type="Elsecaro_Medium_Rock_Group">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1401025170" Variation="2" Position="209.2204,177.2734,7.9968" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectDoodad Id="1363272873" Variation="6" Position="81.7722,30.7895,5.8176" Rotation="4.3906" Scale="1,1,1" Type="Elsecaro_Medium_Rock_Group">
         <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1401025170" Variation="2" Position="209.2204,177.2734,7.9968" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1165579769" Variation="3" Position="18.3325,10.99,1.9506" Rotation="5.5314" Scale="1.0168,1.0168,1.0168" Type="Elsecaro_GroundCover">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="596996959" Position="40.6723,14.9184,-0.6477" Rotation="0.3566" Scale="1,1,1" Type="WaterDropsDoodad">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="906262459" Variation="2" Position="125.468,225.7707,6.025" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
+    <ObjectDoodad Id="596996959" Position="40.6723,14.9184,-0.6481" Rotation="0.3566" Scale="1,1,1" Type="WaterDropsDoodad">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1419645836" Variation="3" Position="206.433,29.8608,10.0302" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="906262459" Variation="2" Position="125.468,225.7707,6.025" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="195807067" Variation="1" Position="71.7326,200.776,4.0156" Rotation="3.0808" Scale="0.9172,0.9172,0.9172" Type="Elsecaro_Bush1x1">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1442659660" Position="15,9,1.3164" Scale="1,1,1" Type="Elsecaro_Jet_Ski">
-        <Flag Index="HeightOffset" Value="1"/>
+    <ObjectDoodad Id="1442659660" Position="15.1166,8.604,0.0417" Scale="1,1,1" Type="Elsecaro_Jet_Ski">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="827054412" Variation="3" Position="169.529,215.2915,6.034" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1957721991" Position="4.1914,251.5698,6.0158" Rotation="3.5544" Scale="1.085,1.085,1.085" Type="Elsecaro_Bush1x1">
+    <ObjectDoodad Id="1225579026" Variation="1" Position="16.9775,12.6962,1.9267" Scale="1,1,1" Type="Elsecaro_Civilian_Car">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1225579026" Variation="1" Position="16.9775,12.6962,1.9267" Scale="1,1,1" Type="Elsecaro_Civilian_Car">
+    <ObjectDoodad Id="1957721991" Position="4.1914,251.5698,6.0158" Rotation="3.5544" Scale="1.085,1.085,1.085" Type="Elsecaro_Bush1x1">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1782311344" Position="85.9514,62.5627,3.4392" Scale="1,1,1" Type="SnowRefinery_RockRampSmall">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="569444461" Variation="9" Position="17.8256,11.9958,1.9372" Rotation="5.5744" Scale="0.9895,0.9895,0.9895" Type="Elsecaro_Foliage">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="1855957296" Variation="2" Position="89.5,63.5,5.8952" Rotation="0.5676" Scale="0.9633,0.9633,0.9633" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="569444461" Variation="9" Position="17.8256,11.9958,1.9372" Rotation="5.5744" Scale="0.9895,0.9895,0.9895" Type="Elsecaro_Foliage">
+    <ObjectDoodad Id="1593598293" Variation="5" Position="14.857,22.0966,1.0593" Rotation="1.959" Scale="0.8034,0.8034,0.8034" Type="BelShirCanopyTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="786261978" Position="143.5,105.5,3.3867" Rotation="3.9638" Scale="1,1,1" Type="SnowRefinery_RockRampSmall">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1593598293" Variation="5" Position="14.857,22.0966,1.0593" Rotation="1.959" Scale="0.8034,0.8034,0.8034" Type="BelShirCanopyTrees">
+    <ObjectDoodad Id="462736569" Variation="4" Position="22.5,30.5,5.5576" Rotation="1.8933" Scale="1.0734,1.0734,1.0734" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="306473074" Variation="4" Position="100.7397,38.1826,4.6455" Rotation="1.8061" Scale="1.0571,1.0571,1.0571" Type="RockArch">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="462736569" Variation="4" Position="22.5,30.5,5.5576" Rotation="1.8933" Scale="1.0734,1.0734,1.0734" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="449808654" Variation="5" Position="223.6574,239.2355,10.0288" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
@@ -486,15 +484,14 @@
     <ObjectDoodad Id="1284610720" Variation="2" Position="5.9514,18.7065,1.7946" Scale="1,1,1" Type="Elsecaro_Dock_Hut">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1352046216" Position="17.2395,94.3852,9.906" Scale="1,1,1" Type="Aiur_CliffRocks_Islands">
-        <Flag Index="HeightOffset" Value="1"/>
+    <ObjectDoodad Id="285327406" Position="19.9587,21.6293,0" Scale="1,1,1" Type="Elsecaro_Catamaran">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1899784929" Position="84.9416,32.7824,5.0302" Scale="1,1,1" Type="Elsecaro_Tree">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="285327406" Position="20,21.5,1.4165" Scale="1,1,1" Type="Elsecaro_Catamaran">
+    <ObjectDoodad Id="1352046216" Position="17.2395,94.3852,9.906" Scale="1,1,1" Type="Aiur_CliffRocks_Islands">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -505,30 +502,30 @@
     <ObjectDoodad Id="1704510137" Variation="15" Position="16.321,13.896,2.0192" Rotation="3.7004" Scale="0.991,0.991,0.991" Type="Elsecaro_Foliage">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="773331323" Variation="3" Position="224.724,113.0378,5.9328" Scale="1,1,1" Type="Elsecaro_Tree">
+    <ObjectDoodad Id="1438908831" Variation="4" Position="39.5,19.5,5.7224" Rotation="2.622" Scale="1.1166,1.1166,1.1166" Type="BelShirTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1438908831" Variation="4" Position="39.5,19.5,5.7224" Rotation="2.622" Scale="1.1166,1.1166,1.1166" Type="BelShirTree">
+    <ObjectDoodad Id="773331323" Variation="3" Position="224.724,113.0378,5.9328" Scale="1,1,1" Type="Elsecaro_Tree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="744637374" Position="110.011,55.1906,4.1047" Scale="1,1,1" Type="Elsecaro_Tree">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="8526363" Variation="4" Position="157.7873,113.9755,6.0244" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
+    <ObjectDoodad Id="2050094378" Variation="17" Position="11.7646,24.269,1.9013" Rotation="0.1618" Scale="1.0146,1.0146,1.0146" Type="Elsecaro_Foliage">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2050094378" Variation="17" Position="11.7646,24.269,1.9013" Rotation="0.1618" Scale="1.0146,1.0146,1.0146" Type="Elsecaro_Foliage">
+    <ObjectDoodad Id="8526363" Variation="4" Position="157.7873,113.9755,6.0244" Scale="1,1,1" Type="Elsecaro_Palmtree_Wrecked">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1034968332" Variation="15" Position="9.7148,21.7941,1.8647" Rotation="1.738" Scale="0.92,0.92,0.92" Type="Elsecaro_Foliage">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="492073871" Position="83.0874,33.6518,3.4885" Rotation="0.5515" Scale="1,1,1" Type="SnowRefinery_RockRampSmall" Pitch="1.6171">
-        <Flag Index="HeightOffset" Value="1"/>
+    <ObjectDoodad Id="1676126782" Variation="2" Position="77.8515,120.455,6.0158" Rotation="2.9484" Scale="0.915,0.915,0.915" Type="Elsecaro_Bush1x1">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1676126782" Variation="2" Position="77.8515,120.455,6.0158" Rotation="2.9484" Scale="0.915,0.915,0.915" Type="Elsecaro_Bush1x1">
+    <ObjectDoodad Id="492073871" Position="83.0874,33.6518,3.4885" Rotation="0.5515" Scale="1,1,1" Type="SnowRefinery_RockRampSmall" Pitch="1.6171">
+        <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1180740495" Variation="7" Position="106.5,73.5,6.0158" Rotation="1.0524" Scale="1.1562,1.1562,1.1562" Type="BelShirTree">
@@ -543,52 +540,51 @@
     <ObjectDoodad Id="1003099122" Variation="19" Position="25.5224,11.2775,1.7575" Rotation="1.9924" Scale="1.0241,1.0241,1.0241" Type="Elsecaro_Foliage">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
+    <ObjectDoodad Id="1330659932" Variation="4" Position="9.6127,13.3242,1.9914" Scale="1,1,1" Type="Tarsonis_DeadMarine">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1228740699" Position="12.3073,8.4797,-0.0996" Scale="1,1,1" Type="Elsecaro_Jet_Ski">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="1837291891" Position="85.1613,64.3945,4.4084" Scale="1,1,1" Type="Elsecaro_Tree">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1228740699" Position="12.5,8.5,1.367" Scale="1,1,1" Type="Elsecaro_Jet_Ski">
-        <Flag Index="HeightOffset" Value="1"/>
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1330659932" Variation="4" Position="9.6127,13.3242,1.9914" Scale="1,1,1" Type="Tarsonis_DeadMarine">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectPoint Id="315957578" Position="40.3715,13.1806,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 023" Color="0,0,0,0"/>
-    <ObjectPoint Id="1559059667" Position="24.611,25.7895,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 014" Color="0,0,0,0"/>
     <ObjectPoint Id="1725503449" Position="33.8188,19.2687,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 019" Color="0,0,0,0"/>
+    <ObjectPoint Id="1559059667" Position="24.611,25.7895,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 014" Color="0,0,0,0"/>
     <ObjectPoint Id="1362004873" Position="7.0612,32.22,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 006" Color="0,0,0,0"/>
+    <ObjectPoint Id="1362389156" Position="173,160,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
     <ObjectPoint Id="2128329643" Position="28.0734,23.026,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 016" Color="0,0,0,0"/>
     <ObjectPoint Id="1180661101" Position="35.9606,17.8212,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 020" Color="0,0,0,0"/>
     <ObjectPoint Id="250686012" Position="41.2473,7.0812,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 026" Color="0,0,0,0"/>
     <ObjectPoint Id="231037436" Position="40.828,11.3281,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 024" Color="0,0,0,0"/>
     <ObjectPoint Id="977871328" Position="40.7717,0.9865,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 029" Color="0,0,0,0"/>
     <ObjectPoint Id="836424798" Position="9.6113,32.1125,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 007" Color="0,0,0,0"/>
+    <ObjectPoint Id="1402925116" Position="212.5,98.5,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
     <ObjectPoint Id="1764117242" Position="38.937,15.0686,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 022" Color="0,0,0,0"/>
     <ObjectPoint Id="269349075" Position="30.0375,21.6872,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 017" Color="0,0,0,0"/>
     <ObjectPoint Id="612328266" Position="40.7407,1.7297,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 032" Color="0,0,0,0"/>
-    <ObjectPoint Id="1551298923" Position="173,159.5,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
+    <ObjectPoint Id="927178690" Position="147,87,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
     <ObjectPoint Id="2033085203" Position="22.606,27.0283,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 013" Color="0,0,0,0"/>
     <ObjectPoint Id="1310218537" Position="37.3703,94.1665,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 003" Color="0,0,0,0"/>
     <ObjectPoint Id="1511396705" Position="16.1667,30.698,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 010" Color="0,0,0,0"/>
     <ObjectPoint Id="1627567133" Position="41.1425,9.5524,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 025" Color="0,0,0,0"/>
-    <ObjectPoint Id="724593902" Position="136,130.5,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
+    <ObjectPoint Id="2127580921" Position="173,128.5,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
     <ObjectPoint Id="1638461036" Position="14.3566,32.0195,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 009" Color="0,0,0,0"/>
     <ObjectPoint Id="947969228" Position="37.2431,16.2636,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 021" Color="0,0,0,0"/>
     <ObjectPoint Id="481426025" Position="20.5834,28.0205,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 012" Color="0,0,0,0"/>
     <ObjectPoint Id="2072060418" Position="18.3417,29.4423,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 011" Color="0,0,0,0"/>
-    <ObjectPoint Id="1182118735" Position="13.49,16.22,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 004" Color="0,0,0,0" PathingRadiusSoft="7.75"/>
     <ObjectPoint Id="962931081" Position="41.1162,3.0837,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 028" Color="0,0,0,0"/>
-    <ObjectPoint Id="244516426" Position="173,128,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
+    <ObjectPoint Id="1182118735" Position="13.49,16.22,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 004" Color="0,0,0,0" PathingRadiusSoft="7.75"/>
     <ObjectPoint Id="1991756955" Position="0.054,32.008,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 031" Color="0,0,0,0"/>
-    <ObjectPoint Id="224902719" Position="144.5,83,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
     <ObjectPoint Id="66294136" Position="16.5864,93.9013,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 001" Color="0,0,0,0"/>
     <ObjectPoint Id="1678253345" Position="10.4365,93.8435,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 002" Color="0,0,0,0"/>
+    <ObjectPoint Id="62730986" Position="135.5,131,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
     <ObjectPoint Id="161932454" Position="41.3425,4.9323,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 027" Color="0,0,0,0"/>
     <ObjectPoint Id="894277040" Position="4.2067,32.1252,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 005" Color="0,0,0,0"/>
-    <ObjectPoint Id="391727175" Position="210,98,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
-    <ObjectPoint Id="2059158472" Position="31.7666,20.4257,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 018" Color="0,0,0,0"/>
     <ObjectPoint Id="918155061" Position="1.6552,32.1306,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 030" Color="0,0,0,0"/>
+    <ObjectPoint Id="2059158472" Position="31.7666,20.4257,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 018" Color="0,0,0,0"/>
     <ObjectPoint Id="126196791" Position="11.8198,32.0861,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 008" Color="0,0,0,0"/>
     <ObjectPoint Id="673884663" Position="26.2072,24.2707,0" Scale="1,1,1" Type="NoFlyZone" Name="No Fly Zone 015" Color="0,0,0,0"/>
     <ObjectCamera Id="816" Position="126.7687,12.3073,0" Rotation="3.14" Scale="1,1,1" Name="Camera 007" Color="0,0,0,0" CameraTarget="126.7687,12.3073">
