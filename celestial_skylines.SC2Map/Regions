@@ -294,12 +294,6 @@
             <quad value="6.0007,211.0004,10.0007,215.0002"/>
         </shape>
     </region>
-    <region id="60">
-        <name value="Ramp60"/>
-        <shape type="rect">
-            <quad value="7.0002,234.0014,11.0002,238.0012"/>
-        </shape>
-    </region>
     <region id="61">
         <name value="Ramp61"/>
         <shape type="rect">
@@ -384,12 +378,6 @@
             <quad value="171.0007,20.0017,175.0007,24.0014"/>
         </shape>
     </region>
-    <region id="78">
-        <name value="Ramp78"/>
-        <shape type="rect">
-            <quad value="165.0012,12.0017,169.0012,16.0014"/>
-        </shape>
-    </region>
     <region id="79">
         <name value="Ramp79"/>
         <shape type="rect">
@@ -465,7 +453,7 @@
     <region id="91">
         <name value="Ramp91"/>
         <shape type="rect">
-            <quad value="201.0002,109.5007,205.0002,113.5004"/>
+            <quad value="201.0002,110.0017,205.0002,114.0014"/>
         </shape>
     </region>
     <region id="92">
@@ -576,52 +564,10 @@
             <quad value="65.0014,22.0017,69.0014,26.0014"/>
         </shape>
     </region>
-    <region id="128">
-        <name value="Ramp128"/>
-        <shape type="rect">
-            <quad value="28.0014,3.0017,32.0014,7.0014"/>
-        </shape>
-    </region>
     <region id="129">
         <name value="Ramp129"/>
         <shape type="rect">
             <quad value="43.0002,6.0007,47.0002,10.0004"/>
-        </shape>
-    </region>
-    <region id="130">
-        <name value="Ramp130"/>
-        <shape type="rect">
-            <quad value="24.0014,3.0007,28.0014,7.0004"/>
-        </shape>
-    </region>
-    <region id="134">
-        <name value="Ramp134"/>
-        <shape type="rect">
-            <quad value="240.0014,28.002,244.0014,32.0017"/>
-        </shape>
-    </region>
-    <region id="135">
-        <name value="Ramp135"/>
-        <shape type="rect">
-            <quad value="240.0012,24.0017,244.0012,28.0014"/>
-        </shape>
-    </region>
-    <region id="136">
-        <name value="Ramp136"/>
-        <shape type="rect">
-            <quad value="234.0014,3.0017,238.0014,7.0014"/>
-        </shape>
-    </region>
-    <region id="137">
-        <name value="Ramp137"/>
-        <shape type="rect">
-            <quad value="230.0014,3.001,234.0014,7.0007"/>
-        </shape>
-    </region>
-    <region id="138">
-        <name value="Ramp138"/>
-        <shape type="rect">
-            <quad value="226.0012,3.0007,230.0012,7.0004"/>
         </shape>
     </region>
     <region id="139">
@@ -636,64 +582,10 @@
             <quad value="234.0017,79.0012,238.0017,83.001"/>
         </shape>
     </region>
-    <region id="141">
-        <name value="Ramp141"/>
-        <shape type="rect">
-            <quad value="204.0014,46.0007,208.0014,50.0004"/>
-        </shape>
-    </region>
-    <region id="142">
-        <name value="Ramp142"/>
-        <shape type="rect">
-            <quad value="208.0017,46.0017,212.0017,50.0014"/>
-        </shape>
-    </region>
     <region id="143">
         <name value="Ramp143"/>
         <shape type="rect">
             <quad value="234.0014,75.0014,238.0014,79.0012"/>
-        </shape>
-    </region>
-    <region id="144">
-        <name value="Ramp144"/>
-        <shape type="rect">
-            <quad value="238.0007,62.0004,242.0007,66.0002"/>
-        </shape>
-    </region>
-    <region id="145">
-        <name value="Ramp145"/>
-        <shape type="rect">
-            <quad value="212.0002,107.001,216.0002,111.0007"/>
-        </shape>
-    </region>
-    <region id="146">
-        <name value="Ramp146"/>
-        <shape type="rect">
-            <quad value="249.0007,142.002,253.0007,146.0017"/>
-        </shape>
-    </region>
-    <region id="147">
-        <name value="Ramp147"/>
-        <shape type="rect">
-            <quad value="202.0004,102.0014,206.0004,106.0012"/>
-        </shape>
-    </region>
-    <region id="148">
-        <name value="Ramp148"/>
-        <shape type="rect">
-            <quad value="198.0012,102.001,202.0012,106.0007"/>
-        </shape>
-    </region>
-    <region id="149">
-        <name value="Ramp149"/>
-        <shape type="rect">
-            <quad value="172.0007,48.0017,176.0007,52.0014"/>
-        </shape>
-    </region>
-    <region id="150">
-        <name value="Ramp150"/>
-        <shape type="rect">
-            <quad value="168.0014,48.0017,172.0014,52.0014"/>
         </shape>
     </region>
     <region id="151">
@@ -702,52 +594,10 @@
             <quad value="143.0002,30.002,147.0002,34.0017"/>
         </shape>
     </region>
-    <region id="155">
-        <name value="Ramp155"/>
-        <shape type="rect">
-            <quad value="11.0007,115.0004,15.0007,119.0002"/>
-        </shape>
-    </region>
-    <region id="156">
-        <name value="Ramp156"/>
-        <shape type="rect">
-            <quad value="3.0014,161.001,7.0014,165.0007"/>
-        </shape>
-    </region>
-    <region id="157">
-        <name value="Ramp157"/>
-        <shape type="rect">
-            <quad value="3.0012,165.001,7.0012,169.0007"/>
-        </shape>
-    </region>
-    <region id="160">
-        <name value="Ramp160"/>
-        <shape type="rect">
-            <quad value="3.0017,201.001,7.0017,205.0007"/>
-        </shape>
-    </region>
     <region id="162">
         <name value="Ramp162"/>
         <shape type="rect">
             <quad value="18.0007,205.0014,22.0007,209.0012"/>
-        </shape>
-    </region>
-    <region id="163">
-        <name value="Ramp163"/>
-        <shape type="rect">
-            <quad value="3.0012,205.0012,7.0012,209.001"/>
-        </shape>
-    </region>
-    <region id="164">
-        <name value="Ramp164"/>
-        <shape type="rect">
-            <quad value="111.0012,242.002,115.0012,246.0017"/>
-        </shape>
-    </region>
-    <region id="165">
-        <name value="Ramp165"/>
-        <shape type="rect">
-            <quad value="115.0012,242.002,119.0012,246.0017"/>
         </shape>
     </region>
     <region id="172">
@@ -760,66 +610,6 @@
         <name value="Ramp173"/>
         <shape type="rect">
             <quad value="42.0014,213.0017,46.0014,217.0014"/>
-        </shape>
-    </region>
-    <region id="166">
-        <name value="Ramp166"/>
-        <shape type="rect">
-            <quad value="144.0004,222.001,148.0004,226.0007"/>
-        </shape>
-    </region>
-    <region id="167">
-        <name value="Ramp167"/>
-        <shape type="rect">
-            <quad value="140.0014,222.002,144.0014,226.0017"/>
-        </shape>
-    </region>
-    <region id="168">
-        <name value="Ramp168"/>
-        <shape type="rect">
-            <quad value="228.0004,249.0004,232.0004,253.0002"/>
-        </shape>
-    </region>
-    <region id="169">
-        <name value="Ramp169"/>
-        <shape type="rect">
-            <quad value="204.0002,224.0017,208.0002,228.0014"/>
-        </shape>
-    </region>
-    <region id="170">
-        <name value="Ramp170"/>
-        <shape type="rect">
-            <quad value="232.0017,249.0007,236.0017,253.0004"/>
-        </shape>
-    </region>
-    <region id="171">
-        <name value="Ramp171"/>
-        <shape type="rect">
-            <quad value="192.0007,220.0017,196.0007,224.0014"/>
-        </shape>
-    </region>
-    <region id="174">
-        <name value="Ramp174"/>
-        <shape type="rect">
-            <quad value="188.0017,220.0004,192.0017,224.0002"/>
-        </shape>
-    </region>
-    <region id="176">
-        <name value="Ramp176"/>
-        <shape type="rect">
-            <quad value="201.0014,182.002,205.0014,186.0017"/>
-        </shape>
-    </region>
-    <region id="177">
-        <name value="Ramp177"/>
-        <shape type="rect">
-            <quad value="226.0004,161.0007,230.0004,165.0004"/>
-        </shape>
-    </region>
-    <region id="178">
-        <name value="Ramp178"/>
-        <shape type="rect">
-            <quad value="226.0007,157.0017,230.0007,161.0014"/>
         </shape>
     </region>
     <region id="180">
@@ -850,120 +640,6 @@
         <name value="Ramp183"/>
         <shape type="rect">
             <quad value="59.0012,230.0004,63.0012,234.0002"/>
-        </shape>
-    </region>
-    <region id="184">
-        <name value="Ramp184"/>
-        <shape type="rect">
-            <quad value="165.0007,190.0007,169.0007,194.0004"/>
-        </shape>
-    </region>
-    <region id="185">
-        <name value="Ramp185"/>
-        <shape type="rect">
-            <quad value="178.0014,165.0014,182.0014,169.0012"/>
-        </shape>
-    </region>
-    <region id="186">
-        <name value="Ramp186"/>
-        <shape type="rect">
-            <quad value="178.0012,169.002,182.0012,173.0017"/>
-        </shape>
-    </region>
-    <region id="187">
-        <name value="Ramp187"/>
-        <shape type="rect">
-            <quad value="170.0014,165.002,174.0014,169.0017"/>
-        </shape>
-    </region>
-    <region id="188">
-        <name value="Ramp188"/>
-        <shape type="rect">
-            <quad value="165.0014,170.0012,169.0014,174.001"/>
-        </shape>
-    </region>
-    <region id="189">
-        <name value="Ramp189"/>
-        <shape type="rect">
-            <quad value="222.0002,146.0014,226.0002,150.0012"/>
-        </shape>
-    </region>
-    <region id="190">
-        <name value="Ramp190"/>
-        <shape type="rect">
-            <quad value="30.0012,143.0007,34.0012,147.0004"/>
-        </shape>
-    </region>
-    <region id="191">
-        <name value="Ramp191"/>
-        <shape type="rect">
-            <quad value="30.0014,110.0017,34.0014,114.0014"/>
-        </shape>
-    </region>
-    <region id="192">
-        <name value="Ramp192"/>
-        <shape type="rect">
-            <quad value="178.0002,3.0007,182.0002,7.0004"/>
-        </shape>
-    </region>
-    <region id="193">
-        <name value="Ramp193"/>
-        <shape type="rect">
-            <quad value="174.0014,3.0007,178.0014,7.0004"/>
-        </shape>
-    </region>
-    <region id="194">
-        <name value="Ramp194"/>
-        <shape type="rect">
-            <quad value="201.0007,249.0017,205.0007,253.0014"/>
-        </shape>
-    </region>
-    <region id="195">
-        <name value="Ramp195"/>
-        <shape type="rect">
-            <quad value="197.0014,249.001,201.0014,253.0007"/>
-        </shape>
-    </region>
-    <region id="196">
-        <name value="Ramp196"/>
-        <shape type="rect">
-            <quad value="193.0017,249.0017,197.0017,253.0014"/>
-        </shape>
-    </region>
-    <region id="197">
-        <name value="Ramp197"/>
-        <shape type="rect">
-            <quad value="189.0012,249.0017,193.0012,253.0014"/>
-        </shape>
-    </region>
-    <region id="198">
-        <name value="Ramp198"/>
-        <shape type="rect">
-            <quad value="137.001,239.0014,141.001,243.0012"/>
-        </shape>
-    </region>
-    <region id="199">
-        <name value="Ramp199"/>
-        <shape type="rect">
-            <quad value="137.0017,243.0017,141.0017,247.0014"/>
-        </shape>
-    </region>
-    <region id="200">
-        <name value="Ramp200"/>
-        <shape type="rect">
-            <quad value="107.0004,242.0007,111.0004,246.0004"/>
-        </shape>
-    </region>
-    <region id="201">
-        <name value="Ramp201"/>
-        <shape type="rect">
-            <quad value="3.0002,72.0007,7.0002,76.0004"/>
-        </shape>
-    </region>
-    <region id="202">
-        <name value="Ramp202"/>
-        <shape type="rect">
-            <quad value="3.0012,76.0007,7.0012,80.0004"/>
         </shape>
     </region>
     <region id="205">
@@ -1060,12 +736,6 @@
         <name value="Ramp220"/>
         <shape type="rect">
             <quad value="59.0004,104.001,63.0004,108.0007"/>
-        </shape>
-    </region>
-    <region id="221">
-        <name value="Ramp221"/>
-        <shape type="rect">
-            <quad value="82.001,87.0007,86.001,91.0004"/>
         </shape>
     </region>
     <region id="204">
@@ -1192,6 +862,36 @@
         <name value="Ramp122"/>
         <shape type="rect">
             <quad value="121.0012,98.0017,125.0012,102.0014"/>
+        </shape>
+    </region>
+    <region id="60">
+        <name value="Ramp60"/>
+        <shape type="rect">
+            <quad value="7.0002,234.0014,11.0002,238.0012"/>
+        </shape>
+    </region>
+    <region id="43">
+        <name value="Ramp125"/>
+        <shape type="rect">
+            <quad value="208.0012,108.0017,212.0012,112.0014"/>
+        </shape>
+    </region>
+    <region id="65">
+        <name value="Ramp127"/>
+        <shape type="rect">
+            <quad value="212.0004,108.0017,216.0004,112.0014"/>
+        </shape>
+    </region>
+    <region id="72">
+        <name value="Ramp22"/>
+        <shape type="rect">
+            <quad value="243.0007,228.0007,247.0007,232.0004"/>
+        </shape>
+    </region>
+    <region id="78">
+        <name value="Ramp223"/>
+        <shape type="rect">
+            <quad value="3.0007,234.001,7.0007,238.0007"/>
         </shape>
     </region>
 </Regions>
