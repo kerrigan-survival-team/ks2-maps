@@ -26,13 +26,6 @@
             <quad value="222.13,241.1965,226.1296,253.1965"/>
         </shape>
     </region>
-    <region id="5">
-        <name value="Tutorial Economy (Vertical) 03"/>
-        <color value="255,255,255,128"/>
-        <shape type="rect">
-            <quad value="59.0007,17.5002,63.0004,29.5002"/>
-        </shape>
-    </region>
     <region id="6">
         <name value="Tutorial Outpost (Unit) 02"/>
         <color value="255,255,255,128"/>
@@ -90,7 +83,7 @@
         <name value="Tutorial Outpost (Unit) 07"/>
         <color value="255,255,255,128"/>
         <shape type="circle">
-            <center value="199.5012,203.0007"/>
+            <center value="199.5012,203.5007"/>
             <radius value="2.5"/>
         </shape>
     </region>
@@ -188,34 +181,6 @@
             <quad value="136.0085,214.0004,137.0085,215.0002"/>
         </shape>
     </region>
-    <region id="27">
-        <name value="Tutorial Economy (Vertical) 05"/>
-        <color value="255,255,255,128"/>
-        <shape type="rect">
-            <quad value="59.0007,17.5007,63.0004,29.5007"/>
-        </shape>
-    </region>
-    <region id="28">
-        <name value="Tutorial Economy (Vertical) 06"/>
-        <color value="255,255,255,128"/>
-        <shape type="rect">
-            <quad value="59.501,17.5002,63.5007,29.5002"/>
-        </shape>
-    </region>
-    <region id="29">
-        <name value="Tutorial Economy (Vertical) 07"/>
-        <color value="255,255,255,128"/>
-        <shape type="rect">
-            <quad value="59.5007,17.5002,63.5004,29.5002"/>
-        </shape>
-    </region>
-    <region id="30">
-        <name value="Tutorial Economy (Vertical) 08"/>
-        <color value="255,255,255,128"/>
-        <shape type="rect">
-            <quad value="59.001,17.5002,63.0007,29.5002"/>
-        </shape>
-    </region>
     <region id="31">
         <name value="Tutorial Economy (Vertical) 10"/>
         <color value="255,255,255,128"/>
@@ -237,13 +202,6 @@
             <quad value="156.3771,240.9196,160.377,252.9196"/>
         </shape>
     </region>
-    <region id="34">
-        <name value="Tutorial Economy (Vertical) 15"/>
-        <color value="255,255,255,128"/>
-        <shape type="rect">
-            <quad value="59.0007,18.0007,63.0004,30.0007"/>
-        </shape>
-    </region>
     <region id="35">
         <name value="Tutorial Economy (Horizontal) 06"/>
         <color value="255,255,255,128"/>
@@ -256,13 +214,6 @@
         <color value="255,255,255,128"/>
         <shape type="rect">
             <quad value="25.0002,69.001,37.0002,73.0007"/>
-        </shape>
-    </region>
-    <region id="37">
-        <name value="Tutorial Economy (Vertical) 16"/>
-        <color value="255,255,255,128"/>
-        <shape type="rect">
-            <quad value="59.001,17.5002,63.0007,29.5002"/>
         </shape>
     </region>
     <region id="38">
@@ -323,7 +274,7 @@
         <name value="Tutorial Outpost (Corner) 17"/>
         <color value="255,255,255,128"/>
         <shape type="rect">
-            <quad value="79.0231,55.0163,80.0231,56.016"/>
+            <quad value="79.0231,55.5163,80.0231,56.516"/>
         </shape>
     </region>
     <region id="46">
@@ -484,7 +435,7 @@
         <name value="Tutorial Outpost (Ground) 08"/>
         <color value="255,255,255,128"/>
         <shape type="rect">
-            <quad value="195.0007,192.0002,201.0004,198.0002"/>
+            <quad value="194.0007,192.0002,200.0004,198.0002"/>
         </shape>
     </region>
     <region id="68">
@@ -575,25 +526,11 @@
             <quad value="210.0002,242.0004,220.0002,254.0002"/>
         </shape>
     </region>
-    <region id="76">
-        <name value="Tutorial Economy (Cloaked) 03"/>
-        <color value="255,255,255,128"/>
-        <shape type="rect">
-            <quad value="2.5002,25.5004,12.5002,37.5002"/>
-        </shape>
-    </region>
     <region id="77">
         <name value="Tutorial Economy (Cloaked) 04"/>
         <color value="255,255,255,128"/>
         <shape type="rect">
             <quad value="243.8647,186.0554,253.8647,198.0551"/>
-        </shape>
-    </region>
-    <region id="78">
-        <name value="Tutorial Economy (Cloaked) 05"/>
-        <color value="255,255,255,128"/>
-        <shape type="rect">
-            <quad value="5.0002,3.5004,15.0002,15.5002"/>
         </shape>
     </region>
     <region id="79">
@@ -607,7 +544,7 @@
         <name value="Tutorial Economy (Vertical) 18"/>
         <color value="255,255,255,128"/>
         <shape type="rect">
-            <quad value="59.501,17.5002,63.5007,29.5002"/>
+            <quad value="59.0004,20.0007,63.0002,32.0007"/>
         </shape>
     </region>
     <region id="81">
@@ -761,7 +698,7 @@
     <region id="103">
         <name value="Ramp17"/>
         <shape type="rect">
-            <quad value="64.0014,63.0004,68.0014,67.0002"/>
+            <quad value="62.0004,64.0004,66.0004,68.0002"/>
         </shape>
     </region>
     <region id="104">
@@ -977,7 +914,7 @@
     <region id="139">
         <name value="Ramp53"/>
         <shape type="rect">
-            <quad value="26.0014,191.0014,30.0014,195.0012"/>
+            <quad value="26.0007,191.0017,30.0007,195.0014"/>
         </shape>
     </region>
     <region id="140">
@@ -1163,19 +1100,19 @@
     <region id="170">
         <name value="Ramp84"/>
         <shape type="rect">
-            <quad value="31.001,145.5017,35.001,149.5014"/>
+            <quad value="32.0004,145.0017,36.0004,149.0014"/>
         </shape>
     </region>
     <region id="171">
         <name value="Ramp85"/>
         <shape type="rect">
-            <quad value="31.0004,153.5007,35.0004,157.5004"/>
+            <quad value="32.0002,153.5012,36.0002,157.501"/>
         </shape>
     </region>
     <region id="172">
         <name value="Ramp86"/>
         <shape type="rect">
-            <quad value="31.0007,161.5007,35.0007,165.5004"/>
+            <quad value="32.001,161.002,36.001,165.0017"/>
         </shape>
     </region>
     <region id="173">
@@ -1415,7 +1352,7 @@
     <region id="212">
         <name value="Ramp126"/>
         <shape type="rect">
-            <quad value="181.0004,18.0017,185.0004,22.0014"/>
+            <quad value="181.0017,20.001,185.0017,24.0007"/>
         </shape>
     </region>
     <region id="213">
@@ -1588,8 +1525,124 @@
         <name value="Tutorial Outpost (Unit) 01"/>
         <color value="255,255,255,128"/>
         <shape type="circle">
-            <center value="144.3937,26.135"/>
+            <center value="144.501,26.5007"/>
             <radius value="2.5"/>
+        </shape>
+    </region>
+    <region id="235">
+        <name value="Ramp143"/>
+        <shape type="rect">
+            <quad value="204.0017,51.001,208.0017,55.0007"/>
+        </shape>
+    </region>
+    <region id="241">
+        <name value="Ramp144"/>
+        <shape type="rect">
+            <quad value="222.0004,57.001,226.0004,61.0007"/>
+        </shape>
+    </region>
+    <region id="242">
+        <name value="Ramp145"/>
+        <shape type="rect">
+            <quad value="204.0012,57.0012,208.0012,61.001"/>
+        </shape>
+    </region>
+    <region id="243">
+        <name value="Ramp146"/>
+        <shape type="rect">
+            <quad value="235.0007,54.0004,239.0007,58.0002"/>
+        </shape>
+    </region>
+    <region id="244">
+        <name value="Ramp147"/>
+        <shape type="rect">
+            <quad value="235.0004,42.0017,239.0004,46.0014"/>
+        </shape>
+    </region>
+    <region id="245">
+        <name value="Ramp148"/>
+        <shape type="rect">
+            <quad value="198.0007,33.002,202.0007,37.0017"/>
+        </shape>
+    </region>
+    <region id="246">
+        <name value="Ramp149"/>
+        <shape type="rect">
+            <quad value="222.5014,27.0017,226.5014,31.0014"/>
+        </shape>
+    </region>
+    <region id="247">
+        <name value="Ramp150"/>
+        <shape type="rect">
+            <quad value="226.0007,3.001,230.0007,7.0007"/>
+        </shape>
+    </region>
+    <region id="248">
+        <name value="Ramp151"/>
+        <shape type="rect">
+            <quad value="222.0004,9.001,226.0004,13.0007"/>
+        </shape>
+    </region>
+    <region id="249">
+        <name value="Ramp152"/>
+        <shape type="rect">
+            <quad value="226.0014,15.0007,230.0014,19.0004"/>
+        </shape>
+    </region>
+    <region id="250">
+        <name value="Ramp153"/>
+        <shape type="rect">
+            <quad value="233.0014,20.0007,237.0014,24.0004"/>
+        </shape>
+    </region>
+    <region id="251">
+        <name value="Ramp154"/>
+        <shape type="rect">
+            <quad value="239.0007,24.0014,243.0007,28.0012"/>
+        </shape>
+    </region>
+    <region id="252">
+        <name value="Ramp155"/>
+        <shape type="rect">
+            <quad value="245.0002,20.0017,249.0002,24.0014"/>
+        </shape>
+    </region>
+    <region id="78">
+        <name value="Tutorial Economy (Cloaked) 05"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="5.0002,3.5004,15.0002,15.5002"/>
+        </shape>
+    </region>
+    <region id="76">
+        <name value="Tutorial Economy (Cloaked) 03"/>
+        <color value="255,255,255,128"/>
+        <shape type="rect">
+            <quad value="2.5002,25.5004,12.5002,37.5002"/>
+        </shape>
+    </region>
+    <region id="5">
+        <name value="Ramp156"/>
+        <shape type="rect">
+            <quad value="227.0007,21.0014,231.0007,25.0012"/>
+        </shape>
+    </region>
+    <region id="27">
+        <name value="Ramp157"/>
+        <shape type="rect">
+            <quad value="47.0004,242.0007,51.0004,246.0004"/>
+        </shape>
+    </region>
+    <region id="28">
+        <name value="Ramp158"/>
+        <shape type="rect">
+            <quad value="34.0007,11.002,38.0007,15.0017"/>
+        </shape>
+    </region>
+    <region id="29">
+        <name value="Ramp159"/>
+        <shape type="rect">
+            <quad value="16.0012,11.0014,20.0012,15.0012"/>
         </shape>
     </region>
 </Regions>
