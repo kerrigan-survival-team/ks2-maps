@@ -565,55 +565,19 @@
     <ObjectPoint Id="1505405091" Position="72,128,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
     <ObjectPoint Id="914337220" Position="128,176,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
     <ObjectUnit Id="1452255554" Position="57,89,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="312077593" Position="138,20,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad4"/>
+    <ObjectUnit Id="729930967" Position="187,205,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="1364555532" Position="118,20,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonTerrainWarpInPad@CommonTerrainObjectsWarpInPad@WarpInPad"/>
     <ObjectUnit Id="763337209" Position="150,70,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="1561022998" Position="203,35,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="1762608430" Position="27,14,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="1878354124" Position="239,59,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="1634726578" Position="229,204,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="148735232" Position="68,246,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="229466691" Position="233,53,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="366703021" Position="57,167,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="1597704933" Position="223,210,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="741106565" Position="227,11,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="663589464" Position="203,23,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="729930967" Position="187,205,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="829270089" Position="203,47,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="1577759621" Position="19,137,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad2"/>
-    <ObjectUnit Id="2067324318" Position="245,53,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="1803474962" Position="239,23,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
+    <ObjectUnit Id="1192605688" Position="199,167,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="667173833" Position="199,89,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="1670406339" Position="233,29,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="1751143413" Position="239,47,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="614831485" Position="69,205,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="1408471815" Position="215,11,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="1306683217" Position="227,47,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="444505451" Position="251,23,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="1774523367" Position="251,47,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="625093200" Position="22,212,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="1851655850" Position="106,70,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="1098693935" Position="203,11,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="850594139" Position="237,119,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad4"/>
-    <ObjectUnit Id="47002343" Position="221,41,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="832846771" Position="23,235,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="508539881" Position="221,17,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
     <ObjectUnit Id="371445438" Position="19,119,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonTerrainWarpInPad@CommonTerrainObjectsWarpInPad@WarpInPad"/>
-    <ObjectUnit Id="1401542763" Position="245,29,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
+    <ObjectUnit Id="483995747" Position="121,236,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad2"/>
     <ObjectUnit Id="839408127" Position="135,236,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad3"/>
     <ObjectUnit Id="598408033" Position="237,137,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad3"/>
-    <ObjectUnit Id="1304009153" Position="203,59,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="312077593" Position="138,20,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad4"/>
-    <ObjectUnit Id="2017230794" Position="227,59,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="1126600080" Position="239,35,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="1192605688" Position="199,167,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="1037259265" Position="43,241,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="751947593" Position="251,35,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="844573348" Position="227,23,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="261386699" Position="221,5,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="275784886" Position="235,210,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="1657573840" Position="227,35,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="754024178" Position="215,23,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="2142477401" Position="54,207,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="1635897160" Position="28,206,0" Scale="1,1,1" UnitType="UnstableRockTower"/>
-    <ObjectUnit Id="483995747" Position="121,236,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad2"/>
+    <ObjectUnit Id="614831485" Position="69,205,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="366703021" Position="57,167,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
 </PlacedObjects>
