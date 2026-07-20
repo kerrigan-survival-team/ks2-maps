@@ -1319,25 +1319,25 @@
     <region id="188">
         <name value="Vent 2A"/>
         <shape type="rect">
-            <quad value="112.3754,87.0046,115.6254,88.0046"/>
+            <quad value="69.8793,87.0004,73.1293,88.0004"/>
         </shape>
     </region>
     <region id="189">
         <name value="Vent 3A"/>
         <shape type="rect">
-            <quad value="140.381,87.0075,143.631,88.0075"/>
+            <quad value="182.8762,87.0024,186.1262,88.0024"/>
         </shape>
     </region>
     <region id="190">
         <name value="Vent 4A"/>
         <shape type="rect">
-            <quad value="153.0024,76.3752,154.0024,79.6252"/>
+            <quad value="167.0041,116.88,168.0041,120.13"/>
         </shape>
     </region>
     <region id="191">
         <name value="Vent 1A"/>
         <shape type="rect">
-            <quad value="102.007,76.3818,103.007,79.6318"/>
+            <quad value="88.003,116.8776,89.003,120.1276"/>
         </shape>
     </region>
     <region id="192">
