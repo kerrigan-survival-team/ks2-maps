@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PlacedObjects Version="27">
+    <ObjectDoodad Id="1799746748" Position="237,20,16.0004" Rotation="1.1494" Scale="0.8498,0.8498,0.8498" Type="PathingBlocker2x2Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2014940588" Position="237,18,16.0187" Rotation="0.8122" Scale="0.8498,0.8498,0.8498" Type="PathingBlocker2x2Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1573645649" Position="44.5,255.5,0.0002" Rotation="0.661" Scale="1,1,1" Type="PathingBlocker1x1Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
     <ObjectDoodad Id="1688741648" Position="233,20,16.0122" Rotation="2.625" Scale="0.8498,0.8498,0.8498" Type="PathingBlocker2x2Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2131916483" Position="231,20,16.0185" Rotation="1.9052" Scale="0.8498,0.8498,0.8498" Type="PathingBlocker2x2Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1047290592" Position="240.5,19.5,15.9965" Rotation="4.0903" Scale="1,1,1" Type="PathingBlocker1x1Doodad">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="707597801" Position="235,20,16.0185" Rotation="2.07" Scale="0.8498,0.8498,0.8498" Type="PathingBlocker2x2Doodad">
@@ -10,6 +25,15 @@
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1167004811" Position="233,18,16.0187" Rotation="3.2656" Scale="0.8498,0.8498,0.8498" Type="PathingBlocker2x2Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="745915472" Position="239,18,15.9995" Rotation="4.8547" Scale="0.8498,0.8498,0.8498" Type="PathingBlocker2x2Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1026383109" Position="239,20,16.0114" Rotation="2.7087" Scale="0.8498,0.8498,0.8498" Type="PathingBlocker2x2Doodad">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1447854543" Position="231,18,16.0122" Rotation="2.469" Scale="0.8498,0.8498,0.8498" Type="PathingBlocker2x2Doodad">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="732332193" Position="229,18,16.0187" Rotation="5.787" Scale="0.8498,0.8498,0.8498" Type="PathingBlocker2x2Doodad">
@@ -27,161 +51,17 @@
     <ObjectDoodad Id="262751840" Position="240.5,18.5,15.9787" Rotation="3.743" Scale="1,1,1" Type="PathingBlocker1x1Doodad">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1799746748" Position="237,20,16.0004" Rotation="1.1494" Scale="0.8498,0.8498,0.8498" Type="PathingBlocker2x2Doodad">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1573645649" Position="44.5,255.5,0.0002" Rotation="0.661" Scale="1,1,1" Type="PathingBlocker1x1Doodad">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="2014940588" Position="237,18,16.0187" Rotation="0.8122" Scale="0.8498,0.8498,0.8498" Type="PathingBlocker2x2Doodad">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="2131916483" Position="231,20,16.0185" Rotation="1.9052" Scale="0.8498,0.8498,0.8498" Type="PathingBlocker2x2Doodad">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1047290592" Position="240.5,19.5,15.9965" Rotation="4.0903" Scale="1,1,1" Type="PathingBlocker1x1Doodad">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="745915472" Position="239,18,15.9995" Rotation="4.8547" Scale="0.8498,0.8498,0.8498" Type="PathingBlocker2x2Doodad">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1447854543" Position="231,18,16.0122" Rotation="2.469" Scale="0.8498,0.8498,0.8498" Type="PathingBlocker2x2Doodad">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
-    <ObjectDoodad Id="1026383109" Position="239,20,16.0114" Rotation="2.7087" Scale="0.8498,0.8498,0.8498" Type="PathingBlocker2x2Doodad">
-        <Flag Index="HeightAbsolute" Value="1"/>
-    </ObjectDoodad>
     <ObjectPoint Id="1563075166" Position="128,90,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
     <ObjectPoint Id="1113965454" Position="101,164,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
     <ObjectPoint Id="1378639359" Position="158.5,163.5,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
     <ObjectPoint Id="1509738341" Position="87.5,113,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
     <ObjectPoint Id="1439851683" Position="128,128,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
-    <ObjectCamera Id="816" Position="126.7687,12.3073,0" Rotation="3.14" Scale="1,1,1" Name="Camera 007" Color="0,0,0,0" CameraTarget="126.7687,12.3073">
-        <Flag Index="CameraHidden" Value="1"/>
-        <CameraValue Index="FieldOfView" Value="27.7995"/>
-        <CameraValue Index="NearClip" Value="0.0998"/>
-        <CameraValue Index="FarClip" Value="40000"/>
-        <CameraValue Index="ShadowClip" Value="300"/>
-        <CameraValue Index="Distance" Value="33.9997"/>
-        <CameraValue Index="Pitch" Value="56"/>
-        <CameraValue Index="Yaw" Value="179.9025"/>
-        <CameraValue Index="FocalDepth" Value="8"/>
-        <CameraValue Index="FalloffStart" Value="0.0002"/>
-        <CameraValue Index="FalloffEnd" Value="8"/>
-        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
-        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
-        <CameraValue Index="BokehFStop" Value="0.0187"/>
-        <CameraValue Index="BokehMaxCoC" Value="1"/>
-    </ObjectCamera>
-    <ObjectCamera Id="312" Position="32.9306,29.6455,0" Rotation="1.5104" Scale="1,1,1" Name="Camera 005" Color="0,0,0,0" CameraTarget="32.9306,29.6455">
-        <Flag Index="CameraHidden" Value="1"/>
-        <CameraValue Index="FieldOfView" Value="19.7995"/>
-        <CameraValue Index="NearClip" Value="0.0998"/>
-        <CameraValue Index="FarClip" Value="40000"/>
-        <CameraValue Index="ShadowClip" Value="300"/>
-        <CameraValue Index="Distance" Value="37.3996"/>
-        <CameraValue Index="Pitch" Value="26.5698"/>
-        <CameraValue Index="Yaw" Value="86.5451"/>
-        <CameraValue Index="FocalDepth" Value="8"/>
-        <CameraValue Index="FalloffStart" Value="0.0002"/>
-        <CameraValue Index="FalloffEnd" Value="8"/>
-        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
-        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
-        <CameraValue Index="BokehFStop" Value="0.0187"/>
-        <CameraValue Index="BokehMaxCoC" Value="1"/>
-    </ObjectCamera>
-    <ObjectCamera Id="310" Position="25.8454,124.3073,0" Rotation="2.841" Scale="1,1,1" Name="Camera 004" Color="0,0,0,0" CameraTarget="25.8454,124.3073">
-        <Flag Index="CameraHidden" Value="1"/>
-        <CameraValue Index="FieldOfView" Value="33.7995"/>
-        <CameraValue Index="NearClip" Value="0.0998"/>
-        <CameraValue Index="FarClip" Value="40000"/>
-        <CameraValue Index="ShadowClip" Value="300"/>
-        <CameraValue Index="Distance" Value="34"/>
-        <CameraValue Index="Pitch" Value="35"/>
-        <CameraValue Index="Yaw" Value="162.781"/>
-        <CameraValue Index="FocalDepth" Value="8"/>
-        <CameraValue Index="FalloffStart" Value="0.0002"/>
-        <CameraValue Index="FalloffEnd" Value="8"/>
-        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
-        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
-        <CameraValue Index="BokehFStop" Value="0.0187"/>
-        <CameraValue Index="BokehMaxCoC" Value="1"/>
-    </ObjectCamera>
-    <ObjectCamera Id="131" Position="241.9611,243.5917,0" Rotation="5.0771" Scale="1,1,1" Name="Camera 003" Color="0,0,0,0" CameraTarget="241.9611,243.5917">
-        <Flag Index="CameraHidden" Value="1"/>
-        <CameraValue Index="FieldOfView" Value="24.7995"/>
-        <CameraValue Index="NearClip" Value="0.0998"/>
-        <CameraValue Index="FarClip" Value="40000"/>
-        <CameraValue Index="ShadowClip" Value="300"/>
-        <CameraValue Index="Distance" Value="30"/>
-        <CameraValue Index="Pitch" Value="32"/>
-        <CameraValue Index="Yaw" Value="290.8991"/>
-        <CameraValue Index="HeightOffset" Value="9"/>
-        <CameraValue Index="FocalDepth" Value="8"/>
-        <CameraValue Index="FalloffStart" Value="0.0002"/>
-        <CameraValue Index="FalloffEnd" Value="8"/>
-        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
-        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
-        <CameraValue Index="BokehFStop" Value="0.0097"/>
-        <CameraValue Index="BokehMaxCoC" Value="1"/>
-    </ObjectCamera>
-    <ObjectCamera Id="315" Position="125.5065,44.863,0" Scale="1,1,1" Name="Camera 006" Color="0,0,0,0" CameraTarget="125.5065,44.863">
-        <Flag Index="CameraHidden" Value="1"/>
-        <CameraValue Index="FieldOfView" Value="27.7995"/>
-        <CameraValue Index="NearClip" Value="0.0998"/>
-        <CameraValue Index="FarClip" Value="40000"/>
-        <CameraValue Index="ShadowClip" Value="300"/>
-        <CameraValue Index="Distance" Value="37.3996"/>
-        <CameraValue Index="Pitch" Value="37.5698"/>
-        <CameraValue Index="FocalDepth" Value="8"/>
-        <CameraValue Index="FalloffStart" Value="0.0002"/>
-        <CameraValue Index="FalloffEnd" Value="8"/>
-        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
-        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
-        <CameraValue Index="BokehFStop" Value="0.0187"/>
-        <CameraValue Index="BokehMaxCoC" Value="1"/>
-    </ObjectCamera>
-    <ObjectCamera Id="337" Position="16.0097,242.9401,0" Rotation="3.1572" Scale="1,1,1" Name="Camera 002" Color="0,0,0,0" CameraTarget="16.0097,242.9401">
-        <Flag Index="CameraHidden" Value="1"/>
-        <CameraValue Index="FieldOfView" Value="24.7995"/>
-        <CameraValue Index="NearClip" Value="0.0998"/>
-        <CameraValue Index="FarClip" Value="40000"/>
-        <CameraValue Index="ShadowClip" Value="300"/>
-        <CameraValue Index="Distance" Value="11.9162"/>
-        <CameraValue Index="Pitch" Value="16.49"/>
-        <CameraValue Index="Yaw" Value="180.8957"/>
-        <CameraValue Index="HeightOffset" Value="0.4926"/>
-        <CameraValue Index="FocalDepth" Value="8"/>
-        <CameraValue Index="FalloffStart" Value="0.0002"/>
-        <CameraValue Index="FalloffEnd" Value="8"/>
-        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
-        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
-        <CameraValue Index="BokehFStop" Value="0.0187"/>
-        <CameraValue Index="BokehMaxCoC" Value="1"/>
-    </ObjectCamera>
-    <ObjectCamera Id="137" Position="11.1281,245.8256,0" Rotation="3.14" Scale="1,1,1" Name="Camera 001" Color="0,0,0,0" CameraTarget="11.1281,245.8256">
-        <Flag Index="CameraHidden" Value="1"/>
-        <CameraValue Index="FieldOfView" Value="12.7995"/>
-        <CameraValue Index="NearClip" Value="0.0998"/>
-        <CameraValue Index="FarClip" Value="40000"/>
-        <CameraValue Index="ShadowClip" Value="300"/>
-        <CameraValue Index="Distance" Value="19.1916"/>
-        <CameraValue Index="Pitch" Value="15"/>
-        <CameraValue Index="Yaw" Value="179.9025"/>
-        <CameraValue Index="FocalDepth" Value="8"/>
-        <CameraValue Index="FalloffStart" Value="0.0002"/>
-        <CameraValue Index="FalloffEnd" Value="8"/>
-        <CameraValue Index="FalloffStartNear" Value="0.0002"/>
-        <CameraValue Index="FalloffEndNear" Value="0.0002"/>
-        <CameraValue Index="BokehFStop" Value="0.0187"/>
-        <CameraValue Index="BokehMaxCoC" Value="1"/>
-    </ObjectCamera>
-    <ObjectUnit Id="1665150697" Position="55,79,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad2"/>
-    <ObjectUnit Id="700967605" Position="75,71,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="35050541" Position="185,171,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="1960284983" Position="205,204,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad3"/>
+    <ObjectUnit Id="1665150697" Position="55,79,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad2"/>
     <ObjectUnit Id="2000198769" Position="55,182,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad2"/>
+    <ObjectUnit Id="700967605" Position="75,71,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="55261963" Position="211,44,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad3"/>
-    <ObjectUnit Id="1984168004" Position="89,205,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="35050541" Position="185,171,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="733569860" Position="143,33,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="1984168004" Position="89,205,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
 </PlacedObjects>
