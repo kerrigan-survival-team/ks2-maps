@@ -13,20 +13,20 @@
     <ObjectPoint Id="1556280491" Position="160,115.5,0" Scale="1,1,1" Type="Normal" Name="Shop4" Color="0,0,0,0"/>
     <ObjectPoint Id="996884917" Position="184,80,0" Scale="1,1,1" Type="Normal" Name="Shop2" Color="0,0,0,0"/>
     <ObjectPoint Id="900776839" Position="96,115.5,0" Scale="1,1,1" Type="Normal" Name="Shop3" Color="0,0,0,0"/>
-    <ObjectPoint Id="366005776" Position="127.5,76.5,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
     <ObjectPoint Id="196451203" Position="72.5,80.5,0" Scale="1,1,1" Type="Normal" Name="Shop1" Color="0,0,0,0"/>
+    <ObjectPoint Id="366005776" Position="127.5,76.5,0" Scale="1,1,1" Type="Normal" Name="Spawn" Color="0,0,0,0"/>
     <ObjectUnit Id="1659698895" Position="47,13,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad2"/>
     <ObjectUnit Id="58929107" Position="79,24,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
-    <ObjectUnit Id="1498701937" Position="70,235,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad3"/>
-    <ObjectUnit Id="446709982" Position="214,72,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="1801560884" Position="177,24,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="446709982" Position="214,72,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="1498701937" Position="70,235,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad3"/>
+    <ObjectUnit Id="224463386" Position="65,13,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonTerrainWarpInPad@CommonTerrainObjectsWarpInPad@WarpInPad"/>
     <ObjectUnit Id="1151893213" Position="209,13,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad4"/>
-    <ObjectUnit Id="224463386" Position="65,13,0" Rotation="4.7121" Scale="1,1,1" UnitType="CommonTerrainWarpInPad@CommonTerrainObjectsWarpInPad@WarpInPad"/>
-    <ObjectUnit Id="1420826193" Position="186,235,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad3"/>
+    <ObjectUnit Id="1420826193" Position="186,235,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad3"/>
     <ObjectUnit Id="1768839606" Position="191,13,0" Rotation="1.5705" Scale="1,1,1" UnitType="CommonTerrainWarpInPad@CommonTerrainObjectsWarpInPad@WarpInPad"/>
     <ObjectUnit Id="45287243" Position="204,235,0" Rotation="4.7121" Scale="1,1,1" UnitType="WarpInPad4"/>
-    <ObjectUnit Id="2139724645" Position="52,235,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad2"/>
     <ObjectUnit Id="1124905805" Position="97,129,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
+    <ObjectUnit Id="2139724645" Position="52,235,0" Rotation="1.5705" Scale="1,1,1" UnitType="WarpInPad2"/>
     <ObjectUnit Id="906733850" Position="42,72,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
     <ObjectUnit Id="952970745" Position="159,129,0" Rotation="5.4975" Scale="1,1,1" UnitType="CommonXelNagaTower"/>
 </PlacedObjects>
