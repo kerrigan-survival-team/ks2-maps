@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PlacedObjects Version="27">
-    <ObjectDoodad Id="598600457" Variation="3" Position="53.5,77.5,8.0158" Rotation="0.812" Scale="1.1618,1.1618,1.1618" Type="AiurTree">
+    <ObjectDoodad Id="598600457" Variation="3" Position="53.5,63.5,6.0158" Rotation="0.812" Scale="1.1618,1.1618,1.1618" Type="AiurTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="361429295" Variation="7" Position="49.5,112.5,8.0156" Rotation="4.7182" Scale="0.9201,0.9201,0.9201" Type="HavenTree">
+    <ObjectDoodad Id="361429295" Variation="7" Position="49.5,112.5,6.4147" Rotation="4.7182" Scale="0.9201,0.9201,0.9201" Type="HavenTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="168560006" Variation="8" Position="193,37.5,8.3227" Rotation="2.216" Scale="1,1,1" Type="BattleStation_FloodLight">
@@ -31,7 +31,7 @@
     <ObjectDoodad Id="69427927" Variation="1" Position="133.5,84.5,6.0141" Rotation="1.9216" Scale="1.058,1.058,1.058" Type="TyphonTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1611380601" Variation="4" Position="89.5,95.5,6.0153" Rotation="3.4826" Scale="0.92,0.92,0.92" Type="TyphonTree">
+    <ObjectDoodad Id="1611380601" Variation="4" Position="89.5,95.5,6.0156" Rotation="3.4826" Scale="0.92,0.92,0.92" Type="TyphonTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="821673878" Variation="1" Position="128,112,8.0156" Scale="1,1,1" Type="Aiur_Temple_Inlay">
@@ -49,7 +49,7 @@
     <ObjectDoodad Id="1212008902" Variation="6" Position="250.5,4,8.015" Scale="1,1,1" Type="PortCity_Cargo">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1334419503" Position="214,41.5,9.2658" Scale="1,1,1" Type="DefendersCity_Flag">
+    <ObjectDoodad Id="1334419503" Position="214,41.5,8.356" Scale="1,1,1" Type="DefendersCity_Flag">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -100,7 +100,7 @@
     <ObjectDoodad Id="1898648127" Variation="2" Position="134.5,105.5,8.0144" Rotation="1.5776" Scale="1,1,1" Type="Aiur_Temple_Small_Pillar_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="327436859" Variation="2" Position="52.5,75.5,8.015" Rotation="4.8483" Scale="0.9763,0.9763,0.9763" Type="AgriaTree">
+    <ObjectDoodad Id="327436859" Variation="2" Position="52.5,61.5,6.0151" Rotation="4.8483" Scale="0.9763,0.9763,0.9763" Type="AgriaTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1732778329" Variation="2" Position="138,135.5,9.5957" Rotation="5.827" Scale="1.1791,1.1791,1.1791" Type="Vines">
@@ -156,7 +156,7 @@
     <ObjectDoodad Id="1878416595" Variation="6" Position="171.5,62.5,6.0153" Rotation="0.6813" Scale="1.0935,1.0935,1.0935" Type="TyphonTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2015922388" Variation="2" Position="235.5,68,6.6911" Rotation="4.721" Scale="1,1,1" Type="DefendersCity_Flag">
+    <ObjectDoodad Id="2015922388" Variation="2" Position="235.5,68,3.483" Rotation="4.721" Scale="1,1,1" Type="DefendersCity_Flag">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="525536367" Variation="4" Position="0.5,24,6.317" Rotation="1.0095" Scale="1.163,1.163,1.163" Type="AiurTree_Ex2">
@@ -183,7 +183,7 @@
     <ObjectDoodad Id="1156838754" Position="249.5,32,2.9758" Rotation="3.1501" Scale="1,1,1" Type="PortCity_GroundLights">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1675673838" Variation="2" Position="54.5,76.5,8.0146" Rotation="0.51" Scale="1.1413,1.1413,1.1413" Type="AgriaTree">
+    <ObjectDoodad Id="1675673838" Variation="2" Position="54.5,62.5,6.0141" Rotation="0.51" Scale="1.1413,1.1413,1.1413" Type="AgriaTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="908272142" Variation="2" Position="135.5,103.5,6.015" Rotation="5.033" Scale="1.045,1.045,1.045" Type="TyphonTree">
@@ -202,7 +202,7 @@
     <ObjectDoodad Id="1678598634" Variation="3" Position="19.5,231.5,8.3947" Scale="1,1,1" Type="BrokenRocksSmall">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1936710392" Variation="4" Position="33,64,6.015" Rotation="1.0097" Scale="1.163,1.163,1.163" Type="AiurTree_Ex2">
+    <ObjectDoodad Id="1936710392" Variation="4" Position="33,64,4.0156" Rotation="1.0097" Scale="1.163,1.163,1.163" Type="AiurTree_Ex2">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="753796723" Variation="3" Position="19.5,90.5,8.0146" Rotation="0.8117" Scale="1.0644,0.9348,0.987" Type="AiurTree">
@@ -228,7 +228,7 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1265901510" Variation="1" Position="20.5,100.5,6.1533" Rotation="2.0241" Scale="1,1,1" Type="PortCity_StreetLightPost_Destroyed">
+    <ObjectDoodad Id="1265901510" Variation="1" Position="20.5,100.5,8.512" Rotation="2.0241" Scale="1,1,1" Type="PortCity_StreetLightPost_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1194097120" Variation="1" Position="20,219.5,6.017" Scale="1,1,1" Type="Elsecaro_SeaShell_Terrain_Splat">
@@ -250,7 +250,7 @@
     <ObjectDoodad Id="200775892" Variation="5" Position="134.5,85.5,6.0146" Rotation="4.2036" Scale="0.9387,0.9387,0.9387" Type="TyphonTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1122314155" Variation="3" Position="221,27,6.0134" Scale="1,1,1" Type="PortCity_Cargo">
+    <ObjectDoodad Id="1122314155" Variation="3" Position="221,27,6.014" Scale="1,1,1" Type="PortCity_Cargo">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -276,7 +276,7 @@
     <ObjectDoodad Id="2015725575" Variation="1" Position="20.5,232,6.13" Scale="1,1,1" Type="BrokenRocksSmall">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2060203609" Variation="5" Position="88.5,96.5,6.0153" Rotation="0.2604" Scale="1.055,1.055,1.055" Type="TyphonTree">
+    <ObjectDoodad Id="2060203609" Variation="5" Position="88.5,96.5,6.0156" Rotation="0.2604" Scale="1.055,1.055,1.055" Type="TyphonTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="40633994" Variation="1" Position="79.5,177.5,6.0295" Rotation="2.6901" Scale="1,1,1" Type="Elsecaro_SeaWeeds_Group" Pitch="5.3442" Roll="5.2932">
@@ -303,7 +303,7 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1076661067" Variation="4" Position="5.5,92.5,8.0346" Scale="1,1,1" Type="Aiur_ChiseledRock_Brown">
+    <ObjectDoodad Id="1076661067" Variation="4" Position="5.5,87.5,6.035" Scale="1,1,1" Type="Aiur_ChiseledRock_Brown">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="457669676" Variation="5" Position="141,38,10.0183" Rotation="5.6433" Scale="1,1,1" Type="BattleStation_FloodLight">
@@ -333,7 +333,7 @@
     <ObjectDoodad Id="811556823" Variation="3" Position="134,150,8.0153" Rotation="0.0234" Scale="1,1,1" Type="Aiur_Temple_Small_Pillar_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="752977001" Variation="4" Position="53.5,75.5,8.015" Rotation="4.881" Scale="0.9523,0.9523,0.9523" Type="AgriaTree">
+    <ObjectDoodad Id="752977001" Variation="4" Position="53.5,61.5,6.0151" Rotation="4.881" Scale="0.9523,0.9523,0.9523" Type="AgriaTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="433804742" Variation="1" Position="16,113,8.0185" Rotation="5.0874" Scale="1,1,1" Type="PortCity_StreetLightPost_Destroyed">
@@ -370,7 +370,7 @@
     <ObjectDoodad Id="211376848" Variation="2" Position="150.5,120,8.0141" Rotation="1.8386" Scale="0.994,0.994,0.994" Type="Elsecaro_Bush1x1">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1617807348" Position="240,37.5,5.2788" Rotation="3.1674" Scale="1,1,1" Type="DefendersCity_Flag">
+    <ObjectDoodad Id="1617807348" Position="240,37.5,5.279" Rotation="3.1674" Scale="1,1,1" Type="DefendersCity_Flag">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -523,7 +523,7 @@
     <ObjectDoodad Id="1188974290" Position="120.5,105,8.0507" Rotation="0.2888" Scale="0.9794,0.9794,0.9794" Type="Elsecaro_Bush1x1">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1056907565" Variation="1" Position="46.5,86.5,10.015" Rotation="2.2333" Scale="0.9956,0.9956,0.9956" Type="BraxisAlphaFloodLights">
+    <ObjectDoodad Id="1056907565" Variation="1" Position="46.5,86.5,8.015" Rotation="2.2333" Scale="0.9956,0.9956,0.9956" Type="BraxisAlphaFloodLights">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -533,14 +533,14 @@
     <ObjectDoodad Id="1628025815" Variation="4" Position="129,4.5,6.015" Rotation="3.415" Scale="1.0981,1.0981,1.0981" Type="AiurTree_Grouped">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1137406231" Variation="4" Position="19.5,99.5,6.0146" Scale="1,1,1" Type="JarbanMinor_Blast_Craters_Big">
+    <ObjectDoodad Id="1137406231" Variation="4" Position="19.5,99.5,6.015" Scale="1,1,1" Type="JarbanMinor_Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1629819972" Variation="2" Position="18.5,88.5,8.0146" Rotation="4.8481" Scale="0.879,0.7492,0.8015" Type="AgriaTree">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1247336290" Variation="4" Position="35,65,6.015" Rotation="5.3725" Scale="0.9682,0.9682,0.9682" Type="AiurTree_Ex2">
+    <ObjectDoodad Id="1247336290" Variation="4" Position="35,65,4.0156" Rotation="5.3725" Scale="0.9682,0.9682,0.9682" Type="AiurTree_Ex2">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1262577721" Position="125.5,7.5,6.015" Rotation="1.6711" Scale="1.1057,1.1057,1.1057" Type="AiurTree_Ex2">
@@ -555,7 +555,7 @@
     <ObjectDoodad Id="1085369117" Variation="3" Position="76.5,193,6.015" Scale="1,1,1" Type="Elsecaro_Tree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="605454703" Position="26.5,112.5,6.015" Rotation="4.625" Scale="1,1,1" Type="PortCity_StreetLightPost_Destroyed">
+    <ObjectDoodad Id="605454703" Position="26.5,112.5,6.0156" Rotation="4.625" Scale="1,1,1" Type="PortCity_StreetLightPost_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1555415426" Variation="6" Position="197.5,93.5,6.015" Rotation="2.9731" Scale="1.0283,1.0283,1.0283" Type="TyphonTree">
@@ -581,7 +581,7 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="490121824" Variation="2" Position="32,63.5,6.015" Rotation="5.3608" Scale="0.9577,0.9577,0.9577" Type="AiurTree_Ex2">
+    <ObjectDoodad Id="490121824" Variation="2" Position="32,63.5,4.0156" Rotation="5.3608" Scale="0.9577,0.9577,0.9577" Type="AiurTree_Ex2">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1308204718" Variation="3" Position="122,150,8.038" Rotation="4.6877" Scale="1,1,1" Type="Aiur_Temple_Small_Pillar_Destroyed">
@@ -599,7 +599,7 @@
     <ObjectDoodad Id="1092599490" Variation="2" Position="23,253,8.3061" Rotation="4.4443" Scale="0.9924,0.9924,0.9924" Type="BelShirCanopyTrees">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="929882863" Variation="3" Position="3,91.5,8.0285" Scale="1,1,1" Type="Aiur_ChiseledRock_Brown">
+    <ObjectDoodad Id="929882863" Variation="3" Position="3,86.5,6.2253" Scale="1,1,1" Type="Aiur_ChiseledRock_Brown">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1545256989" Variation="3" Position="17.5,91.5,8.0153" Rotation="0.8117" Scale="1.0644,0.9348,0.987" Type="AiurTree">
@@ -617,13 +617,13 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="578684732" Variation="5" Position="20,97,6.078" Scale="1,1,1" Type="JarbanMinor_Blast_Craters_Big">
+    <ObjectDoodad Id="578684732" Variation="5" Position="20,97,8.4357" Scale="1,1,1" Type="JarbanMinor_Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1366665166" Position="13.5,111.5,6.015" Scale="1,1,1" Type="PortCity_StreetAlarms_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1432052223" Variation="3" Position="34,93.5,8.282" Scale="1.094,1.6408,1" Type="Aiur_ChiseledRock_Brown">
+    <ObjectDoodad Id="1432052223" Variation="3" Position="34,93.5,6.004" Scale="1.094,1.6408,1" Type="Aiur_ChiseledRock_Brown">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1224290490" Variation="2" Position="110.5,227.5,6.015" Rotation="1.1457" Scale="1.197,1.197,1.197" Type="Bush">
@@ -638,7 +638,7 @@
     <ObjectDoodad Id="448232996" Variation="5" Position="150.5,115.5,8.015" Rotation="5.779" Scale="0.9746,0.9746,0.9746" Type="TyphonTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1127153414" Position="48.5,112,8.0153" Rotation="5.6247" Scale="0.8625,0.8625,0.8625" Type="Aiur_Trees_Log_Small">
+    <ObjectDoodad Id="1127153414" Position="48.5,112,6.0153" Rotation="5.6247" Scale="0.8625,0.8625,0.8625" Type="Aiur_Trees_Log_Small">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -670,10 +670,10 @@
     <ObjectDoodad Id="2084237488" Variation="1" Position="138.5,6.5,8.0156" Rotation="1.562" Scale="1,1,1" Type="PortCity_Bench">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="996782452" Position="226.5,78.5,8.0156" Scale="1,1,1" Type="PortCity_Statue">
+    <ObjectDoodad Id="996782452" Position="226.5,78.5,8.0158" Scale="1,1,1" Type="PortCity_Statue">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1230710381" Variation="1" Position="20,98.5,6.1662" Rotation="4.7036" Scale="1,1,1" Type="PortCity_StreetAlarms_Destroyed">
+    <ObjectDoodad Id="1230710381" Variation="1" Position="20,98.5,6.0705" Rotation="4.7036" Scale="1,1,1" Type="PortCity_StreetAlarms_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="434503028" Variation="4" Position="128,128,10.016" Scale="1,1,1" Type="Aiur_Temple_Inlay">
@@ -770,14 +770,14 @@
     <ObjectDoodad Id="1683632129" Position="20.5,99.5,8.319" Rotation="4.721" Scale="1,1,1" Type="PortCity_StreetSigns_Destroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="901588231" Variation="6" Position="219,28,6.0151" Rotation="4.686" Scale="1,1,1" Type="PortCity_Cargo">
+    <ObjectDoodad Id="901588231" Variation="6" Position="219,28,6.0156" Rotation="4.686" Scale="1,1,1" Type="PortCity_Cargo">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="168149689" Position="21.5,111,6.015" Scale="1,1,1" Type="JarbanMinor_Blast_Craters_Big">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1472344207" Variation="4" Position="33.5,65,6.015" Rotation="1.033" Scale="0.9953,0.9953,0.9953" Type="AiurTree_Ex2">
+    <ObjectDoodad Id="1472344207" Variation="4" Position="33.5,65,4.0156" Rotation="1.033" Scale="0.9953,0.9953,0.9953" Type="AiurTree_Ex2">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="226992293" Variation="11" Position="142.5,3.5,8.017" Rotation="1.1362" Scale="1,1,1" Type="PortCity_Garden_PlantsTopiary">
@@ -786,7 +786,7 @@
     <ObjectDoodad Id="1005200240" Position="141.5,105.5,8.0144" Rotation="4.651" Scale="1.1962,1.1962,1.1962" Type="Vines">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="12289533" Variation="1" Position="226.5,79.5,8.0151" Scale="1,1,1" Type="PortCity_StreetLightPost">
+    <ObjectDoodad Id="12289533" Variation="1" Position="226.5,79.5,8.0153" Scale="1,1,1" Type="PortCity_StreetLightPost">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1808320436" Variation="2" Position="106,134.5,8.0156" Rotation="1.361" Scale="1,1,1" Type="Aiur_Temple_Archway">
@@ -814,7 +814,7 @@
     <ObjectDoodad Id="1695165523" Position="119,137.5,8.038" Rotation="0.759" Scale="1,1,1" Type="Aiur_Temple_Ruins_Set">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1508671037" Variation="7" Position="66.5,111.5,8.0144" Rotation="4.7185" Scale="0.9201,0.9201,0.9201" Type="HavenTree">
+    <ObjectDoodad Id="1508671037" Variation="7" Position="66.5,111.5,6.0146" Rotation="4.7185" Scale="0.9201,0.9201,0.9201" Type="HavenTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1482458570" Position="121.5,56.5,6.5783" Rotation="5.57" Scale="1,1,1" Type="Aiur_City_Light">
@@ -837,10 +837,10 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1479606168" Variation="2" Position="5,91.5,8.0158" Scale="1,1,1" Type="Aiur_ChiseledRock_Brown">
+    <ObjectDoodad Id="1479606168" Variation="2" Position="5,86.5,6.0158" Scale="1,1,1" Type="Aiur_ChiseledRock_Brown">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="664627894" Position="47,113.5,8.0146" Rotation="0.066" Scale="0.8625,0.8625,0.8625" Type="Aiur_Trees_Log_Small">
+    <ObjectDoodad Id="664627894" Position="47,113.5,6.0146" Rotation="0.066" Scale="0.8625,0.8625,0.8625" Type="Aiur_Trees_Log_Small">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
@@ -850,13 +850,13 @@
     <ObjectDoodad Id="1573638589" Position="251.5,102.5,8.0156" Scale="1,1,1" Type="XelNaga_Crates_Animating">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="822777308" Variation="4" Position="4,91,8.0158" Scale="1,1,1" Type="Aiur_ChiseledRock_Brown">
+    <ObjectDoodad Id="822777308" Variation="4" Position="4,86,6.0158" Scale="1,1,1" Type="Aiur_ChiseledRock_Brown">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="989538359" Position="140.5,3.5,8.017" Rotation="4.7124" Scale="1,1,1" Type="PortCity_Garden_Plants">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="945464573" Variation="3" Position="4,92.5,8.0146" Scale="1,1,1" Type="Aiur_ChiseledRock_Brown_Large">
+    <ObjectDoodad Id="945464573" Variation="3" Position="4,87.5,6.015" Scale="1,1,1" Type="Aiur_ChiseledRock_Brown_Large">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="2030033016" Variation="5" Position="140,6,8.0156" Scale="1,1,1" Type="PortCity_Bench">
@@ -869,7 +869,7 @@
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1686054335" Variation="3" Position="89.5,96.5,6.0153" Rotation="3.4963" Scale="1.0251,1.0251,1.0251" Type="TyphonTree">
+    <ObjectDoodad Id="1686054335" Variation="3" Position="89.5,96.5,6.0156" Rotation="3.4963" Scale="1.0251,1.0251,1.0251" Type="TyphonTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="586534119" Position="234.5,144,6.0275" Scale="1,1,1" Type="PortCity_GroundLights">
@@ -954,17 +954,17 @@
     <ObjectDoodad Id="963444116" Variation="3" Position="207.5,84.5,8.0156" Scale="1,1,1" Type="SnowRefinery_Terran_Crates">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2001232759" Position="66,111,8.0156" Rotation="5.625" Scale="0.8625,0.8625,0.8625" Type="Aiur_Trees_Log_Small">
+    <ObjectDoodad Id="2001232759" Position="66,111,6.016" Rotation="5.625" Scale="0.8625,0.8625,0.8625" Type="Aiur_Trees_Log_Small">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="1226654737" Variation="15" Position="221,29,6.0131" Rotation="3.08" Scale="1,1,1" Type="PortCity_Cargo">
+    <ObjectDoodad Id="1226654737" Variation="15" Position="221,29,6.0136" Rotation="3.08" Scale="1,1,1" Type="PortCity_Cargo">
         <Flag Index="HeightOffset" Value="1"/>
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1743082419" Position="142.5,109,7.7641" Rotation="1.623" Scale="0.8713,0.8571,0.864" Type="Aiur_Temple_Archway">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="798959225" Variation="1" Position="65.5,112.5,8.0302" Rotation="5.8603" Scale="0.9018,0.9018,0.9018" Type="MarSaraTree">
+    <ObjectDoodad Id="798959225" Variation="1" Position="65.5,112.5,6.0305" Rotation="5.8603" Scale="0.9018,0.9018,0.9018" Type="MarSaraTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1037403948" Variation="7" Position="136.5,173.5,6.0146" Rotation="2.2617" Scale="0.9716,0.9716,0.9716" Type="AiurTree_Ex2">
@@ -976,7 +976,7 @@
     <ObjectDoodad Id="1678368657" Variation="7" Position="136.5,175.5,6.0146" Rotation="5.9384" Scale="1.185,1.185,1.185" Type="AiurTree_Ex2">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="5555809" Position="226,38,8.021" Scale="1,1,1" Type="PortCity_GroundLights">
+    <ObjectDoodad Id="5555809" Position="226,44,8.021" Scale="1,1,1" Type="PortCity_GroundLights">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1636570786" Position="142.5,147,7.7641" Rotation="1.6228" Scale="0.8713,0.8571,0.864" Type="Aiur_Temple_Archway">
@@ -1002,7 +1002,7 @@
     <ObjectDoodad Id="1173141182" Position="249.5,40,6.0153" Rotation="6.248" Scale="1,1,1" Type="PortCity_GroundLights">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="875800155" Variation="1" Position="27.5,112,6.015" Rotation="1.5881" Scale="1,1,1" Type="PortCity_StatueDestroyed">
+    <ObjectDoodad Id="875800155" Variation="1" Position="27.5,112,6.0156" Rotation="1.5881" Scale="1,1,1" Type="PortCity_StatueDestroyed">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1456084928" Position="137.5,174,6.0146" Rotation="4.6965" Scale="0.8276,0.8276,0.8276" Type="AiurTree_Ex2">
@@ -1011,7 +1011,7 @@
     <ObjectDoodad Id="219849050" Variation="4" Position="139,120,8.1418" Rotation="1.72" Scale="0.9255,0.9255,0.9255" Type="Elsecaro_Bush1x1">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="8430949" Variation="7" Position="49.5,110.5,8.0156" Rotation="4.7182" Scale="0.9201,0.9201,0.9201" Type="HavenTree">
+    <ObjectDoodad Id="8430949" Variation="7" Position="49.5,110.5,6.0156" Rotation="4.7182" Scale="0.9201,0.9201,0.9201" Type="HavenTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="1662202231" Variation="2" Position="1.5,235,6.0395" Rotation="2.505" Scale="1.0432,1.0432,1.0432" Type="BelShirCanopyTrees">
@@ -1030,7 +1030,7 @@
     <ObjectDoodad Id="370581984" Position="137,137,8.038" Rotation="5.5236" Scale="1,1,1" Type="Aiur_Temple_Ruins_Set">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
-    <ObjectDoodad Id="2074962191" Variation="7" Position="48.5,113.5,8.0156" Rotation="4.7182" Scale="0.9201,0.9201,0.9201" Type="HavenTree">
+    <ObjectDoodad Id="2074962191" Variation="7" Position="48.5,113.5,6.0388" Rotation="4.7182" Scale="0.9201,0.9201,0.9201" Type="HavenTree">
         <Flag Index="HeightAbsolute" Value="1"/>
     </ObjectDoodad>
     <ObjectDoodad Id="116529811" Position="86.5,174.5,5.6547" Rotation="5.3581" Scale="1,1,1" Type="Elsecaro_SeaWeeds_Group">
